@@ -3,6 +3,7 @@ node_modules/
 
 # Astro build output
 dist/
+.astro/
 
 # PDF build artifacts
 psoriasis-book.pdf
