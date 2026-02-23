@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Psoriasis Immunopathogenesis — Visual Guide</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap');
+
+  :root {
+    --bg: #0f1117;
+    --card: #181b24;
+    --border: #2a2e3a;
+    --text: #e2e4ea;
+    --muted: #8b90a0;
+    --accent-red: #e84057;
+    --accent-orange: #f0923b;
+    --accent-amber: #f5c542;
+    --accent-blue: #4da6e8;
+    --accent-cyan: #3dd9c6;
+    --accent-purple: #a87de8;
+    --accent-pink: #e87db5;
+    --skin-healthy: #f5d0b0;
+    --skin-psoriatic: #d9766a;
+    --epidermis: #e8c4a0;
+    --dermis: #d4a088;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 15px;
+    line-height: 1.65;
+    padding: 2rem 1rem;
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-family: 'Instrument Serif', serif;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.3em;
+    color: #fff;
+  }
+
+  h1 span { color: var(--accent-red); }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 1.05rem;
+    margin-bottom: 3rem;
+    max-width: 700px;
+  }
+
+  h2 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin: 3rem 0 1rem;
+    color: #fff;
+  }
+
+  h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.8rem;
+  }
+
+  p { margin-bottom: 1em; max-width: 75ch; }
+
+  .analogy-box {
+    background: linear-gradient(135deg, rgba(77, 166, 232, 0.08), rgba(61, 217, 198, 0.06));
+    border: 1px solid rgba(77, 166, 232, 0.2);
+    border-radius: 12px;
+    padding: 1.5rem 1.8rem;
+    margin: 1.5rem 0 2rem;
+    position: relative;
+  }
+
+  .analogy-box::before {
+    content: '💡';
+    position: absolute;
+    top: -14px;
+    left: 18px;
+    background: var(--bg);
+    padding: 0 8px;
+    font-size: 1.2rem;
+  }
+
+  .analogy-box .label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent-cyan);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  .analogy-box p {
+    color: var(--text);
+    font-style: italic;
+    margin-bottom: 0;
+  }
+
+  /* ─── CASCADE DIAGRAM ─── */
+  .cascade {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    margin: 2rem 0;
+  }
+
+  .phase {
+    position: relative;
+  }
+
+  .phase-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .phase-num {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.85rem;
+    flex-shrink: 0;
+  }
+
+  .phase-title {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.3rem;
+  }
+
+  .phase-content {
+    margin-left: 18px;
+    border-left: 2px solid var(--border);
+    padding: 0 0 2rem 2rem;
+  }
+
+  .phase:last-child .phase-content { border-left-style: dashed; }
+
+  .step-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0;
+  }
+
+  .step-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.2rem;
+    transition: transform 0.2s, border-color 0.3s;
+    cursor: default;
+  }
+
+  .step-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--accent-blue);
+  }
+
+  .step-card .icon {
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .step-card .card-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .step-card .card-body {
+    font-size: 0.85rem;
+    color: var(--muted);
+    line-height: 1.55;
+  }
+
+  .step-card .card-body strong { color: var(--text); }
+
+  /* Arrow connector */
+  .arrow-down {
+    display: flex;
+    justify-content: center;
+    margin: 0.5rem 0;
+    color: var(--muted);
+    font-size: 1.2rem;
+    animation: pulse-arrow 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse-arrow {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 1; }
+  }
+
+  /* ─── SKIN CROSS SECTION ─── */
+  .skin-compare {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem 0;
+  }
+
+  @media (max-width: 700px) {
+    .skin-compare { grid-template-columns: 1fr; }
+  }
+
+  .skin-panel {
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+
+  .skin-panel .panel-label {
+    padding: 0.8rem 1.2rem;
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    text-align: center;
+  }
+
+  .skin-svg-wrap {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    background: var(--card);
+  }
+
+  .skin-svg-wrap svg { width: 100%; max-width: 400px; }
+
+  /* ─── FEEDBACK LOOP ─── */
+  .loop-diagram {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 2rem;
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .loop-diagram svg { max-width: 520px; width: 100%; }
+
+  /* ─── GLOSSARY PILLS ─── */
+  .pill {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin: 0 2px;
+    vertical-align: baseline;
+  }
+
+  .pill-red { background: rgba(232,64,87,0.15); color: var(--accent-red); }
+  .pill-orange { background: rgba(240,146,59,0.15); color: var(--accent-orange); }
+  .pill-blue { background: rgba(77,166,232,0.15); color: var(--accent-blue); }
+  .pill-cyan { background: rgba(61,217,198,0.15); color: var(--accent-cyan); }
+  .pill-purple { background: rgba(168,125,232,0.15); color: var(--accent-purple); }
+  .pill-amber { background: rgba(245,197,66,0.15); color: var(--accent-amber); }
+
+  /* anim */
+  .fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeUp 0.6s ease forwards;
+  }
+
+  @keyframes fadeUp {
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .delay-1 { animation-delay: 0.1s; }
+  .delay-2 { animation-delay: 0.2s; }
+  .delay-3 { animation-delay: 0.3s; }
+  .delay-4 { animation-delay: 0.4s; }
+  .delay-5 { animation-delay: 0.5s; }
+
+  .note {
+    font-size: 0.82rem;
+    color: var(--muted);
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <h1 class="fade-in">How <span>Psoriasis</span> Works</h1>
+  <p class="subtitle fade-in delay-1">A visual guide to the immune mechanisms behind psoriasis, explained without jargon.</p>
+
+  <!-- ─── ANALOGY: THE FACTORY ─── -->
+  <h2 class="fade-in delay-2">The Big Picture</h2>
+  <p class="fade-in delay-2">Your skin is the body's largest organ and its outermost barrier. Normally, skin cells (called <span class="pill pill-amber">keratinocytes</span>) are produced at the base of the epidermis, slowly migrate upward over ~28 days, and quietly shed from the surface. In psoriasis, the immune system mistakenly accelerates this process to just 3–5 days, causing cells to pile up into thick, inflamed plaques.</p>
+
+  <div class="analogy-box fade-in delay-3">
+    <div class="label">Analogy — The Factory</div>
+    <p>Think of your skin as a conveyor belt in a factory. Normally, new tiles (skin cells) are placed on the belt at one end and fall off the other end at a steady pace. In psoriasis, someone has cranked the belt speed to 10×. Tiles pile up at the end because they can't fall off fast enough. Meanwhile, an overzealous security team (the immune system) keeps sounding false alarms, calling in more and more workers — making everything worse. The result: a chaotic pile-up that's red, raised, and inflamed.</p>
+  </div>
+
+  <!-- ─── SKIN CROSS SECTION ─── -->
+  <h2 class="fade-in">What's Happening in the Skin</h2>
+  <p class="fade-in">This simplified cross-section compares normal skin with a psoriatic plaque.</p>
+
+  <div class="skin-compare fade-in delay-1">
+    <!-- HEALTHY SKIN -->
+    <div class="skin-panel">
+      <div class="panel-label" style="background: rgba(61,217,198,0.15); color: var(--accent-cyan);">✓ Healthy Skin</div>
+      <div class="skin-svg-wrap">
+        <svg viewBox="0 0 360 280" xmlns="http://www.w3.org/2000/svg">
+          <!-- Epidermis -->
+          <rect x="0" y="0" width="360" height="90" rx="0" fill="#f0d4b8"/>
+          <text x="15" y="50" font-size="12" fill="#6b4a2a" font-family="DM Sans" font-weight="600">EPIDERMIS</text>
+          <text x="15" y="68" font-size="9" fill="#8b6a4a" font-family="DM Sans">(outer skin layer)</text>
+          <!-- Gentle rete ridges -->
+          <path d="M0,90 Q45,100 90,90 Q135,100 180,90 Q225,100 270,90 Q315,100 360,90 L360,90 Z" fill="#f0d4b8"/>
+          <!-- Dermis -->
+          <rect x="0" y="90" width="360" height="120" fill="#d4a088"/>
+          <path d="M0,90 Q45,100 90,90 Q135,100 180,90 Q225,100 270,90 Q315,100 360,90 L360,90" fill="#d4a088"/>
+          <text x="15" y="150" font-size="12" fill="#5a3525" font-family="DM Sans" font-weight="600">DERMIS</text>
+          <text x="15" y="168" font-size="9" fill="#7a5545" font-family="DM Sans">(deeper skin layer)</text>
+          <!-- Normal blood vessels (thin) -->
+          <line x1="80" y1="110" x2="80" y2="195" stroke="#c44040" stroke-width="2" opacity="0.6"/>
+          <line x1="180" y1="105" x2="180" y2="195" stroke="#c44040" stroke-width="2" opacity="0.6"/>
+          <line x1="280" y1="110" x2="280" y2="195" stroke="#c44040" stroke-width="2" opacity="0.6"/>
+          <!-- Few immune cells (small dots) -->
+          <circle cx="120" cy="130" r="4" fill="#4da6e8" opacity="0.5"/>
+          <circle cx="220" cy="145" r="4" fill="#4da6e8" opacity="0.5"/>
+          <!-- Subcutaneous -->
+          <rect x="0" y="210" width="360" height="70" fill="#c08868"/>
+          <text x="15" y="250" font-size="10" fill="#5a3525" font-family="DM Sans">Subcutaneous tissue</text>
+          <!-- Annotations -->
+          <text x="200" y="30" font-size="9" fill="#8b6a4a" font-family="DM Sans" text-anchor="middle">Normal thickness (~28-day turnover)</text>
+          <text x="200" y="125" font-size="9" fill="#5a3525" font-family="DM Sans" text-anchor="middle">Thin blood vessels, few immune cells</text>
+        </svg>
+      </div>
+    </div>
+
+    <!-- PSORIATIC SKIN -->
+    <div class="skin-panel">
+      <div class="panel-label" style="background: rgba(232,64,87,0.15); color: var(--accent-red);">✗ Psoriatic Plaque</div>
+      <div class="skin-svg-wrap">
+        <svg viewBox="0 0 360 280" xmlns="http://www.w3.org/2000/svg">
+          <!-- Scale layer on top -->
+          <rect x="0" y="0" width="360" height="25" fill="#e8ddd0"/>
+          <text x="180" y="16" font-size="9" fill="#8b7a6a" font-family="DM Sans" text-anchor="middle" font-weight="600">SILVERY SCALES (dead cell build-up)</text>
+          <!-- Thickened epidermis -->
+          <rect x="0" y="25" width="360" height="110" fill="#d9766a"/>
+          <text x="15" y="65" font-size="11" fill="#4a1a12" font-family="DM Sans" font-weight="600">THICKENED</text>
+          <text x="15" y="80" font-size="11" fill="#4a1a12" font-family="DM Sans" font-weight="600">EPIDERMIS</text>
+          <text x="15" y="96" font-size="9" fill="#6a2a1a" font-family="DM Sans">(3–5 day turnover!)</text>
+          <!-- Deep rete ridges (club-shaped) -->
+          <path d="M0,135 Q25,175 50,135 Q75,175 100,135 Q125,175 150,135 Q175,175 200,135 Q225,175 250,135 Q275,175 300,135 Q325,175 350,135 L360,135" fill="#d9766a"/>
+          <!-- Dermis -->
+          <rect x="0" y="135" width="360" height="95" fill="#c47060"/>
+          <path d="M0,135 Q25,175 50,135 Q75,175 100,135 Q125,175 150,135 Q175,175 200,135 Q225,175 250,135 Q275,175 300,135 Q325,175 350,135 L360,135" fill="#c47060"/>
+          <text x="15" y="190" font-size="12" fill="#3a1510" font-family="DM Sans" font-weight="600">INFLAMED DERMIS</text>
+          <!-- Dilated blood vessels (thick, tortuous) -->
+          <path d="M60,155 Q55,165 65,175 Q55,185 60,200" stroke="#e84057" stroke-width="4" fill="none" opacity="0.8"/>
+          <path d="M160,150 Q155,165 165,175 Q155,190 160,205" stroke="#e84057" stroke-width="4" fill="none" opacity="0.8"/>
+          <path d="M260,155 Q255,165 265,175 Q255,185 260,200" stroke="#e84057" stroke-width="4" fill="none" opacity="0.8"/>
+          <!-- Many immune cells (T cells, DCs, neutrophils) -->
+          <circle cx="90" cy="155" r="5" fill="#4da6e8" opacity="0.8"/>
+          <circle cx="110" cy="165" r="5" fill="#a87de8" opacity="0.8"/>
+          <circle cx="130" cy="150" r="4" fill="#4da6e8" opacity="0.7"/>
+          <circle cx="200" cy="160" r="5" fill="#f0923b" opacity="0.8"/>
+          <circle cx="220" cy="170" r="4" fill="#4da6e8" opacity="0.7"/>
+          <circle cx="300" cy="155" r="5" fill="#a87de8" opacity="0.8"/>
+          <circle cx="320" cy="165" r="4" fill="#4da6e8" opacity="0.7"/>
+          <circle cx="185" cy="175" r="4" fill="#f0923b" opacity="0.7"/>
+          <!-- Neutrophils in epidermis (Munro microabscesses) -->
+          <circle cx="100" cy="60" r="4" fill="#f5c542" opacity="0.8"/>
+          <circle cx="110" cy="55" r="3" fill="#f5c542" opacity="0.7"/>
+          <circle cx="250" cy="70" r="4" fill="#f5c542" opacity="0.8"/>
+          <circle cx="260" cy="65" r="3" fill="#f5c542" opacity="0.7"/>
+          <!-- Subcutaneous -->
+          <rect x="0" y="230" width="360" height="50" fill="#a05848"/>
+          <!-- Legend -->
+          <circle cx="100" cy="248" r="4" fill="#4da6e8"/>
+          <text x="110" y="252" font-size="8" fill="#e8ddd0" font-family="DM Sans">T cells</text>
+          <circle cx="160" cy="248" r="4" fill="#a87de8"/>
+          <text x="170" y="252" font-size="8" fill="#e8ddd0" font-family="DM Sans">Dendritic cells</text>
+          <circle cx="250" cy="248" r="4" fill="#f0923b"/>
+          <text x="260" y="252" font-size="8" fill="#e8ddd0" font-family="DM Sans">Neutrophils</text>
+          <!-- Annotations -->
+          <text x="310" y="95" font-size="8" fill="#4a1a12" font-family="DM Sans" text-anchor="end">⬆ 6–10× thicker</text>
+          <text x="310" y="200" font-size="8" fill="#3a1510" font-family="DM Sans" text-anchor="end">Dilated blood vessels</text>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+  <!-- ─── THE CASCADE ─── -->
+  <h2 class="fade-in">The Inflammatory Cascade — Step by Step</h2>
+  <p class="fade-in">Psoriasis develops through a chain reaction involving three main phases. Here's how a trigger becomes a plaque.</p>
+
+  <div class="cascade">
+    <!-- PHASE 1 -->
+    <div class="phase fade-in">
+      <div class="phase-header">
+        <div class="phase-num" style="background: rgba(232,64,87,0.2); color: var(--accent-red);">1</div>
+        <div class="phase-title" style="color: var(--accent-red);">The Trigger</div>
+      </div>
+      <div class="phase-content">
+        <p>Something happens — an injury, a throat infection, stress, or a medication — that damages or stresses skin cells in a genetically susceptible person.</p>
+        <div class="step-cards">
+          <div class="step-card">
+            <div class="icon">⚡</div>
+            <div class="card-title">Skin cells release alarm signals</div>
+            <div class="card-body">Damaged <strong>keratinocytes</strong> release self-DNA and an antimicrobial peptide called <strong>LL-37</strong>. These combine into complexes that the immune system mistakes for a threat.</div>
+          </div>
+          <div class="step-card">
+            <div class="icon">🔔</div>
+            <div class="card-title">Sentinel cells sound the alarm</div>
+            <div class="card-body"><strong>Plasmacytoid dendritic cells</strong> (pDCs) — immune sentinels in the skin — detect the LL-37/DNA complexes and respond by releasing <strong>IFN-α</strong>, a powerful alarm signal.</div>
+          </div>
+          <div class="step-card">
+            <div class="icon">🦠</div>
+            <div class="card-title">Neutrophils rush in</div>
+            <div class="card-body"><strong>Neutrophils</strong> — the body's first responders — flood into the area, releasing inflammatory molecules and IL-17, further escalating the response.</div>
+          </div>
+        </div>
+
+        <div class="analogy-box">
+          <div class="label">Analogy — The False Fire Alarm</div>
+          <p>Imagine LL-37/DNA complexes as burnt toast smoke. In most people, the smoke detector (pDC) briefly beeps and resets. In someone with psoriasis genetics, the smoke detector is hypersensitive — it triggers the full building fire alarm (IFN-α), calling every fire engine in town.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="arrow-down">▼</div>
+
+    <!-- PHASE 2 -->
+    <div class="phase fade-in">
+      <div class="phase-header">
+        <div class="phase-num" style="background: rgba(240,146,59,0.2); color: var(--accent-orange);">2</div>
+        <div class="phase-title" style="color: var(--accent-orange);">The Amplification</div>
+      </div>
+      <div class="phase-content">
+        <p>The alarm signals activate the adaptive immune system, recruiting specialised T cells that drive the core inflammatory response.</p>
+        <div class="step-cards">
+          <div class="step-card">
+            <div class="icon">📡</div>
+            <div class="card-title">Myeloid DCs activate and produce IL-23</div>
+            <div class="card-body"><strong>Myeloid dendritic cells</strong> are activated by IFN-α. They begin producing <span class="pill pill-purple">IL-23</span> and <span class="pill pill-blue">IL-12</span> — two key cytokine signals that instruct T cells what to become.</div>
+          </div>
+          <div class="step-card">
+            <div class="icon">⚔️</div>
+            <div class="card-title">Th17 cells are born</div>
+            <div class="card-body"><span class="pill pill-purple">IL-23</span> drives naïve T cells to become <strong>Th17 cells</strong> — the dominant inflammatory cell type in psoriasis. These cells produce <span class="pill pill-red">IL-17A</span>, <span class="pill pill-orange">IL-22</span>, and <span class="pill pill-amber">TNF-α</span>.</div>
+          </div>
+          <div class="step-card">
+            <div class="icon">🏗️</div>
+            <div class="card-title">Keratinocytes go into overdrive</div>
+            <div class="card-body"><span class="pill pill-red">IL-17A</span> acts on keratinocytes, telling them to multiply rapidly and produce chemokines — "come here" signals — that attract even more immune cells to the skin.</div>
+          </div>
+        </div>
+
+        <div class="analogy-box">
+          <div class="label">Analogy — The Chain Reaction</div>
+          <p>IL-23 is like a drill sergeant turning recruits (naïve T cells) into a specialised assault force (Th17 cells). Those soldiers produce IL-17A — which is like a megaphone that tells the factory workers (keratinocytes) to speed up production AND to broadcast recruitment ads for more soldiers. Each new soldier brings another megaphone.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="arrow-down">▼</div>
+
+    <!-- PHASE 3 -->
+    <div class="phase fade-in">
+      <div class="phase-header">
+        <div class="phase-num" style="background: rgba(168,125,232,0.2); color: var(--accent-purple);">3</div>
+        <div class="phase-title" style="color: var(--accent-purple);">The Vicious Cycle</div>
+      </div>
+      <div class="phase-content">
+        <p>The inflammatory response becomes self-sustaining — a feedback loop that maintains the psoriatic plaque indefinitely.</p>
+        <div class="step-cards">
+          <div class="step-card">
+            <div class="icon">🔄</div>
+            <div class="card-title">The feed-forward loop</div>
+            <div class="card-body"><span class="pill pill-red">IL-17</span> tells keratinocytes to produce <strong>CCL20</strong> — a chemokine that specifically attracts more Th17 cells to the skin. More Th17 cells → more IL-17 → more CCL20 → more Th17 cells. <em>The cycle is self-perpetuating.</em></div>
+          </div>
+          <div class="step-card">
+            <div class="icon">🧠</div>
+            <div class="card-title">Immune memory locks it in</div>
+            <div class="card-body"><strong>Tissue-resident memory T cells (TRM)</strong> take up permanent residence in the skin. Even after treatment clears a plaque, these cells remain — ready to restart the cycle. This is why psoriasis recurs <em>in the same places</em>.</div>
+          </div>
+          <div class="step-card">
+            <div class="icon">🩸</div>
+            <div class="card-title">New blood vessels feed the fire</div>
+            <div class="card-body">Inflammatory signals stimulate <strong>angiogenesis</strong> — the growth of new blood vessels — which deliver more immune cells and nutrients, sustaining the inflamed plaque.</div>
+          </div>
+        </div>
+
+        <div class="analogy-box">
+          <div class="label">Analogy — The Immune System's "Sticky Note"</div>
+          <p>TRM cells are like sticky notes left on the inside of your skin that say "there was a problem here." Even after the plaque clears with treatment, the notes remain. Any small provocation causes the immune system to read the note and restart the entire inflammatory programme — which is why psoriasis keeps coming back to the same spots.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ─── FEEDBACK LOOP DIAGRAM ─── -->
+  <h2 class="fade-in">The Self-Amplifying Loop</h2>
+  <p class="fade-in">The core mechanism of psoriasis is a circular chain reaction. This is the cycle that biologic therapies aim to break.</p>
+
+  <div class="loop-diagram fade-in delay-1">
+    <svg viewBox="0 0 520 400" xmlns="http://www.w3.org/2000/svg">
+      <!-- Circular arrows (background) -->
+      <path d="M260,60 A170,170 0 0,1 410,230" stroke="var(--accent-red)" stroke-width="2" fill="none" opacity="0.3" stroke-dasharray="6,4"/>
+      <path d="M410,230 A170,170 0 0,1 260,370" stroke="var(--accent-orange)" stroke-width="2" fill="none" opacity="0.3" stroke-dasharray="6,4"/>
+      <path d="M260,370 A170,170 0 0,1 110,230" stroke="var(--accent-purple)" stroke-width="2" fill="none" opacity="0.3" stroke-dasharray="6,4"/>
+      <path d="M110,230 A170,170 0 0,1 260,60" stroke="var(--accent-cyan)" stroke-width="2" fill="none" opacity="0.3" stroke-dasharray="6,4"/>
+
+      <!-- Arrow heads -->
+      <polygon points="405,222 415,235 400,235" fill="var(--accent-red)" opacity="0.5"/>
+      <polygon points="265,365 255,375 265,378" fill="var(--accent-orange)" opacity="0.5"/>
+      <polygon points="115,222 105,225 115,235" fill="var(--accent-purple)" opacity="0.5"/>
+      <polygon points="255,65 265,55 268,68" fill="var(--accent-cyan)" opacity="0.5"/>
+
+      <!-- Center text -->
+      <text x="260" y="210" text-anchor="middle" font-family="Instrument Serif" font-size="16" fill="var(--muted)">SELF-AMPLIFYING</text>
+      <text x="260" y="232" text-anchor="middle" font-family="Instrument Serif" font-size="16" fill="var(--muted)">INFLAMMATORY LOOP</text>
+
+      <!-- Node 1: Dendritic Cells (top) -->
+      <rect x="180" y="30" width="160" height="50" rx="25" fill="var(--card)" stroke="var(--accent-cyan)" stroke-width="2"/>
+      <text x="260" y="52" text-anchor="middle" font-family="DM Sans" font-size="12" fill="var(--accent-cyan)" font-weight="600">📡 Dendritic Cells</text>
+      <text x="260" y="68" text-anchor="middle" font-family="DM Sans" font-size="10" fill="var(--muted)">produce IL-23</text>
+
+      <!-- Node 2: Th17 Cells (right) -->
+      <rect x="340" y="200" width="160" height="50" rx="25" fill="var(--card)" stroke="var(--accent-red)" stroke-width="2"/>
+      <text x="420" y="222" text-anchor="middle" font-family="DM Sans" font-size="12" fill="var(--accent-red)" font-weight="600">⚔️ Th17 Cells</text>
+      <text x="420" y="238" text-anchor="middle" font-family="DM Sans" font-size="10" fill="var(--muted)">produce IL-17</text>
+
+      <!-- Node 3: Keratinocytes (bottom) -->
+      <rect x="180" y="340" width="160" height="50" rx="25" fill="var(--card)" stroke="var(--accent-orange)" stroke-width="2"/>
+      <text x="260" y="362" text-anchor="middle" font-family="DM Sans" font-size="12" fill="var(--accent-orange)" font-weight="600">🏗️ Keratinocytes</text>
+      <text x="260" y="378" text-anchor="middle" font-family="DM Sans" font-size="10" fill="var(--muted)">produce CCL20 + AMPs</text>
+
+      <!-- Node 4: More recruitment (left) -->
+      <rect x="20" y="200" width="160" height="50" rx="25" fill="var(--card)" stroke="var(--accent-purple)" stroke-width="2"/>
+      <text x="100" y="222" text-anchor="middle" font-family="DM Sans" font-size="12" fill="var(--accent-purple)" font-weight="600">🔄 Immune Recruitment</text>
+      <text x="100" y="238" text-anchor="middle" font-family="DM Sans" font-size="10" fill="var(--muted)">attracts more Th17 + DCs</text>
+
+      <!-- Drug target annotations -->
+      <rect x="360" y="115" width="130" height="38" rx="6" fill="rgba(232,64,87,0.1)" stroke="var(--accent-red)" stroke-width="1" stroke-dasharray="4,2"/>
+      <text x="425" y="132" text-anchor="middle" font-family="DM Sans" font-size="9" fill="var(--accent-red)" font-weight="600">🎯 IL-23 inhibitors</text>
+      <text x="425" y="145" text-anchor="middle" font-family="DM Sans" font-size="8" fill="var(--muted)">Skyrizi, Tremfya, Ilumya</text>
+
+      <rect x="380" y="280" width="120" height="38" rx="6" fill="rgba(240,146,59,0.1)" stroke="var(--accent-orange)" stroke-width="1" stroke-dasharray="4,2"/>
+      <text x="440" y="297" text-anchor="middle" font-family="DM Sans" font-size="9" fill="var(--accent-orange)" font-weight="600">🎯 IL-17 inhibitors</text>
+      <text x="440" y="310" text-anchor="middle" font-family="DM Sans" font-size="8" fill="var(--muted)">Cosentyx, Taltz, Bimzelx</text>
+
+      <rect x="30" y="115" width="120" height="38" rx="6" fill="rgba(168,125,232,0.1)" stroke="var(--accent-purple)" stroke-width="1" stroke-dasharray="4,2"/>
+      <text x="90" y="132" text-anchor="middle" font-family="DM Sans" font-size="9" fill="var(--accent-purple)" font-weight="600">🎯 TNF-α inhibitors</text>
+      <text x="90" y="145" text-anchor="middle" font-family="DM Sans" font-size="8" fill="var(--muted)">Humira, Enbrel, Remicade</text>
+    </svg>
+  </div>
+
+  <p class="fade-in">Each class of biologic drug works by cutting a specific link in this chain. <strong>IL-23 inhibitors</strong> (like Skyrizi) cut the signal that creates Th17 cells. <strong>IL-17 inhibitors</strong> (like Cosentyx) block the main weapon those Th17 cells use. <strong>TNF-α inhibitors</strong> (like Humira) dampen the broader inflammatory amplification. The more upstream you cut (IL-23), the more completely the downstream cascade collapses — which is why IL-23 inhibitors tend to be the most effective.</p>
+
+  <div class="note fade-in">
+    This visual guide accompanies the full research paper <em>"Psoriasis: A Comprehensive Meta-Analysis of Pathogenesis, Immunology, Genetics, and Therapeutics"</em> (paper.md). All claims are referenced in the main paper. Diagrams are simplified for educational purposes.
+  </div>
+
+</div>
+</body>
+</html>
