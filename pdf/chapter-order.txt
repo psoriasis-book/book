@@ -1,0 +1,44 @@
+# Chapter order for PDF generation
+# Each line is a path relative to the repository root
+
+src/content/docs/00-abstract.md
+
+# Part I: Foundation & Context
+src/content/docs/01-introduction.md
+src/content/docs/02-history.md
+src/content/docs/03-epidemiology.md
+
+# Part II: Understanding the Disease
+src/content/docs/04-immune-system.md
+src/content/docs/05-genetics.md
+src/content/docs/06-immunopathogenesis.md
+src/content/docs/07-environmental-triggers.md
+
+# Part III: Clinical Practice
+src/content/docs/08-clinical-presentation.md
+src/content/docs/09-diagnostic-testing.md
+src/content/docs/10-comorbidities.md
+src/content/docs/11-psychological-burden.md
+
+# Part IV: Living with Psoriasis
+src/content/docs/12-lifestyle-diet.md
+src/content/docs/13-daily-management.md
+src/content/docs/14-special-populations.md
+src/content/docs/15-remission.md
+
+# Part V: Treatment
+src/content/docs/16-therapeutic-landscape.md
+src/content/docs/17-nhs-pathway.md
+src/content/docs/18-traditional-medicine.md
+
+# Part VI: Research & Future
+src/content/docs/19-landmark-studies.md
+src/content/docs/20-emerging-research.md
+src/content/docs/21-covid19.md
+
+# Appendices
+src/content/docs/22-registries.md
+src/content/docs/23-major-books.md
+src/content/docs/24-glossary.md
+src/content/docs/25-conclusion.md
+src/content/docs/26-references.md
