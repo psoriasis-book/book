@@ -16,9 +16,7 @@ geometry:
   - bottom=0.75in
   - inner=0.875in
   - outer=0.625in
-mainfont: "Source Serif Pro"
-sansfont: "Source Sans Pro"
-monofont: "Source Code Pro"
+## Fonts: Latin Modern (XeLaTeX default) — always available in TeX Live
 toc: true
 toc-depth: 2
 numbersections: false
