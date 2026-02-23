@@ -1,43 +1,51 @@
-#!/usr/bin/env bash
-set -euo pipefail
+#!/bin/sh
+set -eu
 
 # Build a print-ready PDF from the chapter markdown files.
 # This script strips YAML frontmatter (Starlight-specific),
 # promotes headings, and converts to a single PDF via Pandoc + LaTeX.
+# Written in POSIX sh for compatibility with Alpine-based containers.
 
-SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 BUILD_DIR="$REPO_ROOT/pdf/build"
 OUTPUT="$REPO_ROOT/psoriasis-book.pdf"
 
 mkdir -p "$BUILD_DIR"
 
-# Part dividers: chapter file -> part title
-declare -A PART_BEFORE
-PART_BEFORE["src/content/docs/01-introduction.md"]="Part I: Foundation \\& Context"
-PART_BEFORE["src/content/docs/04-immune-system.md"]="Part II: Understanding the Disease"
-PART_BEFORE["src/content/docs/08-clinical-presentation.md"]="Part III: Clinical Practice"
-PART_BEFORE["src/content/docs/12-lifestyle-diet.md"]="Part IV: Living with Psoriasis"
-PART_BEFORE["src/content/docs/16-therapeutic-landscape.md"]="Part V: Treatment"
-PART_BEFORE["src/content/docs/19-landmark-studies.md"]="Part VI: Research \\& Future"
-PART_BEFORE["src/content/docs/22-registries.md"]="Appendices"
+# Part dividers: return part title for a chapter file, empty if none
+get_part_title() {
+  case "$1" in
+    "src/content/docs/01-introduction.md")        echo "Part I: Foundation \\& Context" ;;
+    "src/content/docs/04-immune-system.md")        echo "Part II: Understanding the Disease" ;;
+    "src/content/docs/08-clinical-presentation.md") echo "Part III: Clinical Practice" ;;
+    "src/content/docs/12-lifestyle-diet.md")       echo "Part IV: Living with Psoriasis" ;;
+    "src/content/docs/16-therapeutic-landscape.md") echo "Part V: Treatment" ;;
+    "src/content/docs/19-landmark-studies.md")      echo "Part VI: Research \\& Future" ;;
+    "src/content/docs/22-registries.md")           echo "Appendices" ;;
+    *) ;;
+  esac
+}
 
 counter=0
 while IFS= read -r chapter_file; do
   # Skip empty lines and comments
-  [[ -z "$chapter_file" || "$chapter_file" == \#* ]] && continue
+  case "$chapter_file" in
+    ""|\#*) continue ;;
+  esac
 
   full_path="$REPO_ROOT/$chapter_file"
 
-  if [[ ! -f "$full_path" ]]; then
+  if [ ! -f "$full_path" ]; then
     echo "WARNING: $full_path not found, skipping" >&2
     continue
   fi
 
   # Insert part divider if this chapter starts a new part
-  if [[ -n "${PART_BEFORE[$chapter_file]:-}" ]]; then
+  part_title=$(get_part_title "$chapter_file")
+  if [ -n "$part_title" ]; then
     part_file=$(printf "%s/%03d-part.md" "$BUILD_DIR" "$counter")
-    printf '\n\\part{%s}\n\n' "${PART_BEFORE[$chapter_file]}" > "$part_file"
+    printf '\n\\part{%s}\n\n' "$part_title" > "$part_file"
     counter=$((counter + 1))
   fi
 
@@ -78,20 +86,23 @@ while IFS= read -r chapter_file; do
   counter=$((counter + 1))
 done < "$SCRIPT_DIR/chapter-order.txt"
 
-# Collect all processed files in order
-chapter_files=()
+# Collect all processed files in order (space-separated, no arrays needed)
+file_count=0
+chapter_files=""
 for f in "$BUILD_DIR"/*.md; do
-  chapter_files+=("$f")
+  chapter_files="$chapter_files $f"
+  file_count=$((file_count + 1))
 done
 
-if [[ ${#chapter_files[@]} -eq 0 ]]; then
+if [ "$file_count" -eq 0 ]; then
   echo "ERROR: No chapter files found in $BUILD_DIR" >&2
   exit 1
 fi
 
-echo "Building PDF from ${#chapter_files[@]} files..."
+echo "Building PDF from $file_count files..."
 
 # Run Pandoc
+# shellcheck disable=SC2086
 pandoc \
   --metadata-file="$SCRIPT_DIR/metadata.yaml" \
   --pdf-engine=xelatex \
@@ -100,7 +111,7 @@ pandoc \
   --toc-depth=2 \
   --resource-path="$REPO_ROOT" \
   -o "$OUTPUT" \
-  "${chapter_files[@]}"
+  $chapter_files
 
 echo "PDF generated: $OUTPUT"
 
