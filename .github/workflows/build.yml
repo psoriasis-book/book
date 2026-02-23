@@ -47,6 +47,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install TeX Gyre fonts
+        run: tlmgr install tex-gyre
+
       - name: Build PDF
         run: sh pdf/build-pdf.sh
 
