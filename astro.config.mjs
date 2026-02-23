@@ -8,13 +8,9 @@ export default defineConfig({
       title: 'Psoriasis: A Comprehensive Review',
       description:
         'A meta-analysis of pathogenesis, immunology, genetics, and therapeutics',
-      social: [
-        {
-          icon: 'github',
-          label: 'GitHub',
-          href: 'https://github.com/psoriasis-book/book',
-        },
-      ],
+      social: {
+        github: 'https://github.com/psoriasis-book/book',
+      },
       sidebar: [
         { slug: '00-abstract' },
         {
