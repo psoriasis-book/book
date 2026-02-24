@@ -106,3 +106,21 @@ sidebar:
 50. Dermatology Advisor. Biosimilars for psoriasis treatment. November 5, 2025. [Website](https://www.dermatologyadvisor.com/features/biosimilars-for-psoriasis/)
 
 51. Lewitt G, et al. Psoriasis therapies in 2024 and beyond. *Dermatology Times*. 2024. [Website](https://www.dermatologytimes.com/view/psoriasis-therapies-in-2024-and-beyond)
+
+52. Brajac I, Gruber F. History of Psoriasis. In: O'Daly J, editor. *Psoriasis — A Systemic Disease*. Rijeka: IntechOpen; 2012. p. 57-68. doi:10.5772/27640. [IntechOpen](https://doi.org/10.5772/27640)
+
+53. Holubar K. Psoriasis and parapsoriasis: since 200 and 100 years, respectively. *J Eur Acad Dermatol Venereol*. 2003;17(2):126-127. doi:10.1046/j.1468-3083.2003.00622.x. [JEADV](https://doi.org/10.1046/j.1468-3083.2003.00622.x)
+
+54. Willan R. *On Cutaneous Diseases*. Vol. 1. London: J. Johnson; 1808. [Internet Archive](https://archive.org/details/2577014R.nlm.nih.gov)
+
+55. Auspitz H. Ueber das Verhaltniss der Oberhaut zur Papillarschicht. *Archiv fur Dermatologie und Syphilis*. 1870;2:24-58. doi:10.1007/BF01822714. [Springer](https://doi.org/10.1007/BF01822714)
+
+56. Ingram JT. The approach to psoriasis. *Br Med J*. 1953;2(4836):591-594. doi:10.1136/bmj.2.4836.591. [BMJ](https://doi.org/10.1136/bmj.2.4836.591)
+
+57. Dennis M, Bhutani T, Koo J, Liao W. The Goeckerman Regimen for the Treatment of Moderate to Severe Psoriasis. *J Dermatolog Treat*. 2013;24(4):319-327. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3735239/)
+
+58. Edmundson WF, Guy WB. Treatment of psoriasis with folic acid antagonists. *AMA Arch Derm*. 1958;78:200-203. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13571257/)
+
+59. Mueller W, Herrmann B. Cyclosporin A for psoriasis. *N Engl J Med*. 1979;301:555. [PubMed](https://pubmed.ncbi.nlm.nih.gov/460325/)
+
+60. Eedy DJ, Burrows D, Bridges JM, Jones FG. Clearance of severe psoriasis after allogenic bone marrow transplantation. *BMJ*. 1990;300(6729):908. doi:10.1136/bmj.300.6729.908. [BMJ](https://doi.org/10.1136/bmj.300.6729.908)
