@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-labelledby="sub-title sub-desc">
+  <title id="sub-title">Psoriasis Subtypes and Their Typical Distribution</title>
+  <desc id="sub-desc">Five body outlines showing typical distribution patterns for plaque, guttate, inverse, pustular, and erythrodermic psoriasis.</desc>
+
+  <rect width="720" height="340" fill="#fff"/>
+
+  <!-- Title -->
+  <text x="360" y="22" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">Psoriasis Subtypes: Typical Distribution</text>
+
+  <!-- === Body 1: Plaque === -->
+  <g transform="translate(72,35)">
+    <!-- Head -->
+    <ellipse cx="0" cy="30" rx="14" ry="17" fill="none" stroke="#999" stroke-width="1"/>
+    <!-- Scalp patches -->
+    <ellipse cx="-5" cy="20" rx="8" ry="5" fill="#e66" opacity="0.5"/>
+    <!-- Trunk -->
+    <path d="M-20,48 L20,48 L22,110 L-22,110 Z" fill="none" stroke="#999" stroke-width="1"/>
+    <!-- Arms -->
+    <line x1="-20" y1="48" x2="-35" y2="100" stroke="#999" stroke-width="1"/>
+    <line x1="20" y1="48" x2="35" y2="100" stroke="#999" stroke-width="1"/>
+    <!-- Legs -->
+    <line x1="-10" y1="110" x2="-12" y2="185" stroke="#999" stroke-width="1"/>
+    <line x1="10" y1="110" x2="12" y2="185" stroke="#999" stroke-width="1"/>
+
+    <!-- Plaque patches (elbows, knees, lower back) -->
+    <ellipse cx="-30" cy="78" rx="8" ry="5" fill="#e66" opacity="0.6"/>
+    <ellipse cx="30" cy="78" rx="8" ry="5" fill="#e66" opacity="0.6"/>
+    <ellipse cx="0" cy="100" rx="12" ry="6" fill="#e66" opacity="0.6"/>
+    <ellipse cx="-11" cy="155" rx="7" ry="5" fill="#e66" opacity="0.6"/>
+    <ellipse cx="11" cy="155" rx="7" ry="5" fill="#e66" opacity="0.6"/>
+
+    <text x="0" y="210" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#c44">Plaque</text>
+    <text x="0" y="225" text-anchor="middle" font-family="serif" font-size="9" fill="#666">80-90% of cases</text>
+    <text x="0" y="238" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Elbows, knees, scalp,</text>
+    <text x="0" y="250" text-anchor="middle" font-family="serif" font-size="8" fill="#888">lower back</text>
+  </g>
+
+  <!-- === Body 2: Guttate === -->
+  <g transform="translate(216,35)">
+    <ellipse cx="0" cy="30" rx="14" ry="17" fill="none" stroke="#999" stroke-width="1"/>
+    <path d="M-20,48 L20,48 L22,110 L-22,110 Z" fill="none" stroke="#999" stroke-width="1"/>
+    <line x1="-20" y1="48" x2="-35" y2="100" stroke="#999" stroke-width="1"/>
+    <line x1="20" y1="48" x2="35" y2="100" stroke="#999" stroke-width="1"/>
+    <line x1="-10" y1="110" x2="-12" y2="185" stroke="#999" stroke-width="1"/>
+    <line x1="10" y1="110" x2="12" y2="185" stroke="#999" stroke-width="1"/>
+
+    <!-- Small scattered droplets -->
+    <g fill="#e88" opacity="0.6">
+      <circle cx="-8" cy="55" r="2.5"/><circle cx="10" cy="60" r="2"/>
+      <circle cx="-5" cy="70" r="2"/><circle cx="8" cy="75" r="2.5"/>
+      <circle cx="-12" cy="85" r="2"/><circle cx="15" cy="80" r="2"/>
+      <circle cx="3" cy="90" r="2.5"/><circle cx="-8" cy="95" r="2"/>
+      <circle cx="12" cy="100" r="2"/><circle cx="-15" cy="65" r="1.5"/>
+      <circle cx="5" cy="105" r="2"/><circle cx="-10" cy="75" r="1.5"/>
+      <circle cx="-25" cy="70" r="2"/><circle cx="28" cy="75" r="2"/>
+      <circle cx="-10" cy="120" r="2"/><circle cx="8" cy="130" r="2"/>
+      <circle cx="-11" cy="140" r="1.5"/><circle cx="11" cy="145" r="2"/>
+    </g>
+
+    <text x="0" y="210" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#c44">Guttate</text>
+    <text x="0" y="225" text-anchor="middle" font-family="serif" font-size="9" fill="#666">~2% of cases</text>
+    <text x="0" y="238" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Small droplet lesions</text>
+    <text x="0" y="250" text-anchor="middle" font-family="serif" font-size="8" fill="#888">scattered on trunk/limbs</text>
+  </g>
+
+  <!-- === Body 3: Inverse === -->
+  <g transform="translate(360,35)">
+    <ellipse cx="0" cy="30" rx="14" ry="17" fill="none" stroke="#999" stroke-width="1"/>
+    <path d="M-20,48 L20,48 L22,110 L-22,110 Z" fill="none" stroke="#999" stroke-width="1"/>
+    <line x1="-20" y1="48" x2="-35" y2="100" stroke="#999" stroke-width="1"/>
+    <line x1="20" y1="48" x2="35" y2="100" stroke="#999" stroke-width="1"/>
+    <line x1="-10" y1="110" x2="-12" y2="185" stroke="#999" stroke-width="1"/>
+    <line x1="10" y1="110" x2="12" y2="185" stroke="#999" stroke-width="1"/>
+
+    <!-- Flexural patches (axillae, groin, submammary) -->
+    <ellipse cx="-18" cy="55" rx="6" ry="4" fill="#e66" opacity="0.5"/>
+    <ellipse cx="18" cy="55" rx="6" ry="4" fill="#e66" opacity="0.5"/>
+    <ellipse cx="0" cy="108" rx="10" ry="5" fill="#e66" opacity="0.5"/>
+
+    <text x="0" y="210" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#c44">Inverse</text>
+    <text x="0" y="225" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(flexural)</text>
+    <text x="0" y="238" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Skin folds: axillae,</text>
+    <text x="0" y="250" text-anchor="middle" font-family="serif" font-size="8" fill="#888">groin, submammary</text>
+  </g>
+
+  <!-- === Body 4: Pustular === -->
+  <g transform="translate(504,35)">
+    <ellipse cx="0" cy="30" rx="14" ry="17" fill="none" stroke="#999" stroke-width="1"/>
+    <path d="M-20,48 L20,48 L22,110 L-22,110 Z" fill="none" stroke="#999" stroke-width="1"/>
+    <line x1="-20" y1="48" x2="-35" y2="100" stroke="#999" stroke-width="1"/>
+    <line x1="20" y1="48" x2="35" y2="100" stroke="#999" stroke-width="1"/>
+    <line x1="-10" y1="110" x2="-12" y2="185" stroke="#999" stroke-width="1"/>
+    <line x1="10" y1="110" x2="12" y2="185" stroke="#999" stroke-width="1"/>
+
+    <!-- Palms and soles highlighted, or generalised -->
+    <circle cx="-33" cy="102" r="5" fill="#ffe066" stroke="#cc9" stroke-width="0.5"/>
+    <circle cx="33" cy="102" r="5" fill="#ffe066" stroke="#cc9" stroke-width="0.5"/>
+    <circle cx="-12" cy="187" r="5" fill="#ffe066" stroke="#cc9" stroke-width="0.5"/>
+    <circle cx="12" cy="187" r="5" fill="#ffe066" stroke="#cc9" stroke-width="0.5"/>
+
+    <text x="0" y="210" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#c44">Pustular</text>
+    <text x="0" y="225" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Rare</text>
+    <text x="0" y="238" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Sterile pustules;</text>
+    <text x="0" y="250" text-anchor="middle" font-family="serif" font-size="8" fill="#888">palms/soles or</text>
+    <text x="0" y="262" text-anchor="middle" font-family="serif" font-size="8" fill="#888">generalised (GPP)</text>
+  </g>
+
+  <!-- === Body 5: Erythrodermic === -->
+  <g transform="translate(648,35)">
+    <ellipse cx="0" cy="30" rx="14" ry="17" fill="#e66" stroke="#c44" stroke-width="1" opacity="0.4"/>
+    <path d="M-20,48 L20,48 L22,110 L-22,110 Z" fill="#e66" stroke="#c44" stroke-width="1" opacity="0.4"/>
+    <line x1="-20" y1="48" x2="-35" y2="100" stroke="#c44" stroke-width="2" opacity="0.4"/>
+    <line x1="20" y1="48" x2="35" y2="100" stroke="#c44" stroke-width="2" opacity="0.4"/>
+    <line x1="-10" y1="110" x2="-12" y2="185" stroke="#c44" stroke-width="2" opacity="0.4"/>
+    <line x1="10" y1="110" x2="12" y2="185" stroke="#c44" stroke-width="2" opacity="0.4"/>
+    <!-- Full body red wash -->
+    <path d="M-20,48 L20,48 L35,100 L12,185 L-12,185 L-35,100 Z" fill="#e66" opacity="0.3"/>
+
+    <text x="0" y="210" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#c44">Erythrodermic</text>
+    <text x="0" y="225" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Rare, severe</text>
+    <text x="0" y="238" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Near-total body</text>
+    <text x="0" y="250" text-anchor="middle" font-family="serif" font-size="8" fill="#888">erythema; medical</text>
+    <text x="0" y="262" text-anchor="middle" font-family="serif" font-size="8" fill="#888">emergency</text>
+  </g>
+</svg>
