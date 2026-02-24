@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="gut-title gut-desc">
+  <title id="gut-title">The Gut-Skin Axis in Psoriasis</title>
+  <desc id="gut-desc">Diagram showing the bidirectional relationship between gut dysbiosis and psoriatic skin inflammation, with bacterial products entering the bloodstream and driving systemic inflammation.</desc>
+
+  <rect width="600" height="320" fill="#fff"/>
+
+  <!-- Title -->
+  <text x="300" y="25" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">The Gut-Skin Axis</text>
+
+  <!-- Gut (left side) -->
+  <rect x="30" y="60" width="180" height="180" rx="12" fill="#f0e8d0" stroke="#a08040" stroke-width="1.5"/>
+  <text x="120" y="85" text-anchor="middle" font-family="serif" font-size="13" font-weight="bold" fill="#806020">Gut</text>
+
+  <!-- Dysbiosis -->
+  <rect x="50" y="95" width="140" height="50" rx="6" fill="#ffe8c0" stroke="#c8a040" stroke-width="1"/>
+  <text x="120" y="115" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#806020">Dysbiosis</text>
+  <text x="120" y="130" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Reduced diversity</text>
+  <text x="120" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Altered Firmicutes/Bacteroidetes</text>
+
+  <!-- Leaky gut -->
+  <rect x="50" y="155" width="140" height="35" rx="6" fill="#fdd" stroke="#c86" stroke-width="1"/>
+  <text x="120" y="172" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#964">Leaky Gut</text>
+  <text x="120" y="184" text-anchor="middle" font-family="serif" font-size="8" fill="#888">(increased permeability)</text>
+
+  <!-- Bacterial products -->
+  <rect x="50" y="200" width="140" height="30" rx="6" fill="#fde8d0" stroke="#c86" stroke-width="1"/>
+  <text x="120" y="220" text-anchor="middle" font-family="serif" font-size="9" fill="#964">LPS, peptidoglycan</text>
+
+  <!-- Skin (right side) -->
+  <rect x="390" y="60" width="180" height="180" rx="12" fill="#fde0d0" stroke="#c06040" stroke-width="1.5"/>
+  <text x="480" y="85" text-anchor="middle" font-family="serif" font-size="13" font-weight="bold" fill="#a04020">Skin</text>
+
+  <!-- Psoriatic inflammation -->
+  <rect x="410" y="95" width="140" height="50" rx="6" fill="#fdd" stroke="#c44" stroke-width="1"/>
+  <text x="480" y="112" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#a22">Psoriatic</text>
+  <text x="480" y="126" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#a22">Inflammation</text>
+  <text x="480" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#888">IL-17, IL-23, TNF-a</text>
+
+  <!-- Th17 cells -->
+  <rect x="410" y="155" width="140" height="30" rx="6" fill="#ffe0c0" stroke="#c90" stroke-width="1"/>
+  <text x="480" y="175" text-anchor="middle" font-family="serif" font-size="10" fill="#960">Th17 cell activation</text>
+
+  <!-- Skin barrier disruption -->
+  <rect x="410" y="195" width="140" height="35" rx="6" fill="#f8d8c8" stroke="#b06040" stroke-width="1"/>
+  <text x="480" y="210" text-anchor="middle" font-family="serif" font-size="9" fill="#864">Barrier disruption</text>
+  <text x="480" y="222" text-anchor="middle" font-family="serif" font-size="8" fill="#888">Skin microbiome shift</text>
+
+  <!-- Central: Bloodstream / systemic inflammation -->
+  <rect x="230" y="100" width="140" height="60" rx="8" fill="#e0e0f8" stroke="#55a" stroke-width="1.5"/>
+  <text x="300" y="120" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#339">Bloodstream</text>
+  <text x="300" y="137" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Systemic</text>
+  <text x="300" y="150" text-anchor="middle" font-family="serif" font-size="9" fill="#555">inflammation</text>
+
+  <!-- Arrows: Gut to bloodstream -->
+  <line x1="210" y1="120" x2="228" y2="125" stroke="#a08040" stroke-width="2"/>
+  <polygon points="226,120 226,130 236,125" fill="#a08040"/>
+
+  <!-- Arrows: Bloodstream to skin -->
+  <line x1="370" y1="125" x2="388" y2="120" stroke="#c06040" stroke-width="2"/>
+  <polygon points="386,115 386,125 396,120" fill="#c06040"/>
+
+  <!-- Bidirectional arrow: Skin back to gut (via systemic) -->
+  <path d="M480,240 Q480,280 300,280 Q120,280 120,240" fill="none" stroke="#888" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <polygon points="117,245 123,245 120,235" fill="#888"/>
+  <polygon points="477,245 483,245 480,235" fill="#888"/>
+  <text x="300" y="275" text-anchor="middle" font-family="serif" font-size="9" fill="#888">Bidirectional communication</text>
+
+  <!-- Shared Th17 label -->
+  <rect x="245" y="180" width="110" height="30" rx="4" fill="#ffe8cc" stroke="#c90" stroke-width="1"/>
+  <text x="300" y="198" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#960">Shared Th17 pathway</text>
+  <line x1="245" y1="195" x2="190" y2="175" stroke="#c90" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="355" y1="195" x2="410" y2="175" stroke="#c90" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- Footer -->
+  <text x="300" y="310" text-anchor="middle" font-family="serif" font-size="9" fill="#888">Shared IL-17/Th17 pathway may explain the association between psoriasis and IBD</text>
+</svg>
