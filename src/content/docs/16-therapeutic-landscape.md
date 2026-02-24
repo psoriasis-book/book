@@ -14,6 +14,8 @@ Treatment for psoriasis is stratified by disease severity:
 
 The introduction of biologic therapies has revolutionised the treatment of moderate-to-severe psoriasis over the past two decades [(Armstrong & Read, 2020)](https://pubmed.ncbi.nlm.nih.gov/32427307/).
 
+![Biologic drug targets in the psoriasis immune cascade](./images/biologic-targets.svg)
+
 ## 16.2 Biologic Therapies
 
 Biologics are engineered proteins — typically antibodies (immune proteins that bind to and neutralise specific targets) or fusion proteins (lab-created molecules that combine parts of two different proteins) — designed to block specific components of the immune system. Unlike traditional drugs which are small chemical molecules, biologics are large, complex proteins manufactured in living cells. They are grouped by the immune target they block:

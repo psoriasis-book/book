@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 480" role="img" aria-labelledby="bio-title bio-desc">
+  <title id="bio-title">Biologic Drug Targets in the Psoriasis Immune Cascade</title>
+  <desc id="bio-desc">Diagram showing the psoriasis immune cascade with biologic drug classes overlaid at their points of intervention: TNF-alpha inhibitors, ustekinumab (p40), IL-23 inhibitors (p19), IL-17 inhibitors, bimekizumab (dual IL-17A/F), brodalumab (IL-17RA), TYK2 inhibitors, and PDE4 inhibitors.</desc>
+
+  <rect width="700" height="480" fill="#fff"/>
+
+  <!-- Central cascade (vertical flow) -->
+  <!-- Dendritic cell -->
+  <ellipse cx="350" cy="55" rx="75" ry="28" fill="#e0e8f4" stroke="#5577aa" stroke-width="1.5"/>
+  <text x="350" y="52" text-anchor="middle" font-family="serif" font-size="12" fill="#333">Dendritic Cell</text>
+  <text x="350" y="66" text-anchor="middle" font-family="serif" font-size="10" fill="#666">(antigen-presenting)</text>
+
+  <!-- Arrow down, splitting into TNF-a and IL-23 -->
+  <line x1="300" y1="83" x2="200" y2="130" stroke="#777" stroke-width="1.5"/>
+  <polygon points="198,126 205,133 195,133" fill="#777"/>
+  <line x1="350" y1="83" x2="350" y2="130" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,128 355,128 350,138" fill="#777"/>
+
+  <!-- TNF-alpha bubble -->
+  <ellipse cx="200" cy="150" rx="50" ry="22" fill="#fdd" stroke="#c44" stroke-width="1.5"/>
+  <text x="200" y="147" text-anchor="middle" font-family="serif" font-size="12" font-weight="bold" fill="#a22">TNF-alpha</text>
+  <text x="200" y="161" text-anchor="middle" font-family="serif" font-size="9" fill="#a22">(pro-inflammatory)</text>
+
+  <!-- IL-12 / IL-23 (shared p40) -->
+  <ellipse cx="350" cy="150" rx="65" ry="22" fill="#ddf" stroke="#55a" stroke-width="1.5"/>
+  <text x="350" y="147" text-anchor="middle" font-family="serif" font-size="12" font-weight="bold" fill="#339">IL-12 / IL-23</text>
+  <text x="350" y="161" text-anchor="middle" font-family="serif" font-size="9" fill="#339">(shared p40 subunit)</text>
+
+  <!-- Arrow from IL-23 to p19 detail -->
+  <line x1="350" y1="172" x2="350" y2="215" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,213 355,213 350,223" fill="#777"/>
+
+  <!-- IL-23 specific (p19) -->
+  <ellipse cx="350" cy="240" rx="55" ry="20" fill="#ddf" stroke="#55a" stroke-width="1.5"/>
+  <text x="350" y="237" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#339">IL-23 (p19)</text>
+  <text x="350" y="251" text-anchor="middle" font-family="serif" font-size="9" fill="#339">(drives Th17)</text>
+
+  <!-- Arrow to Th17 -->
+  <line x1="350" y1="260" x2="350" y2="295" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,293 355,293 350,303" fill="#777"/>
+
+  <!-- Th17 cell -->
+  <ellipse cx="350" cy="320" rx="55" ry="22" fill="#fef0d8" stroke="#c90" stroke-width="1.5"/>
+  <text x="350" y="317" text-anchor="middle" font-family="serif" font-size="12" font-weight="bold" fill="#960">Th17 Cell</text>
+  <text x="350" y="332" text-anchor="middle" font-family="serif" font-size="9" fill="#960">(activated T cell)</text>
+
+  <!-- IL-17 output -->
+  <line x1="300" y1="340" x2="220" y2="385" stroke="#777" stroke-width="1.5"/>
+  <polygon points="218,381 225,388 215,388" fill="#777"/>
+  <line x1="400" y1="340" x2="480" y2="385" stroke="#777" stroke-width="1.5"/>
+  <polygon points="478,381 485,388 475,388" fill="#777"/>
+
+  <!-- IL-17A -->
+  <ellipse cx="220" cy="405" rx="45" ry="18" fill="#ffe8cc" stroke="#c90" stroke-width="1.5"/>
+  <text x="220" y="409" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#960">IL-17A</text>
+
+  <!-- IL-17F -->
+  <ellipse cx="480" cy="405" rx="45" ry="18" fill="#ffe8cc" stroke="#c90" stroke-width="1.5"/>
+  <text x="480" y="409" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#960">IL-17F</text>
+
+  <!-- IL-17 Receptor -->
+  <rect x="300" y="445" width="100" height="25" rx="5" fill="#f0e0cc" stroke="#c90" stroke-width="1.5"/>
+  <text x="350" y="462" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#960">IL-17RA</text>
+
+  <!-- Arrows to receptor -->
+  <line x1="240" y1="423" x2="305" y2="445" stroke="#777" stroke-width="1"/>
+  <line x1="460" y1="423" x2="395" y2="445" stroke="#777" stroke-width="1"/>
+
+  <!-- DRUG ANNOTATIONS -->
+  <!-- TNF-a inhibitors -->
+  <rect x="15" y="120" width="130" height="60" rx="5" fill="#fee" stroke="#c44" stroke-width="1.5"/>
+  <text x="80" y="138" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#a22">TNF-alpha inhibitors</text>
+  <text x="80" y="152" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Adalimumab, Etanercept</text>
+  <text x="80" y="164" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Infliximab, Certolizumab</text>
+  <line x1="145" y1="150" x2="152" y2="150" stroke="#c44" stroke-width="2"/>
+  <line x1="152" y1="150" x2="168" y2="150" stroke="#c44" stroke-width="2" stroke-dasharray="2,2"/>
+
+  <!-- Block X on TNF -->
+  <g transform="translate(168,150)">
+    <circle r="8" fill="#c44" opacity="0.8"/>
+    <line x1="-4" y1="-4" x2="4" y2="4" stroke="#fff" stroke-width="2"/>
+    <line x1="4" y1="-4" x2="-4" y2="4" stroke="#fff" stroke-width="2"/>
+  </g>
+
+  <!-- Ustekinumab (p40) -->
+  <rect x="510" y="120" width="140" height="45" rx="5" fill="#eef" stroke="#55a" stroke-width="1.5"/>
+  <text x="580" y="138" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#339">Ustekinumab (p40)</text>
+  <text x="580" y="152" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Blocks IL-12 + IL-23</text>
+  <line x1="510" y1="150" x2="440" y2="150" stroke="#55a" stroke-width="2" stroke-dasharray="2,2"/>
+
+  <!-- Block X on IL-12/23 -->
+  <g transform="translate(440,150)">
+    <circle r="8" fill="#55a" opacity="0.8"/>
+    <line x1="-4" y1="-4" x2="4" y2="4" stroke="#fff" stroke-width="2"/>
+    <line x1="4" y1="-4" x2="-4" y2="4" stroke="#fff" stroke-width="2"/>
+  </g>
+
+  <!-- IL-23 inhibitors (p19) -->
+  <rect x="510" y="215" width="155" height="50" rx="5" fill="#eef" stroke="#55a" stroke-width="1.5"/>
+  <text x="587" y="233" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#339">IL-23 inhibitors (p19)</text>
+  <text x="587" y="247" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Guselkumab, Risankizumab</text>
+  <text x="587" y="259" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Tildrakizumab</text>
+  <line x1="510" y1="240" x2="430" y2="240" stroke="#55a" stroke-width="2" stroke-dasharray="2,2"/>
+
+  <!-- Block X on IL-23 -->
+  <g transform="translate(430,240)">
+    <circle r="8" fill="#55a" opacity="0.8"/>
+    <line x1="-4" y1="-4" x2="4" y2="4" stroke="#fff" stroke-width="2"/>
+    <line x1="4" y1="-4" x2="-4" y2="4" stroke="#fff" stroke-width="2"/>
+  </g>
+
+  <!-- IL-17A inhibitors -->
+  <rect x="15" y="375" width="140" height="55" rx="5" fill="#fff3e0" stroke="#c90" stroke-width="1.5"/>
+  <text x="85" y="393" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#960">IL-17A inhibitors</text>
+  <text x="85" y="407" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Secukinumab, Ixekizumab</text>
+  <text x="85" y="419" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(block IL-17A only)</text>
+  <line x1="155" y1="405" x2="167" y2="405" stroke="#c90" stroke-width="2" stroke-dasharray="2,2"/>
+
+  <!-- Block X on IL-17A -->
+  <g transform="translate(167,405)">
+    <circle r="8" fill="#c90" opacity="0.8"/>
+    <line x1="-4" y1="-4" x2="4" y2="4" stroke="#fff" stroke-width="2"/>
+    <line x1="4" y1="-4" x2="-4" y2="4" stroke="#fff" stroke-width="2"/>
+  </g>
+
+  <!-- Bimekizumab (dual) -->
+  <rect x="290" y="370" width="120" height="40" rx="5" fill="#fff3e0" stroke="#e80" stroke-width="1.5"/>
+  <text x="350" y="387" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#c60">Bimekizumab</text>
+  <text x="350" y="400" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Dual IL-17A + IL-17F</text>
+
+  <!-- Dual block lines -->
+  <line x1="310" y1="410" x2="240" y2="405" stroke="#e80" stroke-width="1.5" stroke-dasharray="2,2"/>
+  <line x1="390" y1="410" x2="460" y2="405" stroke="#e80" stroke-width="1.5" stroke-dasharray="2,2"/>
+
+  <!-- Brodalumab (receptor) -->
+  <rect x="530" y="430" width="140" height="45" rx="5" fill="#fff3e0" stroke="#c90" stroke-width="1.5"/>
+  <text x="600" y="448" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#960">Brodalumab</text>
+  <text x="600" y="462" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Blocks IL-17 receptor A</text>
+  <line x1="530" y1="457" x2="405" y2="457" stroke="#c90" stroke-width="2" stroke-dasharray="2,2"/>
+
+  <!-- Block X on IL-17RA -->
+  <g transform="translate(405,457)">
+    <circle r="8" fill="#c90" opacity="0.8"/>
+    <line x1="-4" y1="-4" x2="4" y2="4" stroke="#fff" stroke-width="2"/>
+    <line x1="4" y1="-4" x2="-4" y2="4" stroke="#fff" stroke-width="2"/>
+  </g>
+
+  <!-- TYK2 / PDE4 (intracellular) box -->
+  <rect x="510" y="295" width="165" height="60" rx="5" fill="#f0f0f0" stroke="#888" stroke-width="1.5"/>
+  <text x="592" y="312" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#555">Intracellular Targets</text>
+  <text x="592" y="326" text-anchor="middle" font-family="serif" font-size="9" fill="#666">TYK2 inhibitor (deucravacitinib)</text>
+  <text x="592" y="340" text-anchor="middle" font-family="serif" font-size="9" fill="#666">PDE4 inhibitor (apremilast)</text>
+  <line x1="510" y1="320" x2="407" y2="320" stroke="#888" stroke-width="1.5" stroke-dasharray="2,2"/>
+
+  <!-- Block inside cell -->
+  <g transform="translate(407,320)">
+    <circle r="8" fill="#888" opacity="0.7"/>
+    <line x1="-4" y1="-4" x2="4" y2="4" stroke="#fff" stroke-width="2"/>
+    <line x1="4" y1="-4" x2="-4" y2="4" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>
