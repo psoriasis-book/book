@@ -9,7 +9,7 @@ Clinical papers rarely address the everyday practicalities of living with psoria
 
 ## 13.1 Skin Care Routine
 
-**Moisturising** is the single most important daily intervention. Generous and frequent application of an emollient — ideally within 3 minutes of bathing while the skin is still damp — helps seal in moisture, reduce scale, and maintain the skin barrier. Ointment-based (greasy) emollients are most effective but can be cosmetically unacceptable during the day; cream-based emollients offer a reasonable daytime compromise. Common effective emollients available in the UK include Cetraben, Epaderm, Hydromol, and Diprobase. Avoid products with fragrances, sodium lauryl sulphate (SLS), or alcohol, which can irritate psoriatic skin.
+**Moisturising** is the single most important daily intervention [(NICE CG153, 2017)](https://www.nice.org.uk/guidance/cg153). Generous and frequent application of an emollient — ideally within 3 minutes of bathing while the skin is still damp — helps seal in moisture, reduce scale, and maintain the skin barrier. Ointment-based (greasy) emollients are most effective but can be cosmetically unacceptable during the day; cream-based emollients offer a reasonable daytime compromise. Common effective emollients available in the UK include Cetraben, Epaderm, Hydromol, and Diprobase. Avoid products with fragrances, sodium lauryl sulphate (SLS), or alcohol, which can irritate psoriatic skin.
 
 **Bathing.** Lukewarm (not hot) baths or showers are preferred; hot water strips natural oils from the skin and can trigger flares. Bath additives such as colloidal oatmeal or emollient bath oils can soothe skin. Limit bath time to 10–15 minutes. Gently pat (don't rub) skin dry. Some patients find Dead Sea salt baths helpful, though clinical evidence is limited.
 
@@ -37,4 +37,4 @@ Patients on biologic injections can generally travel freely; most biologics are 
 
 ## 13.7 Intimate Relationships and Genital Psoriasis
 
-Genital psoriasis affects up to 60% of patients at some point and is frequently undisclosed due to embarrassment. It causes pain, irritation, and discomfort during sexual activity. Open communication with partners is important, as is discussing this area with a dermatologist — specific treatments are available (low-potency corticosteroids, calcineurin inhibitors) that are safe for genital skin.
+Genital psoriasis affects up to 60% of patients at some point and is frequently undisclosed due to embarrassment [(Meeuwis et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21569104/). It causes pain, irritation, and discomfort during sexual activity. Open communication with partners is important, as is discussing this area with a dermatologist — specific treatments are available (low-potency corticosteroids, calcineurin inhibitors) that are safe for genital skin.

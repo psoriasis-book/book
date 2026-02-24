@@ -148,3 +148,7 @@ sidebar:
 71. Mariette X, Forger F, Abraham B, et al. Lack of placental transfer of certolizumab pegol during pregnancy: results from CRIB, a prospective, postmarketing, pharmacokinetic study. *Ann Rheum Dis*. 2018;77(2):228-233. doi:10.1136/annrheumdis-2017-212196. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29030361/)
 
 72. Jeong YD, Jo H, Cho H, et al. Biologics Use for Psoriasis during Pregnancy and Its Related Adverse Outcomes: Findings from WHO Pharmacovigilance Study. *Int Arch Allergy Immunol*. 2025;186(6):579-593. doi:10.1159/000542217. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39626647/)
+
+73. National Institute for Health and Care Excellence. Psoriasis: assessment and management (CG153). Updated September 2017. [NICE](https://www.nice.org.uk/guidance/cg153)
+
+74. Meeuwis KAP, de Hullu JA, van de Nieuwenhof HP, Evers AWM, Massuger LFAG, van de Kerkhof PCM, van Rossum MM. Quality of life and sexual health in patients with genital psoriasis. *Br J Dermatol*. 2011;164(6):1247-1255. doi:10.1111/j.1365-2133.2011.10249.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21569104/)
