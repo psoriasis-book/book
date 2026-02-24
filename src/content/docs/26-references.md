@@ -124,3 +124,11 @@ sidebar:
 59. Mueller W, Herrmann B. Cyclosporin A for psoriasis. *N Engl J Med*. 1979;301:555. [PubMed](https://pubmed.ncbi.nlm.nih.gov/460325/)
 
 60. Eedy DJ, Burrows D, Bridges JM, Jones FG. Clearance of severe psoriasis after allogenic bone marrow transplantation. *BMJ*. 1990;300(6729):908. doi:10.1136/bmj.300.6729.908. [BMJ](https://doi.org/10.1136/bmj.300.6729.908)
+
+61. Kurd SK, Troxel AB, Crits-Christoph P, Gelfand JM. The risk of depression, anxiety, and suicidality in patients with psoriasis: a population-based cohort study. *Arch Dermatol*. 2010;146(8):891-895. doi:10.1001/archdermatol.2010.186. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20713823/)
+
+62. Dalgard FJ, Gieler U, Tomas-Aragones L, et al. The psychological burden of skin diseases: a cross-sectional multicenter study among dermatological out-patients in 13 European countries. *J Invest Dermatol*. 2015;135(4):984-991. doi:10.1038/jid.2014.530. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25521458/)
+
+63. Williams K, Lada G, Reynolds NJ, et al. Risk of suicide and suicidality in patients with moderate to severe psoriasis: results from BADBIR. *Clin Exp Dermatol*. 2025;50(4):804-811. doi:10.1093/ced/llae449. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39425683/)
+
+64. Griffiths CEM, Fava M, Miller AH, et al. Impact of Ixekizumab Treatment on Depressive Symptoms and Systemic Inflammation in Patients with Moderate-to-Severe Psoriasis. *Psychother Psychosom*. 2017;86(5):260-267. doi:10.1159/000479163. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28903122/)
