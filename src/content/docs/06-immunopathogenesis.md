@@ -23,6 +23,8 @@ Emerging evidence identifies three cell types as constituting a central "pathoge
 - Th17 cells produce the key psoriatic cytokines IL-17, IFN-γ, and IL-22.
 - Keratinocytes respond to these cytokines by proliferating excessively and producing their own inflammatory mediators, including chemokines that recruit more immune cells, creating a self-sustaining cycle.
 
+![Normal skin vs psoriatic skin cross-section](./images/skin-cross-section.svg)
+
 ## 6.2 Phase 1: Initiation
 
 In genetically predisposed individuals, a trigger event — such as physical trauma to the skin (the **Koebner phenomenon**), streptococcal infection, stress, or certain medications — sets off the initial immune cascade [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract).
@@ -32,6 +34,8 @@ In the early phase, damaged or stressed keratinocytes release self-DNA and the a
 Simultaneously, **neutrophils** infiltrate the skin early in the process, releasing neutrophil extracellular traps (NETs — web-like structures made of DNA that neutrophils expel to trap pathogens), exosomes (tiny parcels of signalling molecules), matrix metalloproteinase 9 (MMP9 — an enzyme that breaks down tissue to allow immune cells to move through it), and IL-17 [(Sieminska et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11193704/).
 
 > **The False Fire Alarm:** Imagine LL-37/DNA complexes as burnt toast smoke. In most people, the smoke detector (pDC) briefly beeps and resets. In someone with psoriasis-susceptibility genes, the smoke detector is hypersensitive — it triggers the full building fire alarm (IFN-α), calling every fire engine in town.
+
+![IL-23/Th17 immunological cascade](./images/il23-th17-cascade.svg)
 
 ## 6.3 Phase 2: Amplification — The IL-23/Th17 Axis
 

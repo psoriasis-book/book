@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-labelledby="skin-title skin-desc">
+  <title id="skin-title">Normal Skin vs Psoriatic Skin Cross-Section</title>
+  <desc id="skin-desc">Side-by-side anatomical comparison showing normal epidermis on the left and psoriatic skin on the right, with characteristic features including acanthosis, elongated rete ridges, dilated capillaries, and Munro microabscesses.</desc>
+
+  <!-- Background -->
+  <rect width="720" height="400" fill="#fff"/>
+
+  <!-- Divider -->
+  <line x1="360" y1="30" x2="360" y2="380" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+
+  <!-- Labels -->
+  <text x="180" y="25" text-anchor="middle" font-family="serif" font-size="15" font-weight="bold" fill="#333">Normal Skin</text>
+  <text x="540" y="25" text-anchor="middle" font-family="serif" font-size="15" font-weight="bold" fill="#b33">Psoriatic Skin</text>
+
+  <!-- === NORMAL SKIN (left) === -->
+  <!-- Stratum corneum (thin, orderly) -->
+  <path d="M30,100 Q90,95 180,100 Q270,105 330,100" fill="#f5deb3" stroke="#c4a46c" stroke-width="1"/>
+  <path d="M30,100 Q90,103 180,100 Q270,97 330,100 L330,115 Q270,118 180,115 Q90,112 30,115 Z" fill="#f5deb3" stroke="#c4a46c" stroke-width="0.5"/>
+
+  <!-- Epidermis (normal thickness, gentle rete ridges) -->
+  <path d="M30,115 Q90,112 180,115 Q270,118 330,115 L330,120 Q305,140 280,120 Q255,140 230,120 Q205,140 180,120 Q155,140 130,120 Q105,140 80,120 Q55,140 30,120 Z" fill="#ffccaa" stroke="#d4956b" stroke-width="0.5"/>
+  <path d="M30,120 Q55,140 80,120 Q105,140 130,120 Q155,140 180,120 Q205,140 230,120 Q255,140 280,120 Q305,140 330,120 L330,170 Q270,165 180,170 Q90,175 30,170 Z" fill="#ffb088" stroke="#d4956b" stroke-width="0.5"/>
+
+  <!-- Dermis -->
+  <rect x="30" y="170" width="300" height="130" fill="#ffddcc" stroke="none" rx="3"/>
+
+  <!-- Normal capillaries (small, not dilated) -->
+  <g stroke="#d44" stroke-width="1.2" fill="none">
+    <path d="M80,175 L80,155 Q80,148 87,148 Q94,148 94,155 L94,175"/>
+    <path d="M130,175 L130,155 Q130,148 137,148 Q144,148 144,155 L144,175"/>
+    <path d="M180,175 L180,155 Q180,148 187,148 Q194,148 194,155 L194,175"/>
+    <path d="M230,175 L230,155 Q230,148 237,148 Q244,148 244,155 L244,175"/>
+    <path d="M280,175 L280,155 Q280,148 287,148 Q294,148 294,155 L294,175"/>
+  </g>
+
+  <!-- Scattered immune cells (few) -->
+  <g fill="#66a">
+    <circle cx="100" cy="200" r="2.5"/>
+    <circle cx="200" cy="210" r="2.5"/>
+    <circle cx="260" cy="195" r="2.5"/>
+  </g>
+
+  <!-- Normal skin labels -->
+  <g font-family="serif" font-size="10" fill="#555">
+    <text x="335" y="108">Stratum corneum</text>
+    <text x="335" y="145">Epidermis</text>
+    <text x="335" y="190">Dermis</text>
+    <line x1="330" y1="106" x2="315" y2="108" stroke="#999" stroke-width="0.5"/>
+    <line x1="330" y1="143" x2="315" y2="140" stroke="#999" stroke-width="0.5"/>
+    <line x1="330" y1="188" x2="315" y2="185" stroke="#999" stroke-width="0.5"/>
+  </g>
+
+  <!-- === PSORIATIC SKIN (right) === -->
+  <!-- Thickened, parakeratotic stratum corneum -->
+  <path d="M390,60 Q450,55 540,60 Q630,65 690,60 L690,100 Q630,105 540,100 Q450,95 390,100 Z" fill="#f0d8a0" stroke="#c4a46c" stroke-width="1"/>
+  <!-- Parakeratosis (retained nuclei shown as dots) -->
+  <g fill="#a08050" opacity="0.6">
+    <circle cx="420" cy="75" r="1.5"/><circle cx="440" cy="80" r="1.5"/><circle cx="460" cy="70" r="1.5"/>
+    <circle cx="480" cy="85" r="1.5"/><circle cx="500" cy="72" r="1.5"/><circle cx="520" cy="82" r="1.5"/>
+    <circle cx="540" cy="68" r="1.5"/><circle cx="560" cy="78" r="1.5"/><circle cx="580" cy="88" r="1.5"/>
+    <circle cx="600" cy="73" r="1.5"/><circle cx="620" cy="83" r="1.5"/><circle cx="640" cy="70" r="1.5"/>
+    <circle cx="660" cy="80" r="1.5"/><circle cx="430" cy="90" r="1.5"/><circle cx="470" cy="92" r="1.5"/>
+    <circle cx="510" cy="90" r="1.5"/><circle cx="550" cy="93" r="1.5"/><circle cx="590" cy="91" r="1.5"/>
+    <circle cx="630" cy="92" r="1.5"/>
+  </g>
+
+  <!-- Munro microabscesses -->
+  <g fill="#ffe066" stroke="#cc9" stroke-width="0.5">
+    <ellipse cx="470" cy="80" rx="8" ry="5"/>
+    <ellipse cx="580" cy="75" rx="7" ry="4"/>
+    <ellipse cx="650" cy="82" rx="6" ry="4"/>
+  </g>
+
+  <!-- Acanthotic epidermis with elongated rete ridges -->
+  <path d="M390,100 Q450,95 540,100 Q630,105 690,100 L690,110 Q670,170 650,110 Q630,190 610,110 Q590,180 570,110 Q550,190 530,110 Q510,170 490,110 Q470,190 450,110 Q430,170 410,110 Q390,180 390,110 Z" fill="#ffb088" stroke="#d4956b" stroke-width="0.5"/>
+  <path d="M390,100 Q450,95 540,100 Q630,105 690,100 L690,115 Q630,118 540,115 Q450,112 390,115 Z" fill="#ffccaa" stroke="#d4956b" stroke-width="0.5"/>
+
+  <!-- Dermis -->
+  <rect x="390" y="190" width="300" height="110" fill="#ffddcc" stroke="none" rx="3"/>
+
+  <!-- Dilated, tortuous capillaries -->
+  <g stroke="#c22" stroke-width="2.5" fill="none">
+    <path d="M410,190 L410,155 Q408,135 418,130 Q428,135 426,155 L426,190"/>
+    <path d="M450,190 L450,145 Q447,120 458,115 Q469,120 466,145 L466,190"/>
+    <path d="M490,190 L490,155 Q488,135 498,130 Q508,135 506,155 L506,190"/>
+    <path d="M530,190 L530,145 Q527,120 538,115 Q549,120 546,145 L546,190"/>
+    <path d="M570,190 L570,155 Q568,135 578,130 Q588,135 586,155 L586,190"/>
+    <path d="M610,190 L610,145 Q607,120 618,115 Q629,120 626,145 L626,190"/>
+    <path d="M650,190 L650,155 Q648,135 658,130 Q668,135 666,155 L666,190"/>
+  </g>
+
+  <!-- Dense immune cell infiltrate -->
+  <g fill="#66a">
+    <circle cx="420" cy="210" r="2.5"/><circle cx="435" cy="220" r="2.5"/><circle cx="450" cy="205" r="2.5"/>
+    <circle cx="465" cy="225" r="2.5"/><circle cx="480" cy="215" r="2.5"/><circle cx="495" cy="230" r="2.5"/>
+    <circle cx="510" cy="208" r="2.5"/><circle cx="525" cy="220" r="2.5"/><circle cx="540" cy="235" r="2.5"/>
+    <circle cx="555" cy="210" r="2.5"/><circle cx="570" cy="225" r="2.5"/><circle cx="585" cy="215" r="2.5"/>
+    <circle cx="600" cy="230" r="2.5"/><circle cx="615" cy="208" r="2.5"/><circle cx="630" cy="218" r="2.5"/>
+    <circle cx="645" cy="228" r="2.5"/><circle cx="660" cy="212" r="2.5"/><circle cx="675" cy="222" r="2.5"/>
+    <circle cx="427" cy="240" r="2.5"/><circle cx="457" cy="245" r="2.5"/><circle cx="500" cy="243" r="2.5"/>
+    <circle cx="540" cy="248" r="2.5"/><circle cx="575" cy="240" r="2.5"/><circle cx="620" cy="243" r="2.5"/>
+    <circle cx="660" cy="240" r="2.5"/>
+  </g>
+
+  <!-- T cells (different colour) -->
+  <g fill="#a44">
+    <circle cx="415" cy="155" r="2"/><circle cx="455" cy="140" r="2"/><circle cx="495" cy="150" r="2"/>
+    <circle cx="535" cy="138" r="2"/><circle cx="575" cy="148" r="2"/><circle cx="615" cy="135" r="2"/>
+    <circle cx="655" cy="150" r="2"/>
+  </g>
+
+  <!-- Psoriatic skin annotations -->
+  <g font-family="serif" font-size="9.5" fill="#555">
+    <text x="395" y="55" fill="#b33">Thickened stratum</text>
+    <text x="395" y="65" fill="#b33">corneum (parakeratosis)</text>
+
+    <text x="415" y="350" fill="#66a">Immune cell infiltrate</text>
+    <line x1="465" y1="345" x2="465" y2="252" stroke="#66a" stroke-width="0.5" stroke-dasharray="3,2"/>
+
+    <text x="580" y="350" fill="#a44">T cells</text>
+
+    <text x="600" y="370" fill="#c22">Dilated capillaries</text>
+    <line x1="650" y1="365" x2="650" y2="195" stroke="#c22" stroke-width="0.5" stroke-dasharray="3,2"/>
+
+    <text x="395" y="380" fill="#cc9">Munro microabscesses</text>
+    <line x1="470" y1="375" x2="470" y2="88" stroke="#cc9" stroke-width="0.5" stroke-dasharray="3,2"/>
+  </g>
+
+  <!-- Rete ridge label -->
+  <g font-family="serif" font-size="9.5" fill="#d4956b">
+    <text x="395" y="320">Elongated rete ridges</text>
+    <line x1="460" y1="315" x2="460" y2="190" stroke="#d4956b" stroke-width="0.5" stroke-dasharray="3,2"/>
+  </g>
+</svg>
