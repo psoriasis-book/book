@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 350" role="img" aria-labelledby="gen-title gen-desc">
+  <title id="gen-title">Genetic Architecture of Psoriasis</title>
+  <desc id="gen-desc">Diagram showing chromosome 6 with the MHC/HLA region highlighted and PSORS1/HLA-C*06:02 marked, plus a scatter view of 109 psoriasis susceptibility loci across other chromosomes.</desc>
+
+  <rect width="680" height="350" fill="#fff"/>
+
+  <!-- Title -->
+  <text x="340" y="25" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">Genetic Architecture of Psoriasis: 109 Risk Loci</text>
+
+  <!-- Chromosome 6 detail (left panel) -->
+  <rect x="20" y="45" width="250" height="280" rx="6" fill="#f8f8fc" stroke="#ccc" stroke-width="1"/>
+  <text x="145" y="65" text-anchor="middle" font-family="serif" font-size="12" font-weight="bold" fill="#339">Chromosome 6 (Detail)</text>
+
+  <!-- Chromosome 6 ideogram -->
+  <rect x="60" y="80" width="28" height="210" rx="14" fill="#ddd" stroke="#999" stroke-width="1"/>
+
+  <!-- Centromere -->
+  <ellipse cx="74" cy="170" rx="14" ry="8" fill="#bbb" stroke="#999" stroke-width="1"/>
+
+  <!-- MHC region highlight -->
+  <rect x="55" y="105" width="38" height="40" rx="4" fill="#c44" opacity="0.3" stroke="#c44" stroke-width="1.5"/>
+
+  <!-- PSORS1 / HLA-C*06:02 pointer -->
+  <line x1="93" y1="120" x2="140" y2="105" stroke="#c44" stroke-width="1.5"/>
+  <rect x="140" y="90" width="120" height="40" rx="4" fill="#fdd" stroke="#c44" stroke-width="1"/>
+  <text x="200" y="107" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#a22">PSORS1</text>
+  <text x="200" y="121" text-anchor="middle" font-family="serif" font-size="9" fill="#666">HLA-C*06:02</text>
+
+  <!-- MHC label -->
+  <line x1="55" y1="125" x2="30" y2="130" stroke="#888" stroke-width="0.5"/>
+  <text x="35" y="145" font-family="serif" font-size="8" fill="#888" transform="rotate(-90,35,145)">MHC region</text>
+
+  <!-- Stats -->
+  <text x="145" y="155" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Strongest genetic risk</text>
+  <text x="145" y="168" text-anchor="middle" font-family="serif" font-size="9" fill="#555">factor: OR ~4-10</text>
+  <text x="145" y="185" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Present in ~60% of</text>
+  <text x="145" y="198" text-anchor="middle" font-family="serif" font-size="9" fill="#555">European psoriasis patients</text>
+
+  <!-- Other PSORS loci on chr 6 -->
+  <g fill="#e88" opacity="0.6">
+    <circle cx="74" cy="200" r="3"/>
+    <circle cx="74" cy="240" r="3"/>
+  </g>
+  <text x="105" y="203" font-family="serif" font-size="8" fill="#888">Other chr6 loci</text>
+
+  <!-- Genome-wide scatter (right panel) -->
+  <rect x="290" y="45" width="370" height="280" rx="6" fill="#f8f8f8" stroke="#ccc" stroke-width="1"/>
+  <text x="475" y="65" text-anchor="middle" font-family="serif" font-size="12" font-weight="bold" fill="#339">109 Loci Across the Genome</text>
+  <text x="475" y="80" text-anchor="middle" font-family="serif" font-size="9" fill="#888">(Dand et al., 2025 — largest GWAS meta-analysis)</text>
+
+  <!-- Chromosome bars -->
+  <g transform="translate(310,95)">
+    <!-- Simplified chromosome representations with dots -->
+    <!-- Chr 1 -->
+    <rect x="0" y="0" width="8" height="80" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="4" cy="20" r="2.5" fill="#4a86c8"/><circle cx="4" cy="45" r="2.5" fill="#4a86c8"/>
+    <circle cx="4" cy="60" r="2.5" fill="#4a86c8"/><circle cx="4" cy="70" r="2.5" fill="#c44"/>
+    <text x="4" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">1</text>
+
+    <!-- Chr 2 -->
+    <rect x="16" y="5" width="8" height="75" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="20" cy="25" r="2.5" fill="#4a86c8"/><circle cx="20" cy="50" r="2.5" fill="#c44"/>
+    <circle cx="20" cy="65" r="2.5" fill="#4a86c8"/>
+    <text x="20" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">2</text>
+
+    <!-- Chr 3 -->
+    <rect x="32" y="10" width="8" height="70" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="36" cy="30" r="2.5" fill="#4a86c8"/><circle cx="36" cy="55" r="2.5" fill="#c44"/>
+    <text x="36" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">3</text>
+
+    <!-- Chr 4 -->
+    <rect x="48" y="12" width="8" height="68" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="52" cy="35" r="2.5" fill="#4a86c8"/>
+    <text x="52" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">4</text>
+
+    <!-- Chr 5 -->
+    <rect x="64" y="14" width="8" height="66" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="68" cy="30" r="2.5" fill="#4a86c8"/><circle cx="68" cy="55" r="2.5" fill="#4a86c8"/>
+    <text x="68" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">5</text>
+
+    <!-- Chr 6 (highlighted) -->
+    <rect x="80" y="15" width="8" height="65" rx="4" fill="#fdd" stroke="#c44" stroke-width="1"/>
+    <circle cx="84" cy="25" r="3.5" fill="#c44"/><circle cx="84" cy="40" r="2.5" fill="#c44"/>
+    <circle cx="84" cy="55" r="2.5" fill="#c44"/><circle cx="84" cy="65" r="2.5" fill="#4a86c8"/>
+    <text x="84" y="95" text-anchor="middle" font-family="serif" font-size="7" font-weight="bold" fill="#c44">6</text>
+
+    <!-- Chr 7-10 -->
+    <rect x="96" y="17" width="8" height="63" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="100" cy="40" r="2.5" fill="#4a86c8"/>
+    <text x="100" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">7</text>
+
+    <rect x="112" y="19" width="8" height="61" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="116" cy="35" r="2.5" fill="#c44"/>
+    <text x="116" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">8</text>
+
+    <rect x="128" y="20" width="8" height="60" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="132" cy="30" r="2.5" fill="#4a86c8"/><circle cx="132" cy="60" r="2.5" fill="#4a86c8"/>
+    <text x="132" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">9</text>
+
+    <rect x="144" y="21" width="8" height="59" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="148" cy="45" r="2.5" fill="#4a86c8"/>
+    <text x="148" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">10</text>
+
+    <!-- Chr 11-16 -->
+    <rect x="160" y="22" width="8" height="58" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="164" cy="35" r="2.5" fill="#4a86c8"/><circle cx="164" cy="60" r="2.5" fill="#c44"/>
+    <text x="164" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">11</text>
+
+    <rect x="176" y="23" width="8" height="57" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="180" cy="40" r="2.5" fill="#4a86c8"/><circle cx="180" cy="55" r="2.5" fill="#4a86c8"/>
+    <text x="180" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">12</text>
+
+    <rect x="192" y="25" width="8" height="55" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="196" cy="40" r="2.5" fill="#c44"/>
+    <text x="196" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">13</text>
+
+    <rect x="208" y="27" width="8" height="53" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="212" cy="50" r="2.5" fill="#4a86c8"/>
+    <text x="212" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">14</text>
+
+    <rect x="224" y="29" width="8" height="51" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="228" cy="40" r="2.5" fill="#4a86c8"/>
+    <text x="228" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">15</text>
+
+    <rect x="240" y="30" width="8" height="50" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="244" cy="45" r="2.5" fill="#c44"/><circle cx="244" cy="60" r="2.5" fill="#4a86c8"/>
+    <text x="244" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">16</text>
+
+    <!-- Chr 17-22 -->
+    <rect x="256" y="31" width="8" height="49" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="260" cy="42" r="2.5" fill="#4a86c8"/><circle cx="260" cy="62" r="2.5" fill="#c44"/>
+    <text x="260" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">17</text>
+
+    <rect x="272" y="33" width="8" height="47" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="276" cy="50" r="2.5" fill="#4a86c8"/>
+    <text x="276" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">18</text>
+
+    <rect x="288" y="34" width="8" height="46" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="292" cy="45" r="2.5" fill="#c44"/>
+    <text x="292" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">19</text>
+
+    <rect x="304" y="35" width="8" height="45" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="308" cy="50" r="2.5" fill="#4a86c8"/>
+    <text x="308" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">20</text>
+
+    <rect x="320" y="38" width="8" height="42" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="324" cy="48" r="2.5" fill="#4a86c8"/>
+    <text x="324" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">21</text>
+
+    <rect x="336" y="39" width="8" height="41" rx="4" fill="#ddd" stroke="#bbb" stroke-width="0.5"/>
+    <circle cx="340" cy="50" r="2.5" fill="#4a86c8"/>
+    <text x="340" y="95" text-anchor="middle" font-family="serif" font-size="7" fill="#888">22</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(310,220)">
+    <circle cx="10" cy="8" r="3.5" fill="#c44"/>
+    <text x="20" y="12" font-family="serif" font-size="9" fill="#555">Novel loci (46 newly identified)</text>
+
+    <circle cx="10" cy="28" r="3.5" fill="#4a86c8"/>
+    <text x="20" y="32" font-family="serif" font-size="9" fill="#555">Previously known loci (63)</text>
+  </g>
+
+  <!-- Key pathways box -->
+  <rect x="310" y="260" width="330" height="50" rx="4" fill="#f0f0f8" stroke="#ccc" stroke-width="1"/>
+  <text x="475" y="278" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#339">Key Pathways Implicated</text>
+  <text x="475" y="295" text-anchor="middle" font-family="serif" font-size="9" fill="#555">IL-23/IL-17 axis | Type I interferon | NF-kB | Skin barrier</text>
+</svg>
