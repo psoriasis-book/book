@@ -113,3 +113,17 @@ The availability of biosimilars is expected to expand significantly in the comin
 ## 16.7 Phototherapy
 
 **Narrowband UV-B (NB-UVB)** phototherapy is the most commonly prescribed light therapy for psoriasis. UV-B radiation induces apoptosis (programmed cell death — a controlled self-destruct mechanism that cells use to die without causing inflammation) in activated T cells in the skin and suppresses local immune responses. **PUVA** (psoralen + UV-A) is also used but carries a higher long-term risk of skin cancer.
+
+## 16.8 Combination and Adjunctive Therapy
+
+While biologic monotherapy achieves excellent results for many patients, combination strategies play an important practical role in real-world psoriasis management.
+
+**Biologic + methotrexate.** Low-dose methotrexate (7.5–15 mg/week) is sometimes continued alongside biologic therapy, particularly with TNF-α inhibitors. Methotrexate reduces the formation of anti-drug antibodies (ADAs) — immune responses that the body mounts against the biologic itself, which can reduce the drug's effectiveness over time. This strategy is borrowed from rheumatology, where it has strong evidence, and is most commonly used with infliximab and adalimumab, which have the highest immunogenicity among psoriasis biologics. The newer IL-23 and IL-17 inhibitors have lower ADA rates and less often require concomitant methotrexate.
+
+**Biologic + topical therapy.** Many patients on biologics achieve near-complete but not total clearance. Residual plaques — often on the scalp, elbows, knees, or palms — can be managed with adjunctive topical therapy. Calcipotriol/betamethasone combination products, topical calcineurin inhibitors (for face and flexures), and the newer non-steroidal topicals (roflumilast cream, tapinarof) are all commonly used alongside biologics in clinical practice. This approach allows the biologic to control systemic disease while topicals address residual localised plaques.
+
+**Phototherapy + topical therapy.** NB-UVB phototherapy is frequently combined with topical vitamin D analogues (calcipotriol), which may enhance the phototherapy response. Phototherapy can also be combined with topical corticosteroids or emollients. Coal tar preparations (Goeckerman regimen) or dithranol (Ingram regimen) combined with UVB represent historical combination approaches that remain in use in some centres.
+
+**Rotational and sequential therapy.** Before the biologic era, rotational therapy — cycling between different conventional systemics (methotrexate → cyclosporine → acitretin) — was a common strategy to limit cumulative organ toxicity from any single agent. While less necessary with modern biologics, this approach remains relevant for patients on conventional systemics who cannot access biologic therapy.
+
+**Transition periods.** When switching between systemic therapies, overlap strategies may be needed to prevent flares during the transition. For example, when switching from cyclosporine to a biologic, the cyclosporine may be tapered gradually over several weeks while the biologic takes effect, rather than being stopped abruptly.
