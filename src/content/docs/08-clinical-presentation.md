@@ -5,6 +5,8 @@ sidebar:
   order: 8
 ---
 
+![Psoriasis subtypes and their typical distribution](./images/psoriasis-subtypes.svg)
+
 ## 8.1 Types of Psoriasis
 
 Psoriasis encompasses several clinical variants:
@@ -21,6 +23,8 @@ Psoriasis encompasses several clinical variants:
 Under the microscope, psoriatic skin shows characteristic features: acanthosis (thickening of the epidermis — the skin's outer layer), elongation of rete ridges (finger-like projections of the epidermis pushing down into the dermis — the deeper skin layer), dilated and tortuous (swollen and twisted) blood vessels in the dermal papillae (the bumpy upper surface of the dermis), a mixed inflammatory infiltrate (a collection of various immune cells that have migrated into the tissue) of T cells and dendritic cells in the dermis, and collections of neutrophils called Munro microabscesses (tiny pockets of white blood cells) in the epidermis [(Armstrong & Read, 2020)](https://pubmed.ncbi.nlm.nih.gov/32427307/).
 
 ## 8.3 Measurement of Severity
+
+![PASI scoring diagram](./images/pasi-scoring.svg)
 
 Disease severity is commonly measured using the **Psoriasis Area and Severity Index (PASI)**, which scores redness, thickness, scaling, and the percentage of body surface area affected, on a scale from 0 to 72. A PASI score below 10 generally indicates mild disease, while scores above 10 indicate moderate-to-severe disease. Treatment efficacy in clinical trials is typically reported as the percentage of patients achieving PASI 75 (75% improvement), PASI 90, or PASI 100 (complete clearance) [(Armstrong & Read, 2020)](https://pubmed.ncbi.nlm.nih.gov/32427307/).
 
