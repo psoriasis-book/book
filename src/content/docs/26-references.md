@@ -132,3 +132,11 @@ sidebar:
 63. Williams K, Lada G, Reynolds NJ, et al. Risk of suicide and suicidality in patients with moderate to severe psoriasis: results from BADBIR. *Clin Exp Dermatol*. 2025;50(4):804-811. doi:10.1093/ced/llae449. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39425683/)
 
 64. Griffiths CEM, Fava M, Miller AH, et al. Impact of Ixekizumab Treatment on Depressive Symptoms and Systemic Inflammation in Patients with Moderate-to-Severe Psoriasis. *Psychother Psychosom*. 2017;86(5):260-267. doi:10.1159/000479163. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28903122/)
+
+65. Abboud E, Chrayteh D, Boussetta N, et al. Skin hepcidin initiates psoriasiform skin inflammation via Fe-driven hyperproliferation and neutrophil recruitment. *Nat Commun*. 2024;15(1):6718. doi:10.1038/s41467-024-50993-8. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11306357/)
+
+66. Olafsson S, Rodriguez E, Lawson ARJ, et al. Effects of psoriasis and psoralen exposure on the somatic mutation landscape of the skin. *Nat Genet*. 2023;55(11):1892-1900. doi:10.1038/s41588-023-01545-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37884686/)
+
+67. Bissonnette R, Soung J, Hebert AA, et al. Oral Icotrokinra for Plaque Psoriasis in Adults and Adolescents. *N Engl J Med*. 2025;393(18):1784-1795. doi:10.1056/NEJMoa2504187. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41191940/)
+
+68. Tehlirian C, et al. Tyrosine Kinase 2 Inhibition With Zasocitinib (TAK-279) in Psoriasis: A Randomized Clinical Trial. *JAMA Dermatol*. 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39167366/)

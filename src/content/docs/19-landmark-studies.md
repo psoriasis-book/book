@@ -56,8 +56,8 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 19.6 Oral IL-23 Receptor Antagonist — Icotrokinra Phase 3 (ICONIC-LEAD, 2025)
 
-**Study:** *Icotrokinra (JNJ-2113) Phase 3 ICONIC-LEAD trial results.* Presented at AAD Annual Meeting, March 2025.
-**Read it:** [Johnson & Johnson press release](https://www.jnj.com/media-center/press-releases/icotrokinra-results-show-potential-to-set-a-new-standard-of-treatment-in-plaque-psoriasis)
+**Study:** *Oral Icotrokinra for Plaque Psoriasis in Adults and Adolescents.* Bissonnette R, Soung J, Hebert AA, et al. N Engl J Med. 2025;393(18):1784-1795.
+**Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2504187) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41191940/)
 
 **Why it matters:** Icotrokinra is a first-in-class oral peptide that selectively blocks the IL-23 receptor. If approved, it would be the first pill to offer the efficacy profile of an injectable IL-23 inhibitor — potentially eliminating the need for injections entirely for many patients with moderate-to-severe psoriasis.
 
@@ -65,8 +65,8 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 19.7 Zasocitinib Phase 3 — Next-Generation Oral TYK2 Inhibitor (Takeda, December 2025)
 
-**Study:** *Phase 3 pivotal studies of zasocitinib (TAK-279) in moderate-to-severe plaque psoriasis.* Topline results announced December 2025.
-**Read it:** [Takeda press release](https://www.takeda.com/newsroom/newsreleases/2025/takeda-zasocitinib-phase-3-plaque-psoriasis-data-once-daily-pill/)
+**Study:** *Phase 3 pivotal studies of zasocitinib (TAK-279) in moderate-to-severe plaque psoriasis.* Topline results announced December 2025. Phase 2b published: Tehlirian C, et al. JAMA Dermatology. 2024.
+**Read it:** [Takeda press release](https://www.takeda.com/newsroom/newsreleases/2025/takeda-zasocitinib-phase-3-plaque-psoriasis-data-once-daily-pill/) | [Phase 2b (PubMed)](https://pubmed.ncbi.nlm.nih.gov/39167366/)
 
 **Why it matters:** Zasocitinib is a next-generation TYK2 inhibitor that is more selective and potent than the first-in-class deucravacitinib (Sotyktu). The Phase 3 results test whether a second-generation oral TYK2 inhibitor can close the efficacy gap between pills and injectable biologics.
 
@@ -83,8 +83,8 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 19.9 Hepcidin and Iron Dysregulation — A Novel Pathogenic Mechanism (2024)
 
-**Study:** Reported by ScienceDaily, September 2024.
-**Read it:** [ScienceDaily summary](https://www.sciencedaily.com/news/health_medicine/psoriasis/)
+**Study:** *Skin hepcidin initiates psoriasiform skin inflammation via Fe-driven hyperproliferation and neutrophil recruitment.* Abboud E, Chrayteh D, Boussetta N, et al. Nature Communications. 2024;15(1):6718.
+**Read it:** [Nature Communications](https://doi.org/10.1038/s41467-024-50993-8) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11306357/)
 
 **Why it matters:** Researchers have proposed that hepcidin — a hormone that regulates iron metabolism — when produced abnormally in the skin, may be a root cause of psoriatic inflammation. This is a completely novel angle that falls outside the traditional IL-23/IL-17 paradigm.
 
@@ -92,8 +92,8 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 19.10 Somatic Mutations Ruled Out (2023)
 
-**Study:** *Psoriasis not caused by spontaneous mutations in skin cells.* Published October 2023.
-**Read it:** [ScienceDaily summary](https://www.sciencedaily.com/releases/2023/10/231026121930.htm)
+**Study:** *Effects of psoriasis and psoralen exposure on the somatic mutation landscape of the skin.* Olafsson S, Rodriguez E, Lawson ARJ, et al. Nature Genetics. 2023;55(11):1892-1900.
+**Read it:** [Nature Genetics](https://doi.org/10.1038/s41588-023-01545-1) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37884686/)
 
 **Why it matters:** One longstanding hypothesis was that psoriasis might be driven by somatic mutations (random DNA changes that accumulate in skin cells over a person's lifetime), similar to how cancer develops. If true, this would have fundamentally changed how we understand the disease.
 
