@@ -31,7 +31,7 @@ Fish oil supplementation has been studied multiple times with contradictory resu
 
 ## 12.4 Gluten-Free Diet — Conditional Evidence
 
-A gluten-free diet has been shown to benefit a specific subgroup of psoriasis patients: those who test positive for antigliadin antibodies (a marker of gluten sensitivity). In one study, 73% of antibody-positive patients saw significant PASI improvement after 3 months on a gluten-free diet, while none of the antibody-negative patients improved [(Michaëlsson et al., 2000)](https://pubmed.ncbi.nlm.nih.gov/14690336/). A 2018 study by Kolchak et al. found 56% and 36% PASI improvement in patients with very high and high antigliadin antibody levels respectively after one year on a gluten-free diet [(Kolchak et al., 2018; cited in MDPI, 2020)](https://www.mdpi.com/2072-6643/12/8/2316).
+A gluten-free diet has been shown to benefit a specific subgroup of psoriasis patients: those who test positive for antigliadin antibodies (a marker of gluten sensitivity). In one study, 73% of antibody-positive patients saw significant PASI improvement after 3 months on a gluten-free diet, while none of the antibody-negative patients improved [(Michaëlsson et al., 2000)](https://pubmed.ncbi.nlm.nih.gov/10651693/). A 2018 study by Kolchak et al. found 56% and 36% PASI improvement in patients with very high and high antigliadin antibody levels respectively after one year on a gluten-free diet [(Kolchak et al., 2018; cited in MDPI, 2020)](https://www.mdpi.com/2072-6643/12/8/2316).
 
 However, for psoriasis patients without gluten sensitivity, the available evidence shows no benefit from a gluten-free diet. Screening psoriasis patients for coeliac disease markers may identify the subset who could benefit.
 
