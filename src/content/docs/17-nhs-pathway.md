@@ -5,6 +5,8 @@ sidebar:
   order: 17
 ---
 
+![NHS psoriasis treatment pathway](./images/nhs-pathway.svg)
+
 This section maps the typical journey of a psoriasis patient through the UK National Health Service, from first presentation to biologic therapy. Understanding this pathway is important for UK patients navigating the system and for understanding how NICE (National Institute for Health and Care Excellence) guidance shapes treatment access.
 
 ## 17.1 Primary Care (GP)

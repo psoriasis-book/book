@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 580" role="img" aria-labelledby="nhs-title nhs-desc">
+  <title id="nhs-title">NHS Psoriasis Treatment Pathway</title>
+  <desc id="nhs-desc">Flowchart showing the NHS psoriasis treatment pathway from GP referral through dermatologist assessment, topical optimisation, phototherapy, conventional systemics, biologic eligibility, biologic selection, and 16-week assessment with continue or switch decisions.</desc>
+
+  <rect width="700" height="580" fill="#fff"/>
+
+  <!-- Step 1: GP -->
+  <rect x="250" y="15" width="200" height="40" rx="8" fill="#e0f0e0" stroke="#4a8c4a" stroke-width="1.5"/>
+  <text x="350" y="40" text-anchor="middle" font-family="serif" font-size="12" font-weight="bold" fill="#2a6a2a">GP Diagnosis</text>
+
+  <line x1="350" y1="55" x2="350" y2="75" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,73 355,73 350,83" fill="#777"/>
+
+  <!-- Step 2: Topicals -->
+  <rect x="225" y="85" width="250" height="40" rx="8" fill="#e8f4fc" stroke="#4a86c8" stroke-width="1.5"/>
+  <text x="350" y="103" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Optimised topical therapy</text>
+  <text x="350" y="117" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(emollients, corticosteroids, vit D analogues)</text>
+
+  <!-- Mild success branch -->
+  <line x1="475" y1="105" x2="550" y2="105" stroke="#4a8c4a" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="558" y="109" font-family="serif" font-size="9" fill="#4a8c4a">Mild: maintain</text>
+
+  <line x1="350" y1="125" x2="350" y2="145" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,143 355,143 350,153" fill="#777"/>
+  <text x="365" y="140" font-family="serif" font-size="9" fill="#c44">Inadequate</text>
+
+  <!-- Step 3: Referral -->
+  <rect x="225" y="155" width="250" height="40" rx="8" fill="#fef3e0" stroke="#c8864a" stroke-width="1.5"/>
+  <text x="350" y="173" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Referral to Dermatologist</text>
+  <text x="350" y="187" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(2-week wait if severe; routine otherwise)</text>
+
+  <line x1="350" y1="195" x2="350" y2="215" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,213 355,213 350,223" fill="#777"/>
+
+  <!-- Step 4: Phototherapy -->
+  <rect x="225" y="225" width="250" height="40" rx="8" fill="#e8f4fc" stroke="#4a86c8" stroke-width="1.5"/>
+  <text x="350" y="243" text-anchor="middle" font-family="serif" font-size="11" fill="#333">NB-UVB Phototherapy</text>
+  <text x="350" y="257" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(2-3x/week for 8-12 weeks)</text>
+
+  <line x1="350" y1="265" x2="350" y2="285" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,283 355,283 350,293" fill="#777"/>
+  <text x="365" y="280" font-family="serif" font-size="9" fill="#c44">Inadequate</text>
+
+  <!-- Step 5: Conventional systemics -->
+  <rect x="210" y="295" width="280" height="40" rx="8" fill="#e8f4fc" stroke="#4a86c8" stroke-width="1.5"/>
+  <text x="350" y="313" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Conventional Systemic Therapy</text>
+  <text x="350" y="327" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(methotrexate, ciclosporin, or acitretin)</text>
+
+  <line x1="350" y1="335" x2="350" y2="355" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,353 355,353 350,363" fill="#777"/>
+  <text x="365" y="350" font-family="serif" font-size="9" fill="#c44">Inadequate/intolerant</text>
+
+  <!-- Step 6: Biologic eligibility -->
+  <rect x="200" y="365" width="300" height="50" rx="8" fill="#fdd" stroke="#c44" stroke-width="1.5"/>
+  <text x="350" y="385" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#a22">Biologic Eligibility Assessment</text>
+  <text x="350" y="400" text-anchor="middle" font-family="serif" font-size="10" fill="#333">PASI >=10 AND DLQI >=10</text>
+  <text x="350" y="412" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(or high-impact site disease)</text>
+
+  <!-- High-impact site branch -->
+  <rect x="530" y="220" width="140" height="55" rx="6" fill="#fef0e0" stroke="#c8864a" stroke-width="1"/>
+  <text x="600" y="238" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#c8864a">High-impact sites</text>
+  <text x="600" y="250" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Face, genitals, hands,</text>
+  <text x="600" y="262" text-anchor="middle" font-family="serif" font-size="9" fill="#666">feet, nails, scalp</text>
+  <path d="M600,275 L600,380 L500,390" fill="none" stroke="#c8864a" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="555" y="350" font-family="serif" font-size="8" fill="#c8864a">May qualify</text>
+  <text x="555" y="360" font-family="serif" font-size="8" fill="#c8864a">directly</text>
+
+  <line x1="350" y1="415" x2="350" y2="435" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,433 355,433 350,443" fill="#777"/>
+
+  <!-- Step 7: Biologic selection -->
+  <rect x="215" y="445" width="270" height="40" rx="8" fill="#e0e8f4" stroke="#5577aa" stroke-width="1.5"/>
+  <text x="350" y="463" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Biologic Selection (NICE TA)</text>
+  <text x="350" y="477" text-anchor="middle" font-family="serif" font-size="9" fill="#666">(IL-23i preferred first-line per guidelines)</text>
+
+  <line x1="350" y1="485" x2="350" y2="505" stroke="#777" stroke-width="1.5"/>
+  <polygon points="345,503 355,503 350,513" fill="#777"/>
+
+  <!-- Step 8: 16-week assessment -->
+  <rect x="220" y="515" width="260" height="35" rx="8" fill="#fef3e0" stroke="#c8864a" stroke-width="1.5"/>
+  <text x="350" y="537" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#333">16-Week Assessment</text>
+
+  <!-- Continue or switch -->
+  <line x1="260" y1="550" x2="200" y2="565" stroke="#4a8c4a" stroke-width="1.5"/>
+  <text x="145" y="570" font-family="serif" font-size="10" fill="#4a8c4a" font-weight="bold">Continue</text>
+  <text x="130" y="580" font-family="serif" font-size="9" fill="#666">(if PASI 75 achieved)</text>
+
+  <line x1="440" y1="550" x2="500" y2="565" stroke="#c44" stroke-width="1.5"/>
+  <text x="510" y="570" font-family="serif" font-size="10" fill="#c44" font-weight="bold">Switch biologic</text>
+  <text x="510" y="580" font-family="serif" font-size="9" fill="#666">(if PASI 75 not achieved)</text>
+</svg>
