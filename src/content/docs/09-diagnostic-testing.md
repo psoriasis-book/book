@@ -12,7 +12,7 @@ Psoriasis is primarily a clinical diagnosis — in most cases, an experienced de
 The first and most important "test" is a thorough physical examination by a dermatologist. The clinician examines the skin for characteristic features: well-demarcated (clearly bordered), erythematous (red), scaly plaques, typically distributed symmetrically on extensor surfaces (elbows, knees), the scalp, lower back, and gluteal cleft. Two classic clinical signs are used:
 
 - **Auspitz sign**: When the silvery scale is gently removed from a plaque, tiny pinpoint bleeding spots appear within seconds. This occurs because the dermis's dilated capillaries are now exposed through the thinned suprapapillary epidermis. While not entirely specific to psoriasis, it is strongly suggestive.
-- **Koebner phenomenon**: New psoriatic lesions developing at sites of skin injury (a cut, scratch, or sunburn). This occurs in approximately 25–30% of patients and supports the diagnosis.
+- **Koebner phenomenon**: New psoriatic lesions developing at sites of skin injury (a cut, scratch, or sunburn). This occurs in approximately 25–50% of patients and supports the diagnosis.
 
 The clinician will also ask about family history (psoriasis has ~66% heritability), the pattern of symptom onset, triggers, joint symptoms (to screen for psoriatic arthritis), and the impact on quality of life. Involvement of nails (pitting, onycholysis, oil-drop sign) and the periumbilical region are additional diagnostic clues specific to psoriasis [(Armstrong & Read, 2020)](https://pubmed.ncbi.nlm.nih.gov/32427307/).
 
