@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="hist-title hist-desc">
+  <title id="hist-title">History of Psoriasis: Key Milestones</title>
+  <desc id="hist-desc">Horizontal timeline from the Ebers Papyrus (1550 BC) through Willan's classification (1808), Goeckerman regimen (1925), methotrexate (1971), cyclosporine insight (1979), first biologic (2004), to oral IL-23 antagonist (2025).</desc>
+
+  <rect width="720" height="220" fill="#fff"/>
+
+  <!-- Timeline axis -->
+  <line x1="30" y1="110" x2="690" y2="110" stroke="#aaa" stroke-width="2"/>
+
+  <!-- Tick marks and events -->
+  <!-- 1550 BC -->
+  <line x1="55" y1="100" x2="55" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="55" cy="110" r="4" fill="#8b6914"/>
+  <text x="55" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">1550 BC</text>
+  <text x="55" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Ebers</text>
+  <text x="55" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Papyrus</text>
+
+  <!-- Hippocrates ~400 BC -->
+  <line x1="120" y1="100" x2="120" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="120" cy="110" r="4" fill="#8b6914"/>
+  <text x="120" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">~400 BC</text>
+  <text x="120" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Hippocrates</text>
+  <text x="120" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">(lopoi)</text>
+
+  <!-- Willan 1808 -->
+  <line x1="200" y1="100" x2="200" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="200" cy="110" r="4" fill="#4a78b0"/>
+  <text x="200" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">1808</text>
+  <text x="200" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Willan</text>
+  <text x="200" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">classification</text>
+
+  <!-- von Hebra 1841 -->
+  <line x1="260" y1="100" x2="260" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="260" cy="110" r="4" fill="#4a78b0"/>
+  <text x="260" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">1841</text>
+  <text x="260" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">von Hebra</text>
+  <text x="260" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">separates</text>
+  <text x="260" y="160" text-anchor="middle" font-family="serif" font-size="8" fill="#555">from leprosy</text>
+
+  <!-- Goeckerman 1925 -->
+  <line x1="330" y1="100" x2="330" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="330" cy="110" r="4" fill="#4a78b0"/>
+  <text x="330" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">1925</text>
+  <text x="330" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Goeckerman</text>
+  <text x="330" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">regimen</text>
+
+  <!-- Methotrexate 1971 -->
+  <line x1="410" y1="100" x2="410" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="410" cy="110" r="4" fill="#b06040"/>
+  <text x="410" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">1971</text>
+  <text x="410" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Methotrexate</text>
+  <text x="410" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">FDA-approved</text>
+
+  <!-- Cyclosporine insight 1979 -->
+  <line x1="470" y1="100" x2="470" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="470" cy="110" r="4" fill="#b06040"/>
+  <text x="470" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">1979</text>
+  <text x="470" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Cyclosporine</text>
+  <text x="470" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">immune link</text>
+
+  <!-- First biologic 2004 -->
+  <line x1="550" y1="100" x2="550" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="550" cy="110" r="4" fill="#c44"/>
+  <text x="550" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">2004</text>
+  <text x="550" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">First biologic</text>
+  <text x="550" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">(etanercept)</text>
+
+  <!-- IL-23 inhibitors 2017 -->
+  <line x1="610" y1="100" x2="610" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="610" cy="110" r="4" fill="#c44"/>
+  <text x="610" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">2017</text>
+  <text x="610" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">IL-23</text>
+  <text x="610" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">inhibitors</text>
+
+  <!-- Oral IL-23 2025 -->
+  <line x1="670" y1="100" x2="670" y2="120" stroke="#777" stroke-width="1.5"/>
+  <circle cx="670" cy="110" r="5" fill="#c44" stroke="#a22" stroke-width="1"/>
+  <text x="670" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">2025</text>
+  <text x="670" y="140" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Oral IL-23</text>
+  <text x="670" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#555">antagonist</text>
+
+  <!-- Era labels -->
+  <rect x="45" y="170" width="230" height="18" rx="3" fill="#f0e8d0" stroke="#c4a46c" stroke-width="0.5"/>
+  <text x="160" y="183" text-anchor="middle" font-family="serif" font-size="9" fill="#8b6914">Clinical observation era</text>
+
+  <rect x="390" y="170" width="120" height="18" rx="3" fill="#f0ddd0" stroke="#b06040" stroke-width="0.5"/>
+  <text x="450" y="183" text-anchor="middle" font-family="serif" font-size="9" fill="#b06040">Systemic era</text>
+
+  <rect x="530" y="170" width="160" height="18" rx="3" fill="#fdd" stroke="#c44" stroke-width="0.5"/>
+  <text x="610" y="183" text-anchor="middle" font-family="serif" font-size="9" fill="#a22">Biologic revolution</text>
+
+  <!-- Title -->
+  <text x="360" y="25" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">Key Milestones in Psoriasis History</text>
+</svg>
