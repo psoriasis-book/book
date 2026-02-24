@@ -27,6 +27,7 @@ book:
         - src/content/docs/08-clinical-presentation.md
         - src/content/docs/09-diagnostic-testing.md
         - src/content/docs/10-comorbidities.md
+        - src/content/docs/10a-psoriatic-arthritis.md
         - src/content/docs/11-psychological-burden.md
     - part: "Living with Psoriasis"
       chapters:
@@ -36,6 +37,7 @@ book:
         - src/content/docs/15-remission.md
     - part: "Treatment"
       chapters:
+        - src/content/docs/15a-topical-treatments.md
         - src/content/docs/16-therapeutic-landscape.md
         - src/content/docs/17-nhs-pathway.md
         - src/content/docs/18-traditional-medicine.md
@@ -46,6 +48,7 @@ book:
         - src/content/docs/21-covid19.md
   appendices:
     - src/content/docs/22-registries.md
+    - src/content/docs/22a-patient-resources.md
     - src/content/docs/23-major-books.md
     - src/content/docs/24-glossary.md
     - src/content/docs/25-conclusion.md
