@@ -17,7 +17,17 @@ Clinical papers rarely address the everyday practicalities of living with psoria
 
 ## 13.2 Scalp Care
 
-Scalp psoriasis is one of the most common and difficult-to-treat sites. A practical approach: (1) apply a descaling preparation (coconut oil, salicylic acid, or a dedicated scalp oil) before washing; leave for at least 30 minutes to soften scale; (2) use a medicated shampoo (coal tar-based such as Polytar or T/Gel, or ketoconazole-based) 2–3 times per week, leaving it on the scalp for 5 minutes before rinsing; (3) apply prescribed topical treatment (calcipotriol scalp solution, steroid scalp application) to clean, de-scaled scalp for better absorption. Avoid aggressive brushing or scratching.
+Scalp psoriasis is one of the most common and difficult-to-treat sites, affecting approximately 45–56% of all psoriasis patients and frequently cited as the most bothersome location for disease. The scalp's dense hair coverage makes topical application difficult, reduces treatment adherence, and limits drug penetration. The psychological impact is substantial — visible flaking causes embarrassment, and many patients avoid hairdressers or social situations.
+
+**A practical three-step approach:**
+
+1. **Descale first.** Apply a descaling preparation (coconut oil, salicylic acid 2–5%, or a dedicated scalp oil such as Cocois ointment or Dermax) before washing. Leave for at least 30 minutes — or overnight under a shower cap for thick plaques — to soften scale. Thick scale physically blocks absorption of active treatments, so this step is essential.
+2. **Medicated shampoo.** Use a coal tar-based shampoo (such as Polytar or T/Gel), ketoconazole-based shampoo, or salicylic acid shampoo 2–3 times per week, leaving it on the scalp for 5 minutes before rinsing. On non-treatment days, use a gentle, fragrance-free shampoo.
+3. **Apply active treatment to clean, de-scaled scalp.** Prescribed topical treatments — calcipotriol/betamethasone dipropionate gel or foam (Enstilar, Dovobet), potent corticosteroid scalp applications (betamethasone valerate, clobetasol propionate lotion or shampoo), or calcipotriol scalp solution — penetrate far better when applied after descaling and washing.
+
+**Vehicle matters.** Solutions, lotions, foams, and gels are generally better tolerated on the scalp than ointments or creams, which can be difficult to apply through hair and feel greasy. The calcipotriol/betamethasone foam formulation (Enstilar) has been shown to improve adherence compared with ointment formulations.
+
+**For moderate-to-severe scalp psoriasis** that does not respond to topical therapy, biologic treatments — particularly IL-17 inhibitors (secukinumab, ixekizumab) — have demonstrated high scalp-specific response rates in clinical trials, with complete scalp clearance achieved in over 50% of patients. Avoid aggressive brushing, scratching, or picking at scalp plaques, as this risks triggering the Köbner phenomenon.
 
 ## 13.3 Nail Care
 
