@@ -47,4 +47,15 @@ Patients on biologic injections can generally travel freely; most biologics are 
 
 ## 13.7 Intimate Relationships and Genital Psoriasis
 
-Genital psoriasis affects up to 60% of patients at some point and is frequently undisclosed due to embarrassment [(Meeuwis et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21569104/). It causes pain, irritation, and discomfort during sexual activity. Open communication with partners is important, as is discussing this area with a dermatologist — specific treatments are available (low-potency corticosteroids, calcineurin inhibitors) that are safe for genital skin.
+Genital psoriasis affects up to 60% of patients at some point and is frequently undisclosed due to embarrassment [(Meeuwis et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21569104/). Studies report that 30–70% of psoriasis patients experience sexual dysfunction, including reduced desire, arousal difficulties, pain during intercourse, and avoidance of sexual activity altogether. The impact is often disproportionate to the visible severity of disease elsewhere on the body.
+
+**Clinical presentation.** Genital psoriasis typically appears as well-demarcated, erythematous (red) patches without the thick silvery scale seen at other body sites, because the moist environment of the genital area prevents scale accumulation. In men, it commonly affects the glans, shaft of the penis, and scrotum. In women, it affects the vulva, inguinal folds, and gluteal cleft. It is often misdiagnosed as fungal infection, contact dermatitis, or sexually transmitted infection.
+
+**Treatment.** Genital skin is thin, moist, and highly permeable, increasing both drug absorption and the risk of side effects. Treatment guidance differs from other body sites:
+
+- **Low-potency topical corticosteroids** (hydrocortisone 1%) are first-line for short-term use. Moderate-potency steroids may be used briefly for flares, but potent and very potent steroids should be avoided on genital skin due to the high risk of atrophy, striae, and telangiectasia.
+- **Topical calcineurin inhibitors** (tacrolimus 0.1% ointment, pimecrolimus 1% cream) are particularly valuable for genital psoriasis because they are effective, do not cause skin atrophy, and can be used longer-term. They are used off-label for this indication.
+- **Emollients** should be used liberally. Avoid products containing fragrances, preservatives, or propylene glycol, which can irritate genital mucosa. Unperfumed emollient creams or ointments are preferred.
+- **Newer non-steroidal topicals** (roflumilast cream, tapinarof) may have a role in genital psoriasis given their lack of atrophy risk, though specific genital data are limited.
+
+**Communication and referral.** Patients rarely volunteer information about genital involvement; clinicians should routinely ask about it. Partners may benefit from reassurance that psoriasis is not contagious and not a sexually transmitted infection. Where sexual dysfunction is persistent, referral to psychosexual services may be appropriate.
