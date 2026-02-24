@@ -127,3 +127,22 @@ While biologic monotherapy achieves excellent results for many patients, combina
 **Rotational and sequential therapy.** Before the biologic era, rotational therapy — cycling between different conventional systemics (methotrexate → cyclosporine → acitretin) — was a common strategy to limit cumulative organ toxicity from any single agent. While less necessary with modern biologics, this approach remains relevant for patients on conventional systemics who cannot access biologic therapy.
 
 **Transition periods.** When switching between systemic therapies, overlap strategies may be needed to prevent flares during the transition. For example, when switching from cyclosporine to a biologic, the cyclosporine may be tapered gradually over several weeks while the biologic takes effect, rather than being stopped abruptly.
+
+## 16.9 Global Access and Health Equity
+
+The therapeutic revolution in psoriasis has been unevenly distributed. While patients in high-income countries increasingly have access to biologic therapies achieving PASI 90–100, the reality for most of the world's psoriasis patients is very different.
+
+**The WHO Global Report.** In 2016, the World Health Organization published its *Global Report on Psoriasis*, recognising the disease as "a serious non-communicable disease" and calling for action to improve diagnosis, treatment, and access worldwide [(WHO, 2016)](https://iris.who.int/handle/10665/204417). The report documented that 76% of countries lack epidemiological data on psoriasis, that many low- and middle-income countries (LMICs) have no dermatologists, and that even basic systemic treatments are unavailable in some settings.
+
+**Conventional systemics as the global backbone.** In most LMICs, methotrexate — available, inexpensive, and effective for both skin and joint disease — remains the primary systemic treatment. Cyclosporine and acitretin are also used where available. These agents, while carrying more monitoring requirements and side effects than biologics, are the only realistic options for the majority of moderate-to-severe psoriasis patients worldwide.
+
+**Biosimilar impact on global access.** The arrival of biosimilars (Section 16.4) has the potential to transform global access. Infliximab biosimilars have already reduced annual treatment costs from tens of thousands of dollars to approximately $1,664 per year in the US, and costs are even lower in countries such as India. As biosimilars become available for adalimumab (from 2023) and ustekinumab (from 2025), biologic therapy may become accessible in upper-middle-income countries for the first time. However, cold-chain requirements (most biologics require refrigeration), injection administration infrastructure, and monitoring needs remain barriers.
+
+**Regional treatment guidelines.** Several major guideline frameworks exist:
+- **GRAPPA** (Group for Research and Assessment of Psoriasis and Psoriatic Arthritis) — international, domain-based recommendations primarily for PsA but increasingly influencing skin psoriasis management
+- **EuroGuiDerm** — the European Dermatology Forum guidelines, recommending IL-23 inhibitors as preferred first-line biologics
+- **AAD-NPF** — the American Academy of Dermatology/National Psoriasis Foundation joint guidelines
+- **BAD** — the British Association of Dermatologists guidelines, integrated with NICE technology appraisals
+- Regional guidelines from Asia-Pacific, Latin American, and Middle Eastern dermatology societies increasingly adapt these frameworks to local resource realities
+
+**The treatment gap.** Even in high-income countries, significant treatment gaps persist. In the US, racial and ethnic disparities in biologic access (Section 14.3) mean that many patients who meet clinical criteria for biologic therapy never receive it. In the UK, the sequential therapy requirements of the NICE pathway (Section 17) mean that patients must "fail" conventional treatments before accessing biologics, introducing delays of months to years. Worldwide, the gap between what is clinically achievable and what patients actually receive remains the central challenge in psoriasis care.
