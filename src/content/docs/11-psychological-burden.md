@@ -27,7 +27,13 @@ The WHO's 2016 Global Report on Psoriasis highlighted that patients frequently f
 
 ## 11.4 Impact on Employment and Productivity
 
-Psoriasis significantly affects working life. Studies have documented increased absenteeism, presenteeism (reduced productivity while at work), and career limitation. Patients with psoriasis affecting the hands face particular occupational challenges, as do those in public-facing roles where visible skin disease attracts attention or concern from colleagues and customers.
+Psoriasis significantly affects working life. Studies using the Work Productivity and Activity Impairment (WPAI) questionnaire have documented that patients with moderate-to-severe psoriasis lose an average of 2.8 hours of work per week due to absenteeism and an additional 6.7 hours per week due to presenteeism (reduced productivity while at work). Career limitation is common: patients report avoiding certain professions, declining promotions that involve public visibility, and taking early retirement.
+
+**Hand psoriasis and occupational challenges.** Psoriasis affecting the hands is particularly disabling for employment. Manual workers, healthcare professionals, food handlers, and those in any occupation requiring frequent hand washing or wet work face both functional impairment (painful cracking, reduced grip strength) and social barriers (colleagues' and customers' reactions to visible lesions). Occupational dermatology services can provide workplace assessments and recommendations.
+
+**Legal protections.** In the UK, psoriasis can qualify as a disability under the Equality Act 2010 if it has a "substantial and long-term adverse effect" on a person's ability to carry out normal day-to-day activities. In the US, severe psoriasis may be covered under the Americans with Disabilities Act (ADA). Reasonable workplace adjustments may include flexible working arrangements, access to private changing facilities, modified dress codes, and time off for treatment appointments.
+
+**Employer communication.** Patients often struggle with whether and how to disclose their condition to employers. Advocacy organisations (Section 22a) provide template letters and guidance for workplace conversations. Where possible, involving the occupational health department can facilitate appropriate adjustments without requiring the patient to disclose details to managers or colleagues directly.
 
 ## 11.5 Psychological Interventions
 
