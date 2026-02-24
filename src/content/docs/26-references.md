@@ -140,3 +140,5 @@ sidebar:
 67. Bissonnette R, Soung J, Hebert AA, et al. Oral Icotrokinra for Plaque Psoriasis in Adults and Adolescents. *N Engl J Med*. 2025;393(18):1784-1795. doi:10.1056/NEJMoa2504187. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41191940/)
 
 68. Tehlirian C, et al. Tyrosine Kinase 2 Inhibition With Zasocitinib (TAK-279) in Psoriasis: A Randomized Clinical Trial. *JAMA Dermatol*. 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39167366/)
+
+69. Nielsen ML, Thein D, Rasmussen MK, et al. Trajectories and prognosis after discontinuation of biologics due to remission in psoriasis: A nationwide cohort study. *J Am Acad Dermatol*. 2023;88(6):1378-1381. doi:10.1016/j.jaad.2023.01.029. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36739903/)
