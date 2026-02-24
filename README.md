@@ -8,7 +8,7 @@ A collaborative book covering the pathogenesis, immunology, genetics, and therap
 
 ```
 src/content/docs/   Chapters (Starlight markdown)
-pdf/                PDF build pipeline (Pandoc + XeLaTeX)
+_quarto.yml         PDF build config (Quarto)
 public/             Static assets (visual guide, CNAME)
 .github/workflows/  CI/CD (build, deploy, release)
 ```
@@ -23,10 +23,19 @@ npm run build      # Production build
 
 ## PDF generation
 
-Requires [Pandoc](https://pandoc.org/) and XeLaTeX (e.g. TeX Live):
+Requires [Quarto](https://quarto.org/) and TinyTeX:
 
 ```bash
-bash pdf/build-pdf.sh    # Produces psoriasis-book.pdf
+# Install Quarto — pick one:
+brew install quarto          # macOS (Homebrew)
+sudo apt install quarto      # Debian/Ubuntu
+# or download from https://quarto.org/docs/get-started/
+
+# Install TinyTeX (LaTeX distribution used by Quarto)
+quarto install tinytex
+
+# Build the PDF
+quarto render --to pdf       # Produces _book/Psoriasis.pdf
 ```
 
 ## CI/CD

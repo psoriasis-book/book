@@ -5,9 +5,9 @@ node_modules/
 dist/
 .astro/
 
-# PDF build artifacts
-psoriasis-book.pdf
-pdf/build/
+# Quarto build output
+_book/
+.quarto/
 
 # OS files
 .DS_Store
@@ -23,3 +23,6 @@ Thumbs.db
 # Environment
 .env
 .env.*
+
+/.quarto/
+**/*.quarto_ipynb

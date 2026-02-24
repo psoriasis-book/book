@@ -5,10 +5,10 @@ website:
 	npm run build
 
 pdf:
-	sh pdf/build-pdf.sh
+	quarto render --to pdf
 
 dev:
 	npm run dev
 
 clean:
-	rm -rf dist .astro pdf/build psoriasis-book.pdf
+	rm -rf dist .astro _book
