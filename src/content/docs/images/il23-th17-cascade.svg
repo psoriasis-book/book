@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 520" role="img" aria-labelledby="cascade-title cascade-desc">
+  <title id="cascade-title">IL-23/Th17 Immunological Cascade in Psoriasis</title>
+  <desc id="cascade-desc">Flow diagram showing the three-phase model of psoriasis pathogenesis: initiation (trigger to pDC activation), amplification (IL-23 to Th17 response), and chronic maintenance (tissue-resident memory T cells), with a CCL20 feedback loop.</desc>
+
+  <rect width="680" height="520" fill="#fff"/>
+
+  <!-- Phase labels -->
+  <rect x="20" y="15" width="200" height="28" rx="4" fill="#e8f0fe" stroke="#4a86c8" stroke-width="1"/>
+  <text x="120" y="34" text-anchor="middle" font-family="serif" font-size="13" font-weight="bold" fill="#2a5a9c">Phase 1: Initiation</text>
+
+  <rect x="240" y="15" width="200" height="28" rx="4" fill="#fef3e0" stroke="#c8864a" stroke-width="1"/>
+  <text x="340" y="34" text-anchor="middle" font-family="serif" font-size="13" font-weight="bold" fill="#9c5a2a">Phase 2: Amplification</text>
+
+  <rect x="460" y="15" width="200" height="28" rx="4" fill="#e8fee8" stroke="#4ac84a" stroke-width="1"/>
+  <text x="560" y="34" text-anchor="middle" font-family="serif" font-size="13" font-weight="bold" fill="#2a7a2a">Phase 3: Maintenance</text>
+
+  <!-- Phase 1: Trigger -->
+  <rect x="60" y="65" width="120" height="40" rx="6" fill="#d0e4f7" stroke="#4a86c8" stroke-width="1.5"/>
+  <text x="120" y="82" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Environmental</text>
+  <text x="120" y="96" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Trigger</text>
+
+  <!-- Arrow down -->
+  <line x1="120" y1="105" x2="120" y2="130" stroke="#4a86c8" stroke-width="1.5"/>
+  <polygon points="115,128 125,128 120,138" fill="#4a86c8"/>
+
+  <!-- LL-37/DNA complex -->
+  <rect x="50" y="140" width="140" height="40" rx="6" fill="#d0e4f7" stroke="#4a86c8" stroke-width="1.5"/>
+  <text x="120" y="157" text-anchor="middle" font-family="serif" font-size="11" fill="#333">LL-37/self-DNA</text>
+  <text x="120" y="171" text-anchor="middle" font-family="serif" font-size="11" fill="#333">complex</text>
+
+  <!-- Arrow down -->
+  <line x1="120" y1="180" x2="120" y2="205" stroke="#4a86c8" stroke-width="1.5"/>
+  <polygon points="115,203 125,203 120,213" fill="#4a86c8"/>
+
+  <!-- pDC -->
+  <rect x="55" y="215" width="130" height="40" rx="6" fill="#b8d4f0" stroke="#4a86c8" stroke-width="1.5"/>
+  <text x="120" y="232" text-anchor="middle" font-family="serif" font-size="11" fill="#333">pDC activation</text>
+  <text x="120" y="246" text-anchor="middle" font-family="serif" font-size="10" fill="#666">(IFN-alpha)</text>
+
+  <!-- Arrow right to mDC -->
+  <line x1="185" y1="235" x2="240" y2="235" stroke="#888" stroke-width="1.5"/>
+  <polygon points="238,230 238,240 248,235" fill="#888"/>
+
+  <!-- Phase 2: mDC -->
+  <rect x="250" y="215" width="130" height="40" rx="6" fill="#fde8c8" stroke="#c8864a" stroke-width="1.5"/>
+  <text x="315" y="232" text-anchor="middle" font-family="serif" font-size="11" fill="#333">mDC activation</text>
+  <text x="315" y="246" text-anchor="middle" font-family="serif" font-size="10" fill="#666">(produces IL-23)</text>
+
+  <!-- Arrow down -->
+  <line x1="315" y1="255" x2="315" y2="285" stroke="#c8864a" stroke-width="1.5"/>
+  <polygon points="310,283 320,283 315,293" fill="#c8864a"/>
+  <text x="330" y="278" font-family="serif" font-size="9" fill="#c8864a">IL-23</text>
+
+  <!-- Th17 cell -->
+  <rect x="250" y="295" width="130" height="40" rx="6" fill="#f8d0a0" stroke="#c8864a" stroke-width="1.5"/>
+  <text x="315" y="312" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Th17 cell</text>
+  <text x="315" y="326" text-anchor="middle" font-family="serif" font-size="10" fill="#666">differentiation</text>
+
+  <!-- Arrow down -->
+  <line x1="315" y1="335" x2="315" y2="365" stroke="#c8864a" stroke-width="1.5"/>
+  <polygon points="310,363 320,363 315,373" fill="#c8864a"/>
+
+  <!-- Cytokine output -->
+  <rect x="230" y="375" width="170" height="50" rx="6" fill="#f8d0a0" stroke="#c8864a" stroke-width="1.5"/>
+  <text x="315" y="392" text-anchor="middle" font-family="serif" font-size="11" fill="#333">IL-17A, IL-17F,</text>
+  <text x="315" y="408" text-anchor="middle" font-family="serif" font-size="11" fill="#333">IL-22, TNF-alpha</text>
+
+  <!-- Arrow down to keratinocyte response -->
+  <line x1="315" y1="425" x2="315" y2="455" stroke="#c8864a" stroke-width="1.5"/>
+  <polygon points="310,453 320,453 315,463" fill="#c8864a"/>
+
+  <!-- Keratinocyte response -->
+  <rect x="220" y="465" width="190" height="40" rx="6" fill="#ffe0c0" stroke="#c8864a" stroke-width="1.5"/>
+  <text x="315" y="482" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Keratinocyte activation</text>
+  <text x="315" y="496" text-anchor="middle" font-family="serif" font-size="10" fill="#666">(hyperproliferation, CCL20)</text>
+
+  <!-- CCL20 feedback loop (back up to mDC) -->
+  <path d="M220,480 Q180,480 180,400 Q180,235 250,235" fill="none" stroke="#d44" stroke-width="1.5" stroke-dasharray="5,3"/>
+  <polygon points="248,230 248,240 238,235" fill="#d44"/>
+  <text x="155" y="370" font-family="serif" font-size="9" fill="#d44" transform="rotate(-90,155,370)">CCL20 feedback loop</text>
+
+  <!-- Phase 3: TRM cells -->
+  <rect x="475" y="295" width="160" height="50" rx="6" fill="#c8f0c8" stroke="#4ac84a" stroke-width="1.5"/>
+  <text x="555" y="312" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Tissue-Resident</text>
+  <text x="555" y="328" text-anchor="middle" font-family="serif" font-size="11" fill="#333">Memory T cells (TRM)</text>
+
+  <!-- Arrow from Th17 to TRM -->
+  <line x1="380" y1="315" x2="473" y2="315" stroke="#888" stroke-width="1.5"/>
+  <polygon points="471,310 471,320 481,315" fill="#888"/>
+  <text x="427" y="308" font-family="serif" font-size="9" fill="#888">persist</text>
+
+  <!-- TRM reactivation arrow back to cytokines -->
+  <path d="M475,340 Q430,360 400,385" fill="none" stroke="#4ac84a" stroke-width="1.5"/>
+  <polygon points="404,382 398,390 407,388" fill="#4ac84a"/>
+  <text x="450" y="370" font-family="serif" font-size="9" fill="#2a7a2a">reactivation</text>
+
+  <!-- Resolved plaque label -->
+  <rect x="475" y="375" width="160" height="40" rx="6" fill="#e8fee8" stroke="#4ac84a" stroke-width="1.5"/>
+  <text x="555" y="392" text-anchor="middle" font-family="serif" font-size="10" fill="#333">Immune "memory"</text>
+  <text x="555" y="406" text-anchor="middle" font-family="serif" font-size="10" fill="#333">at resolved plaque sites</text>
+
+  <!-- Arrow down from TRM -->
+  <line x1="555" y1="345" x2="555" y2="373" stroke="#4ac84a" stroke-width="1.5"/>
+  <polygon points="550,371 560,371 555,381" fill="#4ac84a"/>
+
+  <!-- Trigger examples -->
+  <g font-family="serif" font-size="9" fill="#888">
+    <text x="60" y="115" font-style="italic">Trauma, infection,</text>
+    <text x="60" y="125" font-style="italic">stress, medication</text>
+  </g>
+</svg>
