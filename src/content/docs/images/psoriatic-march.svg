@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" role="img" aria-labelledby="march-title march-desc">
+  <title id="march-title">The Psoriatic March</title>
+  <desc id="march-desc">Linear cascade diagram showing how skin inflammation leads through systemic cytokines, insulin resistance, endothelial dysfunction, atherosclerosis, to cardiovascular events, with biologics interrupting the chain.</desc>
+
+  <rect width="700" height="280" fill="#fff"/>
+
+  <!-- Step 1: Skin inflammation -->
+  <rect x="15" y="80" width="95" height="65" rx="8" fill="#fdd" stroke="#c44" stroke-width="1.5"/>
+  <text x="62" y="100" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#a22">Skin</text>
+  <text x="62" y="115" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#a22">Inflammation</text>
+  <text x="62" y="132" text-anchor="middle" font-family="serif" font-size="8" fill="#888">(psoriatic plaques)</text>
+
+  <!-- Arrow 1 -->
+  <line x1="110" y1="112" x2="140" y2="112" stroke="#777" stroke-width="1.5"/>
+  <polygon points="138,107 138,117 148,112" fill="#777"/>
+
+  <!-- Step 2: Systemic cytokines -->
+  <rect x="150" y="80" width="95" height="65" rx="8" fill="#fde8d0" stroke="#c86" stroke-width="1.5"/>
+  <text x="197" y="100" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#964">Systemic</text>
+  <text x="197" y="115" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#964">Cytokines</text>
+  <text x="197" y="132" text-anchor="middle" font-family="serif" font-size="8" fill="#888">TNF-a, IL-6, IL-17</text>
+
+  <!-- Arrow 2 -->
+  <line x1="245" y1="112" x2="275" y2="112" stroke="#777" stroke-width="1.5"/>
+  <polygon points="273,107 273,117 283,112" fill="#777"/>
+
+  <!-- Step 3: Insulin resistance -->
+  <rect x="285" y="80" width="95" height="65" rx="8" fill="#fef0d8" stroke="#b94" stroke-width="1.5"/>
+  <text x="332" y="100" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#964">Insulin</text>
+  <text x="332" y="115" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#964">Resistance</text>
+  <text x="332" y="132" text-anchor="middle" font-family="serif" font-size="8" fill="#888">(metabolic disruption)</text>
+
+  <!-- Arrow 3 -->
+  <line x1="380" y1="112" x2="410" y2="112" stroke="#777" stroke-width="1.5"/>
+  <polygon points="408,107 408,117 418,112" fill="#777"/>
+
+  <!-- Step 4: Endothelial dysfunction -->
+  <rect x="420" y="80" width="95" height="65" rx="8" fill="#f0e0d0" stroke="#a86" stroke-width="1.5"/>
+  <text x="467" y="100" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#864">Endothelial</text>
+  <text x="467" y="115" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#864">Dysfunction</text>
+  <text x="467" y="132" text-anchor="middle" font-family="serif" font-size="8" fill="#888">(blood vessel damage)</text>
+
+  <!-- Arrow 4 -->
+  <line x1="515" y1="112" x2="545" y2="112" stroke="#777" stroke-width="1.5"/>
+  <polygon points="543,107 543,117 553,112" fill="#777"/>
+
+  <!-- Step 5: Atherosclerosis / CV events -->
+  <rect x="555" y="70" width="130" height="85" rx="8" fill="#e0d0d0" stroke="#844" stroke-width="2"/>
+  <text x="620" y="95" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#622">Atherosclerosis</text>
+  <text x="620" y="115" text-anchor="middle" font-family="serif" font-size="10" fill="#844">leading to</text>
+  <text x="620" y="135" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#622">CV Events</text>
+  <text x="620" y="150" text-anchor="middle" font-family="serif" font-size="8" fill="#888">(MI, stroke)</text>
+
+  <!-- Biologic intervention arrow -->
+  <rect x="160" y="190" width="220" height="40" rx="8" fill="#d0e8d0" stroke="#4a8c4a" stroke-width="1.5"/>
+  <text x="270" y="207" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#2a6a2a">Biologic Therapy</text>
+  <text x="270" y="222" text-anchor="middle" font-family="serif" font-size="9" fill="#555">interrupts the cascade</text>
+
+  <!-- Upward blocking arrows from biologics -->
+  <g stroke="#4a8c4a" stroke-width="2" stroke-dasharray="4,3">
+    <line x1="200" y1="190" x2="200" y2="145"/>
+    <line x1="270" y1="190" x2="270" y2="145"/>
+    <line x1="340" y1="190" x2="340" y2="145"/>
+  </g>
+
+  <!-- Block X symbols -->
+  <g>
+    <circle cx="200" cy="160" r="7" fill="#4a8c4a" opacity="0.8"/>
+    <line x1="196" y1="156" x2="204" y2="164" stroke="#fff" stroke-width="1.5"/>
+    <line x1="204" y1="156" x2="196" y2="164" stroke="#fff" stroke-width="1.5"/>
+
+    <circle cx="270" cy="160" r="7" fill="#4a8c4a" opacity="0.8"/>
+    <line x1="266" y1="156" x2="274" y2="164" stroke="#fff" stroke-width="1.5"/>
+    <line x1="274" y1="156" x2="266" y2="164" stroke="#fff" stroke-width="1.5"/>
+
+    <circle cx="340" cy="160" r="7" fill="#4a8c4a" opacity="0.8"/>
+    <line x1="336" y1="156" x2="344" y2="164" stroke="#fff" stroke-width="1.5"/>
+    <line x1="344" y1="156" x2="336" y2="164" stroke="#fff" stroke-width="1.5"/>
+  </g>
+
+  <!-- Title -->
+  <text x="350" y="35" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#444">The Psoriatic March</text>
+  <text x="350" y="55" text-anchor="middle" font-family="serif" font-size="10" fill="#888">How chronic skin inflammation drives cardiovascular disease</text>
+
+  <!-- Bottom note -->
+  <text x="350" y="265" text-anchor="middle" font-family="serif" font-size="9" fill="#888">Adapted from the "psoriatic march" hypothesis (Boehncke &amp; Boehncke, 2012)</text>
+</svg>
