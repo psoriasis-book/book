@@ -5,6 +5,8 @@ sidebar:
   order: 16
 ---
 
+![Psoriasis treatment ladder](./images/treatment-ladder.svg)
+
 ## 16.1 Overview of Treatment Approaches
 
 Treatment for psoriasis is stratified by disease severity:
