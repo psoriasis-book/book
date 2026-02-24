@@ -54,8 +54,11 @@ while IFS= read -r chapter_file; do
   # Extract title from frontmatter for use as chapter heading
   title=$(awk '
     BEGIN { in_fm=0 }
-    /^---$/ { if (!in_fm) { in_fm=1; next } else { exit } }
-    in_fm && /^title:/ {
+    /^---$/ {
+      if (in_fm == 0) { in_fm=1; next }
+      else { exit }
+    }
+    in_fm == 1 && /^title:/ {
       sub(/^title:[[:space:]]*/, "")
       gsub(/^"/, ""); gsub(/"$/, "")
       gsub(/'\''/, "")
@@ -71,12 +74,14 @@ while IFS= read -r chapter_file; do
 
     # Process the content
     awk '
-      BEGIN { in_frontmatter=0; frontmatter_done=0 }
-      /^---$/ && !frontmatter_done {
-        if (in_frontmatter) { frontmatter_done=1; next }
-        else { in_frontmatter=1; next }
+      BEGIN { in_fm=0; fm_done=0 }
+      /^---$/ {
+        if (fm_done == 0) {
+          if (in_fm == 0) { in_fm=1; next }
+          else { fm_done=1; in_fm=0; next }
+        }
       }
-      in_frontmatter { next }
+      in_fm == 1 { next }
       { print }
     ' "$full_path"
   } | sed 's/^## /# /; s/^### /## /; s/^#### /### /' \
