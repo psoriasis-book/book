@@ -31,7 +31,7 @@ In summary: approximately half to two-thirds of first-episode guttate psoriasis 
 
 For chronic plaque psoriasis — the most common form (80–90% of cases) — spontaneous drug-free remission is uncommon. The disease follows a relapsing-remitting course, with periods of worsening (flares) and improvement, but complete spontaneous clearance without treatment is considered exceptional. When it does occur, it is typically temporary: the American Academy of Dermatology notes that most remission periods last 1–12 months, and data shows that 41% of patients who achieve remission restart medication within one year, rising to 86% within five years [(WebMD, 2025)](https://www.webmd.com/skin-problems-and-treatments/psoriasis/features/psoriasis-remission-what-to-expect).
 
-The biological explanation for this is the persistence of tissue-resident memory T cells (TRM cells) discussed in Section 7.4 — even after visible plaques clear, the immunological "memory" of disease remains embedded in the skin, ready to reinitiate inflammation upon provocation.
+The biological explanation for this is the persistence of tissue-resident memory T cells (TRM cells) discussed in Section 6.4 — even after visible plaques clear, the immunological "memory" of disease remains embedded in the skin, ready to reinitiate inflammation upon provocation.
 
 ## 15.4 On-Treatment Complete Clearance: Increasingly Achievable
 

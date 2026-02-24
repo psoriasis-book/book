@@ -79,7 +79,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **Why it matters:** Approximately 30% of psoriasis patients develop psoriatic arthritis (PsA), often years after skin disease onset. This study is among the first to demonstrate that treating psoriasis with biologics doesn't just clear skin — it may actually prevent the development of joint disease.
 
-**New knowledge:** The study found that patients treated with IL-17 and IL-23 inhibitors had a significantly reduced likelihood of developing both peripheral and axial psoriatic arthritis compared to untreated patients or those on conventional therapies. This finding supports the "psoriatic march" hypothesis (Section 11.7) and has major clinical implications: it suggests that early, effective biologic treatment of skin psoriasis may prevent the downstream organ damage that occurs when systemic inflammation is left unchecked.
+**New knowledge:** The study found that patients treated with IL-17 and IL-23 inhibitors had a significantly reduced likelihood of developing both peripheral and axial psoriatic arthritis compared to untreated patients or those on conventional therapies. This finding supports the "psoriatic march" hypothesis (Section 10.7) and has major clinical implications: it suggests that early, effective biologic treatment of skin psoriasis may prevent the downstream organ damage that occurs when systemic inflammation is left unchecked.
 
 ## 19.9 Hepcidin and Iron Dysregulation — A Novel Pathogenic Mechanism (2024)
 
