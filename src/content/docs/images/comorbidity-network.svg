@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-labelledby="comorb-title comorb-desc">
+  <title id="comorb-title">Psoriasis Comorbidity Network</title>
+  <desc id="comorb-desc">Network diagram showing psoriasis at the centre with radiating connections to its major comorbidities: psoriatic arthritis, cardiovascular disease, metabolic syndrome, depression, inflammatory bowel disease, non-alcoholic fatty liver disease, and thyroid disease. Connection thickness indicates association strength.</desc>
+
+  <rect width="600" height="500" fill="#fff"/>
+
+  <!-- Connection lines (drawn first, behind nodes) -->
+  <!-- PsA (strongest) -->
+  <line x1="300" y1="250" x2="300" y2="80" stroke="#c44" stroke-width="5" opacity="0.3"/>
+  <!-- CVD (very strong) -->
+  <line x1="300" y1="250" x2="490" y2="130" stroke="#c44" stroke-width="4" opacity="0.3"/>
+  <!-- Metabolic syndrome (very strong) -->
+  <line x1="300" y1="250" x2="510" y2="290" stroke="#c44" stroke-width="4" opacity="0.3"/>
+  <!-- Depression (strong) -->
+  <line x1="300" y1="250" x2="110" y2="130" stroke="#c44" stroke-width="3.5" opacity="0.3"/>
+  <!-- IBD (moderate) -->
+  <line x1="300" y1="250" x2="90" y2="290" stroke="#c44" stroke-width="2.5" opacity="0.3"/>
+  <!-- NAFLD (moderate) -->
+  <line x1="300" y1="250" x2="460" y2="420" stroke="#c44" stroke-width="2.5" opacity="0.3"/>
+  <!-- Thyroid disease (moderate) -->
+  <line x1="300" y1="250" x2="140" y2="420" stroke="#c44" stroke-width="2" opacity="0.3"/>
+
+  <!-- Central node: Psoriasis -->
+  <circle cx="300" cy="250" r="55" fill="#e44" stroke="#a22" stroke-width="2"/>
+  <text x="300" y="245" text-anchor="middle" font-family="serif" font-size="15" font-weight="bold" fill="#fff">Psoriasis</text>
+  <text x="300" y="262" text-anchor="middle" font-family="serif" font-size="10" fill="#fdd">(systemic inflammation)</text>
+
+  <!-- PsA -->
+  <ellipse cx="300" cy="80" rx="70" ry="28" fill="#fdd" stroke="#c44" stroke-width="1.5"/>
+  <text x="300" y="76" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#a22">Psoriatic</text>
+  <text x="300" y="91" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#a22">Arthritis</text>
+  <text x="300" y="54" text-anchor="middle" font-family="serif" font-size="9" fill="#888">~30% of patients</text>
+
+  <!-- CVD -->
+  <ellipse cx="490" cy="130" rx="75" ry="28" fill="#fde8d0" stroke="#c86" stroke-width="1.5"/>
+  <text x="490" y="126" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#964">Cardiovascular</text>
+  <text x="490" y="141" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#964">Disease</text>
+
+  <!-- Metabolic syndrome -->
+  <ellipse cx="510" cy="290" rx="75" ry="28" fill="#fde8d0" stroke="#c86" stroke-width="1.5"/>
+  <text x="510" y="286" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#964">Metabolic</text>
+  <text x="510" y="301" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#964">Syndrome</text>
+
+  <!-- Depression -->
+  <ellipse cx="110" cy="130" rx="65" ry="28" fill="#e0e0f8" stroke="#66a" stroke-width="1.5"/>
+  <text x="110" y="126" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#448">Depression &amp;</text>
+  <text x="110" y="141" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#448">Anxiety</text>
+
+  <!-- IBD -->
+  <ellipse cx="90" cy="290" rx="65" ry="28" fill="#d8f0d8" stroke="#4a8" stroke-width="1.5"/>
+  <text x="90" y="286" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#264">Inflammatory</text>
+  <text x="90" y="301" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#264">Bowel Disease</text>
+
+  <!-- NAFLD -->
+  <ellipse cx="460" cy="420" rx="68" ry="28" fill="#f8f0d8" stroke="#aa6" stroke-width="1.5"/>
+  <text x="460" y="416" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#664">Non-Alcoholic</text>
+  <text x="460" y="431" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#664">Fatty Liver</text>
+
+  <!-- Thyroid -->
+  <ellipse cx="140" cy="420" rx="65" ry="28" fill="#e8d8f0" stroke="#86a" stroke-width="1.5"/>
+  <text x="140" y="416" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#648">Thyroid</text>
+  <text x="140" y="431" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#648">Disease</text>
+
+  <!-- Legend -->
+  <text x="300" y="480" text-anchor="middle" font-family="serif" font-size="10" fill="#888">Line thickness indicates strength of association</text>
+</svg>

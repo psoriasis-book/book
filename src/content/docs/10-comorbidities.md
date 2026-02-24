@@ -5,6 +5,8 @@ sidebar:
   order: 10
 ---
 
+![Psoriasis comorbidity network](./images/comorbidity-network.svg)
+
 Psoriasis is now firmly recognised as a systemic inflammatory condition, associated with a range of comorbidities that extend well beyond the skin. In 2019, the American Academy of Dermatology and the National Psoriasis Foundation published comprehensive guidelines identifying the following conditions as psoriasis comorbidities [(National Psoriasis Foundation, 2024)](https://www.psoriasis.org/related-conditions/).
 
 ## 10.1 Psoriatic Arthritis (PsA)
@@ -32,5 +34,7 @@ Psoriasis and IBD (Crohn's disease and ulcerative colitis) share common immune p
 NAFLD prevalence is significantly higher in psoriasis patients, particularly those with more severe skin disease. This has important implications for treatment selection, as several systemic psoriasis therapies are hepatotoxic (can cause liver damage) [(Johnson, 2024)](https://dermnppa.org/what-we-know-about-psoriasis-comorbidities-and-their-management/).
 
 ## 10.7 The "Psoriatic March" Hypothesis
+
+![The psoriatic march](./images/psoriatic-march.svg)
 
 A unifying hypothesis known as the **"psoriatic march"** proposes that chronic cutaneous (skin-based) inflammation in psoriasis induces systemic inflammation, which leads progressively to insulin resistance, endothelial dysfunction (damage to blood vessel linings), atherosclerosis, and ultimately cardiovascular events. This model suggests that effective early treatment of psoriasis may help prevent the cascade of cardiometabolic comorbidities [(Hu & Lan, 2017)](https://www.mdpi.com/1422-0067/18/10/2211).
