@@ -142,3 +142,9 @@ sidebar:
 68. Tehlirian C, et al. Tyrosine Kinase 2 Inhibition With Zasocitinib (TAK-279) in Psoriasis: A Randomized Clinical Trial. *JAMA Dermatol*. 2024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39167366/)
 
 69. Nielsen ML, Thein D, Rasmussen MK, et al. Trajectories and prognosis after discontinuation of biologics due to remission in psoriasis: A nationwide cohort study. *J Am Acad Dermatol*. 2023;88(6):1378-1381. doi:10.1016/j.jaad.2023.01.029. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36739903/)
+
+70. Murase JE, Chan KK, Garite TJ, Cooper DM, Weinstein GD. Hormonal effect on psoriasis in pregnancy and post partum. *Arch Dermatol*. 2005;141(5):601-606. doi:10.1001/archderm.141.5.601. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15793512/)
+
+71. Mariette X, Forger F, Abraham B, et al. Lack of placental transfer of certolizumab pegol during pregnancy: results from CRIB, a prospective, postmarketing, pharmacokinetic study. *Ann Rheum Dis*. 2018;77(2):228-233. doi:10.1136/annrheumdis-2017-212196. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29030361/)
+
+72. Jeong YD, Jo H, Cho H, et al. Biologics Use for Psoriasis during Pregnancy and Its Related Adverse Outcomes: Findings from WHO Pharmacovigilance Study. *Int Arch Allergy Immunol*. 2025;186(6):579-593. doi:10.1159/000542217. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39626647/)
