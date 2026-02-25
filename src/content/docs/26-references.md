@@ -152,3 +152,17 @@ sidebar:
 73. National Institute for Health and Care Excellence. Psoriasis: assessment and management (CG153). Updated September 2017. [NICE](https://www.nice.org.uk/guidance/cg153)
 
 74. Meeuwis KAP, de Hullu JA, van de Nieuwenhof HP, Evers AWM, Massuger LFAG, van de Kerkhof PCM, van Rossum MM. Quality of life and sexual health in patients with genital psoriasis. *Br J Dermatol*. 2011;164(6):1247-1255. doi:10.1111/j.1365-2133.2011.10249.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21569104/)
+
+75. Mahil SK, Dand N, Mason KJ, et al.; PsoProtect study group. Factors associated with adverse COVID-19 outcomes in patients with psoriasis — insights from a global registry-based study. *J Allergy Clin Immunol*. 2021;147(1):60-71. doi:10.1016/j.jaci.2020.10.007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33075408/)
+
+76. Yiu ZZN, Ashcroft DM, Evans I, et al.; BADBIR Study Group. Infliximab is associated with an increased risk of serious infection in patients with psoriasis in the U.K. and Republic of Ireland: results from BADBIR. *Br J Dermatol*. 2019;180(2):329-337. doi:10.1111/bjd.17036. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30070708/)
+
+77. MacKenna B, Kennedy NA, Mehrkar A, et al. Risk of severe COVID-19 outcomes associated with immune-mediated inflammatory diseases and immune-modifying therapies: a nationwide cohort study in the OpenSAFELY platform. *Lancet Rheumatol*. 2022;4(7):e490-e506. doi:10.1016/S2665-9913(22)00098-4. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35698725/)
+
+78. Mahil SK, Bechman K, Raharja A, et al. Humoral and cellular immunogenicity to a second dose of COVID-19 vaccine BNT162b2 in people receiving methotrexate or targeted immunosuppression: a longitudinal cohort study. *Lancet Rheumatol*. 2022;4(1):e42-e52. doi:10.1016/S2665-9913(21)00333-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34778846/)
+
+79. Haberman RH, Herati R, Simon D, et al. Methotrexate hampers immunogenicity to BNT162b2 mRNA COVID-19 vaccine in immune-mediated inflammatory disease. *Ann Rheum Dis*. 2021;80(10):1339-1344. doi:10.1136/annrheumdis-2021-220597. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34035003/)
+
+80. Haberman RH, Um S, Engel AJ, et al.; SAGA investigators. Methotrexate and TNF inhibitors affect long-term immunogenicity to COVID-19 vaccination in patients with immune-mediated inflammatory disease. *Lancet Rheumatol*. 2022;4(6):e384-e387. doi:10.1016/S2665-9913(22)00069-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35403000/)
+
+81. Gelfand JM, Armstrong AW, Bell S, et al. National Psoriasis Foundation COVID-19 Task Force guidance for management of psoriatic disease during the pandemic: Version 2 — Advances in psoriatic disease management, COVID-19 vaccines, and COVID-19 treatments. *J Am Acad Dermatol*. 2021;84(5):1254-1268. doi:10.1016/j.jaad.2020.12.058. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33422626/)
