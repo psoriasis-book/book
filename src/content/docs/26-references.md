@@ -174,3 +174,5 @@ sidebar:
 84. Soyland E, Funk J, Rajka G, et al. Effect of dietary supplementation with very-long-chain n-3 fatty acids in patients with psoriasis. *N Engl J Med*. 1993;328(25):1812-1816. doi:10.1056/NEJM199306243282504. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8502270/)
 
 85. Huang YW, Tsai TF. Remission Duration and Long-Term Outcomes in Patients with Moderate-to-Severe Psoriasis Treated by Biologics or Tofacitinib in Controlled Clinical Trials: A 15-Year Single-Center Experience. *Dermatol Ther (Heidelb)*. 2019;9(3):553-569. doi:10.1007/s13555-019-0310-5. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31270683/)
+
+86. Armstrong AW, Gondo GC, Merola JF, et al.; Remission Workgroup of the National Psoriasis Foundation. Defining On-Treatment Remission in Plaque Psoriasis: A Consensus Statement From the National Psoriasis Foundation. *JAMA Dermatol*. 2025;161(8):863-869. doi:10.1001/jamadermatol.2025.1625. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40531503/)
