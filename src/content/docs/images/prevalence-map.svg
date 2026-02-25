@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-labelledby="map-title map-desc">
+  <title id="map-title">Global Psoriasis Prevalence by Region</title>
+  <desc id="map-desc">Simplified world map showing psoriasis prevalence rates by region: highest in Northern Europe and Scandinavia, moderate in Western Europe, North America, and Australasia, lower in East Asia, South Asia, and Africa.</desc>
+
+  <rect width="600" height="380" fill="#fff"/>
+
+  <!-- Legend -->
+  <rect x="20" y="15" width="16" height="12" fill="#c04040" rx="2"/>
+  <text x="42" y="25" font-family="serif" font-size="10" fill="#333">High (&gt;3%)</text>
+  <rect x="120" y="15" width="16" height="12" fill="#e89070" rx="2"/>
+  <text x="142" y="25" font-family="serif" font-size="10" fill="#333">Moderate (2–3%)</text>
+  <rect x="250" y="15" width="16" height="12" fill="#f0c8a0" rx="2"/>
+  <text x="272" y="25" font-family="serif" font-size="10" fill="#333">Lower (1–2%)</text>
+  <rect x="370" y="15" width="16" height="12" fill="#f0e8d0" rx="2"/>
+  <text x="392" y="25" font-family="serif" font-size="10" fill="#333">Low (&lt;1%)</text>
+  <rect x="470" y="15" width="16" height="12" fill="#e0e0e0" rx="2"/>
+  <text x="492" y="25" font-family="serif" font-size="10" fill="#333">Limited data</text>
+
+  <!-- North America -->
+  <path d="M60,80 L70,60 L120,50 L160,55 L175,75 L180,110 L170,140 L155,160 L130,170 L100,165 L75,150 L60,130 Z" fill="#e89070" stroke="#888" stroke-width="0.8"/>
+  <text x="120" y="120" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">North</text>
+  <text x="120" y="132" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">America</text>
+  <text x="120" y="145" text-anchor="middle" font-family="serif" font-size="8" fill="#666">~2.5–3.6%</text>
+
+  <!-- Central/South America -->
+  <path d="M130,170 L155,160 L160,180 L165,210 L155,250 L140,280 L125,300 L115,290 L110,260 L115,230 L120,200 Z" fill="#f0c8a0" stroke="#888" stroke-width="0.8"/>
+  <text x="138" y="230" text-anchor="middle" font-family="serif" font-size="8" font-weight="bold" fill="#333">S. America</text>
+  <text x="138" y="242" text-anchor="middle" font-family="serif" font-size="7" fill="#666">~1–2%</text>
+
+  <!-- Northern Europe / Scandinavia -->
+  <path d="M270,45 L290,40 L310,42 L320,50 L315,65 L300,70 L280,68 L270,60 Z" fill="#c04040" stroke="#888" stroke-width="0.8"/>
+  <text x="295" y="55" text-anchor="middle" font-family="serif" font-size="7" font-weight="bold" fill="#fff">Scandinavia</text>
+  <text x="295" y="65" text-anchor="middle" font-family="serif" font-size="6.5" fill="#fdd">4.6–6.1%</text>
+
+  <!-- Western Europe / UK -->
+  <path d="M250,65 L270,60 L280,68 L300,70 L315,65 L330,70 L335,85 L330,105 L315,115 L290,120 L270,115 L255,105 L250,85 Z" fill="#e89070" stroke="#888" stroke-width="0.8"/>
+  <text x="292" y="90" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">W. Europe</text>
+  <text x="292" y="103" text-anchor="middle" font-family="serif" font-size="8" fill="#666">~2–3%</text>
+
+  <!-- Eastern Europe -->
+  <path d="M330,70 L355,65 L375,70 L380,90 L375,110 L355,115 L335,115 L330,105 L335,85 Z" fill="#e89070" stroke="#888" stroke-width="0.8"/>
+  <text x="355" y="93" text-anchor="middle" font-family="serif" font-size="8" font-weight="bold" fill="#333">E. Europe</text>
+
+  <!-- Middle East / North Africa -->
+  <path d="M290,120 L315,115 L355,115 L375,110 L390,120 L385,145 L365,155 L330,155 L305,150 L290,140 Z" fill="#f0c8a0" stroke="#888" stroke-width="0.8"/>
+  <text x="340" y="138" text-anchor="middle" font-family="serif" font-size="8" font-weight="bold" fill="#333">Middle East</text>
+
+  <!-- Sub-Saharan Africa -->
+  <path d="M270,155 L305,150 L330,155 L365,155 L370,175 L360,220 L345,260 L325,280 L305,285 L285,270 L275,240 L270,200 Z" fill="#e0e0e0" stroke="#888" stroke-width="0.8"/>
+  <text x="318" y="210" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">Sub-Saharan</text>
+  <text x="318" y="222" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">Africa</text>
+  <text x="318" y="236" text-anchor="middle" font-family="serif" font-size="7" fill="#666">Limited data</text>
+
+  <!-- Central / South Asia -->
+  <path d="M390,120 L420,110 L450,115 L460,135 L455,160 L440,175 L420,180 L400,170 L385,155 L385,145 Z" fill="#f0c8a0" stroke="#888" stroke-width="0.8"/>
+  <text x="425" y="148" text-anchor="middle" font-family="serif" font-size="8" font-weight="bold" fill="#333">S. Asia</text>
+  <text x="425" y="160" text-anchor="middle" font-family="serif" font-size="7" fill="#666">~1.5–2.5%</text>
+
+  <!-- East Asia -->
+  <path d="M450,75 L480,65 L510,70 L525,85 L520,110 L505,125 L480,130 L460,120 L455,100 Z" fill="#f0e8d0" stroke="#888" stroke-width="0.8"/>
+  <text x="488" y="95" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">East Asia</text>
+  <text x="488" y="108" text-anchor="middle" font-family="serif" font-size="8" fill="#666">~0.1–0.5%</text>
+
+  <!-- Southeast Asia -->
+  <path d="M460,135 L480,130 L505,125 L520,135 L525,155 L515,175 L495,185 L475,180 L460,165 Z" fill="#f0c8a0" stroke="#888" stroke-width="0.8"/>
+  <text x="492" y="158" text-anchor="middle" font-family="serif" font-size="7" font-weight="bold" fill="#333">SE Asia</text>
+
+  <!-- Australasia -->
+  <path d="M480,230 L520,220 L550,225 L560,245 L550,270 L525,280 L500,275 L485,260 Z" fill="#e89070" stroke="#888" stroke-width="0.8"/>
+  <text x="520" y="250" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#333">Australasia</text>
+  <text x="520" y="263" text-anchor="middle" font-family="serif" font-size="8" fill="#666">~2–3%</text>
+
+  <!-- Note -->
+  <text x="300" y="340" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Prevalence increases with distance from the equator.</text>
+  <text x="300" y="355" text-anchor="middle" font-family="serif" font-size="9" fill="#666">76% of countries lack epidemiological data on psoriasis (WHO, 2016).</text>
+  <text x="300" y="370" text-anchor="middle" font-family="serif" font-size="8" font-style="italic" fill="#888">Sources: GBD 2021; Global Psoriasis Atlas 2024; Michalek et al. 2017</text>
+</svg>

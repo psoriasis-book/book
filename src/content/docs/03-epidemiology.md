@@ -5,6 +5,8 @@ sidebar:
   order: 3
 ---
 
+![Global psoriasis prevalence by region](./images/prevalence-map.svg)
+
 ## 3.1 Global Prevalence
 
 Psoriasis affects approximately 2–3% of the global population, though prevalence varies considerably by geography, ethnicity, and age. The commonly cited figure of "125 million people worldwide" — originating from the International Federation of Psoriasis Associations and the WHO's 2016 Global Report on Psoriasis — represents an estimate based on applying regional prevalence rates to global population figures, and likely reflects lifetime or period prevalence. The more recent Global Burden of Disease (GBD) 2021 study, which uses a standardised methodology to measure point prevalence (the number of people living with active disease at a given time), estimated approximately 42.98 million prevalent cases and 5.10 million new cases of psoriasis worldwide in 2021, with the global burden having nearly doubled since 1990 [(Xiong et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12283580/). The difference between these figures reflects methodological differences in how prevalence is defined and measured rather than a true discrepancy.
