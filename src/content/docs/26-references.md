@@ -166,3 +166,5 @@ sidebar:
 80. Haberman RH, Um S, Engel AJ, et al.; SAGA investigators. Methotrexate and TNF inhibitors affect long-term immunogenicity to COVID-19 vaccination in patients with immune-mediated inflammatory disease. *Lancet Rheumatol*. 2022;4(6):e384-e387. doi:10.1016/S2665-9913(22)00069-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35403000/)
 
 81. Gelfand JM, Armstrong AW, Bell S, et al. National Psoriasis Foundation COVID-19 Task Force guidance for management of psoriatic disease during the pandemic: Version 2 — Advances in psoriatic disease management, COVID-19 vaccines, and COVID-19 treatments. *J Am Acad Dermatol*. 2021;84(5):1254-1268. doi:10.1016/j.jaad.2020.12.058. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33422626/)
+
+82. Perez-Bootello J, Berna-Rico E, Abbad-Jaime de Aragon C, et al. Mediterranean Diet and Patients With Psoriasis: The MEDIPSO Randomized Clinical Trial. *JAMA Dermatol*. 2025;161(12):1215-1223. doi:10.1001/jamadermatol.2025.3410. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40991259/)
