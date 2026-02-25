@@ -21,3 +21,16 @@ A key concern was whether immunosuppressive therapy would impair vaccine respons
 - **Methotrexate** was the exception. It consistently impaired humoral (antibody) responses: only 62% of methotrexate-treated patients achieved adequate antibody response after vaccination, and up to one-third lacked CD8+ T-cell activation [(Haberman et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/34035003/). Follow-up data confirmed that both methotrexate and TNF inhibitors were associated with reduced long-term immunogenicity [(Haberman et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35403000/). Some guidelines recommend temporarily pausing methotrexate for 1–2 weeks after each vaccine dose to optimise response, though this must be weighed against the risk of psoriasis flare.
 
 Current NPF (National Psoriasis Foundation) Delphi consensus recommendations advise continuing biologic therapy without modification when receiving non-live vaccines (including all COVID-19 vaccines) and considering temporary interruption of methotrexate [(Gelfand et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/33422626/). Live vaccines should generally not be given to patients on biologic therapy, though the risk is primarily theoretical for IL-17 and IL-23 inhibitors.
+
+## 21.3 Practical Vaccination Guidance for Psoriasis Patients
+
+Based on the evidence above, the following drug-by-drug guidance reflects current consensus for COVID-19 and other non-live vaccinations:
+
+- **IL-23 inhibitors** (risankizumab, guselkumab, tildrakizumab) and **IL-17 inhibitors** (secukinumab, ixekizumab, brodalumab, bimekizumab): Continue without modification. No evidence of impaired vaccine response.
+- **TNF-α inhibitors** (adalimumab, etanercept, infliximab, certolizumab): Continue without modification. Antibody titres may be slightly lower than in untreated individuals but seroconversion rates remain high.
+- **Ustekinumab**: Continue without modification. No significant impairment of vaccine response demonstrated.
+- **Methotrexate**: Consider holding for 1–2 weeks after each vaccine dose to optimise antibody response. This recommendation must be balanced against the risk of psoriasis flare during the drug holiday. Patients with stable, well-controlled disease may tolerate the temporary interruption better than those with active disease.
+- **Apremilast and deucravacitinib**: No specific data suggest impaired vaccine response. Continue without modification.
+- **Cyclosporine**: Broad immunosuppression may reduce vaccine efficacy. No specific holding guidance; consider checking post-vaccination antibody titres in immunosuppressed patients.
+
+Timing of vaccination relative to biologic dosing is not considered critical for non-live vaccines, though some clinicians prefer to administer vaccines at the midpoint between biologic doses when practical. For patients due to start biologic therapy, it is advisable to complete vaccinations (including COVID-19 boosters, influenza, pneumococcal, and herpes zoster vaccines) before initiating treatment where possible.
