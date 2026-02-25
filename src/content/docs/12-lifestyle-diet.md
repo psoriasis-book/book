@@ -25,7 +25,7 @@ Prior to this trial, evidence came mainly from observational studies, including 
 
 ## 12.3 Omega-3 Fatty Acids (Fish Oil) — Mixed Evidence
 
-Fish oil supplementation has been studied multiple times with contradictory results. An 8-week double-blind study of 28 patients found significant improvement in itching, redness, and scaling — but not in the size of patches. However, a larger double-blind study of 145 patients over 4 months found no benefit compared to placebo [(EBSCO Research, 2024)](https://www.ebsco.com/research-starters/complementary-and-alternative-medicine/natural-treatments-psoriasis). A 2025 systematic review concluded that omega-3 fatty acid supplementation "may be associated with improved psoriasis outcomes" but that evidence quality remains low [(Li et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X).
+Fish oil supplementation has been studied multiple times with contradictory results. An 8-week double-blind study of 28 patients found significant improvement in itching, redness, and scaling — but not in the size of patches [(Bittiner et al., 1988)](https://pubmed.ncbi.nlm.nih.gov/2893189/). However, a larger double-blind study of 145 patients over 4 months found no benefit compared to placebo [(Soyland et al., 1993)](https://pubmed.ncbi.nlm.nih.gov/8502270/). A 2025 systematic review concluded that omega-3 fatty acid supplementation "may be associated with improved psoriasis outcomes" but that evidence quality remains low [(Li et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X).
 
 **Evidence grade: Low to moderate. Conflicting trial results. May have modest benefit as adjunct therapy but is not a standalone treatment.**
 

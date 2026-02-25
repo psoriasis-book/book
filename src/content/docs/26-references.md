@@ -168,3 +168,7 @@ sidebar:
 81. Gelfand JM, Armstrong AW, Bell S, et al. National Psoriasis Foundation COVID-19 Task Force guidance for management of psoriatic disease during the pandemic: Version 2 — Advances in psoriatic disease management, COVID-19 vaccines, and COVID-19 treatments. *J Am Acad Dermatol*. 2021;84(5):1254-1268. doi:10.1016/j.jaad.2020.12.058. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33422626/)
 
 82. Perez-Bootello J, Berna-Rico E, Abbad-Jaime de Aragon C, et al. Mediterranean Diet and Patients With Psoriasis: The MEDIPSO Randomized Clinical Trial. *JAMA Dermatol*. 2025;161(12):1215-1223. doi:10.1001/jamadermatol.2025.3410. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40991259/)
+
+83. Bittiner SB, Tucker WF, Cartwright I, Bleehen SS. A double-blind, randomised, placebo-controlled trial of fish oil in psoriasis. *Lancet*. 1988;1(8582):378-380. doi:10.1016/S0140-6736(88)91181-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2893189/)
+
+84. Soyland E, Funk J, Rajka G, et al. Effect of dietary supplementation with very-long-chain n-3 fatty acids in patients with psoriasis. *N Engl J Med*. 1993;328(25):1812-1816. doi:10.1056/NEJM199306243282504. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8502270/)
