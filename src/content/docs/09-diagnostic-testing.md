@@ -5,6 +5,8 @@ sidebar:
   order: 9
 ---
 
+![Psoriasis diagnostic algorithm](./images/diagnostic-algorithm.svg)
+
 Psoriasis is primarily a clinical diagnosis — in most cases, an experienced dermatologist can diagnose it by visual examination alone. There is no single blood test that confirms psoriasis. However, a range of investigations play important roles in confirming uncertain diagnoses, ruling out conditions that mimic psoriasis, identifying triggers, screening for comorbidities, guiding treatment selection, and monitoring drug safety. This section covers the full diagnostic toolkit.
 
 ## 9.1 Clinical Examination
