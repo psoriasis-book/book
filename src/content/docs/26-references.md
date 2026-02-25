@@ -184,3 +184,19 @@ sidebar:
 89. Kolchak NA, Tetarnikova MK, Theodoropoulou MS, Michalopoulou AP, Theodoropoulos DS. Prevalence of antigliadin IgA antibodies in psoriasis vulgaris and response of seropositive patients to a gluten-free diet. *J Multidiscip Healthc*. 2018;11:13-19. doi:10.2147/JMDH.S122256. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29343966/)
 
 90. Jensen P, Zachariae C, Christensen R, et al. Long-term effects of weight reduction on the severity of psoriasis in a cohort derived from a randomized trial: a prospective observational follow-up study. *Am J Clin Nutr*. 2016;104(2):259-265. doi:10.3945/ajcn.115.125849. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27334236/)
+
+91. Mackensen A, Muller F, Mougiakakos D, et al. Anti-CD19 CAR T cell therapy for refractory systemic lupus erythematosus. *Nat Med*. 2022;28(10):2124-2132. doi:10.1038/s41591-022-02017-5. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36109639/)
+
+92. Muller F, Boeltz S, Knitza J, Schett G, et al. CD19 CAR T-cell therapy in autoimmune disease — a case series with follow-up. *N Engl J Med*. 2024;390(8):687-700. doi:10.1056/NEJMoa2308917. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38381673/)
+
+93. Wang SY, An WH, Wang ZS, et al. Incidentally cured psoriasis in a patient with refractory/relapsed diffuse large B-cell lymphoma receiving CD19 CAR-T cell therapy: a case report. *Front Immunol*. 2024;15:1418768. doi:10.3389/fimmu.2024.1418768. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39534606/)
+
+94. Yi JZ, McGee JS. Epigenetic-modifying therapies: an emerging avenue for the treatment of inflammatory skin diseases. *Exp Dermatol*. 2021;30(8):1167-1176. doi:10.1111/exd.14334. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33752257/)
+
+95. Nadeem A, Al-Harbi NO, Al-Harbi MM, et al. Imiquimod-induced psoriasis-like skin inflammation is suppressed by BET bromodomain inhibitor in mice through RORC/IL-17A pathway modulation. *Pharmacol Res*. 2015;99:248-257. doi:10.1016/j.phrs.2015.06.001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26149470/)
+
+96. Huang K, Wu X, Li Y, et al. Artificial intelligence-based psoriasis severity assessment: real-world study and application. *J Med Internet Res*. 2023;25:e44932. doi:10.2196/44932. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36927843/)
+
+97. Goessinger EV, Gottfrois P, Mueller AM, Cerminara SE, Navarini AA. Image-based artificial intelligence in psoriasis assessment: the beginning of a new diagnostic era? *Am J Clin Dermatol*. 2024;25(6):861-872. doi:10.1007/s40257-024-00883-y. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39259262/)
+
+98. Zhang X, He Y. The role of nociceptive neurons in the pathogenesis of psoriasis. *Front Immunol*. 2020;11:1984. doi:10.3389/fimmu.2020.01984. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33133059/)
