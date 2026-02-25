@@ -51,7 +51,7 @@ These selectively target the p19 subunit unique to IL-23, blocking IL-23 without
 - **Tildrakizumab (Ilumya)**: Administered subcutaneously every 12 weeks after induction. Shown to be the safest biologic among IL-17 and IL-23 inhibitors in meta-analysis, with the lowest adverse event rates, though its efficacy builds more gradually than some competitors, reaching comparable levels by week 28.
 
 ### IL-36 Receptor Antagonist
-**Spesolimab (Spevigo)** targets the IL-36 receptor and is specifically indicated for generalised pustular psoriasis (GPP), which has a distinct pathogenesis involving the IL-36 pathway rather than the IL-23/IL-17 axis [(PMC, 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
+**Spesolimab (Spevigo)** targets the IL-36 receptor and is specifically indicated for generalised pustular psoriasis (GPP), which has a distinct pathogenesis involving the IL-36 pathway rather than the IL-23/IL-17 axis [(Balogh et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
 
 ## 16.3 Pricing and Cost Considerations
 
@@ -106,7 +106,7 @@ The availability of biosimilars is expected to expand significantly in the comin
 ## 16.5 Small Molecule Inhibitors
 
 - **Apremilast (Otezla)**: An oral phosphodiesterase 4 (PDE4) inhibitor — PDE4 is an enzyme inside immune cells that normally breaks down a molecule called cAMP; by blocking PDE4, apremilast increases cAMP levels, which dampens the production of inflammatory cytokines. Less effective than biologics but offers an oral route of administration (a pill rather than an injection) with a favourable safety profile.
-- **Deucravacitinib (Sotyktu)**: FDA-approved in September 2022, this is a selective tyrosine kinase 2 (TYK2) inhibitor. TYK2 is a member of the JAK enzyme family that sits inside cells and relays signals from the IL-23, IL-12, and type I interferon receptors. By blocking TYK2, deucravacitinib interrupts these specific signalling pathways without broadly suppressing the immune system, offering a more targeted approach than older, non-selective JAK inhibitors [(PMC, 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10819460/).
+- **Deucravacitinib (Sotyktu)**: FDA-approved in September 2022, this is a selective tyrosine kinase 2 (TYK2) inhibitor. TYK2 is a member of the JAK enzyme family that sits inside cells and relays signals from the IL-23, IL-12, and type I interferon receptors. By blocking TYK2, deucravacitinib interrupts these specific signalling pathways without broadly suppressing the immune system, offering a more targeted approach than older, non-selective JAK inhibitors [(Dey et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10819460/).
 
 ## 16.6 Conventional Systemic Agents
 

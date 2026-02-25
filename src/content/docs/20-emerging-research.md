@@ -7,7 +7,7 @@ sidebar:
 
 ## 20.1 Oral IL-23 Pathway Inhibitors
 
-A major area of development is the creation of orally administered IL-23 pathway inhibitors. **JNJ-77242113** (now known as icotrokinra) is an investigational oral peptide that antagonises the IL-23 receptor, potentially combining the high efficacy of IL-23 inhibition with the convenience of oral dosing [(PMC, 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
+A major area of development is the creation of orally administered IL-23 pathway inhibitors. **JNJ-77242113** (now known as icotrokinra) is an investigational oral peptide that antagonises the IL-23 receptor, potentially combining the high efficacy of IL-23 inhibition with the convenience of oral dosing [(Balogh et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
 
 ## 20.2 Targeting Immunological Memory
 
