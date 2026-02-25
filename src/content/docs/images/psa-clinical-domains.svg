@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 450" role="img" aria-labelledby="psa-title psa-desc">
+  <title id="psa-title">The Five Clinical Domains of Psoriatic Arthritis</title>
+  <desc id="psa-desc">Body outline with the five clinical domains of psoriatic arthritis annotated: peripheral arthritis affecting hands and feet, axial disease affecting spine and sacroiliac joints, enthesitis at tendon insertion points, dactylitis causing sausage digits, and skin and nail disease.</desc>
+
+  <rect width="500" height="450" fill="#fff"/>
+
+  <text x="250" y="25" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">Five Clinical Domains of Psoriatic Arthritis</text>
+
+  <!-- Body outline (simplified stick figure with body mass) -->
+  <!-- Head -->
+  <circle cx="250" cy="65" r="20" fill="none" stroke="#999" stroke-width="1.5"/>
+  <!-- Torso -->
+  <line x1="250" y1="85" x2="250" y2="210" stroke="#999" stroke-width="2"/>
+  <!-- Spine highlight -->
+  <line x1="250" y1="90" x2="250" y2="200" stroke="#c06060" stroke-width="4" stroke-dasharray="3,3" opacity="0.6"/>
+  <!-- SI joints -->
+  <circle cx="237" cy="210" r="5" fill="#c06060" opacity="0.6"/>
+  <circle cx="263" cy="210" r="5" fill="#c06060" opacity="0.6"/>
+  <!-- Pelvis -->
+  <line x1="220" y1="210" x2="280" y2="210" stroke="#999" stroke-width="2"/>
+  <!-- Legs -->
+  <line x1="230" y1="210" x2="215" y2="310" stroke="#999" stroke-width="2"/>
+  <line x1="270" y1="210" x2="285" y2="310" stroke="#999" stroke-width="2"/>
+  <!-- Feet -->
+  <line x1="215" y1="310" x2="200" y2="320" stroke="#999" stroke-width="2"/>
+  <line x1="285" y1="310" x2="300" y2="320" stroke="#999" stroke-width="2"/>
+  <!-- Arms -->
+  <line x1="250" y1="105" x2="185" y2="170" stroke="#999" stroke-width="2"/>
+  <line x1="250" y1="105" x2="315" y2="170" stroke="#999" stroke-width="2"/>
+  <!-- Hands -->
+  <line x1="185" y1="170" x2="175" y2="185" stroke="#999" stroke-width="1.5"/>
+  <line x1="315" y1="170" x2="325" y2="185" stroke="#999" stroke-width="1.5"/>
+
+  <!-- Domain 1: Peripheral Arthritis - DIP joints highlighted -->
+  <circle cx="175" cy="185" r="6" fill="#4a78b0" opacity="0.5"/>
+  <circle cx="325" cy="185" r="6" fill="#4a78b0" opacity="0.5"/>
+  <circle cx="200" cy="320" r="6" fill="#4a78b0" opacity="0.5"/>
+  <circle cx="300" cy="320" r="6" fill="#4a78b0" opacity="0.5"/>
+
+  <!-- Domain 3: Enthesitis - Achilles and plantar -->
+  <circle cx="210" cy="313" r="4" fill="#a08040" opacity="0.7"/>
+  <circle cx="290" cy="313" r="4" fill="#a08040" opacity="0.7"/>
+
+  <!-- Domain 4: Dactylitis - sausage finger -->
+  <ellipse cx="170" cy="188" rx="10" ry="5" fill="none" stroke="#608050" stroke-width="2" stroke-dasharray="3,2"/>
+
+  <!-- Annotation boxes -->
+
+  <!-- 1. Peripheral Arthritis -->
+  <rect x="340" y="160" width="150" height="48" fill="#e0ecf8" stroke="#4a78b0" stroke-width="1" rx="4"/>
+  <text x="415" y="177" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#2a5a90">1. Peripheral Arthritis</text>
+  <text x="415" y="190" text-anchor="middle" font-family="serif" font-size="8" fill="#555">DIP joints of hands/feet</text>
+  <text x="415" y="201" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Often asymmetric</text>
+  <line x1="340" y1="184" x2="330" y2="185" stroke="#4a78b0" stroke-width="1"/>
+
+  <!-- 2. Axial Disease -->
+  <rect x="340" y="75" width="150" height="48" fill="#f0d0d0" stroke="#c06060" stroke-width="1" rx="4"/>
+  <text x="415" y="92" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#802020">2. Axial Disease</text>
+  <text x="415" y="105" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Spine &amp; sacroiliac joints</text>
+  <text x="415" y="116" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Inflammatory back pain</text>
+  <line x1="340" y1="99" x2="258" y2="140" stroke="#c06060" stroke-width="1"/>
+
+  <!-- 3. Enthesitis -->
+  <rect x="340" y="295" width="150" height="48" fill="#f0e8d8" stroke="#a08040" stroke-width="1" rx="4"/>
+  <text x="415" y="312" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#806020">3. Enthesitis</text>
+  <text x="415" y="325" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Achilles, plantar fascia,</text>
+  <text x="415" y="336" text-anchor="middle" font-family="serif" font-size="8" fill="#555">lateral epicondyle</text>
+  <line x1="340" y1="313" x2="296" y2="313" stroke="#a08040" stroke-width="1"/>
+
+  <!-- 4. Dactylitis -->
+  <rect x="10" y="160" width="140" height="48" fill="#e8f0e0" stroke="#608050" stroke-width="1" rx="4"/>
+  <text x="80" y="177" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#3a6a2a">4. Dactylitis</text>
+  <text x="80" y="190" text-anchor="middle" font-family="serif" font-size="8" fill="#555">"Sausage digits"</text>
+  <text x="80" y="201" text-anchor="middle" font-family="serif" font-size="8" fill="#555">~40–50% of PsA patients</text>
+  <line x1="150" y1="188" x2="160" y2="188" stroke="#608050" stroke-width="1"/>
+
+  <!-- 5. Skin & Nails -->
+  <rect x="10" y="80" width="140" height="55" fill="#f8f0e0" stroke="#b08030" stroke-width="1" rx="4"/>
+  <text x="80" y="97" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#805010">5. Skin &amp; Nails</text>
+  <text x="80" y="110" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Plaques, pitting, onycholysis</text>
+  <text x="80" y="121" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Nail psoriasis in ~80%</text>
+  <text x="80" y="131" text-anchor="middle" font-family="serif" font-size="8" fill="#555">of PsA patients</text>
+
+  <!-- Key fact -->
+  <text x="250" y="380" text-anchor="middle" font-family="serif" font-size="10" fill="#666">Any domain may occur alone or in combination.</text>
+  <text x="250" y="395" text-anchor="middle" font-family="serif" font-size="10" fill="#666">CASPAR criteria: inflammatory articular disease + ≥3 points.</text>
+  <text x="250" y="415" text-anchor="middle" font-family="serif" font-size="9" font-style="italic" fill="#888">Source: GRAPPA 2021 (Coates et al., 2022)</text>
+</svg>

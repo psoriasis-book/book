@@ -7,6 +7,8 @@ sidebar:
 
 Psoriatic arthritis (PsA) affects approximately 30% of people with psoriasis and is one of the most important comorbidities of the disease. While Section 10.1 introduced PsA as a comorbidity, this chapter provides a more detailed account of its clinical features, diagnosis, and management — information that is essential for any patient seeking to understand this condition in depth.
 
+![The five clinical domains of psoriatic arthritis](./images/psa-clinical-domains.svg)
+
 ## 10a.1 The Five Clinical Domains
 
 PsA is not a single disease pattern but encompasses five distinct clinical domains, any of which may occur alone or in combination [(Coates et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35761070/):
