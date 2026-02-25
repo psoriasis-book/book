@@ -70,7 +70,12 @@ PsA treatment follows a domain-based approach, as recommended by the Group for R
 
 ## 10a.7 The Treat-to-Target Approach
 
-Current guidelines recommend a **treat-to-target (T2T)** strategy for PsA, meaning that treatment is adjusted systematically to achieve a predefined goal — typically remission or low disease activity — rather than simply responding to symptoms as they arise. This approach, borrowed from rheumatology where it has proven successful in RA, involves regular assessment of disease activity using validated composite measures and escalation of therapy if the target is not achieved within a defined timeframe.
+Current guidelines recommend a **treat-to-target (T2T)** strategy for PsA, meaning that treatment is adjusted systematically to achieve a predefined goal — typically remission or low disease activity — rather than simply responding to symptoms as they arise. This approach, borrowed from rheumatology where it has proven successful in RA, involves regular assessment of disease activity using validated composite measures and escalation of therapy if the target is not achieved within a defined timeframe. The principal composite measures used in PsA include:
+
+- **DAPSA** (Disease Activity in Psoriatic Arthritis) — focuses on peripheral joint disease, combining tender and swollen joint counts, patient pain and global assessments, and CRP. Remission is defined as DAPSA ≤4 and low disease activity as ≤14.
+- **MDA** (Minimal Disease Activity) — a composite across domains; a patient is in MDA when meeting 5 of 7 criteria covering joints, enthesitis, skin, pain, patient global, and function. This is the most widely used T2T target in PsA clinical trials.
+- **PASDAS** (Psoriatic Arthritis Disease Activity Score) — integrates joint counts, patient and physician assessments, CRP, SF-36 physical component, and enthesitis into a continuous score.
+- **CPDAI** (Composite Psoriatic Disease Activity Index) — uniquely assesses all five clinical domains of PsA separately, making it the most comprehensive domain-level assessment.
 
 Evidence supports that T2T in PsA leads to better outcomes than routine care, including less radiographic progression and better functional outcomes. The challenge lies in PsA's multi-domain nature — a patient may achieve remission in one domain (e.g. skin) while remaining active in another (e.g. enthesitis) — requiring comprehensive assessment across all domains at each visit.
 
