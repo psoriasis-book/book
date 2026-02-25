@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" role="img" aria-labelledby="ftu-title ftu-desc">
+  <title id="ftu-title">Fingertip Unit (FTU) Guide</title>
+  <desc id="ftu-desc">Diagram showing what one fingertip unit looks like and the number of FTUs needed for different body regions: face and neck 2.5, one hand 1, one arm 3, one leg 6, front or back of trunk 7.</desc>
+
+  <rect width="500" height="400" fill="#fff"/>
+
+  <text x="250" y="22" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">The Fingertip Unit (FTU)</text>
+
+  <!-- FTU illustration on the left -->
+  <rect x="20" y="45" width="160" height="120" fill="#f8f4f0" stroke="#b09070" stroke-width="1" rx="6"/>
+  <text x="100" y="65" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#604020">1 FTU = ~0.5 g</text>
+
+  <!-- Finger outline -->
+  <rect x="50" y="80" width="22" height="55" fill="#f0d8c0" stroke="#a08060" stroke-width="1.2" rx="6"/>
+  <!-- Cream strip -->
+  <rect x="48" y="78" width="8" height="60" fill="#e0e8f0" stroke="#6080a0" stroke-width="1" rx="3"/>
+  <!-- Crease line -->
+  <line x1="50" y1="105" x2="72" y2="105" stroke="#a08060" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <text x="52" y="100" font-family="serif" font-size="7" fill="#888">tip</text>
+  <text x="52" y="115" font-family="serif" font-size="7" fill="#888">crease</text>
+
+  <!-- Tube -->
+  <rect x="95" y="85" width="55" height="25" fill="#e8e8e8" stroke="#999" stroke-width="1" rx="3"/>
+  <circle cx="95" cy="97" r="7" fill="#ddd" stroke="#999" stroke-width="1"/>
+  <text x="122" y="102" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Standard tube</text>
+
+  <text x="100" y="152" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Covers ~2 adult palms</text>
+  <text x="100" y="164" text-anchor="middle" font-family="serif" font-size="9" fill="#555">(~2% body surface area)</text>
+
+  <!-- Body outline with FTU counts on the right -->
+  <!-- Head -->
+  <circle cx="340" cy="75" r="18" fill="none" stroke="#888" stroke-width="1.5"/>
+  <!-- Torso -->
+  <rect x="315" y="93" width="50" height="80" fill="none" stroke="#888" stroke-width="1.5" rx="8"/>
+  <!-- Arms -->
+  <line x1="315" y1="100" x2="275" y2="155" stroke="#888" stroke-width="1.5"/>
+  <line x1="365" y1="100" x2="405" y2="155" stroke="#888" stroke-width="1.5"/>
+  <!-- Hands -->
+  <circle cx="270" cy="162" r="6" fill="none" stroke="#888" stroke-width="1"/>
+  <circle cx="410" cy="162" r="6" fill="none" stroke="#888" stroke-width="1"/>
+  <!-- Legs -->
+  <line x1="325" y1="173" x2="310" y2="280" stroke="#888" stroke-width="1.5"/>
+  <line x1="355" y1="173" x2="370" y2="280" stroke="#888" stroke-width="1.5"/>
+  <!-- Feet -->
+  <ellipse cx="305" cy="287" rx="10" ry="5" fill="none" stroke="#888" stroke-width="1"/>
+  <ellipse cx="375" cy="287" rx="10" ry="5" fill="none" stroke="#888" stroke-width="1"/>
+
+  <!-- FTU labels with background boxes -->
+  <!-- Face & neck -->
+  <rect x="370" y="55" width="110" height="30" fill="#f0e8d8" stroke="#a08040" stroke-width="1" rx="3"/>
+  <text x="425" y="70" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#806020">Face &amp; neck</text>
+  <text x="425" y="82" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#604020">2.5 FTU</text>
+  <line x1="370" y1="75" x2="360" y2="75" stroke="#a08040" stroke-width="0.8"/>
+
+  <!-- One arm -->
+  <rect x="195" y="110" width="70" height="30" fill="#e0ecf8" stroke="#4a78b0" stroke-width="1" rx="3"/>
+  <text x="230" y="125" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#2a5a90">One arm</text>
+  <text x="230" y="137" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#203070">3 FTU</text>
+  <line x1="265" y1="130" x2="280" y2="140" stroke="#4a78b0" stroke-width="0.8"/>
+
+  <!-- One hand -->
+  <rect x="195" y="155" width="70" height="28" fill="#e8f0e0" stroke="#5a8a4a" stroke-width="1" rx="3"/>
+  <text x="230" y="169" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#3a6a2a">One hand</text>
+  <text x="230" y="180" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#2a5a20">1 FTU</text>
+  <line x1="265" y1="169" x2="270" y2="165" stroke="#5a8a4a" stroke-width="0.8"/>
+
+  <!-- Trunk (front or back) -->
+  <rect x="400" y="115" width="90" height="35" fill="#f0d0d0" stroke="#b06060" stroke-width="1" rx="3"/>
+  <text x="445" y="130" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#802020">Trunk (front</text>
+  <text x="445" y="141" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#802020">or back)</text>
+  <text x="445" y="148" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#601010">7 FTU</text>
+  <line x1="400" y1="135" x2="365" y2="135" stroke="#b06060" stroke-width="0.8"/>
+
+  <!-- One leg -->
+  <rect x="400" y="225" width="80" height="30" fill="#e8d8f0" stroke="#806090" stroke-width="1" rx="3"/>
+  <text x="440" y="240" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#503070">One leg</text>
+  <text x="440" y="252" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#402060">6 FTU</text>
+  <line x1="400" y1="240" x2="375" y2="240" stroke="#806090" stroke-width="0.8"/>
+
+  <!-- Summary -->
+  <rect x="30" y="195" width="160" height="170" fill="#f8f8f8" stroke="#ccc" stroke-width="1" rx="5"/>
+  <text x="110" y="215" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#333">Quick Reference</text>
+  <text x="40" y="238" font-family="serif" font-size="10" fill="#555">Face &amp; neck:     2.5 FTU</text>
+  <text x="40" y="255" font-family="serif" font-size="10" fill="#555">One hand:          1 FTU</text>
+  <text x="40" y="272" font-family="serif" font-size="10" fill="#555">One arm:            3 FTU</text>
+  <text x="40" y="289" font-family="serif" font-size="10" fill="#555">One leg:              6 FTU</text>
+  <text x="40" y="306" font-family="serif" font-size="10" fill="#555">Trunk (front):     7 FTU</text>
+  <text x="40" y="323" font-family="serif" font-size="10" fill="#555">Trunk (back):     7 FTU</text>
+  <text x="40" y="345" font-family="serif" font-size="9" font-style="italic" fill="#888">Whole body ≈ 36 FTU</text>
+  <text x="40" y="358" font-family="serif" font-size="9" font-style="italic" fill="#888">(~18 g per application)</text>
+
+  <!-- Source -->
+  <text x="250" y="392" text-anchor="middle" font-family="serif" font-size="8" font-style="italic" fill="#888">Source: Long &amp; Finlay, 1991</text>
+</svg>

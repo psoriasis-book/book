@@ -9,6 +9,8 @@ Topical therapies remain the cornerstone of psoriasis management. The majority o
 
 ## 15a.1 Topical Corticosteroids
 
+![Topical corticosteroid potency classification](./images/steroid-potency-ladder.svg)
+
 Topical corticosteroids are the most widely prescribed treatment for psoriasis. They work by suppressing inflammation, reducing keratinocyte proliferation, and constricting blood vessels in the skin. Potency classification varies by country. The **US system** uses seven classes (class I being the most potent, class VII the mildest), while the **UK/WHO system** groups agents into four tiers: mild (e.g. hydrocortisone 1%), moderate (e.g. clobetasone butyrate), potent (e.g. betamethasone valerate 0.1%, mometasone furoate), and very potent (e.g. clobetasol propionate 0.05%) [(Elmets et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/32738429/).
 
 **Body-site selection is critical.** Very potent or potent preparations are appropriate for thick plaques on the elbows, knees, and trunk. Moderate-potency agents suit thinner-skinned areas such as the limbs. Mild preparations should be used on the face, flexures (skin folds), and genitals, where the skin is thinner, more permeable, and more susceptible to steroid side effects such as atrophy (thinning), striae (stretch marks), and telangiectasia (visible small blood vessels). Potent corticosteroids are generally limited to courses of two to four weeks on the body, with step-down to lower potency or alternate-day use for maintenance [(Kleyn et al., 2019)](https://www.tandfonline.com/doi/full/10.1080/09546634.2019.1620502).
@@ -66,6 +68,8 @@ In the pivotal PSOARING phase 3 trials, tapinarof 1% cream applied once daily ac
 Clinicians can address steroid phobia by: explaining that side effects are related to potency, site, and duration (and are largely avoidable with appropriate use); distinguishing topical from systemic steroids; demonstrating application technique and appropriate quantities; and acknowledging patients' concerns without dismissing them. Studies show that targeted educational interventions — including short videos followed by personalised discussion — significantly reduce steroid phobia and improve adherence [(Li et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/34287768/). The availability of newer non-steroidal topicals (tapinarof, roflumilast) also provides clinicians with steroid-free alternatives where patient anxiety cannot be resolved.
 
 ## 15a.11 Practical Application: Fingertip Units and Treatment Regimens
+
+![Fingertip unit guide](./images/fingertip-unit.svg)
 
 A common reason for topical treatment failure is **under-application**. The **fingertip unit (FTU)** system provides a practical guide: one FTU is the amount of cream or ointment squeezed from a standard tube along the length of an adult index finger, from the tip to the first crease. One FTU weighs approximately 0.5 g and covers an area roughly the size of two adult palms (about 2% of body surface area) [(Long & Finlay, 1991)](https://pubmed.ncbi.nlm.nih.gov/1764318/). As a rough guide: one hand requires approximately 1 FTU, one arm 3 FTUs, one leg 6 FTUs, the trunk (front or back) 7 FTUs, and the face and neck 2.5 FTUs.
 

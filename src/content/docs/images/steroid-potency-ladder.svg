@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" role="img" aria-labelledby="steroid-title steroid-desc">
+  <title id="steroid-title">Topical Corticosteroid Potency Classification (UK/WHO System)</title>
+  <desc id="steroid-desc">Four-tier stepped diagram showing corticosteroid potency from mild to very potent, with example drugs and appropriate body sites for each tier.</desc>
+
+  <rect width="520" height="380" fill="#fff"/>
+
+  <text x="260" y="22" text-anchor="middle" font-family="serif" font-size="13" font-weight="bold" fill="#333">Topical Corticosteroid Potency (UK/WHO)</text>
+
+  <!-- Tier 1: Mild -->
+  <rect x="20" y="280" width="480" height="55" fill="#e8f0e0" stroke="#5a8a4a" stroke-width="1.5" rx="5"/>
+  <text x="35" y="300" font-family="serif" font-size="12" font-weight="bold" fill="#3a6a2a">MILD</text>
+  <text x="35" y="315" font-family="serif" font-size="9" fill="#555">Hydrocortisone 0.5–1%</text>
+  <text x="35" y="328" font-family="serif" font-size="9" fill="#555">Hydrocortisone acetate 1%</text>
+  <text x="310" y="300" font-family="serif" font-size="9" font-weight="bold" fill="#3a6a2a">Sites:</text>
+  <text x="310" y="313" font-family="serif" font-size="9" fill="#555">Face, eyelids, flexures, genitals,</text>
+  <text x="310" y="326" font-family="serif" font-size="9" fill="#555">children. Safe for long-term use.</text>
+
+  <!-- Tier 2: Moderate -->
+  <rect x="60" y="215" width="400" height="55" fill="#e0ecf8" stroke="#4a78b0" stroke-width="1.5" rx="5"/>
+  <text x="75" y="235" font-family="serif" font-size="12" font-weight="bold" fill="#2a5a90">MODERATE</text>
+  <text x="75" y="250" font-family="serif" font-size="9" fill="#555">Clobetasone butyrate 0.05%</text>
+  <text x="75" y="263" font-family="serif" font-size="9" fill="#555">Betamethasone valerate 0.025%</text>
+  <text x="310" y="235" font-family="serif" font-size="9" font-weight="bold" fill="#2a5a90">Sites:</text>
+  <text x="310" y="248" font-family="serif" font-size="9" fill="#555">Limbs, trunk (thinner skin).</text>
+  <text x="310" y="261" font-family="serif" font-size="9" fill="#555">Short to medium-term courses.</text>
+
+  <!-- Tier 3: Potent -->
+  <rect x="100" y="150" width="320" height="55" fill="#f8e8d0" stroke="#b08040" stroke-width="1.5" rx="5"/>
+  <text x="115" y="170" font-family="serif" font-size="12" font-weight="bold" fill="#806020">POTENT</text>
+  <text x="115" y="185" font-family="serif" font-size="9" fill="#555">Betamethasone valerate 0.1%</text>
+  <text x="115" y="198" font-family="serif" font-size="9" fill="#555">Mometasone furoate 0.1%</text>
+  <text x="310" y="170" font-family="serif" font-size="9" font-weight="bold" fill="#806020">Sites:</text>
+  <text x="310" y="183" font-family="serif" font-size="9" fill="#555">Elbows, knees, trunk, scalp.</text>
+  <text x="310" y="196" font-family="serif" font-size="9" fill="#555">Limit to 2–4 week courses.</text>
+
+  <!-- Tier 4: Very Potent -->
+  <rect x="140" y="85" width="240" height="55" fill="#f0d0d0" stroke="#b04040" stroke-width="1.5" rx="5"/>
+  <text x="155" y="105" font-family="serif" font-size="12" font-weight="bold" fill="#802020">VERY POTENT</text>
+  <text x="155" y="120" font-family="serif" font-size="9" fill="#555">Clobetasol propionate 0.05%</text>
+  <text x="155" y="133" font-family="serif" font-size="9" fill="#555">Diflucortolone valerate 0.3%</text>
+  <text x="260" y="105" font-family="serif" font-size="9" font-weight="bold" fill="#802020">Sites:</text>
+  <text x="260" y="118" font-family="serif" font-size="9" fill="#555">Thick plaques only.</text>
+  <text x="260" y="131" font-family="serif" font-size="9" fill="#555">Short bursts (≤2 weeks).</text>
+
+  <!-- Arrow indicating potency -->
+  <line x1="15" y1="310" x2="15" y2="100" stroke="#888" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="10" y="200" text-anchor="middle" font-family="serif" font-size="10" fill="#666" transform="rotate(-90, 10, 200)">Increasing potency →</text>
+
+  <!-- Note -->
+  <text x="260" y="355" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Always step down to lowest effective potency after clearing.</text>
+  <text x="260" y="370" text-anchor="middle" font-family="serif" font-size="9" fill="#666">Non-steroidal alternatives (roflumilast, tapinarof) avoid potency concerns entirely.</text>
+
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#888"/>
+    </marker>
+  </defs>
+</svg>
