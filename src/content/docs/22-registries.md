@@ -11,10 +11,15 @@ Clinical trials demonstrate efficacy under idealised conditions. Real-world data
 
 Several national registries collect long-term prospective data on psoriasis patients receiving systemic and biologic therapies:
 
-- **BADBIR** (British Association of Dermatologists Biologics and Immunomodulators Register, UK/Ireland): The largest European psoriasis biologics registry, with over 20,000 registered patients. It tracks biologic safety, drug survival, and patient outcomes longitudinally.
-- **PSOLAR** (Psoriasis Longitudinal Assessment and Registry): A large US-based international registry (over 12,000 patients) that provided key long-term safety data for multiple biologics, including rates of serious infections, malignancy, and cardiovascular events.
-- **PsoBest** (Germany): A national registry tracking over 10,000 patients on systemic therapies.
+- **BADBIR** (British Association of Dermatologists Biologics and Immunomodulators Register, UK/Ireland): The largest European psoriasis biologics registry, with over 20,000 registered patients. It tracks biologic safety, drug survival, and patient outcomes longitudinally. BADBIR has produced landmark analyses on serious infection risk by drug class, suicide risk in psoriasis, and comparative drug survival.
+- **PSOLAR** (Psoriasis Longitudinal Assessment and Registry): A large US-based international registry (over 12,000 patients) that provided key long-term safety data for multiple biologics, including rates of serious infections, malignancy, and cardiovascular events. PSOLAR was instrumental in establishing the long-term safety profile of ustekinumab and the TNF inhibitors.
+- **CorEvitas** (formerly Corrona, US): A large US-based registry system covering multiple autoimmune diseases. The CorEvitas Psoriasis Registry collects prospective data on treatment patterns, effectiveness, and safety across both dermatology and rheumatology settings, with particular strength in real-world comparative effectiveness data.
+- **PsoBest** (Germany): A national registry tracking over 10,000 patients on systemic therapies. It has contributed important data on drug survival and the comparative effectiveness of biologics in a European healthcare system.
+- **DERMBIO** (Denmark): The Danish national registry of biologic-treated psoriasis patients. DERMBIO has provided influential data on biologic discontinuation and remission duration, including the finding that 50% of patients who achieved PASI 0 at biologic discontinuation remained in remission for at least 2 years (see Section 15.3).
+- **BIOREP** (Italy): The Italian registry of biologic treatments for psoriasis, providing real-world data on treatment patterns and outcomes in a Southern European population.
 - **BioCAPTURE** (Netherlands): A registry focusing on biological therapies in psoriasis with long-term follow-up.
+- **Australasian Psoriasis Registry** (Australia/New Zealand): Captures data on biologic-treated patients in the Asia-Pacific region, providing important geographic diversity to the global evidence base.
+- **PSORT** (Psoriasis Stratification to Optimise Relevant Therapy, UK): Not a traditional patient registry but a research consortium that uses existing registry data (particularly BADBIR) combined with genetic, transcriptomic, and clinical data to develop stratified medicine approaches — matching patients to the right drug based on their individual characteristics.
 
 ## 22.2 Key Findings from Real-World Data
 
