@@ -13,7 +13,7 @@ sidebar:
 
 4. Hawkes JE, Chan TC, Krueger JG. Psoriasis pathogenesis and the development of novel targeted immune therapies. *J Allergy Clin Immunol*. 2017;140(3):645-653. doi:10.1016/j.jaci.2017.07.004. [Full text](https://www.jacionline.org/article/S0091-6749(17)31197-1/fulltext)
 
-5. Dand N, Mahil SK, Capon F, et al. GWAS meta-analysis of psoriasis identifies new susceptibility alleles impacting disease mechanisms and therapeutic targets. *Nat Commun*. 2025;16:2014. doi:10.1038/s41467-025-56719-8. [Nature](https://www.nature.com/articles/s41467-025-56719-8)
+5. Dand N, Mahil SK, Capon F, et al. GWAS meta-analysis of psoriasis identifies new susceptibility alleles impacting disease mechanisms and therapeutic targets. *Nat Commun*. 2025;16:2051. doi:10.1038/s41467-025-56719-8. [Nature](https://www.nature.com/articles/s41467-025-56719-8)
 
 6. Capon F. Psoriasis and genetics. *Acta Derm Venereol*. 2020;100(3):adv00030. [Full text](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-3384)
 

@@ -9,7 +9,7 @@ The pace of psoriasis research has accelerated dramatically. This section highli
 
 ## 19.1 The 109-Loci GWAS Meta-Analysis (Dand et al., 2025)
 
-**Study:** *Identification of 109 psoriasis susceptibility loci, including 46 novel loci, by multi-ancestry genome-wide meta-analysis.* Dand N, et al. Nature Communications. 2025;16:2267.
+**Study:** *Identification of 109 psoriasis susceptibility loci, including 46 novel loci, by multi-ancestry genome-wide meta-analysis.* Dand N, et al. Nature Communications. 2025;16:2051.
 **Read it:** [Nature Communications](https://www.nature.com/articles/s41467-025-56719-8)
 
 **Why it matters:** This is the largest genetic study of psoriasis ever conducted, analysing 36,466 psoriasis cases and 458,078 controls across 18 genome-wide association studies. It nearly doubled the number of known psoriasis risk loci from ~63 to 109, including 46 entirely novel genetic associations.
