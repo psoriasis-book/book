@@ -176,3 +176,11 @@ sidebar:
 85. Huang YW, Tsai TF. Remission Duration and Long-Term Outcomes in Patients with Moderate-to-Severe Psoriasis Treated by Biologics or Tofacitinib in Controlled Clinical Trials: A 15-Year Single-Center Experience. *Dermatol Ther (Heidelb)*. 2019;9(3):553-569. doi:10.1007/s13555-019-0310-5. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31270683/)
 
 86. Armstrong AW, Gondo GC, Merola JF, et al.; Remission Workgroup of the National Psoriasis Foundation. Defining On-Treatment Remission in Plaque Psoriasis: A Consensus Statement From the National Psoriasis Foundation. *JAMA Dermatol*. 2025;161(8):863-869. doi:10.1001/jamadermatol.2025.1625. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40531503/)
+
+87. Ibrahim GH, Buch MH, Lawson C, Rajber R, Helliwell PS. Evaluation of an existing screening tool for psoriatic arthritis in people with psoriasis and the development of a new instrument: the Psoriasis Epidemiology Screening Tool (PEST) questionnaire. *Clin Exp Rheumatol*. 2009;27(3):469-474. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19174392/)
+
+88. Chen H, Poon A, Yeung C, et al. A Genetic Risk Score Combining Ten Psoriasis Risk Loci Improves Disease Prediction. *PLoS ONE*. 2011;6(4):e19454. doi:10.1371/journal.pone.0019454. [PLOS ONE](https://doi.org/10.1371/journal.pone.0019454)
+
+89. Kolchak NA, Tetarnikova MK, Theodoropoulou MS, Michalopoulou AP, Theodoropoulos DS. Prevalence of antigliadin IgA antibodies in psoriasis vulgaris and response of seropositive patients to a gluten-free diet. *J Multidiscip Healthc*. 2018;11:13-19. doi:10.2147/JMDH.S122256. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29343966/)
+
+90. Jensen P, Zachariae C, Christensen R, et al. Long-term effects of weight reduction on the severity of psoriasis in a cohort derived from a randomized trial: a prospective observational follow-up study. *Am J Clin Nutr*. 2016;104(2):259-265. doi:10.3945/ajcn.115.125849. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27334236/)
