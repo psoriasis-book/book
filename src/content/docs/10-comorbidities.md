@@ -11,7 +11,7 @@ Psoriasis is now firmly recognised as a systemic inflammatory condition, associa
 
 ## 10.1 Psoriatic Arthritis (PsA)
 
-The most common comorbidity. An estimated 30–33% of people with psoriasis develop psoriatic arthritis, which causes pain, swelling, and stiffness in the joints. Skin disease precedes joint disease in the majority of cases. Certain HLA-B alleles, particularly HLA-B*27, are associated with increased PsA risk, whereas HLA-C*06:02 — the major skin psoriasis risk allele — is not specifically linked to PsA [(Capon, 2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9128944/).
+The most common comorbidity. An estimated 30–33% of people with psoriasis develop psoriatic arthritis, which causes pain, swelling, and stiffness in the joints. Skin disease precedes joint disease in the majority of cases. Certain HLA-B alleles, particularly HLA-B*27, are associated with increased PsA risk, whereas HLA-C*06:02 — the major skin psoriasis risk allele — is not specifically linked to PsA [(Capon, 2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9128944/). For a detailed account of PsA clinical features, diagnosis, and management, see Section 10a.
 
 ## 10.2 Cardiovascular Disease
 
