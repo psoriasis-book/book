@@ -7,6 +7,8 @@ sidebar:
 
 To understand psoriasis at a molecular level, it is necessary to understand some fundamental concepts of immunology. This section defines the key vocabulary used throughout this book.
 
+![Key immune cells in psoriasis](./images/immune-cell-types.svg)
+
 ## 4.1 Innate vs. Adaptive Immunity
 
 The immune system is broadly divided into two branches:
