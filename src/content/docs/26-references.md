@@ -204,3 +204,5 @@ sidebar:
 99. Sayed BA, et al. Apremilast: First Pediatric Approval. *Paediatr Drugs*. 2024. doi:10.1007/s40272-024-00659-x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39576565/)
 
 100. Kimmel GW, Lebwohl M. Psoriasis: Overview and Diagnosis. In: Weinberg JM, Lebwohl M, editors. *Advances in Psoriasis*. Springer; 2021. p. 1-16. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7122924/)
+
+101. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)
