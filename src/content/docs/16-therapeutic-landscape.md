@@ -107,7 +107,7 @@ The availability of biosimilars is expected to expand significantly in the comin
 
 ## 16.5 Small Molecule Inhibitors
 
-- **Apremilast (Otezla)**: An oral phosphodiesterase 4 (PDE4) inhibitor — PDE4 is an enzyme inside immune cells that normally breaks down a molecule called cAMP; by blocking PDE4, apremilast increases cAMP levels, which dampens the production of inflammatory cytokines. Less effective than biologics but offers an oral route of administration (a pill rather than an injection) with a favourable safety profile.
+- **Apremilast (Otezla)**: An oral phosphodiesterase 4 (PDE4) inhibitor — PDE4 is an enzyme inside immune cells that normally breaks down a molecule called cAMP; by blocking PDE4, apremilast increases cAMP levels, which dampens the production of inflammatory cytokines. Dosed at 30 mg twice daily (after a 5-day titration schedule to reduce gastrointestinal side effects). Less effective than biologics but offers an oral route of administration (a pill rather than an injection) with a favourable safety profile.
 - **Deucravacitinib (Sotyktu)**: FDA-approved in September 2022, this is a selective tyrosine kinase 2 (TYK2) inhibitor. TYK2 is a member of the JAK enzyme family that sits inside cells and relays signals from the IL-23, IL-12, and type I interferon receptors. By blocking TYK2, deucravacitinib interrupts these specific signalling pathways without broadly suppressing the immune system, offering a more targeted approach than older, non-selective JAK inhibitors [(Dey et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10819460/).
 
 ## 16.6 Conventional Systemic Agents
