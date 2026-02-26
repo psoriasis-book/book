@@ -47,7 +47,7 @@ sidebar:
 
 21. Caso F, et al. The role of lifestyle and nutrition in psoriasis: current status of knowledge and interventions. *Dermatol Ther*. 2022;35(11):e15811. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/)
 
-22. Takahashi H, Iizuka H. Cardiovascular and metabolic diseases comorbid with psoriasis: beyond the skin. *Intern Med*. 2012;51(18):2471-2477. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5519460/)
+22. Takahashi H, Iizuka H. Psoriasis and metabolic syndrome. *J Dermatol*. 2012;39(3):212-218. doi:10.1111/j.1346-8138.2011.01408.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22035413/)
 
 23. Hu SC, Lan CE. Psoriasis and cardiovascular comorbidities: focusing on severe vascular events, cardiovascular risk factors and implications for treatment. *Int J Mol Sci*. 2017;18(10):2211. [MDPI](https://www.mdpi.com/1422-0067/18/10/2211)
 
