@@ -9,7 +9,7 @@ A question frequently asked by newly diagnosed patients is: *can psoriasis go aw
 
 ## 15.1 What Is "Remission" in Psoriasis?
 
-There has historically been no standardised definition of remission in psoriasis. A 2022 systematic literature review by the National Psoriasis Foundation identified 41 different definitions of "remission" across 106 studies, ranging from PASI 75 to complete skin clearance [(Balak et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35924437/). In 2025, the National Psoriasis Foundation published a consensus statement defining "on-treatment remission" as maintaining ≤1% body surface area involvement for at least 6 months, with a DLQI score of 0 or 1 (indicating no impact on quality of life) [(NPF, 2025)](https://www.psoriasis.org/watch-and-listen/defining-on-treatment-remission-abbvie/). Crucially, this definition specifies *on-treatment* remission — it explicitly acknowledges that most patients achieve clearance while continuing medication.
+There has historically been no standardised definition of remission in psoriasis. A 2022 systematic literature review by the National Psoriasis Foundation identified 41 different definitions of "remission" across 106 studies, ranging from PASI 75 to complete skin clearance [(Balak et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35924437/). In 2025, the National Psoriasis Foundation published a consensus statement defining "on-treatment remission" as maintaining complete clearance (BSA 0% or IGA 0) for at least 6 months while receiving treatment [(Armstrong et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40531503/). Crucially, this definition specifies *on-treatment* remission — it explicitly acknowledges that most patients achieve clearance while continuing medication.
 
 True **drug-free remission** — complete skin clearance sustained for at least 12 months without any therapy — is much rarer and has only been addressed in one small consensus initiative [(Balak et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35924437/).
 
@@ -19,7 +19,7 @@ Guttate psoriasis — the form characterised by sudden eruptions of small, dropl
 
 Key findings from the literature:
 
-- A 2023 systematic review reported that guttate psoriasis generally spontaneously remits within 12–16 weeks of onset [(Zhou et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11619194/).
+- A systematic review reported that guttate psoriasis generally spontaneously remits within 12–16 weeks of onset [(Zhou et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11619194/).
 - A retrospective study of 36 patients found that 61.1% achieved complete remission lasting at least 1 year (designated "good prognosis"), while 38.9% had incomplete remission or progressed to chronic plaque psoriasis [(Ko et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20860740/).
 - A larger, long-term follow-up study of 120 patients with new-onset guttate psoriasis (mean follow-up 6.2 years) found that 50.9% achieved complete remission, while 49.1% had persistent psoriatic disease. Of those with persistent disease, 17.5% had switched to the plaque psoriasis phenotype [(Guttman-Yassky et al., 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10015744/).
 - Factors associated with *better* prognosis (more likely to fully remit): younger age at onset, preceding streptococcal infection with high ASO titres, and absence of family history of plaque psoriasis.
