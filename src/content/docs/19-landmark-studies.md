@@ -36,14 +36,14 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **New knowledge:** Interim results showed that patients with shorter disease duration (≤2 years) were significantly more likely to achieve and maintain complete skin clearance than patients with longer disease histories. This reinforces the STEPIn findings and supports the hypothesis that early, aggressive treatment may prevent the establishment of tissue-resident memory T cells and epigenetic changes that drive chronic, relapsing disease.
 
-## 19.4 Bimekizumab Phase 3 Trials — Dual IL-17 Blockade (Warren et al., 2021–2023; BE VIVID, BE READY, BE RADIANT, BE BRIGHT)
+## 19.4 Bimekizumab Phase 3 Trials — Dual IL-17 Blockade (Warren et al., 2021–2023; BE SURE, BE READY, BE RADIANT, BE BRIGHT)
 
-**Study:** *Bimekizumab versus adalimumab in plaque psoriasis.* Warren RB, et al. N Engl J Med. 2021;385(2):130–141 (BE VIVID). Extended data published through 2023.
+**Study:** *Bimekizumab versus adalimumab in plaque psoriasis.* Warren RB, et al. N Engl J Med. 2021;385(2):130–141 (BE SURE). Extended data published through 2023.
 **Read it:** [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2102388)
 
 **Why it matters:** Bimekizumab was the first biologic to simultaneously block both IL-17A and IL-17F, testing the hypothesis that IL-17F — previously considered less important than IL-17A — also contributes meaningfully to psoriatic inflammation.
 
-**New knowledge:** The BE VIVID and BE READY trials demonstrated that dual IL-17A/F blockade produces among the highest rates of complete skin clearance (PASI 100) of any therapy studied to date, with responses maintained through 3 years in the BE BRIGHT extension study [(Strober et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36967713/). Bimekizumab was FDA-approved in October 2023. Its success confirmed that IL-17F is indeed a non-redundant driver of psoriatic inflammation and that blocking both IL-17 family members provides additional clinical benefit over blocking IL-17A alone.
+**New knowledge:** The BE SURE and BE READY trials demonstrated that dual IL-17A/F blockade produces among the highest rates of complete skin clearance (PASI 100) of any therapy studied to date, with responses maintained through 3 years in the BE BRIGHT extension study [(Strober et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36967713/). Bimekizumab was FDA-approved in October 2023. Its success confirmed that IL-17F is indeed a non-redundant driver of psoriatic inflammation and that blocking both IL-17 family members provides additional clinical benefit over blocking IL-17A alone.
 
 ## 19.5 Cochrane Network Meta-Analysis of Systemic Therapies (Sbidian et al., 2023)
 
