@@ -22,7 +22,7 @@ The clinician will also ask about family history (psoriasis has ~66% heritabilit
 
 When the clinical picture is ambiguous — for example, in atypical presentations, inverse psoriasis that may resemble fungal infection, or palmoplantar disease that can mimic eczema — a skin biopsy provides definitive confirmation. The procedure is a **punch biopsy** (a small cylindrical tool, typically 4mm in diameter, removes a core of skin including epidermis, dermis, and subcutaneous fat). The sample is examined under a microscope by a pathologist (histopathology — what tissue looks like under a microscope). The results are typically available within a week.
 
-Characteristic histological features of psoriasis include [(PMC, 2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7122924/):
+Characteristic histological features of psoriasis include [(Kimmel & Lebwohl, 2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7122924/):
 
 - **Acanthosis**: Thickening of the epidermis, with elongated rete ridges.
 - **Parakeratosis**: Retention of cell nuclei in the stratum corneum (the outermost layer of skin), indicating abnormally rapid keratinocyte turnover — cells are moving through the epidermis so quickly that they retain their nuclei instead of shedding them.

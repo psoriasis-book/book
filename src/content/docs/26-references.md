@@ -202,3 +202,5 @@ sidebar:
 98. Zhang X, He Y. The role of nociceptive neurons in the pathogenesis of psoriasis. *Front Immunol*. 2020;11:1984. doi:10.3389/fimmu.2020.01984. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33133059/)
 
 99. Sayed BA, et al. Apremilast: First Pediatric Approval. *Paediatr Drugs*. 2024. doi:10.1007/s40272-024-00659-x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39576565/)
+
+100. Kimmel GW, Lebwohl M. Psoriasis: Overview and Diagnosis. In: Weinberg JM, Lebwohl M, editors. *Advances in Psoriasis*. Springer; 2021. p. 1-16. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7122924/)
