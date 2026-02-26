@@ -217,6 +217,8 @@ sidebar:
 
 106. Blauvelt A, Papp K, Trivedi M, et al. Efficacy and safety of the ustekinumab biosimilar ABP 654 in patients with moderate-to-severe plaque psoriasis. *Br J Dermatol*. 2025;192(5):826-836. doi:10.1093/bjd/ljae402. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39442018/)
 
-107. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
+107. Armstrong AW, Soliman AM, Betts KA, et al. Comparative Efficacy and Relative Ranking of Biologics and Oral Therapies for Moderate-to-Severe Plaque Psoriasis: A Network Meta-analysis. *Dermatol Ther (Heidelb)*. 2021;11(3):885-905. doi:10.1007/s13555-021-00511-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33788177/)
+
+108. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
 
 102. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)

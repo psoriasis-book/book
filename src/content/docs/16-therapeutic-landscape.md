@@ -74,6 +74,8 @@ A separate economic evaluation in *JAMA Dermatology* found that as of January 20
 | Ixekizumab | Taltz | High | ~68% |
 | Risankizumab | Skyrizi | ~$79,277 | ~71.6% |
 
+*Cost data from Egilman et al. 2024. PASI 90 rates are short-term induction rates derived from a network meta-analysis of pivotal trials [(Armstrong et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/33788177/).*
+
 The study found that US biologic prices were not well aligned with clinical benefit: prices would need to be reduced by a median of 71% to match the cost-effectiveness ratios seen in peer countries such as Australia, Canada, France, and Germany [(Egilman et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10882509/).
 
 In the UK, biologics for psoriasis are available on the NHS but are subject to cost-effectiveness appraisal by NICE (the National Institute for Health and Care Excellence). Patients typically must have failed conventional systemic therapies (such as methotrexate) before biologics are approved, and NICE has negotiated confidential patient access schemes with manufacturers to reduce costs. UK list prices differ significantly from US list prices but are typically in the range of several thousand pounds per dose for the newer IL-23 inhibitors.
