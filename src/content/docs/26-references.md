@@ -53,7 +53,7 @@ sidebar:
 
 24. Ni C, Chiu MW. Psoriasis and comorbidities: links and risks. *Clin Cosmet Investig Dermatol*. 2014;7:119-132. [Dove Press](https://www.dovepress.com/psoriasis-and-comorbidities-links-and-risks-peer-reviewed-fulltext-article-CCID)
 
-25. Mehta NN, et al. Cardiovascular risk in patients with psoriasis: JACC review topic of the week. *J Am Coll Cardiol*. 2021;77(13):1670-1680. [JACC](https://www.jacc.org/doi/10.1016/j.jacc.2021.02.009)
+25. Garshick MS, Ward NL, Krueger JG, Berger JS. Cardiovascular risk in patients with psoriasis: JACC review topic of the week. *J Am Coll Cardiol*. 2021;77(13):1670-1680. [JACC](https://www.jacc.org/doi/10.1016/j.jacc.2021.02.009)
 
 26. National Psoriasis Foundation. What are the related medical conditions of psoriasis? Updated 2024. [Website](https://www.psoriasis.org/related-conditions/)
 
