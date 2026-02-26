@@ -31,7 +31,13 @@ Scalp psoriasis is one of the most common and difficult-to-treat sites, affectin
 
 ## 13.3 Nail Care
 
-Nail psoriasis is slow to respond to treatment because nails grow slowly (fingernails: 3–4 mm/month, toenails: 1 mm/month). Keep nails trimmed short and filed smooth to reduce leverage on lifting nails. Wear gloves for wet work and household cleaning. Avoid manicures that involve pushing back or trimming the cuticle, as this trauma can worsen nail disease via the Köbner phenomenon. Clear nail varnish can disguise pitting and is cosmetically acceptable, though thick "gel" or acrylic nails may trap moisture and worsen onycholysis.
+Nail psoriasis is slow to respond to treatment because nails grow slowly (fingernails: 3–4 mm/month, toenails: 1 mm/month). Visible improvement typically takes 6–12 months even with effective therapy, so patience is essential. Severity can be assessed using the Nail Psoriasis Severity Index (NAPSI), which grades pitting, onycholysis, crumbling, and other features in each nail.
+
+**Topical treatments** for mild nail disease include high-potency corticosteroids (e.g. clobetasol in nail lacquer form), vitamin D analogues (calcipotriol), and tacrolimus ointment applied to the nail folds. Intralesional corticosteroid injections into the nail matrix can be effective for localised disease but are painful and typically reserved for specialist clinics.
+
+**Systemic treatments** are often required for moderate-to-severe nail psoriasis. Among biologics, IL-17 inhibitors (ixekizumab, secukinumab) and IL-23 inhibitors (risankizumab, guselkumab) have demonstrated the strongest nail clearance rates in clinical trials, significantly outperforming methotrexate. Bimekizumab also shows high nail response rates. For patients already on a biologic for skin psoriasis, nail improvement typically follows, though with a delay of several months.
+
+**Practical nail care:** Keep nails trimmed short and filed smooth to reduce leverage on lifting nails. Wear gloves for wet work and household cleaning. Avoid manicures that involve pushing back or trimming the cuticle, as this trauma can worsen nail disease via the Köbner phenomenon. Clear nail varnish or medical-grade nail hardeners can disguise pitting and protect the nail plate. Thick "gel" or acrylic nails should be avoided as they may trap moisture and worsen onycholysis.
 
 ## 13.4 Clothing and Fabrics
 
