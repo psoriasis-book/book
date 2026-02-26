@@ -51,7 +51,7 @@ These selectively target the p19 subunit unique to IL-23, blocking IL-23 without
 - **Tildrakizumab (Ilumya)**: Administered subcutaneously every 12 weeks after induction. Shown to be the safest biologic among IL-17 and IL-23 inhibitors in meta-analysis, with the lowest adverse event rates, though its efficacy builds more gradually than some competitors, reaching comparable levels by week 28.
 
 ### IL-36 Receptor Antagonist
-**Spesolimab (Spevigo)** targets the IL-36 receptor and is specifically indicated for generalised pustular psoriasis (GPP), which has a distinct pathogenesis involving the IL-36 pathway rather than the IL-23/IL-17 axis [(Balogh et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
+**Spesolimab (Spevigo)** targets the IL-36 receptor and is specifically indicated for generalised pustular psoriasis (GPP), which has a distinct pathogenesis involving the IL-36 pathway rather than the IL-23/IL-17 axis [(Childs et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
 
 ## 16.3 Pricing and Cost Considerations
 

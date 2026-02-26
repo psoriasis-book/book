@@ -63,7 +63,7 @@ sidebar:
 
 29. Comparative efficacy of TNF-alpha inhibitors, IL-17 and IL-23 inhibitors. *IJFMR*. 2024;6(6):29806. [Full text (PDF)](https://www.ijfmr.com/papers/2024/6/29806.pdf)
 
-30. Balogh EA, et al. From the Masterclasses in Dermatology 2024: Updates in psoriasis treatments. *Dermatol Ther (Heidelb)*. 2025;15:539-554. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/)
+30. Childs B, Romanelli S, Merola JF, Gottlieb AB. From the Masterclasses in Dermatology 2024 Meeting: Updates in Psoriasis Treatments. *J Clin Aesthet Dermatol*. 2025;18(2):16-22. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/)
 
 31. Dey AK, et al. Emerging oral therapies for the treatment of psoriasis: a review of pipeline agents. *Pharmaceuticals (Basel)*. 2024;17(1):137. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10819460/)
 

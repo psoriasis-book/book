@@ -7,7 +7,7 @@ sidebar:
 
 ## 20.1 Oral IL-23 Pathway Inhibitors
 
-A major area of development is the creation of orally administered IL-23 pathway inhibitors. **Icotrokinra** (formerly JNJ-77242113) is a first-in-class oral peptide that antagonises the IL-23 receptor, potentially combining the high efficacy of IL-23 inhibition with the convenience of oral dosing. Phase 3 data (ICONIC-LEAD) showed that nearly half of patients achieved completely clear skin (IGA 0) at week 24 with a once-daily pill (see Section 19.6 for full trial details). **Zasocitinib**, a next-generation oral TYK2 inhibitor, demonstrated biologic-approaching efficacy in Phase 3 trials (Section 19.7). Together, these agents suggest an era where high-efficacy psoriasis treatment may no longer require injections [(Balogh et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
+A major area of development is the creation of orally administered IL-23 pathway inhibitors. **Icotrokinra** (formerly JNJ-77242113) is a first-in-class oral peptide that antagonises the IL-23 receptor, potentially combining the high efficacy of IL-23 inhibition with the convenience of oral dosing. Phase 3 data (ICONIC-LEAD) showed that nearly half of patients achieved completely clear skin (IGA 0) at week 24 with a once-daily pill (see Section 19.6 for full trial details). **Zasocitinib**, a next-generation oral TYK2 inhibitor, demonstrated biologic-approaching efficacy in Phase 3 trials (Section 19.7). Together, these agents suggest an era where high-efficacy psoriasis treatment may no longer require injections [(Childs et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
 
 ## 20.2 Targeting Immunological Memory
 
