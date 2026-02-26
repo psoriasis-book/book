@@ -211,6 +211,8 @@ sidebar:
 
 103. Adelekun A, Onyekaba G, Lipoff JB. Skin color in dermatology textbooks: An updated evaluation and analysis. *J Am Acad Dermatol*. 2021;84(1):194-196. doi:10.1016/j.jaad.2020.04.084. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32335181/)
 
-104. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
+104. Queiro R, Morante I, Cabezas I, Acasuso B. HLA-B27 and psoriatic disease: a modern view of an old relationship. *Rheumatology (Oxford)*. 2016;55(2):221-229. doi:10.1093/rheumatology/kev296. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26289052/)
+
+105. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
 
 102. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)

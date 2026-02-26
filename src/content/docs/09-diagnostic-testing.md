@@ -104,7 +104,7 @@ Since approximately 30% of psoriasis patients develop psoriatic arthritis (PsA),
 ### 9.5.2 Blood Tests for PsA
 
 - **Rheumatoid factor (RF) and anti-CCP antibodies**: These are typically *negative* in PsA but positive in rheumatoid arthritis. Their main value is in ruling out RA when a patient presents with joint symptoms.
-- **HLA-B27**: A genetic marker found on white blood cell surfaces. Positive in approximately 20–25% of PsA patients (compared to ~8% of the general population). It is particularly associated with axial PsA (spine involvement). However, it is not specific enough to diagnose PsA on its own [(Arthritis Foundation, 2026)](https://www.arthritis.org/diseases/more-about/tests-to-diagnose-and-track-psoriatic-arthritis).
+- **HLA-B27**: A genetic marker found on white blood cell surfaces. Positive in approximately 20–25% of PsA patients (compared to ~8% of the general population). It is particularly associated with axial PsA (spine involvement). However, it is not specific enough to diagnose PsA on its own [(Queiro et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/26289052/).
 - **Uric acid levels**: Elevated uric acid can indicate gout, which can coexist with or mimic PsA. Testing helps distinguish between the two conditions.
 
 ### 9.5.3 Imaging
