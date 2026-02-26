@@ -18,6 +18,7 @@ sidebar:
 | **Biosimilar** | A biologic drug that is highly similar to an existing approved biologic (the "reference" product) with no clinically meaningful differences |
 | **BSA** | Body Surface Area — percentage of total skin surface affected by psoriasis |
 | **Calcineurin inhibitor** | A class of topical drugs (tacrolimus, pimecrolimus) that suppress local immune activity; useful for face, flexures, and genitals |
+| **CAR-T (Chimeric Antigen Receptor T cell)** | An engineered immune cell therapy where T cells are modified to recognise and eliminate cells expressing a specific antigen; being explored for severe autoimmune diseases |
 | **CCL20** | A chemokine ("come here" signal) that attracts Th17 cells to the skin |
 | **Certolizumab pegol** | A PEGylated anti-TNF biologic that lacks the Fc region and therefore does not cross the placenta; preferred in pregnancy |
 | **Chemokine** | A subset of cytokines whose job is to direct immune cells to specific locations |
@@ -32,10 +33,13 @@ sidebar:
 | **Erythrodermic psoriasis** | A rare, severe form involving widespread inflammation covering most of the body; medical emergency |
 | **Fc region** | The "tail" part of an antibody molecule that interacts with immune cells and is actively transported across the placenta |
 | **GPP (generalised pustular psoriasis)** | A severe form featuring sterile pustules across the body, driven by the IL-36 pathway |
+| **GWAS (Genome-Wide Association Study)** | A research method that analyses genetic variation across the entire genome to identify DNA variants associated with disease susceptibility |
 | **Guttate psoriasis** | A form characterised by small, droplet-shaped lesions; often triggered by streptococcal infection |
+| **HDAC (Histone Deacetylase)** | An enzyme that removes acetyl groups from histones; HDAC inhibitors are drugs that block this activity to modulate gene expression in inflammatory diseases |
 | **Heritability** | The proportion of variation in disease risk attributable to genetic factors (psoriasis heritability is ~66%) |
 | **Histopathology** | Examination of tissue under a microscope to aid diagnosis |
 | **HLA (Human Leukocyte Antigen)** | A group of genes on chromosome 6 encoding surface proteins that present antigens to T cells; HLA-C*06:02 is the strongest psoriasis risk allele |
+| **IGA (Investigator's Global Assessment)** | A clinical scoring system measuring overall psoriasis severity on a scale from 0 (clear) to 4 or 5 (severe); IGA 0 indicates completely clear skin |
 | **IFN-γ (Interferon gamma)** | A cytokine produced by Th1 cells that activates macrophages |
 | **IFN-α (Interferon alpha)** | A cytokine produced by plasmacytoid dendritic cells; important in psoriasis initiation |
 | **IL-17 (Interleukin-17)** | The key effector cytokine in psoriasis, produced by Th17 cells; tells keratinocytes to multiply rapidly |
