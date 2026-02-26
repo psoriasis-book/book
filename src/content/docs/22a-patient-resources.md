@@ -16,7 +16,7 @@ Website: [ifpa-pso.com](https://ifpa-pso.com/)
 
 ## 22a.2 United States
 
-**National Psoriasis Foundation (NPF)** — the largest psoriasis patient advocacy organisation in the world. Founded in 1967, the NPF funds research, provides patient education, runs a patient navigation centre, publishes treatment guidelines jointly with the American Academy of Dermatology (AAD-NPF guidelines), and maintains a comprehensive online resource library. The NPF also manages the PSOLAR registry and publishes annual reports on the state of psoriasis care.
+**National Psoriasis Foundation (NPF)** — the largest psoriasis patient advocacy organisation in the world. Founded in 1967, the NPF funds research, provides patient education, runs a patient navigation centre, publishes treatment guidelines jointly with the American Academy of Dermatology (AAD-NPF guidelines), and maintains a comprehensive online resource library. The NPF also publishes annual reports on the state of psoriasis care and supports patients in accessing clinical trials and registries.
 Website: [psoriasis.org](https://www.psoriasis.org/)
 
 ## 22a.3 United Kingdom
