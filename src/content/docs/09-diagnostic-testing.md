@@ -46,7 +46,7 @@ No blood test can diagnose or rule out psoriasis. However, blood tests serve thr
 
 ### 9.4.1 Baseline Blood Tests Before Starting Systemic Therapy
 
-Before initiating immunosuppressive or biologic treatment, clinicians typically order [(Medscape, 2024)](https://emedicine.medscape.com/article/1943419-workup):
+Before initiating immunosuppressive or biologic treatment, clinicians typically order [(Menter et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30772098/):
 
 - **Full blood count (FBC/CBC)**: Checks red cells, white cells, and platelets. Important as a baseline before immunosuppressive drugs that can cause myelosuppression (reduced bone marrow function). In pustular psoriasis, the white cell count may show leukocytosis (elevated neutrophils) with lymphopenia (reduced lymphocytes).
 - **Liver function tests (LFTs)**: Alanine transaminase (ALT), aspartate transaminase (AST), alkaline phosphatase (ALP), bilirubin. Essential before starting methotrexate (which is hepatotoxic — causes liver damage) and important for monitoring during treatment.
