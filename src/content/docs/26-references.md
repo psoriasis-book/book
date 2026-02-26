@@ -205,6 +205,8 @@ sidebar:
 
 100. Kimmel GW, Lebwohl M. Psoriasis: Overview and Diagnosis. In: Weinberg JM, Lebwohl M, editors. *Advances in Psoriasis*. Springer; 2021. p. 1-16. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7122924/)
 
-101. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
+101. Dowlatshahi EA, Wakkee M, Arends LR, Nijsten T. The prevalence and odds of depressive symptoms and clinical depression in psoriasis patients: a systematic review and meta-analysis. *J Invest Dermatol*. 2014;134(6):1542-1551. doi:10.1038/jid.2013.508. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24284419/)
+
+102. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
 
 102. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)
