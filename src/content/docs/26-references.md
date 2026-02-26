@@ -101,9 +101,9 @@ sidebar:
 
 48. National Psoriasis Foundation. Current biologics on the market for psoriatic disease. [Website](https://www.psoriasis.org/current-biologics-on-the-market/)
 
-49. Segal. Specialty dermatological drug cost trends Q3 2025. [Website](https://www.segalco.com/consulting-insights/q3-2025-trends-focus-specialty-dermatological-drugs)
+49. Rome BN, Bhaskar A, Kesselheim AS. Use, Spending, and Prices of Adalimumab Following Biosimilar Competition. *JAMA Health Forum*. 2024;5(12):e243964. doi:10.1001/jamahealthforum.2024.3964. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39671204/)
 
-50. Dermatology Advisor. Biosimilars for psoriasis treatment. November 5, 2025. [Website](https://www.dermatologyadvisor.com/features/biosimilars-for-psoriasis/)
+50. Phan DB, Elyoussfi S, Stevenson M, Lunt M, Warren RB, Yiu ZZN. Biosimilars for the Treatment of Psoriasis: A Systematic Review of Clinical Trials and Observational Studies. *JAMA Dermatol*. 2023;159(7):763-771. doi:10.1001/jamadermatol.2023.1338. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37256582/)
 
 51. Lewitt G, et al. Psoriasis therapies in 2024 and beyond. *Dermatology Times*. 2024. [Website](https://www.dermatologytimes.com/view/psoriasis-therapies-in-2024-and-beyond)
 
@@ -215,6 +215,8 @@ sidebar:
 
 105. Puig L. Obesity and psoriasis: body weight and body mass index influence the response to biological treatment. *J Eur Acad Dermatol Venereol*. 2011;25(9):1007-1011. doi:10.1111/j.1468-3083.2011.04065.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21492252/)
 
-106. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
+106. Blauvelt A, Papp K, Trivedi M, et al. Efficacy and safety of the ustekinumab biosimilar ABP 654 in patients with moderate-to-severe plaque psoriasis. *Br J Dermatol*. 2025;192(5):826-836. doi:10.1093/bjd/ljae402. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39442018/)
+
+107. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
 
 102. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)

@@ -93,13 +93,13 @@ As of early 2026, biosimilars are available or approved for the following psoria
 - **Renflexis** (infliximab-abda)
 - **Avsola** (infliximab-axxq)
 
-**Adalimumab (Humira)** — After Humira's patent exclusivity ended, numerous biosimilars launched in the US beginning in 2023. These have driven significant cost savings and formulary changes. Multiple biosimilars are now available, including Hadlima, Hyrimoz, Cyltezo (the first FDA-designated *interchangeable* adalimumab biosimilar), Amjevita, Yusimry, and others. Formularies that have excluded Humira in favour of its biosimilars have seen substantial savings [(Segal, 2025)](https://www.segalco.com/consulting-insights/q3-2025-trends-focus-specialty-dermatological-drugs).
+**Adalimumab (Humira)** — After Humira's patent exclusivity ended, numerous biosimilars launched in the US beginning in 2023. These have driven significant cost savings and formulary changes. Multiple biosimilars are now available, including Hadlima, Hyrimoz, Cyltezo (the first FDA-designated *interchangeable* adalimumab biosimilar), Amjevita, Yusimry, and others. Formularies that have excluded Humira in favour of its biosimilars have seen substantial savings, with net prices declining approximately 43% in the first year of biosimilar competition [(Rome et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39671204/).
 
-**Ustekinumab (Stelara)** — Began facing biosimilar competition in January 2025. Several Stelara biosimilars have been approved by the FDA [(GoodRx, 2025)](https://www.goodrx.com/conditions/psoriasis/new-psoriasis-medications).
+**Ustekinumab (Stelara)** — Began facing biosimilar competition in January 2025. Several Stelara biosimilars have been approved by the FDA, including Wezlana (ustekinumab-auub), the first with interchangeability designation [(Blauvelt et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/39442018/).
 
 **Etanercept (Enbrel)** — Biosimilars have been approved in some markets, though US availability has been complicated by patent litigation.
 
-**Biologics without biosimilars**: The newer IL-23 inhibitors (Skyrizi, Tremfya, Ilumya), IL-17 inhibitors (Cosentyx, Taltz, Siliq, Bimzelx), certolizumab pegol (Cimzia), and spesolimab (Spevigo) are all still under patent protection and do not yet have biosimilar competition. However, a proposed secukinumab (Cosentyx) biosimilar — BAT2306 — is in development [(GoodRx, 2025)](https://www.goodrx.com/conditions/psoriasis/new-psoriasis-medications).
+**Biologics without biosimilars**: The newer IL-23 inhibitors (Skyrizi, Tremfya, Ilumya), IL-17 inhibitors (Cosentyx, Taltz, Siliq, Bimzelx), certolizumab pegol (Cimzia), and spesolimab (Spevigo) are all still under patent protection and do not yet have biosimilar competition. However, a proposed secukinumab (Cosentyx) biosimilar — BAT2306 — has shown equivalent efficacy in phase 3 trials and may reach market in coming years [(Phan et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37256582/).
 
 The availability of biosimilars is expected to expand significantly in the coming years as more patents expire, potentially transforming the economics of psoriasis treatment and broadening access to biologic therapy worldwide.
 
