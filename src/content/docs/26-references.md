@@ -221,4 +221,4 @@ sidebar:
 
 108. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
 
-102. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)
+109. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)
