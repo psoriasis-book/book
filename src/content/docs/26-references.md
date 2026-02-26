@@ -200,3 +200,5 @@ sidebar:
 97. Goessinger EV, Gottfrois P, Mueller AM, Cerminara SE, Navarini AA. Image-based artificial intelligence in psoriasis assessment: the beginning of a new diagnostic era? *Am J Clin Dermatol*. 2024;25(6):861-872. doi:10.1007/s40257-024-00883-y. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39259262/)
 
 98. Zhang X, He Y. The role of nociceptive neurons in the pathogenesis of psoriasis. *Front Immunol*. 2020;11:1984. doi:10.3389/fimmu.2020.01984. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33133059/)
+
+99. Sayed BA, et al. Apremilast: First Pediatric Approval. *Paediatr Drugs*. 2024. doi:10.1007/s40272-024-00659-x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39576565/)
