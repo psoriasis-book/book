@@ -39,7 +39,7 @@ However, for psoriasis patients without gluten sensitivity, the available eviden
 
 ## 12.5 Probiotics and the Gut Microbiome — Emerging but Early
 
-Given the emerging research on the gut-skin axis (discussed in Section 7.5), probiotics and prebiotics are attracting interest. A 2025 systematic review found that probiotic and prebiotic supplementation "may be associated with improved psoriasis outcomes," but the number of clinical trials is small and their methodologies are heterogeneous [(Li et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X). This area is biologically plausible but requires substantially more clinical data before recommendations can be made.
+Given the emerging research on the gut-skin axis (discussed in Section 6.5), probiotics and prebiotics are attracting interest. A 2025 systematic review found that probiotic and prebiotic supplementation "may be associated with improved psoriasis outcomes," but the number of clinical trials is small and their methodologies are heterogeneous [(Li et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X). This area is biologically plausible but requires substantially more clinical data before recommendations can be made.
 
 **Evidence grade: Very low. Biologically plausible but insufficient clinical trial data.**
 
