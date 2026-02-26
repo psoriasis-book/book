@@ -119,9 +119,9 @@ sidebar:
 
 57. Dennis M, Bhutani T, Koo J, Liao W. The Goeckerman Regimen for the Treatment of Moderate to Severe Psoriasis. *J Dermatolog Treat*. 2013;24(4):319-327. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3735239/)
 
-58. Edmundson WF, Guy WB. Treatment of psoriasis with folic acid antagonists. *AMA Arch Derm*. 1958;78:200-203. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13571257/)
+58. Edmundson WF, Guy WB. Treatment of psoriasis with folic acid antagonists. *AMA Arch Derm*. 1958;78(2):200-203. doi:10.1001/archderm.1958.01560080060010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/13558707/)
 
-59. Mueller W, Herrmann B. Cyclosporin A for psoriasis. *N Engl J Med*. 1979;301:555. [PubMed](https://pubmed.ncbi.nlm.nih.gov/460325/)
+59. Mueller W, Herrmann B. Cyclosporin A for psoriasis. *N Engl J Med*. 1979;301(10):555. doi:10.1056/NEJM197909063011016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/460314/)
 
 60. Eedy DJ, Burrows D, Bridges JM, Jones FG. Clearance of severe psoriasis after allogenic bone marrow transplantation. *BMJ*. 1990;300(6729):908. doi:10.1136/bmj.300.6729.908. [BMJ](https://doi.org/10.1136/bmj.300.6729.908)
 
