@@ -213,6 +213,8 @@ sidebar:
 
 104. Queiro R, Morante I, Cabezas I, Acasuso B. HLA-B27 and psoriatic disease: a modern view of an old relationship. *Rheumatology (Oxford)*. 2016;55(2):221-229. doi:10.1093/rheumatology/kev296. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26289052/)
 
-105. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
+105. Puig L. Obesity and psoriasis: body weight and body mass index influence the response to biological treatment. *J Eur Acad Dermatol Venereol*. 2011;25(9):1007-1011. doi:10.1111/j.1468-3083.2011.04065.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21492252/)
+
+106. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
 
 102. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)
