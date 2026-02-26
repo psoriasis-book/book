@@ -20,7 +20,7 @@ Before diving into molecular detail, here is a simplified analogy that captures 
 Emerging evidence identifies three cell types as constituting a central "pathogenic triad" in psoriasis: **dendritic cells**, **Th17 cells**, and **keratinocytes** [(Sieminska et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11193704/).
 
 - Dendritic cells produce TNF-α and IL-23, promoting T cell differentiation toward Th17 cells.
-- Th17 cells produce the key psoriatic cytokines IL-17, IFN-γ, and IL-22.
+- Th17 cells produce the key psoriatic cytokines IL-17, IL-22, and TNF-α.
 - Keratinocytes respond to these cytokines by proliferating excessively and producing their own inflammatory mediators, including chemokines that recruit more immune cells, creating a self-sustaining cycle.
 
 ![Normal skin vs psoriatic skin cross-section](./images/skin-cross-section.svg)
