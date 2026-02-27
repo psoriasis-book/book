@@ -97,7 +97,7 @@ sidebar:
 
 46. Rome BN, Han J, Mooney H, Kesselheim AS. Use and cost of first-line biologic medications to treat plaque psoriasis in the US. *JAMA Dermatol*. 2025;161(6):622-628. doi:10.1001/jamadermatol.2025.0669. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40238112/)
 
-47. National Psoriasis Foundation. Biosimilars for psoriasis and psoriatic arthritis. Updated March 24, 2025. [Website](https://www.psoriasis.org/biosimilars/)
+47. Cohen AD, Wu JJ, Puig L, et al. Biosimilars for psoriasis: worldwide overview of regulatory guidelines, uptake and implications for dermatology clinical practice. *Br J Dermatol*. 2017;177(6):1495-1502. doi:10.1111/bjd.15756. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28646580/)
 
 48. National Psoriasis Foundation. Current biologics on the market for psoriatic disease. [Website](https://www.psoriasis.org/current-biologics-on-the-market/)
 
