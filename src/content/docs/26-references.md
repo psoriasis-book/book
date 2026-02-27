@@ -61,7 +61,7 @@ sidebar:
 
 28. Fatani M, et al. Review on recommendations on the use of biologic treatments for psoriasis. *Expert Opin Biol Ther*. 2025. [Taylor & Francis (PDF)](https://www.tandfonline.com/doi/pdf/10.1080/14712598.2025.2495986)
 
-29. Comparative efficacy of TNF-alpha inhibitors, IL-17 and IL-23 inhibitors. *IJFMR*. 2024;6(6):29806. [Full text (PDF)](https://www.ijfmr.com/papers/2024/6/29806.pdf)
+29. (Removed — replaced by ref 107, Armstrong et al. 2021 network meta-analysis.)
 
 30. Childs B, Romanelli S, Merola JF, Gottlieb AB. From the Masterclasses in Dermatology 2024 Meeting: Updates in Psoriasis Treatments. *J Clin Aesthet Dermatol*. 2025;18(2):16-22. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/)
 
