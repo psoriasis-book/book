@@ -27,7 +27,10 @@ sidebar:
 | **Dendritic cell** | An antigen-presenting immune cell that acts as a messenger between innate and adaptive immunity |
 | **Differentiation** | The process by which a general-purpose cell becomes a specialist (e.g., a naïve T cell becoming a Th17 cell) |
 | **DLQI** | Dermatology Life Quality Index — a questionnaire measuring how skin disease affects daily life (score 0–30; ≥10 = significant impact) |
+| **DNA methylation** | A chemical modification where methyl groups are added to DNA, altering gene expression without changing the DNA sequence; a key epigenetic mechanism studied in psoriasis disease memory |
+| **Drug survival** | The length of time a patient remains on a given therapy; used in registries as a real-world proxy for treatment effectiveness and tolerability |
 | **Emollient** | A moisturising preparation that softens skin and maintains the skin barrier |
+| **Epigenetics** | The study of heritable changes in gene expression that do not involve changes to the DNA sequence itself; mechanisms include DNA methylation and histone modification |
 | **Epidermis** | The outermost layer of the skin |
 | **Erythema** | Redness of the skin caused by increased blood flow; appears differently across skin tones |
 | **Erythrodermic psoriasis** | A rare, severe form involving widespread inflammation covering most of the body; medical emergency |
@@ -54,15 +57,18 @@ sidebar:
 | **MHC (Major Histocompatibility Complex)** | Surface proteins encoded by HLA genes that present antigen fragments to T cells |
 | **Munro microabscesses** | Collections of neutrophils in the stratum corneum (uppermost epidermis); a histological hallmark of psoriasis |
 | **NB-UVB** | Narrowband ultraviolet B (311 nm) — the most commonly used form of phototherapy for psoriasis |
+| **Network meta-analysis (NMA)** | A statistical method that compares multiple treatments simultaneously by combining direct and indirect evidence from clinical trials; used to rank biologic efficacy |
 | **NICE** | National Institute for Health and Care Excellence — the UK body that issues treatment guidance and approves NHS funding |
 | **Onycholysis** | Separation of the nail from the nail bed; common in nail psoriasis |
 | **PASI (Psoriasis Area and Severity Index)** | The standard clinical scoring system for psoriasis severity (0–72) |
 | **PASI 75 / 90 / 100** | The percentage of improvement from baseline; PASI 100 = complete clearance |
 | **Pathogenesis** | The biological process by which a disease develops and progresses |
+| **Pharmacogenomics** | The study of how an individual's genetic makeup affects their response to drugs; in psoriasis, HLA-C*06:02 status may predict biologic response |
 | **Plaque psoriasis** | The most common form (~80–90%), featuring raised, red, scaly patches on extensor surfaces |
 | **Post-inflammatory hyperpigmentation (PIH)** | Persistent dark discolouration at sites of healed inflammation; particularly significant in skin of colour |
 | **PUVA** | Psoralen + UVA light therapy |
 | **Rete ridges** | Finger-like projections of the epidermis into the dermis; elongated in psoriasis |
+| **Super-responder** | A patient who achieves complete skin clearance that remains stable even when treatment is reduced or withdrawn; concept introduced by the GUIDE trial |
 | **Systemic disease** | A disease that affects the whole body, not just one organ |
 | **T cell (T lymphocyte)** | An adaptive immune cell that matures in the thymus; Th17 cells are key in psoriasis |
 | **Teratogen** | A substance that causes birth defects (e.g., methotrexate, acitretin) |
