@@ -43,7 +43,13 @@ Given the emerging research on the gut-skin axis (discussed in Section 6.5), pro
 
 **Evidence grade: Very low. Biologically plausible but insufficient clinical trial data.**
 
-## 12.6 Topical Herbal and Natural Remedies
+## 12.6 Vitamin D Supplementation — Insufficient Evidence
+
+Oral vitamin D supplementation has biological plausibility given that topical vitamin D analogues (calcipotriol) are a first-line psoriasis treatment, vitamin D deficiency is common in psoriasis patients, and the latitudinal prevalence gradient suggests a role for UV/vitamin D. However, a 2023 systematic review and meta-analysis of 4 RCTs (333 patients) found no significant improvement in PASI, quality of life scores, or CRP with oral vitamin D supplementation at 3, 6, or 12 months [(Dai et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37967075/). No serious adverse effects were reported.
+
+**Evidence grade: Low. Biologically plausible but RCT evidence does not support clinical benefit.**
+
+## 12.7 Topical Herbal and Natural Remedies
 
 A 2025 systematic review published in Complementary Therapies in Medicine evaluated herbal medicines for psoriasis using PRISMA guidelines and found that three natural remedies have the strongest clinical evidence [(Anheyer et al., 2025)](https://www.sciencedirect.com/science/article/pii/S0965229925000482):
 
@@ -59,19 +65,19 @@ Other natural remedies commonly discussed include:
 
 **Evidence grade: Low to moderate for Oregon grape and indigo naturalis; low for aloe vera; very low or no evidence for tea tree oil, apple cider vinegar, and others.**
 
-## 12.7 Stress Reduction
+## 12.8 Stress Reduction
 
 Stress is a well-documented trigger for psoriasis flares (Section 7.3), and several small studies have explored whether stress-reduction interventions can improve outcomes. Mindfulness-based stress reduction (MBSR) combined with phototherapy has shown faster skin clearance than phototherapy alone in one small study. However, the evidence base remains limited to small trials and no clinical guideline currently recommends specific stress-reduction protocols for psoriasis management.
 
 **Evidence grade: Low. Biologically plausible but inadequately studied.**
 
-## 12.8 Alcohol and Smoking Cessation
+## 12.9 Alcohol and Smoking Cessation
 
 As discussed in Sections 7.4 and 7.5, smoking and alcohol are established risk factors for psoriasis onset, severity, and treatment resistance. While no RCT has directly tested smoking cessation as a psoriasis intervention (for obvious ethical and practical reasons), observational evidence consistently shows that smokers have worse psoriasis outcomes. Smoking cessation and alcohol reduction are recommended by clinical guidelines for all psoriasis patients, both for skin disease and for the associated cardiovascular and metabolic comorbidities.
 
 **Evidence grade: High (observational). Recommended by clinical guidelines.**
 
-## 12.9 Summary: The Evidence Hierarchy
+## 12.10 Summary: The Evidence Hierarchy
 
 | Intervention | Evidence Grade | Best Evidence | Recommended? |
 |---|---|---|---|
@@ -85,6 +91,7 @@ As discussed in Sections 7.4 and 7.5, smoking and alcohol are established risk f
 | Indigo naturalis | **Low–moderate** | Several studies; preclinical mechanism data | May help; more data needed |
 | Aloe vera | **Low** | Conflicting trial results | Insufficient evidence |
 | Curcumin/turmeric | **Low** | Preclinical + small clinical studies | Insufficient evidence |
+| Vitamin D supplementation | **Low** | 1 meta-analysis of 4 RCTs | Insufficient evidence |
 | Probiotics | **Very low** | Preliminary only | Insufficient evidence |
 | Tea tree oil | **None** | No clinical studies | No evidence |
 | Apple cider vinegar | **None** | No clinical studies | No evidence; may cause harm |

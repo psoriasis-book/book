@@ -236,3 +236,5 @@ sidebar:
 115. Molina-Leyva A, Jimenez-Moleon JJ, Naranjo-Sintes R, Ruiz-Carrascosa JC. Sexual dysfunction in psoriasis: a systematic review. *J Eur Acad Dermatol Venereol*. 2015;29(4):649-655. doi:10.1111/jdv.12845. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25424331/)
 
 116. Taylor W, Gladman D, Helliwell P, et al.; CASPAR Study Group. Classification criteria for psoriatic arthritis: development of new criteria from a large international study. *Arthritis Rheum*. 2006;54(8):2665-2673. doi:10.1002/art.21972. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16871531/)
+
+117. Dai Q, Zhang Y, Liu Q, Zhang C. Efficacy and safety of vitamin D supplementation on psoriasis: a systematic review and meta-analysis. *PLoS One*. 2023;18(11):e0294239. doi:10.1371/journal.pone.0294239. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37967075/)
