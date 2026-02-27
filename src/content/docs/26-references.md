@@ -232,3 +232,5 @@ sidebar:
 113. Thomas SE, Barenbrug L, Hannink G, Seyger MMB, de Jong EMGJ, van den Reek JMPA. Drug survival of IL-17 and IL-23 inhibitors for psoriasis: a systematic review and meta-analysis. *Drugs*. 2024;84(5):565-578. doi:10.1007/s40265-024-02028-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38630365/)
 
 114. Korman NJ, Zhao Y, Pike J, Roberts J. Relationship between psoriasis severity, clinical symptoms, quality of life and work productivity among patients in the USA. *Clin Exp Dermatol*. 2016;41(5):514-521. doi:10.1111/ced.12841. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27061102/)
+
+115. Molina-Leyva A, Jimenez-Moleon JJ, Naranjo-Sintes R, Ruiz-Carrascosa JC. Sexual dysfunction in psoriasis: a systematic review. *J Eur Acad Dermatol Venereol*. 2015;29(4):649-655. doi:10.1111/jdv.12845. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25424331/)

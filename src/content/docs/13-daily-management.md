@@ -53,7 +53,7 @@ Patients on biologic injections can generally travel freely; most biologics are 
 
 ## 13.7 Intimate Relationships and Genital Psoriasis
 
-Genital psoriasis affects up to 60% of patients at some point and is frequently undisclosed due to embarrassment [(Meeuwis et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21569104/). Studies report that 30–70% of psoriasis patients experience sexual dysfunction, including reduced desire, arousal difficulties, pain during intercourse, and avoidance of sexual activity altogether. The impact is often disproportionate to the visible severity of disease elsewhere on the body.
+Genital psoriasis affects up to 60% of patients at some point and is frequently undisclosed due to embarrassment [(Meeuwis et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21569104/). A systematic review found sexual dysfunction prevalence ranging from 23% to 71% across studies of psoriasis patients, including reduced desire, arousal difficulties, pain during intercourse, and avoidance of sexual activity altogether [(Molina-Leyva et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25424331/). The impact is often disproportionate to the visible severity of disease elsewhere on the body.
 
 **Clinical presentation.** Genital psoriasis typically appears as well-demarcated, erythematous (red) patches without the thick silvery scale seen at other body sites, because the moist environment of the genital area prevents scale accumulation. In men, it commonly affects the glans, shaft of the penis, and scrotum. In women, it affects the vulva, inguinal folds, and gluteal cleft. It is often misdiagnosed as fungal infection, contact dermatitis, or sexually transmitted infection.
 
