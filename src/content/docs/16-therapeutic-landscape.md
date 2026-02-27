@@ -11,7 +11,7 @@ sidebar:
 
 Treatment for psoriasis is stratified by disease severity:
 
-- **Mild disease**: Topical therapies (corticosteroids, vitamin D analogues, calcineurin inhibitors, keratolytics).
+- **Mild disease**: Topical therapies (corticosteroids, vitamin D analogues, calcineurin inhibitors, keratolytics, and newer non-steroidal agents such as tapinarof and roflumilast). **Tapinarof (Vtama)**, FDA-approved in May 2022, is a first-in-class topical aryl hydrocarbon receptor (AhR) agonist that modulates skin immune responses and promotes skin barrier function without the atrophy risk of corticosteroids. **Roflumilast cream (Zoryve)** is a topical PDE4 inhibitor also offering a steroid-free alternative.
 - **Moderate-to-severe disease**: Phototherapy, conventional systemic agents (methotrexate, cyclosporine, acitretin), small molecule inhibitors (apremilast, deucravacitinib), and biologic therapies.
 
 The introduction of biologic therapies has revolutionised the treatment of moderate-to-severe psoriasis over the past two decades [(Armstrong & Read, 2020)](https://pubmed.ncbi.nlm.nih.gov/32427307/).
