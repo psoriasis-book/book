@@ -234,3 +234,5 @@ sidebar:
 114. Korman NJ, Zhao Y, Pike J, Roberts J. Relationship between psoriasis severity, clinical symptoms, quality of life and work productivity among patients in the USA. *Clin Exp Dermatol*. 2016;41(5):514-521. doi:10.1111/ced.12841. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27061102/)
 
 115. Molina-Leyva A, Jimenez-Moleon JJ, Naranjo-Sintes R, Ruiz-Carrascosa JC. Sexual dysfunction in psoriasis: a systematic review. *J Eur Acad Dermatol Venereol*. 2015;29(4):649-655. doi:10.1111/jdv.12845. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25424331/)
+
+116. Taylor W, Gladman D, Helliwell P, et al.; CASPAR Study Group. Classification criteria for psoriatic arthritis: development of new criteria from a large international study. *Arthritis Rheum*. 2006;54(8):2665-2673. doi:10.1002/art.21972. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16871531/)

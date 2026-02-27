@@ -101,13 +101,25 @@ Since approximately 30% of psoriasis patients develop psoriatic arthritis (PsA),
 
 - **PEST (Psoriasis Epidemiology Screening Tool)**: A validated 5-question questionnaire administered to psoriasis patients to identify those who should be referred to rheumatology for PsA assessment. Questions cover joint pain, swelling, a history of joint disease, and nail problems.
 
-### 9.5.2 Blood Tests for PsA
+### 9.5.2 CASPAR Classification Criteria
+
+The **CASPAR criteria** (Classification Criteria for Psoriatic Arthritis) are the most widely used and validated classification tool for PsA [(Taylor et al., 2006)](https://pubmed.ncbi.nlm.nih.gov/16871531/). To meet CASPAR criteria, a patient must have established inflammatory articular disease (joint, spine, or entheseal) plus a score of ≥3 points from the following:
+
+- Current psoriasis (2 points), or personal history of psoriasis (1 point), or family history of psoriasis (1 point)
+- Typical psoriatic nail dystrophy (1 point)
+- Negative rheumatoid factor (1 point)
+- Current dactylitis or history of dactylitis recorded by a rheumatologist (1 point)
+- Radiographic evidence of juxta-articular new bone formation (1 point)
+
+The CASPAR criteria have a sensitivity of 91.4% and specificity of 98.7%, making them the standard for clinical trials and classification in practice.
+
+### 9.5.3 Blood Tests for PsA
 
 - **Rheumatoid factor (RF) and anti-CCP antibodies**: These are typically *negative* in PsA but positive in rheumatoid arthritis. Their main value is in ruling out RA when a patient presents with joint symptoms.
 - **HLA-B27**: A genetic marker found on white blood cell surfaces. Positive in approximately 20–25% of PsA patients (compared to ~8% of the general population). It is particularly associated with axial PsA (spine involvement). However, it is not specific enough to diagnose PsA on its own [(Queiro et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/26289052/).
 - **Uric acid levels**: Elevated uric acid can indicate gout, which can coexist with or mimic PsA. Testing helps distinguish between the two conditions.
 
-### 9.5.3 Imaging
+### 9.5.4 Imaging
 
 - **X-rays**: Can show characteristic PsA changes including joint erosion, new bone formation ("pencil-in-cup" deformity), and joint space narrowing. However, X-rays only detect damage that has already occurred and are normal in early PsA.
 - **Ultrasound (musculoskeletal)**: Can detect synovitis (joint inflammation), enthesitis (inflammation where tendons attach to bone), and early erosions that are invisible on X-ray. Increasingly used as a first-line imaging tool because it is radiation-free, widely available, and can be performed during a clinic appointment.
