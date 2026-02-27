@@ -222,3 +222,9 @@ sidebar:
 108. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
 
 109. Strober B, Tada Y, Mrowietz U, et al. Bimekizumab maintenance of response through 3 years in patients with moderate-to-severe plaque psoriasis: results from the BE BRIGHT open-label extension trial. *Br J Dermatol*. 2023;188(6):749-759. doi:10.1093/bjd/ljad035. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36967713/)
+
+110. Lin YK, Wong WR, Chang YC, et al. The efficacy and safety of topically applied indigo naturalis ointment in patients with plaque-type psoriasis. *Dermatology*. 2007;214(2):155-161. doi:10.1159/000098576. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17341866/)
+
+111. Lv M, Deng J, Tang N, Zeng Y, Lu C. Efficacy and safety of Tripterygium wilfordii Hook F on psoriasis vulgaris: a systematic review and meta-analysis of randomized controlled trials. *Evid Based Complement Alternat Med*. 2018;2018:2623085. doi:10.1155/2018/2623085. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29849698/)
+
+112. Yeh ML, Ko SH, Wang MH, Chi CC, Chung YC. Acupuncture-related techniques for psoriasis: a systematic review with pairwise and network meta-analyses of randomized controlled trials. *J Altern Complement Med*. 2017;23(12):930-940. doi:10.1089/acm.2016.0158. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28628749/)
