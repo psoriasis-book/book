@@ -31,7 +31,7 @@ Psoriasis and IBD (Crohn's disease and ulcerative colitis) share common immune p
 
 ## 10.6 Non-Alcoholic Fatty Liver Disease (NAFLD)
 
-NAFLD prevalence is significantly higher in psoriasis patients, particularly those with more severe skin disease. This has important implications for treatment selection, as several systemic psoriasis therapies are hepatotoxic (can cause liver damage) [(Johnson, 2024)](https://dermnppa.org/what-we-know-about-psoriasis-comorbidities-and-their-management/).
+NAFLD prevalence is significantly higher in psoriasis patients, particularly those with more severe skin disease. This has important implications for treatment selection, as several systemic psoriasis therapies are hepatotoxic (can cause liver damage) [(Prussick & Miele, 2018)](https://pubmed.ncbi.nlm.nih.gov/29235656/).
 
 ## 10.7 The "Psoriatic March" Hypothesis
 

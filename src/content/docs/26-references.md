@@ -87,7 +87,7 @@ sidebar:
 
 41. Chen H, et al. Systemic psoriasis: from molecular mechanisms to global management strategies. *Clin Rev Allergy Immunol*. 2025. doi:10.1007/s12016-025-09089-4. [Springer](https://link.springer.com/article/10.1007/s12016-025-09089-4)
 
-42. Johnson M. What we know about psoriasis comorbidities and their management. *Dermatology Education Foundation*. 2024. [Website](https://dermnppa.org/what-we-know-about-psoriasis-comorbidities-and-their-management/)
+42. Prussick RB, Miele L. Nonalcoholic fatty liver disease in patients with psoriasis: a consequence of systemic inflammatory burden? *Br J Dermatol*. 2018;179(1):16-29. doi:10.1111/bjd.16239. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29235656/)
 
 43. Li T, et al. A practical guide to biologic treatments for psoriasis in Asia. *Asian Pac J Allergy Immunol*. 2025 (online). [Full text (PDF)](https://apjai-journal.org/wp-content/uploads/2025/10/7_AP-240425-2072.pdf)
 
