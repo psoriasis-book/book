@@ -230,3 +230,5 @@ sidebar:
 112. Yeh ML, Ko SH, Wang MH, Chi CC, Chung YC. Acupuncture-related techniques for psoriasis: a systematic review with pairwise and network meta-analyses of randomized controlled trials. *J Altern Complement Med*. 2017;23(12):930-940. doi:10.1089/acm.2016.0158. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28628749/)
 
 113. Thomas SE, Barenbrug L, Hannink G, Seyger MMB, de Jong EMGJ, van den Reek JMPA. Drug survival of IL-17 and IL-23 inhibitors for psoriasis: a systematic review and meta-analysis. *Drugs*. 2024;84(5):565-578. doi:10.1007/s40265-024-02028-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38630365/)
+
+114. Korman NJ, Zhao Y, Pike J, Roberts J. Relationship between psoriasis severity, clinical symptoms, quality of life and work productivity among patients in the USA. *Clin Exp Dermatol*. 2016;41(5):514-521. doi:10.1111/ced.12841. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27061102/)

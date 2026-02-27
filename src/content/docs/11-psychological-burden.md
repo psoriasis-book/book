@@ -27,7 +27,7 @@ The WHO's 2016 Global Report on Psoriasis highlighted that patients frequently f
 
 ## 11.4 Impact on Employment and Productivity
 
-Psoriasis significantly affects working life. Studies using the Work Productivity and Activity Impairment (WPAI) questionnaire have documented that patients with moderate-to-severe psoriasis lose an average of 2.8 hours of work per week due to absenteeism and an additional 6.7 hours per week due to presenteeism (reduced productivity while at work). Career limitation is common: patients report avoiding certain professions, declining promotions that involve public visibility, and taking early retirement.
+Psoriasis significantly affects working life. Studies using the Work Productivity and Activity Impairment (WPAI) questionnaire have documented that patients with moderate-to-severe psoriasis experience substantial work impairment, with total productivity losses of 19–29% of working time depending on disease severity — equivalent to approximately one to two lost working days per week [(Korman et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/27061102/). Career limitation is common: patients report avoiding certain professions, declining promotions that involve public visibility, and taking early retirement.
 
 **Hand psoriasis and occupational challenges.** Psoriasis affecting the hands is particularly disabling for employment. Manual workers, healthcare professionals, food handlers, and those in any occupation requiring frequent hand washing or wet work face both functional impairment (painful cracking, reduced grip strength) and social barriers (colleagues' and customers' reactions to visible lesions). Occupational dermatology services can provide workplace assessments and recommendations.
 
