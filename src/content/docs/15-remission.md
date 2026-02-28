@@ -21,7 +21,7 @@ Key findings from the literature:
 
 - A systematic review reported that guttate psoriasis generally spontaneously remits within 12–16 weeks of onset [(Zhou et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11619194/).
 - A retrospective study of 36 patients found that 61.1% achieved complete remission lasting at least 1 year (designated "good prognosis"), while 38.9% had incomplete remission or progressed to chronic plaque psoriasis [(Ko et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20860740/).
-- A larger, long-term follow-up study of 120 patients with new-onset guttate psoriasis (mean follow-up 6.2 years) found that 50.9% achieved complete remission, while 49.1% had persistent psoriatic disease. Of those with persistent disease, 17.5% had switched to the plaque psoriasis phenotype [(Guttman-Yassky et al., 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10015744/).
+- A larger, long-term follow-up study of 120 patients with new-onset guttate psoriasis (mean follow-up 6.2 years) found that 50.9% achieved complete remission, while 49.1% had persistent psoriatic disease. Of those with persistent disease, 17.5% had switched to the plaque psoriasis phenotype [(Galili et al., 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10015744/).
 - Factors associated with *better* prognosis (more likely to fully remit): younger age at onset, preceding streptococcal infection with high ASO titres, and absence of family history of plaque psoriasis.
 - Factors associated with *worse* prognosis (more likely to persist): family history of chronic plaque psoriasis, multiple flares (>3), scalp involvement, palmoplantar involvement, and male sex.
 
