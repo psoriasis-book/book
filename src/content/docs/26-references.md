@@ -318,3 +318,7 @@ sidebar:
 156. World Health Organization. *Global Report on Psoriasis*. Geneva: World Health Organization; 2016. [WHO](https://iris.who.int/handle/10665/204417)
 
 157. Reich K, Warren RB, Lebwohl M, et al. Bimekizumab versus secukinumab in plaque psoriasis. *N Engl J Med*. 2021;385(2):142-152. doi:10.1056/NEJMoa2102383. [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2102383)
+
+158. U.S. Food and Drug Administration. ZORYVE (roflumilast) cream 0.3% and 0.15% prescribing information (supplement approval for ages 6+). Silver Spring, MD: FDA; 2023. [FDA Label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/215985s007lbl.pdf)
+
+159. U.S. Food and Drug Administration. ZORYVE (roflumilast) topical foam, 0.3% prescribing information. Silver Spring, MD: FDA; 2025. [FDA Label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/217242s005lbl.pdf)

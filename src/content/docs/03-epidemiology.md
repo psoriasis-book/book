@@ -15,7 +15,7 @@ The Global Psoriasis Atlas 2024 update estimated the crude lifetime prevalence f
 
 ## 3.2 Geographic Variation
 
-Psoriasis prevalence is notably higher in regions further from the equator. Norway has one of the highest recorded prevalence rates at approximately 4.6%, with even higher rates (6.1%) in its northern regions — possibly due to reduced sunlight exposure and lower vitamin D levels [(Dairov et al., 2024)](https://www.clinmedkaz.org/download/prevalence-incidence-gender-and-age-distribution-and-economic-burden-of-psoriasis-worldwide-and-in-14497.pdf). The United Kingdom reports a prevalence of approximately 2.8%. In contrast, psoriasis is relatively rare in certain East Asian and African populations [(Parisi et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23014338/).
+Psoriasis prevalence is notably higher in regions further from the equator. Norway has one of the highest recorded prevalence rates at approximately 4.6%, with even higher rates (6.1%) in its northern regions — possibly due to reduced sunlight exposure and lower vitamin D levels [(Dairov et al., 2024)](https://www.clinmedkaz.org/download/prevalence-incidence-gender-and-age-distribution-and-economic-burden-of-psoriasis-worldwide-and-in-14497.pdf). The United Kingdom reports a prevalence of approximately 2.8% [(Parisi et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23014338/). In contrast, psoriasis is relatively rare in certain East Asian and African populations [(Parisi et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23014338/).
 
 ## 3.3 Age and Gender
 

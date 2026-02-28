@@ -77,7 +77,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 **Study:** *Treatment of psoriasis with different classes of biologics reduces the likelihood of peripheral and axial psoriatic arthritis development.* Floris A, et al. Rheumatology. 2025;64:1131–1137.
 **Read it:** [Oxford Academic](https://academic.oup.com/rheumatology/article/64/3/1131/7691289)
 
-**Why it matters:** Approximately 30% of psoriasis patients develop psoriatic arthritis (PsA), often years after skin disease onset. This study is among the first to demonstrate that treating psoriasis with biologics doesn't just clear skin — it may actually prevent the development of joint disease.
+**Why it matters:** Approximately 30% of psoriasis patients develop psoriatic arthritis (PsA), often years after skin disease onset [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract). This study is among the first to demonstrate that treating psoriasis with biologics doesn't just clear skin — it may actually prevent the development of joint disease.
 
 **New knowledge:** The study found that patients treated with IL-17 and IL-23 inhibitors had a significantly reduced likelihood of developing both peripheral and axial psoriatic arthritis compared to untreated patients or those on conventional therapies. This finding supports the "psoriatic march" hypothesis (Section 10.7) and has major clinical implications: it suggests that early, effective biologic treatment of skin psoriasis may prevent the downstream organ damage that occurs when systemic inflammation is left unchecked.
 
