@@ -238,3 +238,11 @@ sidebar:
 116. Taylor W, Gladman D, Helliwell P, et al.; CASPAR Study Group. Classification criteria for psoriatic arthritis: development of new criteria from a large international study. *Arthritis Rheum*. 2006;54(8):2665-2673. doi:10.1002/art.21972. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16871531/)
 
 117. Dai Q, Zhang Y, Liu Q, Zhang C. Efficacy and safety of vitamin D supplementation on psoriasis: a systematic review and meta-analysis. *PLoS One*. 2023;18(11):e0294239. doi:10.1371/journal.pone.0294239. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37967075/)
+
+118. Morrow A, et al. The effect of weight-loss interventions on psoriasis severity and metabolic outcomes: a systematic review and meta-analysis. *J Eur Acad Dermatol Venereol*. 2025;39(7):1636-1648. doi:10.1111/jdv.20415. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41416383/)
+
+119. Anheyer D, et al. Herbal medicines for psoriasis: a systematic review. *Complement Ther Med*. 2025;89:103134. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0965229925000482)
+
+120. Li Y, et al. Omega-3 fatty acids and probiotics for psoriasis: a systematic review. *Complement Ther Med*. 2025;89:103098. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X)
+
+121. Michaëlsson G, Gerdén B, Hagforsen E, et al. Psoriasis patients with antibodies to gliadin can be improved by a gluten-free diet. *Br J Dermatol*. 2000;142(1):44-51. doi:10.1046/j.1365-2133.2000.03240.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10651693/)
