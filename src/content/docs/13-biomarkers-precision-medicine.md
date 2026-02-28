@@ -27,7 +27,7 @@ The clinical application of proteomic biomarkers remains in early stages. Key ch
 
 Several metabolomic studies have identified psoriasis-specific signatures:
 
-- **Dipeptide biomarkers**: Two novel dipeptides — **gamma-glutamylserine (gamma-GluSer)** and **threonylglycine (ThrGly)** — were identified as elevated in psoriasis patients compared with healthy controls. A lysine glycation metabolite (**fructosyl-lysine/Fruc-Lys**) was also discriminating [(J Proteome Research, 2024)](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173).
+- **Dipeptide biomarkers**: Two novel dipeptides — **gamma-glutamylserine (gamma-GluSer)** and **threonylglycine (ThrGly)** — were identified as elevated in psoriasis patients compared with healthy controls. A lysine glycation metabolite (**fructosyl-lysine/Fruc-Lys**) was also discriminating [(Zhang et al., 2025)](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173).
 - **Severity-dependent amino acid changes**: LC-MS metabolomics reveals that circulating amino acid levels change proportionally with disease severity and are ameliorated by anti-TNF treatment, suggesting they may serve as objective treatment response markers [(Sorokin et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507/).
 - **Lipid dysregulation**: Altered profiles of sphingolipids, phospholipids, and ceramides have been consistently observed, connecting to the oxidative stress and ferroptosis pathways described in Section 7.
 

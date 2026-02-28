@@ -353,11 +353,11 @@ sidebar:
 
 174. Sorokin AV, Patel N, Engel LC, et al. Plasma proteomics-based risk scoring for psoriasis diagnosis. *J Invest Dermatol*. 2025;145(7):1589-1598. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12303817/)
 
-175. Ottas A, Fishbein A, Engel LC, et al. Novel dipeptide and lysine glycation biomarkers in psoriasis identified by metabolomics. *J Proteome Res*. 2024;23(10):4567-4578. doi:10.1021/acs.jproteome.4c00173. [ACS](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173)
+175. Zhang PW, Dong Q, Wang H, et al. Identification of plasma metabolites and dipeptides as diagnostic biomarkers for psoriasis vulgaris through LC-HRMS-based metabolomics. *J Proteome Res*. 2025;24(1):46-54. doi:10.1021/acs.jproteome.4c00173. [ACS](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173)
 
 176. Vaengebjerg S, Skov L, Egeberg A, Loft ND. Psoriasis and cancer risk: a comprehensive review. *Cancers*. 2024;16(24):4224. doi:10.3390/cancers16244224. [MDPI](https://www.mdpi.com/2072-6694/16/24/4224)
 
-177. Chiesa Fuxench ZC, Shin DB, Gelfand JM, et al. The risk of cancer in patients with psoriasis. *Nat Commun*. 2024;15:7089. doi:10.1038/s41467-024-51824-6. [Nature](https://www.nature.com/articles/s41467-024-51824-6)
+177. Li R, Luo W, Chen X, et al. An observational and genetic investigation into the association between psoriasis and risk of malignancy. *Nat Commun*. 2024;15:7952. doi:10.1038/s41467-024-51824-6. [Nature](https://www.nature.com/articles/s41467-024-51824-6)
 
 178. Wan J, Wang S, Haynes K, Denburg MR, Shin DB, Gelfand JM. Risk of moderate to advanced kidney disease in patients with psoriasis: population based cohort study. *Front Med*. 2023;10:1175477. doi:10.3389/fmed.2023.1175477. [Frontiers](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full)
 

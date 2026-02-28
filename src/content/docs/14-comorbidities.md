@@ -45,7 +45,7 @@ The relationship between psoriasis and cancer has been investigated through mult
 
 **Lymphoma.** Psoriasis patients have a relative risk (RR) of approximately 1.56 for lymphoma overall, with **cutaneous T-cell lymphoma (CTCL)** showing the strongest association (HR 6.22). This likely reflects chronic immune stimulation and T-cell proliferation, the same processes that drive psoriasis itself [(Vaengebjerg et al., 2024)](https://www.mdpi.com/2072-6694/16/24/4224). The diagnostic challenge is significant: early CTCL can mimic psoriasis clinically, and a biopsy is essential when psoriasis presents atypically or fails to respond to standard therapy.
 
-**Keratinocyte cancers** (basal cell carcinoma and squamous cell carcinoma) show an RR of approximately 2.28. This is at least partly attributable to phototherapy exposure (PUVA in particular — Section 24) and immunosuppressive treatments, rather than psoriasis itself [(Nature Communications, 2024)](https://www.nature.com/articles/s41467-024-51824-6).
+**Keratinocyte cancers** (basal cell carcinoma and squamous cell carcinoma) show an RR of approximately 2.28. This is at least partly attributable to phototherapy exposure (PUVA in particular — Section 24) and immunosuppressive treatments, rather than psoriasis itself [(Li et al., 2024)](https://www.nature.com/articles/s41467-024-51824-6).
 
 **Solid organ cancers.** Modest increases have been reported for lung cancer (RR 1.26) and bladder cancer (RR 1.12), though confounders such as smoking prevalence (higher in psoriasis — Section 8.4) complicate interpretation.
 
@@ -81,7 +81,7 @@ Ocular manifestations are surprisingly common in psoriasis, with prevalence esti
 - **Conjunctivitis**: Non-infectious conjunctival inflammation.
 - **Uveitis**: Intraocular inflammation affecting the uveal tract (iris, ciliary body, choroid). Uveitis incidence in psoriasis is estimated at 7–20%, with patients with psoriatic arthritis at substantially higher risk than those with skin-limited disease.
 
-A 2026 study in *Eye* confirmed that biologic therapy is associated with reduced ocular disease, particularly uveitis, suggesting that systemic inflammation control benefits the eyes as well as the skin and joints [(Nature Eye, 2026)](https://www.nature.com/articles/s41433-026-04274-x).
+A 2026 study in *Eye* confirmed that biologic therapy is associated with reduced ocular disease, particularly uveitis, suggesting that systemic inflammation control benefits the eyes as well as the skin and joints [(Kim et al., 2026)](https://www.nature.com/articles/s41433-026-04274-x).
 
 Patients with psoriasis — particularly those with PsA — should be counselled about ocular symptoms (redness, pain, photophobia, blurred vision) and referred promptly for ophthalmological assessment when uveitis is suspected.
 
