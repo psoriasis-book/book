@@ -262,3 +262,5 @@ sidebar:
 128. Warren RB, Blauvelt A, Bagel J, et al. Bimekizumab versus adalimumab in plaque psoriasis. *N Engl J Med*. 2021;385(2):130-141. doi:10.1056/NEJMoa2102388. [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2102388)
 
 129. Floris A, et al. Treatment of psoriasis with different classes of biologics reduces the likelihood of peripheral and axial psoriatic arthritis development. *Rheumatology*. 2025;64(3):1131-1137. [Oxford Academic](https://academic.oup.com/rheumatology/article/64/3/1131/7691289)
+
+130. Lada G, Chinoy H, Heal C, Warren RB, Talbot PS, Kleyn CE. Depression and suicidality in patients with psoriasis and the role of psoriatic arthritis: a cross-sectional study in a tertiary setting. *J Acad Consult Liaison Psychiatry*. 2022;63(4):372-383. doi:10.1016/j.jaclp.2021.12.007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35017124/)
