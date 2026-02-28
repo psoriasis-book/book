@@ -17,7 +17,7 @@ Obesity is both a risk factor for developing psoriasis and a factor that worsens
 
 ## 7.3 Psychological Stress
 
-Stress is one of the most commonly cited triggers for psoriasis flares, reported by a significant proportion of patients. The mechanism may involve promotion of neurogenic inflammation (inflammation triggered by the nervous system), changes in the neuroendocrine system — particularly the hypothalamic-pituitary-adrenal (HPA) axis, which is the body's central stress-response system connecting the brain to the adrenal glands — and redistribution of immune cells to the skin [(Ko et al., 2019; cited in Masson et al., 2020)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6629583/).
+Stress is one of the most commonly cited triggers for psoriasis flares, reported by a significant proportion of patients. The mechanism may involve promotion of neurogenic inflammation (inflammation triggered by the nervous system), changes in the neuroendocrine system — particularly the hypothalamic-pituitary-adrenal (HPA) axis, which is the body's central stress-response system connecting the brain to the adrenal glands — and redistribution of immune cells to the skin [(Ko et al., 2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6629583/).
 
 ## 7.4 Smoking
 
