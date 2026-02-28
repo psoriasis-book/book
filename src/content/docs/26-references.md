@@ -270,3 +270,51 @@ sidebar:
 132. Kalb RE, Fiorentino DF, Lebwohl MG, et al. Risk of serious infection with biologic and systemic treatment of psoriasis: results from the Psoriasis Longitudinal Assessment and Registry (PSOLAR). *JAMA Dermatol*. 2015;151(9):961-969. doi:10.1001/jamadermatol.2015.0718. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25970800/)
 
 133. Barnes L, Kaya G, Rollason V. Topical corticosteroid-induced skin atrophy: a comprehensive review. *Drug Saf*. 2015;38(5):493-509. doi:10.1007/s40264-015-0287-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25862024/)
+
+134. Elmets CA, Korman NJ, Prater EF, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with topical therapy and alternative medicine modalities for psoriasis severity measures. *J Am Acad Dermatol*. 2021;84(2):432-470. doi:10.1016/j.jaad.2020.07.087. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32738429/)
+
+135. Kleyn CE, Morsman E, Griffin L, et al. Review of international psoriasis guidelines for the treatment of psoriasis: recommendations for topical corticosteroid treatments. *J Dermatolog Treat*. 2019;30(4):311-319. doi:10.1080/09546634.2019.1620502. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09546634.2019.1620502)
+
+136. Tremezaygues L, Reichrath J. Vitamin D analogs in the treatment of psoriasis: where are we standing and where will we be going? *Dermato-Endocrinology*. 2011;3(3):180-186. doi:10.4161/derm.3.3.17534. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3219168/)
+
+137. Zhao Y, Asahina A, Asawanonda P, et al. Systematic review and practical guidance on the use of topical calcipotriol and topical calcipotriol with betamethasone dipropionate as long-term therapy for mild-to-moderate plaque psoriasis. *J Dermatol*. 2021;48(7):940-960. doi:10.1111/1346-8138.15806. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34036631/)
+
+138. Malecic N, Young H. Tacrolimus for the management of psoriasis: clinical utility and place in therapy. *Psoriasis (Auckl)*. 2016;6:153-163. doi:10.2147/PTT.S101233. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5683124/)
+
+139. Amiri D, Schwarz CW, Gether L, et al. Safety and efficacy of topical calcineurin inhibitors in the treatment of facial and genital psoriasis: a systematic review. *Acta Derm Venereol*. 2023;103:adv6525. doi:10.2340/actadv.v103.6525. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10026016/)
+
+140. Sekhon S, Jeon C, Nakamura M, et al. Review of the mechanism of action of coal tar in psoriasis. *J Dermatolog Treat*. 2018;29(3):230-232. doi:10.1080/09546634.2017.1369494. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28814117/)
+
+141. Avalos-Viveros M, Esquivel-Garcia R, Garcia-Perez M, et al. Updated view of tars for psoriasis: what have we learned over the last decade? *Int J Dermatol*. 2023;62(3):290-301. doi:10.1111/ijd.16193. [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/ijd.16193)
+
+142. Statham BN, Ryatt KS, Rowell NR. Short-contact dithranol therapy — a comparison with the Ingram regime. *Br J Dermatol*. 1984;110(6):703-708. doi:10.1111/j.1365-2133.1984.tb04708.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/6733040/)
+
+143. Jacobi A, Mayer A, Augustin M. Keratolytics and emollients and their role in the therapy of psoriasis: a systematic review. *Dermatol Ther (Heidelb)*. 2015;5(1):1-18. doi:10.1007/s13555-015-0068-3. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4374065/)
+
+144. Weinstein GD, Krueger GG, Lowe NJ, et al. Tazarotene gel, a new retinoid, for topical therapy of psoriasis: vehicle-controlled study of safety, efficacy, and duration of therapeutic effect. *J Am Acad Dermatol*. 1997;37(1):85-92. doi:10.1016/S0190-9622(97)70216-0. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0190962297803957)
+
+145. Lebwohl MG, Stein Gold L, Strober B, et al. Phase 3 trials of tapinarof cream for plaque psoriasis. *N Engl J Med*. 2021;385(24):2219-2229. doi:10.1056/NEJMoa2103629. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34879448/)
+
+146. Contento M, Cline A, Russo M. Steroid phobia: a review of prevalence, risk factors, and interventions. *Am J Clin Dermatol*. 2021;22(6):837-851. doi:10.1007/s40257-021-00623-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34287768/)
+
+147. Long CC, Finlay AY. The finger-tip unit — a new practical measure. *Clin Exp Dermatol*. 1991;16(6):444-447. doi:10.1111/j.1365-2230.1991.tb01232.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1806320/)
+
+148. U.S. Food and Drug Administration. ZORYVE (roflumilast) cream prescribing information. Silver Spring, MD: FDA; 2022. [FDA Label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215985s000lbl.pdf)
+
+149. Coates LC, Soriano ER, Corp N, et al. Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA): updated treatment recommendations for psoriatic arthritis 2021. *Nat Rev Rheumatol*. 2022;18(8):465-479. doi:10.1038/s41584-022-00798-0. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35761070/)
+
+150. Haroon M, Gallagher P, FitzGerald O. Diagnostic delay of more than 6 months contributes to poor radiographic and functional outcome in psoriatic arthritis. *Ann Rheum Dis*. 2015;74(6):1045-1050. doi:10.1136/annrheumdis-2013-204858. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24525911/)
+
+151. Veale DJ, Fearon U. The pathogenesis of psoriatic arthritis. *Lancet*. 2018;391(10136):2273-2284. doi:10.1016/S0140-6736(18)30830-4. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29893226/)
+
+152. Bhatia BK, Millsop JW, Debbaneh M, et al. Diet and psoriasis, part 2: celiac disease and role of a gluten-free diet. *J Am Acad Dermatol*. 2014;71(2):350-358. doi:10.1016/j.jaad.2014.03.017. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4104239/)
+
+153. Dand N, Duckworth M, Baudry D, et al. HLA-C*06:02 genotype is a predictive biomarker of biologic treatment response in psoriasis. *J Allergy Clin Immunol*. 2019;143(6):2120-2130. doi:10.1016/j.jaci.2018.11.038. [Full text](https://www.jacionline.org/article/S0091-6749(18)32780-5/fulltext)
+
+154. Finlay AY, Khan GK. Dermatology Life Quality Index (DLQI) — a simple practical measure for routine clinical use. *Clin Exp Dermatol*. 1994;19(3):210-216. doi:10.1111/j.1365-2230.1994.tb01167.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8033378/)
+
+155. Boyd AS, Neldner KH. The isomorphic response of Koebner. *Int J Dermatol*. 1990;29(6):401-410. doi:10.1111/j.1365-4362.1990.tb03821.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2204607/)
+
+156. World Health Organization. *Global Report on Psoriasis*. Geneva: World Health Organization; 2016. [WHO](https://iris.who.int/handle/10665/204417)
+
+157. Reich K, Warren RB, Lebwohl M, et al. Bimekizumab versus secukinumab in plaque psoriasis. *N Engl J Med*. 2021;385(2):142-152. doi:10.1056/NEJMoa2102383. [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2102383)
