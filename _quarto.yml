@@ -10,6 +10,7 @@ book:
   language: en-GB
   chapters:
     - index.md
+    - src/content/docs/00a-preface.md
     - src/content/docs/00-abstract.md
     - part: "Foundation & Context"
       chapters:
