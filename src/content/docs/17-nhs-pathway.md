@@ -13,7 +13,7 @@ This section maps the typical journey of a psoriasis patient through the UK Nati
 
 Most patients first present to their GP. Mild psoriasis (BSA < 10%) is managed entirely in primary care with topical therapies: emollients, topical corticosteroids (ranging from mild to potent depending on body site), vitamin D analogues (calcipotriol, calcitriol), and coal tar preparations. The GP will typically start with an emollient plus a moderate-potency steroid, stepping up as needed.
 
-**Referral criteria.** NICE Clinical Guideline 153 recommends referral to a dermatologist when: the diagnosis is uncertain; the disease is moderate-to-severe or affecting high-impact sites (face, hands, feet, genitals, scalp); topical therapy has failed after an adequate trial; there is significant impact on quality of life (DLQI ≥ 10); psoriatic arthritis is suspected; or the patient is a child with widespread or treatment-resistant disease.
+**Referral criteria.** NICE Clinical Guideline 153 [(NICE, 2017)](https://www.nice.org.uk/guidance/cg153) recommends referral to a dermatologist when: the diagnosis is uncertain; the disease is moderate-to-severe or affecting high-impact sites (face, hands, feet, genitals, scalp); topical therapy has failed after an adequate trial; there is significant impact on quality of life (DLQI ≥ 10); psoriatic arthritis is suspected; or the patient is a child with widespread or treatment-resistant disease.
 
 ## 17.2 Secondary Care (Hospital Dermatology)
 
