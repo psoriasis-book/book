@@ -1,0 +1,112 @@
+---
+title: "Additional Systemic Comorbidities"
+description: "Cancer risk, chronic kidney disease, ocular disease, hearing loss, periodontal disease, osteoporosis, and neurodegeneration as psoriasis-associated comorbidities"
+sidebar:
+  order: 10.6
+---
+
+Section 10 covers the major established comorbidities of psoriasis — psoriatic arthritis, cardiovascular disease, metabolic syndrome, mental health, IBD, and NAFLD. As the systemic nature of psoriasis has become more widely appreciated, research has identified a broader constellation of organ-specific associations. This chapter surveys the evidence for these additional comorbidities, ranging from well-established cancer risk to more tentative neurodegenerative associations.
+
+## 10b.1 Cancer Risk
+
+The relationship between psoriasis and cancer has been investigated through multiple large population-based cohort studies and meta-analyses. The key findings are:
+
+**Lymphoma.** Psoriasis patients have a relative risk (RR) of approximately 1.56 for lymphoma overall, with **cutaneous T-cell lymphoma (CTCL)** showing the strongest association (HR 6.22). This likely reflects chronic immune stimulation and T-cell proliferation, the same processes that drive psoriasis itself [(Vaengebjerg et al., 2024)](https://www.mdpi.com/2072-6694/16/24/4224). The diagnostic challenge is significant: early CTCL can mimic psoriasis clinically, and a biopsy is essential when psoriasis presents atypically or fails to respond to standard therapy.
+
+**Keratinocyte cancers** (basal cell carcinoma and squamous cell carcinoma) show an RR of approximately 2.28. This is at least partly attributable to phototherapy exposure (PUVA in particular — Section 16) and immunosuppressive treatments, rather than psoriasis itself [(Nature Communications, 2024)](https://www.nature.com/articles/s41467-024-51824-6).
+
+**Solid organ cancers.** Modest increases have been reported for lung cancer (RR 1.26) and bladder cancer (RR 1.12), though confounders such as smoking prevalence (higher in psoriasis — Section 7.4) complicate interpretation.
+
+**Biologic therapy does not increase cancer risk.** Reassuringly, large registry studies including BADBIR and PSOLAR have consistently shown that biologic-treated patients do not have significantly elevated malignancy rates compared with conventionally treated patients or the general population [(Vaengebjerg et al., 2024)](https://www.mdpi.com/2072-6694/16/24/4224). This is important clinical reassurance for both patients and prescribers.
+
+**Screening recommendations.** Current guidelines do not mandate universal cancer screening specifically for psoriasis patients, but clinicians should ensure age-appropriate cancer screening is up to date and should maintain a low threshold for biopsy of atypical or treatment-resistant lesions, particularly in patients with extensive phototherapy histories.
+
+**Research stage: Established.** **Evidence strength: High.** Large cohort studies, meta-analyses, and long-term registry data.
+
+## 10b.2 Chronic Kidney Disease
+
+Patients with severe psoriasis have a significantly increased risk of developing **chronic kidney disease (CKD)** and progressing to **end-stage renal disease (ESRD)**, with hazard ratios of approximately 1.58 after adjustment for confounders including diabetes, hypertension, and obesity [(Wan et al., 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full).
+
+The mechanisms linking psoriasis to kidney disease are multifactorial:
+
+- **Systemic inflammation**: IL-23 can drive renal inflammation characterised by massive T-lymphocyte infiltration. The same TNF-α, IL-17, and IL-23 that damage skin may also damage glomeruli and renal tubules.
+- **Accelerated atherosclerosis**: The "psoriatic march" (Section 10.7) promotes renal artery atherosclerosis and ischaemic nephropathy.
+- **Drug nephrotoxicity**: Methotrexate can cause interstitial nephritis and direct tubular toxicity, particularly with chronic use. Ciclosporin causes dose-dependent nephrotoxicity.
+- **Metabolic syndrome**: Obesity, diabetes, and hypertension — all more prevalent in psoriasis — are independently the leading causes of CKD.
+
+A 2025 study found that psoriasis remains a risk factor for CKD even in patients with concurrent type 2 diabetes, suggesting the inflammatory contribution is additive rather than fully explained by metabolic comorbidities [(Medscape, 2025)](https://www.medscape.com/viewarticle/psoriasis-tied-kidney-disease-risk-t2d-despite-treatment-2025a1000bzw).
+
+**Clinical implications**: Renal function (eGFR, serum creatinine) should be monitored regularly in psoriasis patients, particularly those on nephrotoxic medications. Dose adjustments for methotrexate and other renally cleared drugs are essential in patients with impaired renal function (see Section 14.4).
+
+**Research stage: Established.** **Evidence strength: Moderate-High.** Population-based cohort studies with consistent findings; biological plausibility well-established.
+
+## 10b.3 Ocular Disease and Uveitis
+
+Ocular manifestations are surprisingly common in psoriasis, with prevalence estimates ranging from 10% to 81.4% depending on the definition and detection method [(Kalogeropoulos & Gorgoli, 2025)](https://www.tandfonline.com/doi/full/10.1080/09273948.2025.2459710). The spectrum includes:
+
+- **Dry eye**: The most prevalent manifestation. Chronic blepharitis (eyelid inflammation) and meibomian gland dysfunction lead to tear film instability. Prevalence estimates range from 18% to 64% of psoriasis patients.
+- **Blepharitis**: Direct psoriatic involvement of the eyelid margins, often with characteristic scaling.
+- **Conjunctivitis**: Non-infectious conjunctival inflammation.
+- **Uveitis**: Intraocular inflammation affecting the uveal tract (iris, ciliary body, choroid). Uveitis incidence in psoriasis is estimated at 7–20%, with patients with psoriatic arthritis at substantially higher risk than those with skin-limited disease.
+
+A 2026 study in *Eye* confirmed that biologic therapy is associated with reduced ocular disease, particularly uveitis, suggesting that systemic inflammation control benefits the eyes as well as the skin and joints [(Nature Eye, 2026)](https://www.nature.com/articles/s41433-026-04274-x).
+
+Patients with psoriasis — particularly those with PsA — should be counselled about ocular symptoms (redness, pain, photophobia, blurred vision) and referred promptly for ophthalmological assessment when uveitis is suspected.
+
+**Research stage: Established.** **Evidence strength: Moderate.** Systematic reviews and large cross-sectional studies; biologic protective effect supported by registry data.
+
+## 10b.4 Hearing Loss
+
+An association between psoriasis and hearing impairment has emerged from a meta-analysis of 15 studies encompassing 202,683 subjects. Key findings include:
+
+- **Sensorineural hearing loss**: OR 3.85 (95% CI: 1.87–7.92). The hearing impairment is predominantly subclinical and most pronounced at high frequencies, with the greatest threshold difference at **4000 Hz** [(Aljasser et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37231542/).
+- **Sudden sensorineural hearing loss**: HR 1.45 (95% CI: 1.17–1.80).
+- **Vestibular dysfunction**: OR 13.12 (95% CI: 2.76–62.46) on caloric testing, though this finding is based on small studies and should be interpreted cautiously [(Aljasser et al., 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10447668/).
+
+The proposed mechanisms include inflammation-mediated damage to the cochlear vasculature (the stria vascularis is particularly vulnerable to immune-mediated injury), autoimmune inner ear disease triggered by cross-reactive antibodies, and methotrexate ototoxicity.
+
+The clinical implication is that unexplained hearing difficulty or tinnitus in psoriasis patients should prompt audiological evaluation. Whether psoriasis treatment can prevent or reverse hearing loss is unknown.
+
+**Research stage: Emerging.** **Evidence strength: Moderate.** Meta-analysis with consistent direction of effect; mostly subclinical; mechanism not definitively established.
+
+## 10b.5 Periodontal Disease
+
+Meta-analyses demonstrate significant associations between periodontitis and psoriasis, with shared risk factors (smoking, diabetes, stress, obesity) and overlapping inflammatory pathways (TNF-α, IL-17, NF-κB) [(Keller & Lin, 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9516998/).
+
+Key evidence includes:
+- Psoriasis patients have significantly higher rates of periodontal disease, deeper probing depths, and greater clinical attachment loss compared with matched controls.
+- Patients with both conditions report worse oral health-related quality of life.
+- **Interventional evidence**: Preliminary studies suggest that non-surgical periodontal therapy (scaling and root planing) may positively influence psoriasis severity, possibly by reducing the systemic inflammatory burden [(Kalakonda et al., 2025)](https://www.mdpi.com/1648-9144/61/10/1825).
+
+Clinicians managing psoriasis should enquire about dental health and encourage regular dental review, particularly in patients with metabolic syndrome or smoking history.
+
+**Research stage: Emerging.** **Evidence strength: Moderate.** Meta-analyses establish association; interventional evidence is preliminary but promising.
+
+## 10b.6 Osteoporosis and Bone Health
+
+An estimated 3–18% of psoriasis patients develop osteoporosis, and psoriasis patients have higher fracture odds even after adjusting for traditional risk factors. Intriguingly, this increased fracture risk persists in studies where bone mineral density (BMD) differences are not statistically significant, suggesting mechanisms beyond simple bone density reduction [(Passos et al., 2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543251/).
+
+Proposed mechanisms include:
+- **Chronic inflammation**: TNF-α and IL-17 promote osteoclast differentiation and bone resorption through the RANKL pathway.
+- **Vitamin D deficiency**: Common in psoriasis patients (possibly due to skin coverage behaviour, reduced sun exposure from embarrassment, or disrupted vitamin D metabolism).
+- **Medication effects**: Long-term systemic corticosteroid use (though avoided in psoriasis where possible — Section 7a.5) and cyclosporine can reduce bone density.
+- **Immobility**: Pain from psoriatic arthritis may reduce weight-bearing exercise, which is essential for bone maintenance.
+
+Dual-energy X-ray absorptiometry (DXA) scanning should be considered in psoriasis patients with additional osteoporosis risk factors, and vitamin D levels should be monitored.
+
+**Research stage: Emerging.** **Evidence strength: Low-Moderate.** Heterogeneous studies with variable BMD findings; fracture risk data more consistent.
+
+## 10b.7 Neurodegeneration: Alzheimer's and Parkinson's Disease
+
+An intriguing but as yet unresolved question is whether psoriasis increases the risk of neurodegenerative diseases. Population-based studies have reported modestly elevated risks of both **Alzheimer's disease (AD)** and **Parkinson's disease (PD)** in psoriasis patients [(Fu & Chi, 2022)](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full).
+
+The biological rationale is plausible:
+- TNF-α and IL-17 have been detected at elevated levels in the brains of AD and PD patients.
+- Chronic systemic inflammation may accelerate blood-brain barrier (BBB) disruption, allowing peripheral inflammatory mediators to access the central nervous system.
+- Shared genetic susceptibility loci have been identified between psoriasis and neuroinflammatory diseases.
+
+However, **causality has not been established**. Confounders including metabolic syndrome, depression, smoking, and alcohol use — all more prevalent in psoriasis — are themselves risk factors for neurodegeneration. Whether psoriasis treatment reduces neurodegeneration risk is entirely unknown.
+
+This remains an area for epidemiological surveillance rather than clinical action. Further large-scale, well-controlled longitudinal studies are needed.
+
+**Research stage: Emerging.** **Evidence strength: Low.** Epidemiological associations with biological plausibility; confounding is substantial; causality not demonstrated.
