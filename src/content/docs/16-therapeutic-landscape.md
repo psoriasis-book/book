@@ -34,7 +34,7 @@ The first biologics approved for psoriasis. These block TNF-α, a major pro-infl
 **Ustekinumab (Stelara)** targets the p40 subunit shared by IL-12 and IL-23, blocking both cytokines. It was the first biologic to target the IL-23 pathway and demonstrated that blocking upstream drivers of Th17 differentiation was highly effective. Administered subcutaneously every 12 weeks after induction, with weight-based dosing (45 mg for patients ≤100 kg, 90 mg for >100 kg) [(Armstrong & Read, 2020)](https://pubmed.ncbi.nlm.nih.gov/32427307/).
 
 ### IL-17 Inhibitors
-These agents target IL-17 or its receptor, providing rapid skin clearance and addressing multiple disease domains including nails and scalp. IL-17 inhibitors achieve PASI 75–100 in 60–90% of patients [(various reviews, 2024–2025)](https://www.mdpi.com/2313-5786/5/2/19). Approved agents include:
+These agents target IL-17 or its receptor, providing rapid skin clearance and addressing multiple disease domains including nails and scalp. IL-17 inhibitors achieve PASI 75–100 in 60–90% of patients [(Fotiadou et al., 2025)](https://www.mdpi.com/2313-5786/5/2/19). Approved agents include:
 
 - **Secukinumab (Cosentyx)**: A fully human monoclonal antibody targeting IL-17A. Administered subcutaneously, typically every 4 weeks after a loading phase. Approved for adults and children aged 6+.
 - **Ixekizumab (Taltz)**: A humanised monoclonal antibody targeting IL-17A. Among the highest PASI 90 response rates of any biologic. Given subcutaneously every 2 weeks during induction, then every 4 weeks.
