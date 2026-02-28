@@ -14,5 +14,7 @@ Psoriasis can be a lonely disease. It is visible, chronic, and widely misunderst
 
 This book is published for free at [psoriasis.fyi](https://psoriasis.fyi) — anyone, anywhere can read it. If you find it useful and want to support the project, you can buy a copy from Amazon. But the information itself should never be behind a paywall.
 
+Anthropic's Claude has been an invaluable assistant in writing this. It's been like having a research assistant, a proof-reader, a friend to bounce ideas off of, all in one.
+
 *Miko Pawlikowski*
 *February 2026*
