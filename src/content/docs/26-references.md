@@ -254,3 +254,11 @@ sidebar:
 124. Ko HC, Jwa SW, Song M, Kim MB, Kwon KS. Clinical course of guttate psoriasis: long-term follow-up study. *J Dermatol*. 2010;37(10):894-899. doi:10.1111/j.1346-8138.2010.00871.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20860740/)
 
 125. Galili E, Rubinstein Levy S, Golan-Tripto I, et al. New-onset guttate psoriasis: a long-term follow-up study. *Dermatology*. 2023;239(2):233-239. doi:10.1159/000528395. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10015744/)
+
+126. Iversen L, Conrad C, Eidsmo L, et al. Secukinumab demonstrates superiority over narrow-band ultraviolet B phototherapy in new-onset moderate to severe plaque psoriasis patients: week 52 results from the STEPIn study. *J Eur Acad Dermatol Venereol*. 2023;37(5):1004-1016. doi:10.1111/jdv.18846. [JEADV](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18846)
+
+127. Eyerich K, et al. Early disease intervention with guselkumab in psoriasis leads to a higher rate of stable complete skin clearance ('clinical super response'). *JAMA Dermatol*. 2024;160(8):953-963. [JAMA Dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2820951)
+
+128. Warren RB, Blauvelt A, Bagel J, et al. Bimekizumab versus adalimumab in plaque psoriasis. *N Engl J Med*. 2021;385(2):130-141. doi:10.1056/NEJMoa2102388. [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2102388)
+
+129. Floris A, et al. Treatment of psoriasis with different classes of biologics reduces the likelihood of peripheral and axial psoriatic arthritis development. *Rheumatology*. 2025;64(3):1131-1137. [Oxford Academic](https://academic.oup.com/rheumatology/article/64/3/1131/7691289)
