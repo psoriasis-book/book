@@ -19,17 +19,21 @@ sidebar:
 | **BSA** | Body Surface Area — percentage of total skin surface affected by psoriasis |
 | **Calcineurin inhibitor** | A class of topical drugs (tacrolimus, pimecrolimus) that suppress local immune activity; useful for face, flexures, and genitals |
 | **CAR-T (Chimeric Antigen Receptor T cell)** | An engineered immune cell therapy where T cells are modified to recognise and eliminate cells expressing a specific antigen; being explored for severe autoimmune diseases |
+| **CASPAR** | Classification Criteria for Psoriatic Arthritis — the most widely used and validated classification tool for PsA, requiring inflammatory articular disease plus ≥3 points from clinical features |
+| **CGRP (calcitonin gene-related peptide)** | A neuropeptide released by sensory nerves that promotes neurogenic inflammation and vasodilation in the skin |
 | **CCL20** | A chemokine ("come here" signal) that attracts Th17 cells to the skin |
 | **Certolizumab pegol** | A PEGylated anti-TNF biologic that lacks the Fc region and therefore does not cross the placenta; preferred in pregnancy |
 | **Chemokine** | A subset of cytokines whose job is to direct immune cells to specific locations |
 | **Comorbidity** | A disease or condition that occurs alongside the primary condition (e.g., cardiovascular disease in a patient with psoriasis) |
 | **Cytokine** | A small protein released by cells that acts as a chemical messenger regulating immune responses |
+| **Dactylitis** | Diffuse swelling of an entire digit ("sausage finger" or "sausage toe"), caused by a combination of joint inflammation, tenosynovitis, and soft tissue oedema; highly suggestive of psoriatic arthritis |
 | **Dendritic cell** | An antigen-presenting immune cell that acts as a messenger between innate and adaptive immunity |
 | **Differentiation** | The process by which a general-purpose cell becomes a specialist (e.g., a naïve T cell becoming a Th17 cell) |
 | **DLQI** | Dermatology Life Quality Index — a questionnaire measuring how skin disease affects daily life (score 0–30; ≥10 = significant impact) |
 | **DNA methylation** | A chemical modification where methyl groups are added to DNA, altering gene expression without changing the DNA sequence; a key epigenetic mechanism studied in psoriasis disease memory |
 | **Drug survival** | The length of time a patient remains on a given therapy; used in registries as a real-world proxy for treatment effectiveness and tolerability |
 | **Emollient** | A moisturising preparation that softens skin and maintains the skin barrier |
+| **Enthesitis** | Inflammation at the points where tendons and ligaments insert into bone (entheses); a hallmark feature of psoriatic arthritis that distinguishes it from rheumatoid arthritis |
 | **Epigenetics** | The study of heritable changes in gene expression that do not involve changes to the DNA sequence itself; mechanisms include DNA methylation and histone modification |
 | **Epidermis** | The outermost layer of the skin |
 | **Erythema** | Redness of the skin caused by increased blood flow; appears differently across skin tones |
@@ -57,7 +61,11 @@ sidebar:
 | **MHC (Major Histocompatibility Complex)** | Surface proteins encoded by HLA genes that present antigen fragments to T cells |
 | **Munro microabscesses** | Collections of neutrophils in the stratum corneum (uppermost epidermis); a histological hallmark of psoriasis |
 | **NB-UVB** | Narrowband ultraviolet B (311 nm) — the most commonly used form of phototherapy for psoriasis |
+| **Neuropeptide** | A small protein released by nerve endings that regulates inflammation, pain, and itch signalling in the skin; examples include substance P and CGRP |
 | **Network meta-analysis (NMA)** | A statistical method that compares multiple treatments simultaneously by combining direct and indirect evidence from clinical trials; used to rank biologic efficacy |
+| **NGF (nerve growth factor)** | A protein that promotes the growth and survival of sensory nerve fibres; elevated in psoriatic skin, contributing to increased nerve density and itch |
+| **NK1R (neurokinin-1 receptor)** | The receptor for substance P on immune cells, keratinocytes, and endothelial cells; mediates neurogenic inflammation in psoriasis |
+| **Nociceptor** | A sensory nerve ending that detects painful or itch-inducing stimuli; nociceptors in psoriatic skin release neuropeptides that amplify local inflammation |
 | **NICE** | National Institute for Health and Care Excellence — the UK body that issues treatment guidance and approves NHS funding |
 | **Onycholysis** | Separation of the nail from the nail bed; common in nail psoriasis |
 | **PASI (Psoriasis Area and Severity Index)** | The standard clinical scoring system for psoriasis severity (0–72) |
@@ -68,6 +76,7 @@ sidebar:
 | **Post-inflammatory hyperpigmentation (PIH)** | Persistent dark discolouration at sites of healed inflammation; particularly significant in skin of colour |
 | **PUVA** | Psoralen + UVA light therapy |
 | **Rete ridges** | Finger-like projections of the epidermis into the dermis; elongated in psoriasis |
+| **Substance P** | A neuropeptide released by sensory nerve endings that promotes inflammation, vasodilation, and immune cell activation via the NK1 receptor; elevated in psoriatic skin |
 | **Super-responder** | A patient who achieves complete skin clearance that remains stable even when treatment is reduced or withdrawn; concept introduced by the GUIDE trial |
 | **Systemic disease** | A disease that affects the whole body, not just one organ |
 | **T cell (T lymphocyte)** | An adaptive immune cell that matures in the thymus; Th17 cells are key in psoriasis |
