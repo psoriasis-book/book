@@ -264,3 +264,9 @@ sidebar:
 129. Floris A, et al. Treatment of psoriasis with different classes of biologics reduces the likelihood of peripheral and axial psoriatic arthritis development. *Rheumatology*. 2025;64(3):1131-1137. [Oxford Academic](https://academic.oup.com/rheumatology/article/64/3/1131/7691289)
 
 130. Lada G, Chinoy H, Heal C, Warren RB, Talbot PS, Kleyn CE. Depression and suicidality in patients with psoriasis and the role of psoriatic arthritis: a cross-sectional study in a tertiary setting. *J Acad Consult Liaison Psychiatry*. 2022;63(4):372-383. doi:10.1016/j.jaclp.2021.12.007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35017124/)
+
+131. Balato N, Patruno C, Napolitano M, Patri A, Ayala F, Scarpa R. Managing moderate-to-severe psoriasis in the elderly. *Drugs Aging*. 2014;31(4):233-238. doi:10.1007/s40266-014-0156-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24554398/)
+
+132. Kalb RE, Fiorentino DF, Lebwohl MG, et al. Risk of serious infection with biologic and systemic treatment of psoriasis: results from the Psoriasis Longitudinal Assessment and Registry (PSOLAR). *JAMA Dermatol*. 2015;151(9):961-969. doi:10.1001/jamadermatol.2015.0718. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25970800/)
+
+133. Barnes L, Kaya G, Rollason V. Topical corticosteroid-induced skin atrophy: a comprehensive review. *Drug Saf*. 2015;38(5):493-509. doi:10.1007/s40264-015-0287-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25862024/)
