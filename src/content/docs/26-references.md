@@ -61,7 +61,7 @@ sidebar:
 
 28. Fatani M, et al. Review on recommendations on the use of biologic treatments for psoriasis. *Expert Opin Biol Ther*. 2025. [Taylor & Francis (PDF)](https://www.tandfonline.com/doi/pdf/10.1080/14712598.2025.2495986)
 
-29. (Removed — replaced by ref 107, Armstrong et al. 2021 network meta-analysis.)
+29. Sbidian E, Chaimani A, et al. Systemic pharmacological treatments for chronic plaque psoriasis: a network meta-analysis. *Cochrane Database Syst Rev*. 2023;7:CD011535. [Cochrane](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011535.pub6/full)
 
 30. Childs B, Romanelli S, Merola JF, Gottlieb AB. From the Masterclasses in Dermatology 2024 Meeting: Updates in Psoriasis Treatments. *J Clin Aesthet Dermatol*. 2025;18(2):16-22. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/)
 
