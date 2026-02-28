@@ -43,4 +43,67 @@ Beyond severity assessment, machine learning is being applied to predict treatme
 
 Psoriatic skin is not merely inflamed — it is hyperinnervated. Compared with healthy skin, psoriatic plaques contain markedly increased densities of sensory nerve fibres, with substance P-positive (SP+) fibres increased approximately sixfold and calcitonin gene-related peptide-positive (CGRP+) fibres roughly doubled. This sensory nerve proliferation is driven largely by elevated nerve growth factor (NGF), which both promotes axonal outgrowth and directly sensitises nociceptors, lowering the threshold for itch and pain perception [(Zhang & He, 2020)](https://pubmed.ncbi.nlm.nih.gov/33133059/).
 
-These neuropeptides are not passive bystanders but active drivers of inflammation. Substance P, acting through the neurokinin-1 receptor (NK1R), promotes vasodilation, mast cell degranulation, and Th17 polarisation. CGRP activates the IL-23/IL-17 axis — the central pathogenic pathway in psoriasis. Together, these neuropeptides establish a bidirectional feedback loop: immune cells release cytokines that sensitise nerve endings and promote further neuropeptide release, which in turn amplifies immune activation. This neuroimmune circuit helps explain several clinical observations, including the well-documented role of psychological stress in triggering flares (Section 7.3), the intense pruritus that many patients experience, and the Koebner phenomenon. Current biologics, whilst highly effective at suppressing cutaneous inflammation, have limited impact on neurological symptoms such as itch and pain, suggesting that the nervous and immune components of psoriasis may require distinct therapeutic approaches.
+These neuropeptides are not passive bystanders but active drivers of inflammation. Substance P, acting through the neurokinin-1 receptor (NK1R), promotes vasodilation, mast cell degranulation, and Th17 polarisation. CGRP activates the IL-23/IL-17 axis — the central pathogenic pathway in psoriasis. Together, these neuropeptides establish a bidirectional feedback loop: immune cells release cytokines that sensitise nerve endings and promote further neuropeptide release, which in turn amplifies immune activation. This neuroimmune circuit helps explain several clinical observations, including the well-documented role of psychological stress in triggering flares (Section 7.3), the intense pruritus that many patients experience, and the Koebner phenomenon. Current biologics, whilst highly effective at suppressing cutaneous inflammation, have limited impact on neurological symptoms such as itch and pain (see Section 11b for detailed coverage of pain and itch mechanisms), suggesting that the nervous and immune components of psoriasis may require distinct therapeutic approaches.
+
+## 20.9 Nanomedicine Drug Delivery
+
+Conventional topical therapies for psoriasis face a fundamental limitation: the skin barrier (stratum corneum) efficiently blocks most drug molecules, particularly large, hydrophilic ones. **Nanomedicine** — the application of nanotechnology to drug delivery — aims to overcome this barrier using engineered nanocarrier systems that enhance skin penetration, provide sustained release, and reduce systemic exposure.
+
+Nanocarrier systems under investigation for psoriasis include [(Saleem et al., 2024)](https://www.mdpi.com/1999-4923/16/4/449):
+
+- **Liposomes and ethosomes**: Phospholipid vesicles (50–200 nm) that fuse with the skin's lipid bilayers, enhancing drug penetration. Ethosomes contain ethanol, which further fluidises the stratum corneum.
+- **Solid lipid nanoparticles (SLNs)**: Biodegradable lipid particles that provide controlled drug release and protect encapsulated drugs from degradation.
+- **Microneedle arrays**: Tiny needles (25–2000 μm) that painlessly create microchannels in the stratum corneum, allowing direct delivery of drugs — including biologics and nucleic acids — into the viable epidermis.
+- **Transferosomes and niosomes**: Ultra-deformable vesicles that can squeeze through intercellular spaces in the stratum corneum.
+- **Dendrimers and polymeric micelles**: Branched or self-assembling nanostructures that can encapsulate hydrophobic drugs and target them to inflamed skin.
+
+The theoretical advantages are compelling: reduced application frequency, lower total drug doses, fewer local side effects (e.g., steroid atrophy), and the potential to deliver biologic-class molecules (antibodies, siRNAs) topically. However, none of these systems has yet progressed beyond early clinical development for psoriasis [(Li et al., 2025)](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full).
+
+**Research stage: Experimental.** **Evidence strength: Low.** Extensive preclinical data; Phase I/II clinical trials for some formulations; no approved nanomedicine products for psoriasis.
+
+## 20.10 Gene Therapy and CRISPR
+
+The most conceptually ambitious approach to psoriasis treatment involves directly editing or silencing the genes that drive disease. **CRISPR-Cas9** gene editing, delivered via lipid nanoparticles (LNPs), can target psoriasis-related genes — including **IL-17A**, **IL-22**, **IL-23**, **TNF-α**, and **NF-κB** — directly in keratinocytes via topical application [(Li et al., 2025)](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full).
+
+Additional nucleic acid approaches under investigation include:
+
+- **RNA interference (RNAi)**: Small interfering RNAs (siRNAs) that degrade specific mRNA transcripts, effectively silencing gene expression. siRNAs targeting TNF-α and IL-17A have shown efficacy in psoriasis mouse models.
+- **Antisense oligonucleotides (ASOs)**: Short synthetic DNA/RNA strands that bind to and block specific mRNA, preventing protein production.
+- **mRNA therapeutics**: Building on the success of COVID-19 mRNA vaccines, LNP-encapsulated mRNA encoding anti-inflammatory proteins could theoretically be delivered to the skin.
+
+These approaches are **highly experimental** and face formidable challenges: achieving efficient delivery to target cells in human skin, ensuring specificity (avoiding off-target gene editing), managing immune responses to delivery vehicles, and demonstrating long-term safety. However, they represent a paradigm shift from managing symptoms to potentially correcting the underlying molecular defects.
+
+**Research stage: Experimental.** **Evidence strength: Very Low.** Preclinical proof-of-concept in mouse models; no human clinical trials for gene therapy in psoriasis.
+
+## 20.11 Mesenchymal Stem Cell Therapy
+
+**Mesenchymal stem cells (MSCs)** — multipotent stromal cells that can be isolated from bone marrow, adipose tissue, or umbilical cord — have potent immunomodulatory properties. In psoriasis models, MSCs ameliorate inflammation by reducing type I interferon (IFN-I) production by plasmacytoid dendritic cells — the same cells that initiate the psoriatic cascade (Section 6.2) [(Li et al., 2025)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1656724/full).
+
+A 2025 case series reported MSCs as a **rescue therapy** in biologic-refractory psoriasis — patients who had failed multiple biologic classes — with significant improvement in PASI scores [(Li et al., 2025)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1656724/full). An expert consensus on MSC application in psoriasis clinical trials has been published, standardising cell source, dose, and outcome measures [(Aging and Disease, 2024)](https://www.aginganddisease.org/EN/10.14336/AD.2024.0012).
+
+Next-generation approaches include **CRISPR-engineered MSCs** with enhanced immunomodulatory functions — for example, MSCs modified to overexpress IL-10 or PD-L1 for more potent and targeted immunosuppression.
+
+**Research stage: Experimental.** **Evidence strength: Low.** Case series and preclinical models; expert consensus published but no Phase 3 RCTs.
+
+## 20.12 Cryotherapy
+
+**Cryotherapy** — the application of extreme cold to the skin — has been explored as both a localised and whole-body treatment for psoriasis.
+
+**Localised cryotherapy** using liquid nitrogen or cryoprobe application directly to psoriatic plaques was evaluated in a 2024 study of 128 lesions: 49% achieved G5 (complete or near-complete) improvement. Palmoplantar psoriasis showed a notably better response, with 73% achieving G5 improvement [(Egyptian J Dermatology, 2024)](https://journals.lww.com/ejdv/fulltext/2024/44020/cryotherapy_in_chronic_plaque_psoriasis__an.2.aspx).
+
+**Whole-body cryotherapy (WBC)** — brief (2–3 minute) exposure to extreme cold (−100°C to −140°C) in a cryochamber — increases anti-inflammatory interleukins (IL-10, IL-4) and decreases pro-inflammatory molecules. Small studies suggest benefit for psoriasis symptoms, though evidence is limited by small sample sizes and lack of blinded controls [(Cosmoderma, 2025)](https://cosmoderma.org/cryotherapy-in-psoriasis-a-novel-therapeutic-modality-in-the-future-scenario/).
+
+Cryotherapy is best considered as a potential adjunctive treatment for localised, refractory plaques rather than a systemic therapy. It does not address the underlying immune dysregulation.
+
+**Research stage: Experimental.** **Evidence strength: Low.** Small studies with mixed results; no RCTs; mechanism of action partially understood.
+
+## 20.13 Phage Therapy and Engineered Microbiome Treatments
+
+Given the gut and skin microbiome alterations in psoriasis (Section 6.6), several novel approaches aim to directly modify microbial communities:
+
+- **Bacteriophage (phage) therapy**: Phages are viruses that specifically infect and kill bacteria. Unlike broad-spectrum antibiotics, phages offer **strain-specific** treatment that targets pathogenic bacteria while preserving beneficial flora. Personalised phage cocktails based on individual patient skin swabs are being explored for dermatological conditions, though no psoriasis-specific trials have been conducted [(HMP Global, 2025)](https://www.hmpgloballearningnetwork.com/site/thederm/cover-story/dermatology-disruptors-next-generation-skin-microbiome-testing-and).
+- **Engineered commensals**: Genetically modified bacteria designed to produce anti-inflammatory molecules (e.g., IL-10, antimicrobial peptides) directly at the skin surface or in the gut.
+- **Topical probiotics and postbiotics**: Direct application of beneficial bacteria or their metabolic products (postbiotics, including SCFAs and bacteriocins) to psoriatic skin, aiming to restore microbial balance.
+- **Faecal microbiota transplantation (FMT)**: Transfer of healthy donor stool into the patient's gut to restore microbial diversity. FMT has shown efficacy in recurrent *Clostridioides difficile* infection and is being explored in autoimmune conditions, though no published data exist for psoriasis.
+
+**Research stage: Experimental.** **Evidence strength: Very Low.** Theoretical basis is strong (supported by microbiome dysbiosis data); clinical applications are at the earliest stages of development.

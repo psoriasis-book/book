@@ -75,3 +75,19 @@ While the DC–Th17–keratinocyte triad is the core of the current pathogenic m
 ![The gut-skin axis](./images/gut-skin-axis.svg)
 
 - **The gut-skin axis**: The gut microbiome (the trillions of bacteria living in the intestines) is increasingly recognised as playing a role in psoriasis. Patients with psoriasis show altered gut microbiota composition — a state called dysbiosis (an unhealthy imbalance of gut bacteria) — and increased gut barrier permeability (a "leaky gut"), which may allow bacterial products to escape into the bloodstream and fuel systemic inflammation [(Al-Kufi et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12047224/).
+
+## 6.6 The Gut-Skin Axis: Deeper Mechanisms
+
+The gut-skin axis is a dynamic, bidirectional communication system in which gut-derived metabolites, immune signals, and microbial products directly influence cutaneous immune responses — and vice versa [(Zhu et al., 2025)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1711288/full).
+
+**Bacterial signatures.** Psoriatic gut dysbiosis is characterised by decreased **Faecalibacterium prausnitzii** (a butyrate-producing bacterium with anti-inflammatory properties) and increased **Prevotella copri** (associated with Th17-mediated inflammation). These changes are consistent across multiple cohort studies and mirror the dysbiosis seen in other IL-17-driven diseases such as rheumatoid arthritis.
+
+**Metabolite-mediated epigenetic reprogramming.** A 2025 study in *Gut Microbes* demonstrated a remarkable mechanism: indole-producing gut bacteria promote the accumulation of **indole-3-sulfate**, which activates the aryl hydrocarbon receptor (AhR) on skin-homing Th17 cells, directly remodelling their epigenetic state and amplifying IL-17 production. This provides a concrete molecular link between gut bacterial metabolism and skin inflammation [(Liu et al., 2025)](https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2473524).
+
+**Short-chain fatty acids (SCFAs).** Microbial fermentation of dietary fibre produces SCFAs (acetate, propionate, butyrate), which modulate psoriasis severity through multiple pathways: suppression of Th17 differentiation, promotion of regulatory T cell (Treg) development, maintenance of intestinal barrier integrity, and signalling through the gut-brain axis. Reduced SCFA-producing bacteria in psoriatic patients may contribute to both skin inflammation and the psychiatric comorbidities discussed in Section 11.
+
+**The skin microbiome.** The skin itself harbours a distinct microbiome that is altered in psoriasis. A 2024 study published in the *Journal of Clinical Investigation* found a relative and absolute increase in **Malassezia** species (a genus of fungi) on psoriatic lesions compared with non-lesional and healthy skin. Notably, IL-23 inhibitor treatment significantly reduced Malassezia percentage in the skin mycobiome, suggesting that immune-mediated shifts in the skin microbial community are reversible with targeted therapy [(Fyhrquist et al., 2024)](https://www.jci.org/articles/view/184315).
+
+No consistent psoriasis-specific skin microbiome "signature" has been identified, reflecting the complexity of microbial communities and the influence of body site, treatment, and individual variation.
+
+**Research stage: Emerging.** **Evidence strength: Moderate.** Supported by multiple human cohort studies, animal models, and mechanistic metabolite studies. No microbiome-targeted therapy has demonstrated clinical efficacy in psoriasis RCTs.

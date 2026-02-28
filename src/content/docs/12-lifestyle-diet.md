@@ -77,7 +77,22 @@ As discussed in Sections 7.4 and 7.5, smoking and alcohol are established risk f
 
 **Evidence grade: High (observational). Recommended by clinical guidelines.**
 
-## 12.10 Summary: The Evidence Hierarchy
+## 12.10 Exercise and Physical Activity
+
+Physical activity is an under-recognised but evidence-based adjunct intervention for psoriasis. A 2024 meta-analysis confirmed that psoriasis patients have significantly lower levels of high-intensity exercise than healthy controls, and that this physical inactivity contributes to the elevated cardiovascular and metabolic risk profile discussed in Section 10 [(Lopes et al., 2024)](https://onlinelibrary.wiley.com/doi/full/10.1002/ski2.426).
+
+**Exercise improves psoriasis severity directly.** An interventional study found that a structured exercise programme promoted significant skin clearance, with 50% of participants achieving PASI-50 response at week 20 [(Naldi et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589643/). The biological mechanisms likely include:
+
+- **Reduction of systemic inflammation**: Exercise decreases circulating TNF-α, IL-6, and CRP — the same inflammatory mediators that drive psoriasis and its comorbidities.
+- **Weight loss**: Exercise-induced weight loss reduces adipokine production and improves biologic treatment response (see Section 12.1).
+- **Mental health improvement**: Exercise reduces depression and anxiety (Section 11), which are both triggers for and consequences of psoriasis.
+- **Improved insulin sensitivity**: Counteracts the metabolic syndrome component of psoriatic comorbidity (Section 10.3).
+
+**Practical recommendations**: Current evidence supports encouraging moderate-to-vigorous physical activity (150 minutes/week of moderate activity or 75 minutes/week of vigorous activity, consistent with WHO guidelines) as an adjunct to standard psoriasis treatment. Swimming may require attention to chlorine irritation, and skin-tight or abrasive clothing should be avoided to minimise Koebner phenomenon (Section 7.7). Activities that cause excessive friction at characteristic psoriasis sites (elbows, knees) may benefit from protective padding.
+
+**Evidence grade: Moderate. Supported by meta-analyses and interventional studies. Exercise is recommended as adjunct therapy for its combined benefits on skin, cardiovascular health, and mental health.**
+
+## 12.11 Summary: The Evidence Hierarchy
 
 | Intervention | Evidence Grade | Best Evidence | Recommended? |
 |---|---|---|---|
@@ -92,6 +107,7 @@ As discussed in Sections 7.4 and 7.5, smoking and alcohol are established risk f
 | Aloe vera | **Low** | Conflicting trial results | Insufficient evidence |
 | Curcumin/turmeric | **Low** | Preclinical + small clinical studies | Insufficient evidence |
 | Vitamin D supplementation | **Low** | 1 meta-analysis of 4 RCTs | Insufficient evidence |
+| Exercise (150 min/week) | **Moderate** | Meta-analyses + interventional | Yes — adjunct therapy |
 | Probiotics | **Very low** | Preliminary only | Insufficient evidence |
 | Tea tree oil | **None** | No clinical studies | No evidence |
 | Apple cider vinegar | **None** | No clinical studies | No evidence; may cause harm |

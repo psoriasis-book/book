@@ -152,3 +152,29 @@ The therapeutic revolution in psoriasis has been unevenly distributed. While pat
 - Regional guidelines from Asia-Pacific, Latin American, and Middle Eastern dermatology societies increasingly adapt these frameworks to local resource realities
 
 **The treatment gap.** Even in high-income countries, significant treatment gaps persist. In the US, racial and ethnic disparities in biologic access (Section 14.3) mean that many patients who meet clinical criteria for biologic therapy never receive it. In the UK, the sequential therapy requirements of the NICE pathway (Section 17) mean that patients must "fail" conventional treatments before accessing biologics, introducing delays of months to years. Worldwide, the gap between what is clinically achievable and what patients actually receive remains the central challenge in psoriasis care.
+
+## 16.10 Health Economics and Cost-Effectiveness
+
+Beyond list prices (Section 16.3), health economic analysis evaluates whether treatments provide value for money by comparing costs with health outcomes, measured in **quality-adjusted life years (QALYs)** — a metric that combines survival duration with quality of life, where one QALY equals one year of perfect health.
+
+A 2024 cost-effectiveness analysis in *JAMA Dermatology* systematically compared all approved biologic therapies using an efficiency frontier approach [(Egilman et al., 2024)](https://jamanetwork.com/journals/jamadermatology/fullarticle/2815167):
+
+| Biologic | Estimated QALYs (10-year) | Annual Net Cost (US) | Cost per QALY |
+|---|---|---|---|
+| Apremilast | 6.79 | Low | Reference |
+| Brodalumab | 7.38 | Mid-range | ~$131,000 |
+| Ixekizumab | 7.42 | High | ~$150,000 |
+| Certolizumab pegol | 6.95 | Mid-to-high | ~$188,000 |
+| Risankizumab | 7.40 | ~$79,277 | High |
+
+*Values are approximations from published analyses.*
+
+The analysis concluded that biologic prices would need a **median 71% reduction** to align with established cost-effectiveness thresholds (~$100,000–$150,000/QALY in the US). This finding has implications for formulary decision-making, payer negotiations, and the argument for biosimilar adoption.
+
+**Biosimilar economic impact.** Biosimilar competition has already demonstrated dramatic cost reductions: adalimumab net prices declined ~43% in the first year after biosimilar entry (Section 16.4), and infliximab biosimilars reduced annual costs to ~$1,664. As more biosimilars enter the market, cumulative savings are projected to reach billions of dollars across healthcare systems.
+
+**International cost variation.** The same biologics cost vastly different amounts across countries: risankizumab costs approximately $79,277/year in the US but significantly less in the UK (where NICE negotiates confidential patient access schemes), continental Europe, and even less in middle-income countries with biosimilar markets. This price disparity is a key driver of global access inequality.
+
+**Patient financial burden.** Even in countries with insurance coverage, out-of-pocket costs (copays, coinsurance) can be substantial. Patient assistance programmes offered by manufacturers, independent charitable foundations, and specialty pharmacy programmes partially address this, but awareness and uptake remain inconsistent. In the UK, NHS prescriptions for biologic therapy carry no additional patient cost beyond the standard prescription charge (or are free in Scotland, Wales, and Northern Ireland).
+
+**Research stage: Established.** **Evidence strength: High.** Pharmacoeconomic analyses, NICE/ICER technology appraisals, and insurance claims data provide robust evidence.
