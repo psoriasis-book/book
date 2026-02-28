@@ -1,0 +1,67 @@
+---
+title: "Sleep Disturbance and Sexual Health in Psoriasis"
+description: "Obstructive sleep apnoea, insomnia, sexual dysfunction, erectile dysfunction, and fertility impacts in psoriasis patients"
+sidebar:
+  order: 11.5
+---
+
+Two aspects of quality of life that are profoundly affected by psoriasis yet routinely overlooked in clinical consultations are sleep and sexual health. Both are now supported by substantial epidemiological evidence and share bidirectional relationships with psoriatic inflammation.
+
+## 11a.1 Sleep Disturbance and Obstructive Sleep Apnoea
+
+Sleep disturbance is remarkably prevalent in psoriasis. Studies report that **obstructive sleep apnoea (OSA)** — a condition in which the airway repeatedly collapses during sleep, causing intermittent oxygen deprivation — occurs in 36–82% of psoriasis patients, compared with 2–4% in the general population [(Ghannam et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/). A 2025 study of 200 psoriasis patients found 54% were at high risk for OSA on validated screening questionnaires.
+
+The relationship between psoriasis and sleep disturbance is **bidirectional**:
+
+**Psoriasis disrupts sleep** through multiple mechanisms:
+- **Pruritus (itch)**: The most direct cause. Psoriatic itch often worsens at night (possibly due to circadian variation in cytokine levels and decreased cortisol), leading to frequent awakenings and fragmented sleep (see Section 11b for itch mechanisms).
+- **Pain**: Both cutaneous pain (from fissures, particularly palmoplantar — Section 8a.1) and joint pain from PsA (Section 10a) impair sleep quality.
+- **Psychological distress**: Anxiety, depression, and body image concerns (Section 11) contribute to insomnia.
+- **Medication effects**: Corticosteroids can cause insomnia; methotrexate-related fatigue may disrupt sleep architecture.
+
+**Poor sleep worsens psoriasis** through:
+- **Immune dysregulation**: Sleep deprivation elevates IL-6, TNF-α, and CRP — the same inflammatory mediators that drive psoriasis. Even partial sleep restriction (6 hours vs 8 hours) measurably increases systemic inflammation [(Hirotsu et al., 2024)](https://link.springer.com/article/10.1007/s13555-024-01211-2).
+- **Impaired skin barrier function**: Sleep deprivation reduces transepidermal water loss recovery after barrier disruption.
+- **Microbiome disruption**: Circadian disruption alters gut microbiome composition, potentially exacerbating the gut-skin axis (Section 6.5).
+- **Reduced melatonin**: Melatonin has anti-inflammatory and antioxidant properties; its disruption may remove a protective brake on inflammation.
+
+**Beyond OSA**, psoriasis patients show elevated rates of **insomnia** (difficulty initiating or maintaining sleep), **restless leg syndrome** (an urge to move the legs, often with uncomfortable sensations), and **poor sleep quality** as measured by the Pittsburgh Sleep Quality Index. Importantly, even patients with mild psoriasis show increased odds of these sleep disorders, suggesting the relationship is not driven solely by disease severity.
+
+**Clinical implications**: Sleep quality should be assessed at psoriasis consultations, using validated tools such as the STOP-BANG questionnaire for OSA risk or the Epworth Sleepiness Scale. Patients at high risk for OSA should be referred for polysomnography. Addressing sleep disorders may improve both quality of life and psoriasis outcomes.
+
+**Research stage: Established.** **Evidence strength: High.** Multiple epidemiological studies and meta-analyses; shared inflammatory mechanisms well-characterised.
+
+## 11a.2 Sexual Dysfunction
+
+Sexual dysfunction is reported by approximately **40.8% of psoriasis patients overall**, with prevalence reaching 68% in women in some studies. Despite its high prevalence, it remains one of the least-discussed aspects of the disease in clinical practice [(Zhang et al., 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full).
+
+**Erectile dysfunction (ED)** affects approximately 52.9% of male psoriasis patients compared with 40.3% of age-matched controls. The mechanisms are multifactorial:
+
+- **Psychological**: Shame, body image distress, and fear of rejection significantly impair sexual desire and arousal. In a survey of male psoriasis patients, 44.7% reported experiencing rejection by a sexual partner due to their skin disease.
+- **Hormonal**: Psoriasis is associated with decreased total and free testosterone and increased estradiol levels, which may reflect chronic inflammation-mediated disruption of the hypothalamic-pituitary-gonadal axis.
+- **Vascular/inflammatory**: The same endothelial dysfunction that increases cardiovascular risk (Section 10.2) also impairs penile blood flow. TNF-α, IL-17, and CRP are elevated in psoriasis patients with ED compared with those without.
+- **Genital involvement**: Direct involvement of genital skin (Section 8a.3) causes pain, irritation, and dyspareunia (painful intercourse), which may affect up to 63% of patients at some point.
+
+**Female sexual dysfunction** is less well-studied but includes reduced desire, arousal difficulty, dyspareunia, and orgasmic dysfunction. Vulvar psoriasis may cause pain, burning, and itching that directly interfere with sexual activity.
+
+**Research stage: Established.** **Evidence strength: Moderate-High.** Systematic reviews and large cross-sectional studies; multifactorial mechanisms well-described.
+
+## 11a.3 Fertility and Reproductive Health
+
+Emerging evidence indicates that untreated psoriasis impairs **male fertility** through mechanisms beyond sexual dysfunction:
+
+- **Spermatogenesis**: Systemic inflammation decreases sperm count and motility. Inflammatory cytokines (TNF-α, IL-6) directly damage the testicular microenvironment and disrupt the blood-testis barrier.
+- **Sexual accessory gland inflammation**: Seminal vesicles and prostate may be affected by systemic inflammation, altering seminal fluid composition.
+- **Hormonal disruption**: Reduced testosterone impairs spermatogenesis (see above).
+
+A 2024 study demonstrated that treatment with **adalimumab** produced significant improvements not only in erectile function but also in sperm motility, vitality, and serum testosterone levels, suggesting that inflammation control directly benefits male fertility [(Hahn et al., 2024)](https://link.springer.com/article/10.1007/s00403-024-03520-0).
+
+**Medication effects on fertility** must also be considered:
+- **Methotrexate**: A folate antagonist that impairs spermatogenesis; men should discontinue at least 3 months before attempting conception.
+- **Acitretin**: Teratogenic; women must avoid pregnancy for 3 years after discontinuation due to tissue storage and re-esterification. Effects on male fertility are less clear, but current guidelines recommend discontinuation 3 months before conception.
+- **Sulfasalazine**: Can cause reversible oligospermia.
+- **Biologics**: Current evidence suggests IL-17 and IL-23 inhibitors do not adversely affect male fertility, and may improve it by reducing inflammation (see above).
+
+For a detailed discussion of psoriasis management during pregnancy, see Section 14.1.
+
+**Research stage: Emerging.** **Evidence strength: Moderate.** Small RCTs and observational studies with biologically plausible mechanisms. Larger prospective studies needed.
