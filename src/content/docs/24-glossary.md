@@ -85,4 +85,26 @@ sidebar:
 | **TNF-α (Tumour Necrosis Factor alpha)** | A major pro-inflammatory cytokine targeted by the first generation of psoriasis biologics |
 | **TRM cells (tissue-resident memory T cells)** | Long-lived T cells that persist in previously affected skin; explain why psoriasis recurs at the same sites |
 | **Treg (regulatory T cell)** | A T cell subtype that suppresses excessive immune responses; dysfunctional in psoriasis |
+| **TRPV1** | Transient receptor potential vanilloid 1 — an ion channel on sensory nerve endings that detects heat, chemicals, and inflammatory mediators; upregulated in psoriatic skin and involved in itch and pain signalling |
+| **TRPA1** | Transient receptor potential ankyrin 1 — an ion channel on sensory neurons that detects chemical irritants and cold; works alongside TRPV1 in psoriatic itch and pain |
 | **TYK2** | Tyrosine kinase 2 — an intracellular enzyme in the IL-23 and IL-12 signalling pathway; target of deucravacitinib |
+| **Allodynia** | Pain caused by stimuli that are not normally painful (e.g., light touch on inflamed skin); results from peripheral and central sensitisation |
+| **Autophagy** | A cellular self-cleaning process by which cells digest and recycle damaged components; impaired in psoriasis, contributing to NF-κB activation and IL-36 overexpression |
+| **Central sensitisation** | Amplified pain processing in the spinal cord and brain caused by prolonged peripheral inflammation; present in ~43% of PsA patients |
+| **CRISPR-Cas9** | A gene-editing technology that allows precise modification of DNA sequences; being explored experimentally for targeting psoriasis-related genes |
+| **Excimer laser** | A 308 nm UV light device used for localised psoriasis treatment; delivers targeted UV-B to individual plaques without exposing surrounding healthy skin |
+| **Extracellular vesicle (EV)** | A tiny membrane-enclosed parcel (30–1000 nm) released by cells carrying proteins, lipids, and nucleic acids; serve as long-range molecular messengers and potential biomarkers |
+| **Exosome** | A subtype of extracellular vesicle (30–150 nm) released by cells; psoriatic serum-derived exosomes modify keratinocyte behaviour |
+| **Ferroptosis** | A form of regulated cell death driven by iron-dependent lipid peroxidation; recently identified in psoriatic keratinocytes as a potential pathogenic mechanism |
+| **IL-31** | A cytokine produced by Th2 cells that acts on sensory neurons via IL-31RA to generate itch signals; a key mediator of psoriatic pruritus |
+| **IL-36** | A family of pro-inflammatory cytokines (IL-36α, IL-36β, IL-36γ) that drive generalised pustular psoriasis via a distinct autoinflammatory pathway separate from IL-23/IL-17 |
+| **Metabolomics** | The large-scale study of small molecules (metabolites) in biological samples; being used to discover psoriasis biomarkers and monitor treatment response |
+| **mNAPSI** | Modified Nail Psoriasis Severity Index — a scoring system specifically for nail psoriasis, assessing 8 features across 10 fingernails on a 0–130 scale |
+| **Nanomedicine** | The application of nanotechnology to drug delivery; includes liposomes, microneedles, and nanoparticles designed to enhance topical drug penetration |
+| **Obstructive sleep apnoea (OSA)** | A sleep disorder where the airway repeatedly collapses during sleep; prevalence 36–82% in psoriasis vs 2–4% in the general population |
+| **Palmoplantar psoriasis** | Psoriasis specifically affecting the palms and soles; a distinct clinical entity with unique genetic and immunological features |
+| **Phage therapy** | The use of bacteriophages (viruses that specifically kill bacteria) to treat microbial infections; being explored for skin microbiome-based psoriasis treatments |
+| **PGA × BSA** | Physician's Global Assessment multiplied by Body Surface Area — a composite severity score that is more sensitive than PASI for mild-to-moderate disease |
+| **Proteomics** | The large-scale study of all proteins in a biological sample; being used to develop blood-based psoriasis biomarkers |
+| **Trained immunity** | A form of innate immune memory in which prior inflammatory exposure causes long-lasting epigenetic changes in innate immune cells and tissue stem cells, enabling faster and stronger responses to subsequent stimuli |
+| **Transcriptomics** | The study of all RNA molecules (gene expression) in a cell or tissue; used to identify psoriasis molecular subtypes and treatment response signatures |

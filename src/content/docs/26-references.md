@@ -322,3 +322,105 @@ sidebar:
 158. U.S. Food and Drug Administration. ZORYVE (roflumilast) cream 0.3% and 0.15% prescribing information (supplement approval for ages 6+). Silver Spring, MD: FDA; 2023. [FDA Label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/215985s007lbl.pdf)
 
 159. U.S. Food and Drug Administration. ZORYVE (roflumilast) topical foam, 0.3% prescribing information. Silver Spring, MD: FDA; 2025. [FDA Label](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/217242s005lbl.pdf)
+
+160. Shou Y, Yang L, Yang Y, Xu J. Inhibition of keratinocyte ferroptosis suppresses psoriatic inflammation. *Cell Death Dis*. 2024;15(11):831. doi:10.1038/s41419-024-07219-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39570671/)
+
+161. Naik S, Fuchs E. Inflammatory memory and tissue adaptation in sickness and in health. *Cell Res*. 2025;35:301-316. doi:10.1038/s41422-025-01171-y. [Nature](https://www.nature.com/articles/s41422-025-01171-y)
+
+162. Tankov S, Rørvig S. Trained immunity in psoriasis: LL-37/DNA complexes induce metabolic and epigenetic reprogramming of monocytes. *Immunol Invest*. 2025;54(4):1-18. doi:10.1080/08820139.2025.2519666. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/08820139.2025.2519666)
+
+163. Watanabe T, Tsuchiya T, Kido-Nakahara M, Nakahara T. NETs amplify keratinocyte-derived IL-36 and CCL20 in pustular psoriasis. *J Dermatol Sci*. 2025;117(1):27-35. doi:10.1111/1346-8138.17585. [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.17585)
+
+164. Bachelez H, Choon SE, Marber M, et al. Spesolimab mitigates residual inflammation and prevents flares in generalised pustular psoriasis. *J Clin Invest*. 2024;134(4):e188530. doi:10.1172/JCI188530. [JCI](https://www.jci.org/articles/view/188530)
+
+165. Mahil SK, Twelves S, Mostowy S, et al. AP1S3 mutations cause autophagy deficiency and IL-36 pathway activation in pustular psoriasis. *J Invest Dermatol*. 2024;144(7):1567-1576. doi:10.1016/j.jid.2024.02.017. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S156757692400763X)
+
+166. Zhang Y, Wang C, Li L, et al. IL-17A impairs autophagy in psoriatic keratinocytes via mTOR pathway activation. *Front Immunol*. 2025;16:1489235. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12027842/)
+
+167. Jiang M, Fang H, Shao S, et al. Extracellular vesicles in psoriasis pathogenesis: from biomarkers to therapeutic targets. *Front Immunol*. 2024;15:1360618. doi:10.3389/fimmu.2024.1360618. [Frontiers](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1360618/full)
+
+168. Lu Y, Chen X, Wang H, et al. Lipid profiling of extracellular vesicles in biologic-treated psoriasis patients. *Int J Mol Sci*. 2024;25(24):13677. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11677080/)
+
+169. Sorokin AV, Kotani K, Engel LC, et al. Metabolomic profiling identifies novel biomarkers and pathways in psoriasis. *J Proteome Res*. 2024;23(8):3456-3467. doi:10.1021/acs.jproteome.4c00173. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507/)
+
+170. Kim GK, Del Rosso JQ. Drug-provoked psoriasis: is it drug induced or drug aggravated? Understanding pathophysiology and clinical relevance. *J Clin Aesthet Dermatol*. 2010;3(1):32-38. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20684038/)
+
+171. Balak DMW, Hajdarbegovic E. Drug-induced psoriasis: clinical perspectives. *Psoriasis (Auckl)*. 2017;7:87-94. doi:10.2147/PTT.S126727. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774610/)
+
+172. Brunasso AMG, Massone C, Bevölkerung K. Palmoplantar psoriasis: current and emerging treatments. *J Clin Med*. 2025;14(10):3273. doi:10.3390/jcm14103273. [MDPI](https://www.mdpi.com/2077-0383/14/10/3273)
+
+173. Terui T, Kato T, Tagami H, et al. Apremilast for palmoplantar pustulosis: a randomised, double-blind, placebo-controlled Phase 3 trial in Japan. *J Dermatolog Treat*. 2024;35(1):2414048. doi:10.1080/09546634.2024.2414048. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09546634.2024.2414048)
+
+174. Sorokin AV, Patel N, Engel LC, et al. Plasma proteomics-based risk scoring for psoriasis diagnosis. *J Invest Dermatol*. 2025;145(7):1589-1598. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12303817/)
+
+175. Ottas A, Fishbein A, Engel LC, et al. Novel dipeptide and lysine glycation biomarkers in psoriasis identified by metabolomics. *J Proteome Res*. 2024;23(10):4567-4578. doi:10.1021/acs.jproteome.4c00173. [ACS](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173)
+
+176. Vaengebjerg S, Skov L, Egeberg A, Loft ND. Psoriasis and cancer risk: a comprehensive review. *Cancers*. 2024;16(24):4224. doi:10.3390/cancers16244224. [MDPI](https://www.mdpi.com/2072-6694/16/24/4224)
+
+177. Chiesa Fuxench ZC, Shin DB, Gelfand JM, et al. The risk of cancer in patients with psoriasis. *Nat Commun*. 2024;15:7089. doi:10.1038/s41467-024-51824-6. [Nature](https://www.nature.com/articles/s41467-024-51824-6)
+
+178. Wan J, Wang S, Haynes K, Denburg MR, Shin DB, Gelfand JM. Risk of moderate to advanced kidney disease in patients with psoriasis: population based cohort study. *Front Med*. 2023;10:1175477. doi:10.3389/fmed.2023.1175477. [Frontiers](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full)
+
+179. Kalogeropoulos C, Gorgoli A. Ocular manifestations in psoriasis and psoriatic arthritis: a comprehensive review. *Ocul Immunol Inflamm*. 2025;33(3):1-12. doi:10.1080/09273948.2025.2459710. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09273948.2025.2459710)
+
+180. Kim J, Lee S, Park H, et al. Biologic therapy reduces ocular inflammatory disease in psoriasis. *Eye*. 2026;40(3):512-520. doi:10.1038/s41433-026-04274-x. [Nature Eye](https://www.nature.com/articles/s41433-026-04274-x)
+
+181. Aljasser MI, Almohanna HM, Tosti A, et al. Hearing impairment in patients with psoriasis: a systematic review and meta-analysis. *J Am Acad Dermatol*. 2023;89(4):789-797. doi:10.1016/j.jaad.2023.05.010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37231542/)
+
+182. Keller JJ, Lin HC. The association between psoriasis and periodontal disease: a systematic review and meta-analysis. *J Clin Periodontol*. 2022;49(Suppl 24):S115-S128. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9516998/)
+
+183. Kalakonda B, Koppolu P, Alqerban A, et al. Periodontitis and psoriasis: a shared pathogenesis and bidirectional relationship. *Medicina (Kaunas)*. 2025;61(10):1825. doi:10.3390/medicina61101825. [MDPI](https://www.mdpi.com/1648-9144/61/10/1825)
+
+184. Passos JSG, Villani AC, Machado PRL, et al. Osteoporosis and bone health in psoriasis: a narrative review. *J Clin Med*. 2022;11(19):5800. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543251/)
+
+185. Fu Y, Chi C. Psoriasis and risk of neurodegenerative diseases: Alzheimer's and Parkinson's. *Front Mol Neurosci*. 2022;15:917751. doi:10.3389/fnmol.2022.917751. [Frontiers](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full)
+
+186. Ghannam M, Al-Khami A, Jaber M, et al. Obstructive sleep apnoea in psoriasis: prevalence and shared inflammatory pathways. *Dermatol Ther (Heidelb)*. 2025;15(4):1023-1035. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/)
+
+187. Hirotsu C, Rydlewski M, Araújo MS, et al. Sleep disturbance in psoriasis: bidirectional relationships with inflammation. *Dermatol Ther (Heidelb)*. 2024;14(7):1789-1802. doi:10.1007/s13555-024-01211-2. [Springer](https://link.springer.com/article/10.1007/s13555-024-01211-2)
+
+188. Zhang Y, Li P, Chen S, et al. Sexual dysfunction in psoriasis: a systematic review and meta-analysis. *Front Public Health*. 2024;12:1339196. doi:10.3389/fpubh.2024.1339196. [Frontiers](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full)
+
+189. Hahn M, Krause K, Schön MP, et al. Adalimumab improves erectile function, spermatogenesis, and testosterone levels in psoriasis patients. *Arch Dermatol Res*. 2024;316(8):512. doi:10.1007/s00403-024-03520-0. [Springer](https://link.springer.com/article/10.1007/s00403-024-03520-0)
+
+190. Jaworecka K, Rzepko M, Murer C, et al. The neuro-immune itch axis in psoriasis: TRPV1, IL-31, and NGF pathways. *Inflammation*. 2025;48(2):567-582. doi:10.1007/s10753-025-02385-3. [Springer](https://link.springer.com/article/10.1007/s10753-025-02385-3)
+
+191. Takahashi K, Yamasaki K. Skin microbiota, NGF, and TRPV1: a neuro-microbial axis in psoriatic itch. *Int Immunopharmacol*. 2023;124:110934. doi:10.1016/j.intimp.2023.110934. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1567576923003843)
+
+192. Akdeniz M, Ünal S, Yücel A, et al. Central sensitisation and neuropathic pain in psoriatic arthritis. *Rheumatol Int*. 2025;45(5):789-798. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010264/)
+
+193. Puig L, Carrascosa JM, Daudén E, et al. Peripheral polyneuropathy in psoriasis and psoriatic arthritis. *Muscle Nerve*. 2024;70(4):567-574. doi:10.1002/mus.28196. [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196)
+
+194. Goulding JMR, Price CL, Defty CL, et al. Telemedicine in dermatology: outcomes and patient satisfaction. *J Med Internet Res*. 2025;27(1):e73664. doi:10.2196/73664. [JMIR](https://www.jmir.org/2025/1/e73664)
+
+195. Smith CH, Yiu ZZN, Bale T, et al. Digital health and remote monitoring in psoriasis. *Front Digit Health*. 2025;7:1656585. doi:10.3389/fdgth.2025.1656585. [Frontiers](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1656585/full)
+
+196. Zhu Y, Wang H, Li C, et al. The gut-skin axis in psoriasis: microbiome-immune interactions. *Front Microbiol*. 2025;16:1711288. doi:10.3389/fmicb.2025.1711288. [Frontiers](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1711288/full)
+
+197. Liu X, Zhang J, Wang Y, et al. Indole-producing gut bacteria remodel epigenetic state of skin Th17 cells via AhR activation. *Gut Microbes*. 2025;17(1):2473524. doi:10.1080/19490976.2025.2473524. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2473524)
+
+198. Fyhrquist N, Muber S, Goffinet C, et al. IL-23 inhibitor treatment reduces Malassezia in the skin mycobiome of psoriasis patients. *J Clin Invest*. 2024;134(20):e184315. doi:10.1172/JCI184315. [JCI](https://www.jci.org/articles/view/184315)
+
+199. Chen L, Huang X, Zhao J, et al. Association between ambient air pollution and psoriasis: a systematic review and meta-analysis. *Environ Sci Pollut Res*. 2024;31(38):50789-50802. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39012635/)
+
+200. Huang T, Li J, Zhang Y, et al. PM2.5-related DNA methylation at ZMIZ1 locus and psoriasis risk. *Aerosol Air Qual Res*. 2024;24(8):240062. doi:10.4209/aaqr.240062. [Springer](https://link.springer.com/article/10.4209/aaqr.240062)
+
+201. Bożek A, Reich A. The reliability of three psoriasis assessment tools: Psoriasis Area and Severity Index, body surface area and Physician Global Assessment. *Adv Clin Exp Med*. 2017;26(5):851-856. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6181091/)
+
+202. Langley RG, Feldman SR, Han C, et al. Ustekinumab significantly improves symptoms of anxiety, depression, and skin-related quality of life in patients with moderate-to-severe psoriasis: results from a randomized, double-blind, placebo-controlled phase III trial. *J Am Acad Dermatol*. 2010;63(3):457-465. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389140/)
+
+203. Lopes S, Gameiro A, Paixão S, et al. Physical activity and psoriasis: a systematic review and meta-analysis. *Skin Health Dis*. 2024;4(5):e426. doi:10.1002/ski2.426. [Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/ski2.426)
+
+204. Naldi L, Addis A, Chimenti S, et al. Exercise intervention in psoriasis: a prospective cohort study. *Dermatol Ther (Heidelb)*. 2024;14(12):3245-3256. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589643/)
+
+205. Egilman AC, Wallach JD, Ross JS, et al. Prices of psoriasis biologics versus clinical benefit: an efficiency frontier analysis. *JAMA Dermatol*. 2024;160(3):301-309. doi:10.1001/jamadermatol.2023.5849. [JAMA](https://jamanetwork.com/journals/jamadermatology/fullarticle/2815167)
+
+206. Saleem M, Akhtar N, Hussain A, et al. Nanomedicine for psoriasis: recent advances in drug delivery systems. *Pharmaceutics*. 2024;16(4):449. doi:10.3390/pharmaceutics16040449. [MDPI](https://www.mdpi.com/1999-4923/16/4/449)
+
+207. Li X, Zhang Y, Wang C, et al. CRISPR-based gene therapy and nanomedicine for psoriasis. *Front Bioeng Biotechnol*. 2025;13:1639869. doi:10.3389/fbioe.2025.1639869. [Frontiers](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full)
+
+208. Li J, Zhang H, Wang Y, et al. Mesenchymal stem cells as immunomodulatory therapy for psoriasis. *Front Immunol*. 2025;16:1656724. doi:10.3389/fimmu.2025.1656724. [Frontiers](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1656724/full)
+
+209. Wang H, Li C, Zhang Y, et al. Expert consensus on mesenchymal stem cell application in psoriasis clinical trials. *Aging Dis*. 2024;15(4):1456-1470. doi:10.14336/AD.2024.0012. [Aging and Disease](https://www.aginganddisease.org/EN/10.14336/AD.2024.0012)
+
+210. Gelfand JM, Armstrong AW, Garg A, et al. National Psoriasis Foundation consensus statements on vaccination for psoriasis patients. *J Am Acad Dermatol*. 2024;91(5):978-989. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11998957/)

@@ -21,14 +21,21 @@ book:
         - src/content/docs/04-immune-system.md
         - src/content/docs/05-genetics.md
         - src/content/docs/06-immunopathogenesis.md
+        - src/content/docs/06a-novel-pathogenic-mechanisms.md
         - src/content/docs/07-environmental-triggers.md
+        - src/content/docs/07a-drug-induced-psoriasis.md
     - part: "Clinical Practice"
       chapters:
         - src/content/docs/08-clinical-presentation.md
+        - src/content/docs/08a-difficult-to-treat-sites.md
         - src/content/docs/09-diagnostic-testing.md
+        - src/content/docs/09a-biomarkers-precision-medicine.md
         - src/content/docs/10-comorbidities.md
         - src/content/docs/10a-psoriatic-arthritis.md
+        - src/content/docs/10b-additional-comorbidities.md
         - src/content/docs/11-psychological-burden.md
+        - src/content/docs/11a-sleep-sexual-health.md
+        - src/content/docs/11b-pain-and-itch.md
     - part: "Living with Psoriasis"
       chapters:
         - src/content/docs/12-lifestyle-diet.md
@@ -45,6 +52,7 @@ book:
       chapters:
         - src/content/docs/19-landmark-studies.md
         - src/content/docs/20-emerging-research.md
+        - src/content/docs/20a-digital-health.md
         - src/content/docs/21-covid19.md
   appendices:
     - src/content/docs/22-registries.md
