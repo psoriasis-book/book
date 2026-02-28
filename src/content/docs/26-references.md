@@ -246,3 +246,11 @@ sidebar:
 120. Li Y, et al. Omega-3 fatty acids and probiotics for psoriasis: a systematic review. *Complement Ther Med*. 2025;89:103098. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X)
 
 121. Michaëlsson G, Gerdén B, Hagforsen E, et al. Psoriasis patients with antibodies to gliadin can be improved by a gluten-free diet. *Br J Dermatol*. 2000;142(1):44-51. doi:10.1046/j.1365-2133.2000.03240.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10651693/)
+
+122. Balak DMW, Gerdes S, Parodi A, Skov L. Long-term safety of oral systemic therapies for psoriasis: a comprehensive review of the literature. *Dermatol Ther (Heidelb)*. 2022;12(11):2589-2613. doi:10.1007/s13555-022-00802-z. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35924437/)
+
+123. Zhou J, Luo Q, Cheng Y, Wen X, Liu J. An update on genetic basis of guttate psoriasis in the era of genome-wide association studies. *Front Cell Dev Biol*. 2024;12:1473276. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11619194/)
+
+124. Ko HC, Jwa SW, Song M, Kim MB, Kwon KS. Clinical course of guttate psoriasis: long-term follow-up study. *J Dermatol*. 2010;37(10):894-899. doi:10.1111/j.1346-8138.2010.00871.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20860740/)
+
+125. Galili E, Rubinstein Levy S, Golan-Tripto I, et al. New-onset guttate psoriasis: a long-term follow-up study. *Dermatology*. 2023;239(2):233-239. doi:10.1159/000528395. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10015744/)
