@@ -2,22 +2,22 @@
 title: "Beyond IL-23/IL-17: Novel Pathogenic Mechanisms"
 description: "Ferroptosis, trained immunity, the IL-36 axis, autophagy dysfunction, extracellular vesicles, and oxidative stress as emerging pathogenic pathways in psoriasis"
 sidebar:
-  order: 6.5
+  order: 7
 ---
 
 The IL-23/IL-17 axis remains the central pathogenic pathway in psoriasis (Section 6.3), but recent research has uncovered several additional mechanisms that contribute to disease initiation, amplification, and chronicity. These discoveries are expanding the therapeutic target landscape and deepening our understanding of why psoriasis behaves as it does.
 
-## 6a.1 Ferroptosis: Iron-Dependent Keratinocyte Death
+## 7.1 Ferroptosis: Iron-Dependent Keratinocyte Death
 
 **Ferroptosis** is a recently characterised form of regulated cell death driven by iron-dependent lipid peroxidation — the oxidative destruction of lipids (fats) in cell membranes. Unlike apoptosis (programmed cell death that is orderly and immunologically silent), ferroptosis is inherently inflammatory: dying cells release damage-associated molecular patterns (DAMPs) that activate the innate immune system.
 
 In psoriasis, K14-expressing keratinocytes — the predominant cell type in the epidermis — undergo ferroptotic death. A landmark 2024 study demonstrated that mice lacking **glutathione peroxidase 4 (Gpx4)** in epidermal keratinocytes developed a psoriasiform phenotype with characteristic Th1/Th17 immune responses in both skin and extracutaneous tissues [(Shou et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39570671/). Critically, the ferroptosis inhibitor **liproxstatin-1** showed efficacy comparable to biologics targeting IL-12, IL-23, and TNF-α in this model, suggesting that ferroptosis may be an upstream initiating event rather than a downstream consequence [(Shou et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39570671/).
 
-Human psoriatic skin shows elevated markers of ferroptosis, including increased iron deposition, lipid peroxidation products (such as 4-hydroxynonenal), and reduced expression of ferroptosis-suppressing genes. This connects to the hepcidin/iron dysregulation findings discussed in Section 19.9, suggesting a broader role for iron metabolism in psoriasis pathogenesis [(Abboud et al., 2024; cited in Section 19.9)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507/).
+Human psoriatic skin shows elevated markers of ferroptosis, including increased iron deposition, lipid peroxidation products (such as 4-hydroxynonenal), and reduced expression of ferroptosis-suppressing genes. This connects to the hepcidin/iron dysregulation findings discussed in Section 27.9, suggesting a broader role for iron metabolism in psoriasis pathogenesis [(Abboud et al., 2024; cited in Section 27.9)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507/).
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Supported by human tissue analyses and murine knockout models, but no clinical trials of ferroptosis inhibitors in psoriasis patients yet.
 
-## 6a.2 Trained Immunity and Epigenetic Stem Cell Memory
+## 7.2 Trained Immunity and Epigenetic Stem Cell Memory
 
 A fundamental question in psoriasis has been: why does the disease relapse at the same anatomical sites? The answer increasingly points to **trained immunity** — a concept describing how innate immune cells and tissue stem cells retain a long-term "memory" of prior inflammation through epigenetic modifications, even in the absence of adaptive immune memory.
 
@@ -27,11 +27,11 @@ In psoriasis, two forms of trained immunity have been identified:
 
 **Monocyte training.** LL-37/self-DNA complexes — the same danger signals that initiate the psoriatic cascade (Section 6.2) — also induce long-term metabolic and epigenetic reprogramming in circulating monocytes. Trained monocytes exhibit heightened glycolytic rates and produce elevated levels of pro-inflammatory cytokines upon restimulation, even weeks or months after the initial exposure [(Tankov & Rørvig, 2025)](https://www.tandfonline.com/doi/full/10.1080/08820139.2025.2519666). This systemic "priming" may explain why psoriasis is a systemic disease with extracutaneous manifestations.
 
-These findings have significant therapeutic implications: if epigenetic memory drives chronicity, then therapies that erase or reprogram this memory (Section 20.6) could achieve true disease modification rather than mere suppression.
+These findings have significant therapeutic implications: if epigenetic memory drives chronicity, then therapies that erase or reprogram this memory (Section 28.6) could achieve true disease modification rather than mere suppression.
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Mechanistic studies in human tissue and monocytes, with clinical correlation from the STEPIn trial. No direct therapeutic targeting of trained immunity in psoriasis trials yet.
 
-## 6a.3 The IL-36 Axis: A Distinct Autoinflammatory Pathway
+## 7.3 The IL-36 Axis: A Distinct Autoinflammatory Pathway
 
 While the IL-23/IL-17 axis dominates plaque psoriasis pathogenesis, **generalised pustular psoriasis (GPP)** and some forms of palmoplantar pustulosis are driven by a distinct autoinflammatory pathway centred on the **IL-36 family** of cytokines (IL-36α, IL-36β, IL-36γ). Loss-of-function mutations in the IL-36 receptor antagonist gene (*IL36RN*) cause unrestrained IL-36 signalling, leading to massive neutrophil recruitment and pustule formation.
 
@@ -43,7 +43,7 @@ The recognition of IL-36 as a separate axis has important implications for class
 
 **Research stage: Established for GPP.** **Evidence strength: High.** Phase 3 RCT data for spesolimab; genetic basis well-characterised through *IL36RN* mutations.
 
-## 6a.4 Autophagy Dysfunction
+## 7.4 Autophagy Dysfunction
 
 **Autophagy** is the cell's self-cleaning process — a mechanism by which cells digest and recycle their own damaged components. In healthy skin, autophagy serves as a brake on inflammation by clearing damaged organelles and misfolded proteins that would otherwise activate innate immune sensors.
 
@@ -53,7 +53,7 @@ IL-17A itself also impairs autophagy in keratinocytes, creating a vicious cycle:
 
 **Research stage: Emerging.** **Evidence strength: Low-Moderate.** Primarily cell and molecular studies with genetic validation through AP1S3 mutations. No autophagy-targeting therapies in psoriasis clinical trials.
 
-## 6a.5 Extracellular Vesicles and Exosomes
+## 7.5 Extracellular Vesicles and Exosomes
 
 **Extracellular vesicles (EVs)** — including exosomes (30–150 nm diameter) and microvesicles (100–1000 nm) — are tiny membrane-enclosed parcels released by virtually all cell types. They carry proteins, lipids, and nucleic acids (including microRNAs) and function as long-range molecular messengers.
 
@@ -66,12 +66,12 @@ EVs are also being explored in two translational directions:
 
 **Research stage: Experimental.** **Evidence strength: Low.** In vitro studies and observational human data. No clinical trials using EV-based diagnostics or therapeutics in psoriasis.
 
-## 6a.6 Oxidative Stress and Lipid Peroxidation
+## 7.6 Oxidative Stress and Lipid Peroxidation
 
 Oxidative stress — an imbalance between reactive oxygen species (ROS) production and the body's antioxidant defences — is consistently elevated in psoriatic skin and blood. This is not merely a bystander effect of inflammation but an active contributor to disease pathology.
 
 Psoriatic patients show altered plasma lipid profiles, with increased lipid peroxidation products and decreased levels of protective antioxidant enzymes (superoxide dismutase, catalase, glutathione peroxidase). Metabolomics studies using liquid chromatography-mass spectrometry (LC-MS) have identified dysregulation of amino acids, carnitines, fatty acids, and lipids that correlate with disease severity and improve with anti-TNF treatment [(Sorokin et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507/).
 
-Oxidative stress connects to ferroptosis (Section 6a.1) through the shared mechanism of lipid peroxidation: when antioxidant defences fail and iron is available to catalyse free radical reactions, membrane lipids are oxidised, triggering ferroptotic cell death. This mechanistic link suggests that antioxidant supplementation or iron chelation could theoretically modulate psoriasis, though clinical evidence for these approaches remains limited (Section 12).
+Oxidative stress connects to ferroptosis (Section 7.1) through the shared mechanism of lipid peroxidation: when antioxidant defences fail and iron is available to catalyse free radical reactions, membrane lipids are oxidised, triggering ferroptotic cell death. This mechanistic link suggests that antioxidant supplementation or iron chelation could theoretically modulate psoriasis, though clinical evidence for these approaches remains limited (Section 19).
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Multiple metabolomics studies in human cohorts; mechanistic link to ferroptosis established in preclinical models. Antioxidant interventions have not demonstrated consistent clinical benefit.

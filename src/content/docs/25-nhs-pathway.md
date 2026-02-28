@@ -2,20 +2,20 @@
 title: "The NHS Treatment Pathway (UK-Specific)"
 description: "Step-by-step guide to the UK NHS psoriasis treatment pathway, from GP management through biologic eligibility and NICE-approved therapies."
 sidebar:
-  order: 17
+  order: 25
 ---
 
 ![NHS psoriasis treatment pathway](./images/nhs-pathway.svg)
 
 This section maps the typical journey of a psoriasis patient through the UK National Health Service, from first presentation to biologic therapy. Understanding this pathway is important for UK patients navigating the system and for understanding how NICE (National Institute for Health and Care Excellence) guidance shapes treatment access.
 
-## 17.1 Primary Care (GP)
+## 25.1 Primary Care (GP)
 
 Most patients first present to their GP. Mild psoriasis (BSA < 10%) is managed entirely in primary care with topical therapies: emollients, topical corticosteroids (ranging from mild to potent depending on body site), vitamin D analogues (calcipotriol, calcitriol), and coal tar preparations. The GP will typically start with an emollient plus a moderate-potency steroid, stepping up as needed.
 
 **Referral criteria.** NICE Clinical Guideline 153 [(NICE, 2017)](https://www.nice.org.uk/guidance/cg153) recommends referral to a dermatologist when: the diagnosis is uncertain; the disease is moderate-to-severe or affecting high-impact sites (face, hands, feet, genitals, scalp); topical therapy has failed after an adequate trial; there is significant impact on quality of life (DLQI ≥ 10); psoriatic arthritis is suspected; or the patient is a child with widespread or treatment-resistant disease.
 
-## 17.2 Secondary Care (Hospital Dermatology)
+## 25.2 Secondary Care (Hospital Dermatology)
 
 On referral, a consultant dermatologist will confirm the diagnosis, assess severity using PASI and DLQI scores, screen for comorbidities (psoriatic arthritis, metabolic syndrome, depression), and commence a treatment plan.
 
@@ -25,7 +25,7 @@ On referral, a consultant dermatologist will confirm the diagnosis, assess sever
 
 **Step 3: Conventional systemics.** If phototherapy is impractical, insufficient, or not tolerated, conventional systemic therapy is initiated. The standard first-line systemic is **methotrexate** (typically 15–25 mg once weekly with folic acid supplementation). Alternatives include **ciclosporin** (particularly for rapid control or in women of childbearing age), **acitretin** (particularly for palmoplantar or pustular disease), and **dimethyl fumarate**. These are monitored with regular blood tests (FBC, LFTs, renal function).
 
-## 17.3 Biologic Eligibility
+## 25.3 Biologic Eligibility
 
 Biologic therapy is funded by the NHS under NICE Technology Appraisal guidance. The standard eligibility criteria are:
 
@@ -34,7 +34,7 @@ Biologic therapy is funded by the NHS under NICE Technology Appraisal guidance. 
 
 For **high-impact site psoriasis** (severe disease at localised sites causing significant functional impairment or distress — e.g., palmoplantar, genital, facial, or nail disease), the PASI criterion may not be applicable. BAD guidelines define this as a distinct pathway with local commissioning arrangements, typically requiring a PGA of moderate-to-severe and DLQI ≥ 10.
 
-## 17.4 Choosing a Biologic
+## 25.4 Choosing a Biologic
 
 Once eligible, the choice of biologic follows both clinical and cost-effectiveness considerations. As of 2024–2025, the NHS treatment algorithm is broadly:
 
@@ -46,6 +46,6 @@ Once eligible, the choice of biologic follows both clinical and cost-effectivene
 
 **NICE-approved biologics for plaque psoriasis** (as of early 2026) include: adalimumab (TA146), etanercept (TA103), infliximab (TA134), ustekinumab (TA180), secukinumab (TA350), ixekizumab (TA442), brodalumab (TA511), guselkumab (TA521), tildrakizumab (TA575), risankizumab (TA596), bimekizumab (TA723), certolizumab pegol, and the oral small molecules apremilast (TA419), dimethyl fumarate (TA475), and deucravacitinib (TA907).
 
-## 17.5 Ongoing Monitoring
+## 25.5 Ongoing Monitoring
 
 All patients on biologic therapy are enrolled in BADBIR (British Association of Dermatologists Biologics and Immunomodulators Register), a national prospective registry that tracks long-term safety outcomes. Patients are typically reviewed every 3 months in the first year and every 6 months thereafter if stable, with blood monitoring as required by the specific drug.

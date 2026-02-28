@@ -2,12 +2,12 @@
 title: "Telemedicine and Digital Health in Psoriasis"
 description: "Teledermatology, mobile health applications, AI-integrated diagnostics, and remote monitoring for psoriasis management"
 sidebar:
-  order: 20.5
+  order: 29
 ---
 
-The convergence of telemedicine platforms, smartphone applications, and artificial intelligence is creating new models for psoriasis management that extend care beyond the traditional clinic visit. The COVID-19 pandemic (Section 21) accelerated adoption of remote care, and emerging evidence suggests these approaches may become permanent features of dermatological practice.
+The convergence of telemedicine platforms, smartphone applications, and artificial intelligence is creating new models for psoriasis management that extend care beyond the traditional clinic visit. The COVID-19 pandemic (Section 30) accelerated adoption of remote care, and emerging evidence suggests these approaches may become permanent features of dermatological practice.
 
-## 20a.1 Teledermatology for Psoriasis
+## 29.1 Teledermatology for Psoriasis
 
 The **International Psoriasis Council (IPC)** has endorsed remote monitoring as a feasible alternative to in-person visits for established psoriasis patients, and the **National Psoriasis Foundation (NPF)** published 22 consensus statements on telemedicine in psoriasis management [(JMIR, 2025)](https://www.jmir.org/2025/1/e73664).
 
@@ -20,17 +20,17 @@ Two models of teledermatology are in use:
 - **Specialist-led remote care** is effective: studies demonstrate comparable clinical outcomes (PASI improvement, DLQI change) between teledermatology and face-to-face consultations for established psoriasis patients on stable therapy.
 - **Primary care-led remote management** shows non-significant outcomes, highlighting the importance of specialist expertise in interpreting clinical images and making treatment decisions [(Frontiers in Digital Health, 2025)](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1656585/full).
 
-**Limitations** include difficulty assessing palpable features (induration, tenderness), challenges with image quality and standardisation, potential for missed diagnoses (particularly in darker skin phototypes where erythema is less visible in photographs — Section 14.3), and digital literacy barriers in older or socioeconomically disadvantaged populations.
+**Limitations** include difficulty assessing palpable features (induration, tenderness), challenges with image quality and standardisation, potential for missed diagnoses (particularly in darker skin phototypes where erythema is less visible in photographs — Section 21.3), and digital literacy barriers in older or socioeconomically disadvantaged populations.
 
 **Research stage: Established.** **Evidence strength: Moderate-High.** Consensus guidelines published; RCTs supporting specialist-led remote care.
 
-## 20a.2 Mobile Health Applications
+## 29.2 Mobile Health Applications
 
 A growing ecosystem of smartphone apps supports psoriasis self-management:
 
 - **Symptom tracking**: Apps that allow patients to photograph lesions over time, track PASI or BSA, and record flare triggers. Longitudinal self-monitoring data can inform clinical decisions and empower patients to identify personal trigger patterns.
-- **Education and community**: Platforms connecting patients with evidence-based information and peer support networks (complementing the organisations listed in Section 22a).
-- **Treatment adherence**: Medication reminder apps that prompt topical application or injection scheduling. Given that non-adherence to topical therapy is one of the primary drivers of treatment failure (Section 15a), these tools address a significant clinical challenge.
+- **Education and community**: Platforms connecting patients with evidence-based information and peer support networks (complementing the organisations listed in Appendix A2).
+- **Treatment adherence**: Medication reminder apps that prompt topical application or injection scheduling. Given that non-adherence to topical therapy is one of the primary drivers of treatment failure (Section 23), these tools address a significant clinical challenge.
 
 **Psorcast** is a notable research application developed to collect real-world data on psoriasis and PsA. It uses smartphone sensors and patient-reported outcomes to predict PsA flares and assess medication efficacy in real-world settings.
 
@@ -38,22 +38,22 @@ A growing ecosystem of smartphone apps supports psoriasis self-management:
 
 **Research stage: Emerging.** **Evidence strength: Low-Moderate.** Pilot studies and feasibility trials; few RCTs comparing app-based interventions with standard care.
 
-## 20a.3 AI-Integrated Diagnostics
+## 29.3 AI-Integrated Diagnostics
 
-Section 20.7 describes the application of AI to PASI scoring and lesion detection. In the context of digital health, AI integration extends to **point-of-care diagnostic tools**:
+Section 28.7 describes the application of AI to PASI scoring and lesion detection. In the context of digital health, AI integration extends to **point-of-care diagnostic tools**:
 
 - An **EfficientNet-B4** deep learning model achieved 92.3% accuracy in differentiating psoriasis from other papulosquamous disorders (seborrhoeic dermatitis, pityriasis rosea, lichen planus) using dermoscopic images, outperforming several non-specialist dermatologists.
 - AI-powered tools integrated into teledermatology platforms could enable automated severity scoring, reducing inter-rater variability and increasing consistency of remote assessments.
 - **Subtype identification**: Machine learning models are being trained to distinguish between psoriasis subtypes (plaque, guttate, pustular) from clinical photographs, which could support diagnostic accuracy in primary care settings.
 
 **Critical challenges** remain:
-- **Skin phototype diversity**: Most training datasets are dominated by images of lighter skin, potentially reducing accuracy in darker skin phototypes and exacerbating existing diagnostic disparities (Section 14.3).
+- **Skin phototype diversity**: Most training datasets are dominated by images of lighter skin, potentially reducing accuracy in darker skin phototypes and exacerbating existing diagnostic disparities (Section 21.3).
 - **Standardisation**: Inconsistent imaging protocols (lighting, resolution, distance) across clinical settings reduce model reliability.
 - **Regulatory frameworks**: AI-assisted clinical decision-making tools face evolving regulatory requirements that vary by jurisdiction.
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Validation studies with strong accuracy metrics; real-world deployment limited; diversity and standardisation remain barriers.
 
-## 20a.4 Remote Monitoring and Treatment Optimisation
+## 29.4 Remote Monitoring and Treatment Optimisation
 
 Looking further ahead, digital health may enable **continuous, passive monitoring** of psoriasis:
 

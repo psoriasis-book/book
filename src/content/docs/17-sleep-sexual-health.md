@@ -2,21 +2,21 @@
 title: "Sleep Disturbance and Sexual Health in Psoriasis"
 description: "Obstructive sleep apnoea, insomnia, sexual dysfunction, erectile dysfunction, and fertility impacts in psoriasis patients"
 sidebar:
-  order: 11.5
+  order: 17
 ---
 
 Two aspects of quality of life that are profoundly affected by psoriasis yet routinely overlooked in clinical consultations are sleep and sexual health. Both are now supported by substantial epidemiological evidence and share bidirectional relationships with psoriatic inflammation.
 
-## 11a.1 Sleep Disturbance and Obstructive Sleep Apnoea
+## 17.1 Sleep Disturbance and Obstructive Sleep Apnoea
 
 Sleep disturbance is remarkably prevalent in psoriasis. Studies report that **obstructive sleep apnoea (OSA)** — a condition in which the airway repeatedly collapses during sleep, causing intermittent oxygen deprivation — occurs in 36–82% of psoriasis patients, compared with 2–4% in the general population [(Ghannam et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/). A 2025 study of 200 psoriasis patients found 54% were at high risk for OSA on validated screening questionnaires.
 
 The relationship between psoriasis and sleep disturbance is **bidirectional**:
 
 **Psoriasis disrupts sleep** through multiple mechanisms:
-- **Pruritus (itch)**: The most direct cause. Psoriatic itch often worsens at night (possibly due to circadian variation in cytokine levels and decreased cortisol), leading to frequent awakenings and fragmented sleep (see Section 11b for itch mechanisms).
-- **Pain**: Both cutaneous pain (from fissures, particularly palmoplantar — Section 8a.1) and joint pain from PsA (Section 10a) impair sleep quality.
-- **Psychological distress**: Anxiety, depression, and body image concerns (Section 11) contribute to insomnia.
+- **Pruritus (itch)**: The most direct cause. Psoriatic itch often worsens at night (possibly due to circadian variation in cytokine levels and decreased cortisol), leading to frequent awakenings and fragmented sleep (see Section 18 for itch mechanisms).
+- **Pain**: Both cutaneous pain (from fissures, particularly palmoplantar — Section 11.1) and joint pain from PsA (Section 15) impair sleep quality.
+- **Psychological distress**: Anxiety, depression, and body image concerns (Section 16) contribute to insomnia.
 - **Medication effects**: Corticosteroids can cause insomnia; methotrexate-related fatigue may disrupt sleep architecture.
 
 **Poor sleep worsens psoriasis** through:
@@ -31,7 +31,7 @@ The relationship between psoriasis and sleep disturbance is **bidirectional**:
 
 **Research stage: Established.** **Evidence strength: High.** Multiple epidemiological studies and meta-analyses; shared inflammatory mechanisms well-characterised.
 
-## 11a.2 Sexual Dysfunction
+## 17.2 Sexual Dysfunction
 
 Sexual dysfunction is reported by approximately **40.8% of psoriasis patients overall**, with prevalence reaching 68% in women in some studies. Despite its high prevalence, it remains one of the least-discussed aspects of the disease in clinical practice [(Zhang et al., 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full).
 
@@ -39,14 +39,14 @@ Sexual dysfunction is reported by approximately **40.8% of psoriasis patients ov
 
 - **Psychological**: Shame, body image distress, and fear of rejection significantly impair sexual desire and arousal. In a survey of male psoriasis patients, 44.7% reported experiencing rejection by a sexual partner due to their skin disease.
 - **Hormonal**: Psoriasis is associated with decreased total and free testosterone and increased estradiol levels, which may reflect chronic inflammation-mediated disruption of the hypothalamic-pituitary-gonadal axis.
-- **Vascular/inflammatory**: The same endothelial dysfunction that increases cardiovascular risk (Section 10.2) also impairs penile blood flow. TNF-α, IL-17, and CRP are elevated in psoriasis patients with ED compared with those without.
-- **Genital involvement**: Direct involvement of genital skin (Section 8a.3) causes pain, irritation, and dyspareunia (painful intercourse), which may affect up to 63% of patients at some point.
+- **Vascular/inflammatory**: The same endothelial dysfunction that increases cardiovascular risk (Section 14.2) also impairs penile blood flow. TNF-α, IL-17, and CRP are elevated in psoriasis patients with ED compared with those without.
+- **Genital involvement**: Direct involvement of genital skin (Section 11.3) causes pain, irritation, and dyspareunia (painful intercourse), which may affect up to 63% of patients at some point.
 
 **Female sexual dysfunction** is less well-studied but includes reduced desire, arousal difficulty, dyspareunia, and orgasmic dysfunction. Vulvar psoriasis may cause pain, burning, and itching that directly interfere with sexual activity.
 
 **Research stage: Established.** **Evidence strength: Moderate-High.** Systematic reviews and large cross-sectional studies; multifactorial mechanisms well-described.
 
-## 11a.3 Fertility and Reproductive Health
+## 17.3 Fertility and Reproductive Health
 
 Emerging evidence indicates that untreated psoriasis impairs **male fertility** through mechanisms beyond sexual dysfunction:
 
@@ -62,6 +62,6 @@ A 2024 study demonstrated that treatment with **adalimumab** produced significan
 - **Sulfasalazine**: Can cause reversible oligospermia.
 - **Biologics**: Current evidence suggests IL-17 and IL-23 inhibitors do not adversely affect male fertility, and may improve it by reducing inflammation (see above).
 
-For a detailed discussion of psoriasis management during pregnancy, see Section 14.1.
+For a detailed discussion of psoriasis management during pregnancy, see Section 21.1.
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Small RCTs and observational studies with biologically plausible mechanisms. Larger prospective studies needed.

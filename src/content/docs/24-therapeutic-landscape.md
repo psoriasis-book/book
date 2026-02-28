@@ -2,12 +2,12 @@
 title: "Therapeutic Landscape"
 description: "Comprehensive overview of psoriasis treatments including biologic therapies, biosimilars, small molecule inhibitors, conventional systemic agents, phototherapy, and cost considerations."
 sidebar:
-  order: 16
+  order: 24
 ---
 
 ![Psoriasis treatment ladder](./images/treatment-ladder.svg)
 
-## 16.1 Overview of Treatment Approaches
+## 24.1 Overview of Treatment Approaches
 
 Treatment for psoriasis is stratified by disease severity:
 
@@ -18,7 +18,7 @@ The introduction of biologic therapies has revolutionised the treatment of moder
 
 ![Biologic drug targets in the psoriasis immune cascade](./images/biologic-targets.svg)
 
-## 16.2 Biologic Therapies
+## 24.2 Biologic Therapies
 
 Biologics are engineered proteins — typically antibodies (immune proteins that bind to and neutralise specific targets) or fusion proteins (lab-created molecules that combine parts of two different proteins) — designed to block specific components of the immune system. Unlike traditional drugs which are small chemical molecules, biologics are large, complex proteins manufactured in living cells. They are grouped by the immune target they block:
 
@@ -53,7 +53,7 @@ These selectively target the p19 subunit unique to IL-23, blocking IL-23 without
 ### IL-36 Receptor Antagonist
 **Spesolimab (Spevigo)** targets the IL-36 receptor and is specifically indicated for generalised pustular psoriasis (GPP), which has a distinct pathogenesis involving the IL-36 pathway rather than the IL-23/IL-17 axis [(Childs et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
 
-## 16.3 Pricing and Cost Considerations
+## 24.3 Pricing and Cost Considerations
 
 The cost of biologic therapies for psoriasis is substantial and has risen over time, creating a major barrier to access. A 2025 study published in *JAMA Dermatology* analysing US commercial insurance data from 2007 to 2021 found that the average annual cost of biologic treatment for psoriasis jumped from approximately $21,000 in 2007 to over $47,000 in 2021 [(Rome et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40238112/).
 
@@ -82,7 +82,7 @@ In the UK, biologics for psoriasis are available on the NHS but are subject to c
 
 By 2021, IL-23 inhibitors — particularly risankizumab (Skyrizi) — had become the most commonly initiated biologics for psoriasis, with 42% of newly treated patients starting on Skyrizi, and 21% starting on IL-17 inhibitors such as Taltz (ixekizumab) or Cosentyx (secukinumab) [(Rome et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40238112/).
 
-## 16.4 Biosimilars
+## 24.4 Biosimilars
 
 **Biosimilars** are biologic medicines that are "highly similar" to an already-approved reference biologic, with no clinically meaningful differences in safety, efficacy, or immunogenicity (the tendency of a drug to provoke an unwanted immune response against itself, which can reduce effectiveness or cause side effects). Unlike generic small-molecule drugs (which are chemically identical copies), biosimilars cannot be exact replicas of their reference product because biologics are produced in living cell systems, introducing inherent micro-variability. Biosimilars undergo a more rigorous approval process than traditional generics but fewer clinical trials than original biologics, since the mechanisms of action and dosing have already been established [(Cohen et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28646580/).
 
@@ -105,22 +105,22 @@ As of early 2026, biosimilars are available or approved for the following psoria
 
 The availability of biosimilars is expected to expand significantly in the coming years as more patents expire, potentially transforming the economics of psoriasis treatment and broadening access to biologic therapy worldwide.
 
-## 16.5 Small Molecule Inhibitors
+## 24.5 Small Molecule Inhibitors
 
 - **Apremilast (Otezla)**: An oral phosphodiesterase 4 (PDE4) inhibitor — PDE4 is an enzyme inside immune cells that normally breaks down a molecule called cAMP; by blocking PDE4, apremilast increases cAMP levels, which dampens the production of inflammatory cytokines. Dosed at 30 mg twice daily (after a 5-day titration schedule to reduce gastrointestinal side effects). Less effective than biologics but offers an oral route of administration (a pill rather than an injection) with a favourable safety profile.
 - **Deucravacitinib (Sotyktu)**: FDA-approved in September 2022, this is a selective tyrosine kinase 2 (TYK2) inhibitor. TYK2 is a member of the JAK enzyme family that sits inside cells and relays signals from the IL-23, IL-12, and type I interferon receptors. By blocking TYK2, deucravacitinib interrupts these specific signalling pathways without broadly suppressing the immune system, offering a more targeted approach than older, non-selective JAK inhibitors [(Dey et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10819460/).
 
-## 16.6 Conventional Systemic Agents
+## 24.6 Conventional Systemic Agents
 
 - **Methotrexate**: A folic acid antagonist (it blocks the use of folic acid, a B vitamin needed for cell division) with anti-inflammatory and immunosuppressive properties. Widely used, inexpensive, and effective for both skin psoriasis and psoriatic arthritis, but requires monitoring for hepatotoxicity (liver damage) and myelosuppression (reduced bone marrow function, which can lower blood cell counts).
 - **Cyclosporine**: A calcineurin inhibitor (it blocks calcineurin, a protein that T cells need to activate) that suppresses T cell activation. Effective but limited by nephrotoxicity (kidney damage) and is generally used for short-term control.
 - **Acitretin**: An oral retinoid (a synthetic form of vitamin A). Teratogenic (causes birth defects), precluding use in women of childbearing potential.
 
-## 16.7 Phototherapy
+## 24.7 Phototherapy
 
 **Narrowband UV-B (NB-UVB)** phototherapy is the most commonly prescribed light therapy for psoriasis. UV-B radiation induces apoptosis (programmed cell death — a controlled self-destruct mechanism that cells use to die without causing inflammation) in activated T cells in the skin and suppresses local immune responses. **PUVA** (psoralen + UV-A) is also used but carries a higher long-term risk of skin cancer.
 
-## 16.8 Combination and Adjunctive Therapy
+## 24.8 Combination and Adjunctive Therapy
 
 While biologic monotherapy achieves excellent results for many patients, combination strategies play an important practical role in real-world psoriasis management.
 
@@ -134,7 +134,7 @@ While biologic monotherapy achieves excellent results for many patients, combina
 
 **Transition periods.** When switching between systemic therapies, overlap strategies may be needed to prevent flares during the transition. For example, when switching from cyclosporine to a biologic, the cyclosporine may be tapered gradually over several weeks while the biologic takes effect, rather than being stopped abruptly.
 
-## 16.9 Global Access and Health Equity
+## 24.9 Global Access and Health Equity
 
 The therapeutic revolution in psoriasis has been unevenly distributed. While patients in high-income countries increasingly have access to biologic therapies achieving PASI 90–100, the reality for most of the world's psoriasis patients is very different.
 
@@ -142,7 +142,7 @@ The therapeutic revolution in psoriasis has been unevenly distributed. While pat
 
 **Conventional systemics as the global backbone.** In most LMICs, methotrexate — available, inexpensive, and effective for both skin and joint disease — remains the primary systemic treatment. Cyclosporine and acitretin are also used where available. These agents, while carrying more monitoring requirements and side effects than biologics, are the only realistic options for the majority of moderate-to-severe psoriasis patients worldwide.
 
-**Biosimilar impact on global access.** The arrival of biosimilars (Section 16.4) has the potential to transform global access. Infliximab biosimilars have already reduced annual treatment costs from tens of thousands of dollars to approximately $1,664 per year in the US, and costs are even lower in countries such as India. As biosimilars become available for adalimumab (from 2023) and ustekinumab (from 2025), biologic therapy may become accessible in upper-middle-income countries for the first time. However, cold-chain requirements (most biologics require refrigeration), injection administration infrastructure, and monitoring needs remain barriers.
+**Biosimilar impact on global access.** The arrival of biosimilars (Section 24.4) has the potential to transform global access. Infliximab biosimilars have already reduced annual treatment costs from tens of thousands of dollars to approximately $1,664 per year in the US, and costs are even lower in countries such as India. As biosimilars become available for adalimumab (from 2023) and ustekinumab (from 2025), biologic therapy may become accessible in upper-middle-income countries for the first time. However, cold-chain requirements (most biologics require refrigeration), injection administration infrastructure, and monitoring needs remain barriers.
 
 **Regional treatment guidelines.** Several major guideline frameworks exist:
 - **GRAPPA** (Group for Research and Assessment of Psoriasis and Psoriatic Arthritis) — international, domain-based recommendations primarily for PsA but increasingly influencing skin psoriasis management
@@ -151,11 +151,11 @@ The therapeutic revolution in psoriasis has been unevenly distributed. While pat
 - **BAD** — the British Association of Dermatologists guidelines, integrated with NICE technology appraisals
 - Regional guidelines from Asia-Pacific, Latin American, and Middle Eastern dermatology societies increasingly adapt these frameworks to local resource realities
 
-**The treatment gap.** Even in high-income countries, significant treatment gaps persist. In the US, racial and ethnic disparities in biologic access (Section 14.3) mean that many patients who meet clinical criteria for biologic therapy never receive it. In the UK, the sequential therapy requirements of the NICE pathway (Section 17) mean that patients must "fail" conventional treatments before accessing biologics, introducing delays of months to years. Worldwide, the gap between what is clinically achievable and what patients actually receive remains the central challenge in psoriasis care.
+**The treatment gap.** Even in high-income countries, significant treatment gaps persist. In the US, racial and ethnic disparities in biologic access (Section 21.3) mean that many patients who meet clinical criteria for biologic therapy never receive it. In the UK, the sequential therapy requirements of the NICE pathway (Section 25) mean that patients must "fail" conventional treatments before accessing biologics, introducing delays of months to years. Worldwide, the gap between what is clinically achievable and what patients actually receive remains the central challenge in psoriasis care.
 
-## 16.10 Health Economics and Cost-Effectiveness
+## 24.10 Health Economics and Cost-Effectiveness
 
-Beyond list prices (Section 16.3), health economic analysis evaluates whether treatments provide value for money by comparing costs with health outcomes, measured in **quality-adjusted life years (QALYs)** — a metric that combines survival duration with quality of life, where one QALY equals one year of perfect health.
+Beyond list prices (Section 24.3), health economic analysis evaluates whether treatments provide value for money by comparing costs with health outcomes, measured in **quality-adjusted life years (QALYs)** — a metric that combines survival duration with quality of life, where one QALY equals one year of perfect health.
 
 A 2024 cost-effectiveness analysis in *JAMA Dermatology* systematically compared all approved biologic therapies using an efficiency frontier approach [(Egilman et al., 2024)](https://jamanetwork.com/journals/jamadermatology/fullarticle/2815167):
 
@@ -171,7 +171,7 @@ A 2024 cost-effectiveness analysis in *JAMA Dermatology* systematically compared
 
 The analysis concluded that biologic prices would need a **median 71% reduction** to align with established cost-effectiveness thresholds (~$100,000–$150,000/QALY in the US). This finding has implications for formulary decision-making, payer negotiations, and the argument for biosimilar adoption.
 
-**Biosimilar economic impact.** Biosimilar competition has already demonstrated dramatic cost reductions: adalimumab net prices declined ~43% in the first year after biosimilar entry (Section 16.4), and infliximab biosimilars reduced annual costs to ~$1,664. As more biosimilars enter the market, cumulative savings are projected to reach billions of dollars across healthcare systems.
+**Biosimilar economic impact.** Biosimilar competition has already demonstrated dramatic cost reductions: adalimumab net prices declined ~43% in the first year after biosimilar entry (Section 24.4), and infliximab biosimilars reduced annual costs to ~$1,664. As more biosimilars enter the market, cumulative savings are projected to reach billions of dollars across healthcare systems.
 
 **International cost variation.** The same biologics cost vastly different amounts across countries: risankizumab costs approximately $79,277/year in the US but significantly less in the UK (where NICE negotiates confidential patient access schemes), continental Europe, and even less in middle-income countries with biosimilar markets. This price disparity is a key driver of global access inequality.
 

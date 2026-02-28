@@ -2,7 +2,7 @@
 title: "Conclusion"
 description: "Summary of the current state of psoriasis understanding and treatment, and the challenges and research priorities that remain."
 sidebar:
-  order: 25
+  order: 31
 ---
 
 Psoriasis is a paradigmatic example of how basic immunological research can transform the treatment of a chronic disease. The journey from recognising psoriasis as merely a skin condition to understanding it as a systemic, T cell-mediated inflammatory disease driven by the IL-23/IL-17 axis — and then translating that knowledge into targeted biologic therapies that achieve near-complete skin clearance — represents one of the great success stories of modern medicine.

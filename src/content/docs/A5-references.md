@@ -2,7 +2,7 @@
 title: "References"
 description: "Complete numbered reference list for the psoriasis book, including primary research articles, reviews, guidelines, and registry data."
 sidebar:
-  order: 26
+  order: 36
 ---
 
 1. Armstrong AW, Read C. Pathophysiology, clinical presentation, and treatment of psoriasis: a review. *JAMA*. 2020;323(19):1945-1960. doi:10.1001/jama.2020.4006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32427307/)

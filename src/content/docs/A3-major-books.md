@@ -2,12 +2,12 @@
 title: "Major Books on Psoriasis"
 description: "A curated list of the most significant books on psoriasis, spanning clinical textbooks, research references, and patient-oriented guides."
 sidebar:
-  order: 23
+  order: 34
 ---
 
 The following is a curated list of the most significant books published on psoriasis, spanning clinical textbooks, research references, and patient-oriented guides. They represent the breadth of published knowledge on the disease and will serve as a foundation for deeper review.
 
-## 23.1 Academic and Clinical Textbooks
+## Academic and Clinical Textbooks
 
 ---
 
@@ -81,7 +81,7 @@ A comprehensive guide covering all aspects of psoriasis from basic science to cl
 
 ---
 
-## 23.2 Patient-Oriented and Alternative Approach Books
+## Patient-Oriented and Alternative Approach Books
 
 ---
 
@@ -117,7 +117,7 @@ An edited academic volume covering research on psoriasis causes, diagnosis, and 
 
 ---
 
-## 23.3 General Dermatology References with Major Psoriasis Coverage
+## General Dermatology References with Major Psoriasis Coverage
 
 ---
 
@@ -151,4 +151,4 @@ The most comprehensive general dermatology reference in the English language (ov
 
 ---
 
-> **Note for future review:** The clinical textbooks (Griffiths/Barker, Lebwohl/Koo, Menter/Ryan, Bhutani) contain the most reliable and up-to-date scientific information. The patient-oriented books (Pagano, LeVan) are popular but should be evaluated critically against the evidence presented in this paper, particularly Sections 12 (Lifestyle and Diet) and 6 (Immunopathogenesis). Several of these books — particularly the older editions — predate the biologic therapy revolution and the IL-23/Th17 paradigm shift; readers should supplement them with recent primary literature.
+> **Note for future review:** The clinical textbooks (Griffiths/Barker, Lebwohl/Koo, Menter/Ryan, Bhutani) contain the most reliable and up-to-date scientific information. The patient-oriented books (Pagano, LeVan) are popular but should be evaluated critically against the evidence presented in this paper, particularly Sections 19 (Lifestyle and Diet) and 6 (Immunopathogenesis). Several of these books — particularly the older editions — predate the biologic therapy revolution and the IL-23/Th17 paradigm shift; readers should supplement them with recent primary literature.

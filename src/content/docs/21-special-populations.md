@@ -2,12 +2,12 @@
 title: "Psoriasis in Special Populations"
 description: "How psoriasis differs in pregnancy, children, and people with skin of colour — including treatment safety, diagnostic challenges, and health equity considerations."
 sidebar:
-  order: 14
+  order: 21
 ---
 
 The experience of psoriasis differs significantly across certain population groups — in how the disease presents, how it is diagnosed, and which treatments are safe and appropriate. This section addresses three populations where these differences have important clinical and practical implications: pregnancy, children, and people with skin of colour.
 
-## 14.1 Pregnancy and Conception
+## 21.1 Pregnancy and Conception
 
 Pregnancy and psoriasis present a complex intersection, particularly relevant for patients who are trying to conceive or are already pregnant. The challenges are threefold: the natural course of psoriasis changes during pregnancy; many standard treatments are unsafe for the developing foetus; and the evidence base for drug safety in pregnancy is limited because pregnant women are routinely excluded from clinical trials.
 
@@ -28,7 +28,7 @@ Pregnancy and psoriasis present a complex intersection, particularly relevant fo
 
 **Guidance for patients trying to conceive.** Current BAD and European guidelines recommend: (1) plan the pregnancy during a period of disease stability; (2) if systemic treatment is needed during pregnancy, certolizumab pegol is first-line; (3) NB-UVB phototherapy is a safe non-drug option; (4) methotrexate and acitretin must be stopped well in advance; (5) cyclosporine can be used short-term in pregnancy if needed (it does not appear to be teratogenic, though it crosses the placenta).
 
-## 14.2 Paediatric Psoriasis
+## 21.2 Paediatric Psoriasis
 
 Psoriasis begins in childhood in approximately one-third of all cases, with an estimated prevalence of 0.5–2% in children. It can present at any age, including infancy, though onset is more common during adolescence. Female children are affected slightly more frequently than males.
 
@@ -45,7 +45,7 @@ Psoriasis begins in childhood in approximately one-third of all cases, with an e
 
 **Treatment.** Most paediatric psoriasis is mild and manageable with topical therapy: low-potency corticosteroids, vitamin D analogues (calcipotriol), calcineurin inhibitors for face and flexures, and emollients. NB-UVB phototherapy is safe in children. For moderate-to-severe disease, systemic options have expanded considerably in recent years. Biologics now approved for paediatric psoriasis (ages vary by drug and country) include etanercept, adalimumab, ustekinumab, secukinumab, and ixekizumab. Apremilast was approved for children aged 6–17 in April 2024 (USA) [(FDA, 2024)](https://pubmed.ncbi.nlm.nih.gov/39576565/). Roflumilast cream (a topical PDE4 inhibitor) was also approved for children aged 6 and over in October 2023 [(FDA, 2023)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/215985s007lbl.pdf).
 
-## 14.3 Psoriasis in Skin of Colour
+## 21.3 Psoriasis in Skin of Colour
 
 Psoriasis affects all racial and ethnic groups, but there are significant differences in prevalence, clinical presentation, diagnostic accuracy, treatment access, and outcomes. These disparities represent one of the most important equity issues in dermatology today.
 
@@ -61,11 +61,11 @@ Psoriasis affects all racial and ethnic groups, but there are significant differ
 
 **Research gaps.** Clinical trials for new psoriasis medications have historically had very low representation of non-white participants, limiting knowledge of how treatments perform across diverse populations. The VISIBLE study (NCT05272150), initiated in 2022, was specifically designed to assess guselkumab in patients with skin of colour and represents a growing recognition of this evidence gap. HLA-C*06:02 positivity — the strongest genetic risk factor — is generally higher in white populations than in Asian populations, and few genome-wide association studies have focused on African ancestry, highlighting a critical genetic research gap.
 
-## 14.4 Elderly Patients
+## 21.4 Elderly Patients
 
 Psoriasis in older adults (typically defined as age 65 and over) presents distinct management challenges that are not well addressed in clinical guidelines, despite the ageing population representing a growing proportion of psoriasis patients.
 
-**Accumulated comorbidity burden.** Elderly patients with long-standing psoriasis carry the cumulative effects of decades of systemic inflammation — the "psoriatic march" (Section 10.7) — meaning they are more likely to have established cardiovascular disease, type 2 diabetes, chronic kidney disease, and hepatic impairment. These comorbidities complicate treatment selection: methotrexate may be contraindicated by renal or hepatic impairment, and ciclosporin carries heightened nephrotoxicity risk in patients with pre-existing renal disease or hypertension.
+**Accumulated comorbidity burden.** Elderly patients with long-standing psoriasis carry the cumulative effects of decades of systemic inflammation — the "psoriatic march" (Section 14.7) — meaning they are more likely to have established cardiovascular disease, type 2 diabetes, chronic kidney disease, and hepatic impairment. These comorbidities complicate treatment selection: methotrexate may be contraindicated by renal or hepatic impairment, and ciclosporin carries heightened nephrotoxicity risk in patients with pre-existing renal disease or hypertension.
 
 **Polypharmacy.** Older adults take an average of 5–8 medications, increasing the risk of drug interactions [(Balato et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24554398/). Methotrexate interacts with NSAIDs, trimethoprim, and proton pump inhibitors. Ciclosporin interacts with statins, calcium channel blockers, and many antibiotics. A thorough medication review is essential before initiating any systemic psoriasis therapy in elderly patients.
 

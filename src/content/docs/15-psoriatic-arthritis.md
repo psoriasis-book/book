@@ -2,14 +2,14 @@
 title: "Psoriatic Arthritis In Depth"
 description: "Detailed coverage of psoriatic arthritis: clinical domains, CASPAR diagnostic criteria, imaging findings, differentiation from rheumatoid arthritis, treatment algorithms, and the importance of early intervention."
 sidebar:
-  order: 10.5
+  order: 15
 ---
 
-Psoriatic arthritis (PsA) affects approximately 30% of people with psoriasis and is one of the most important comorbidities of the disease. While Section 10.1 introduced PsA as a comorbidity, this chapter provides a more detailed account of its clinical features, diagnosis, and management — information that is essential for any patient seeking to understand this condition in depth.
+Psoriatic arthritis (PsA) affects approximately 30% of people with psoriasis and is one of the most important comorbidities of the disease. While Section 14.1 introduced PsA as a comorbidity, this chapter provides a more detailed account of its clinical features, diagnosis, and management — information that is essential for any patient seeking to understand this condition in depth.
 
 ![The five clinical domains of psoriatic arthritis](./images/psa-clinical-domains.svg)
 
-## 10a.1 The Five Clinical Domains
+## 15.1 The Five Clinical Domains
 
 PsA is not a single disease pattern but encompasses five distinct clinical domains, any of which may occur alone or in combination [(Coates et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35761070/):
 
@@ -19,7 +19,7 @@ PsA is not a single disease pattern but encompasses five distinct clinical domai
 - **Dactylitis** — diffuse swelling of an entire digit ("sausage finger" or "sausage toe"), caused by a combination of joint inflammation, tenosynovitis (inflammation of the tendon sheath), and soft tissue oedema. Dactylitis occurs in approximately 40–50% of PsA patients and is highly suggestive of PsA when present.
 - **Skin and nail disease** — psoriatic skin plaques and nail changes (pitting, onycholysis, subungual hyperkeratosis) are integral to PsA and often provide the diagnostic clue. Nail psoriasis is present in approximately 80% of PsA patients, compared with ~50% of psoriasis patients without arthritis, and is a strong predictor of future PsA development.
 
-## 10a.2 The CASPAR Diagnostic Criteria
+## 15.2 The CASPAR Diagnostic Criteria
 
 The Classification Criteria for Psoriatic Arthritis (CASPAR) were developed by Taylor et al. in 2006 from a large international study of 588 PsA cases and 536 controls [(Taylor et al., 2006)](https://pubmed.ncbi.nlm.nih.gov/16871531/). To meet the CASPAR criteria, a patient must have inflammatory articular disease (involving joints, spine, or entheses) plus ≥3 points from the following:
 
@@ -31,7 +31,7 @@ The Classification Criteria for Psoriatic Arthritis (CASPAR) were developed by T
 
 The CASPAR criteria have a specificity of 98.7% and sensitivity of 91.4%, making them highly reliable for classification. Importantly, current psoriasis scores 2 points rather than 1, reflecting the strong diagnostic weight of active skin disease.
 
-## 10a.3 Imaging Findings
+## 15.3 Imaging Findings
 
 Imaging plays an important role in diagnosing and monitoring PsA:
 
@@ -39,7 +39,7 @@ Imaging plays an important role in diagnosing and monitoring PsA:
 - **Ultrasound** is more sensitive than clinical examination for detecting active synovitis, enthesitis, and tenosynovitis, and is increasingly used in clinical practice for early detection and monitoring.
 - **MRI** is the most sensitive imaging modality, capable of detecting bone marrow oedema, enthesitis, dactylitis, and early erosions before they become visible on plain radiographs.
 
-## 10a.4 Differentiating PsA from Rheumatoid Arthritis
+## 15.4 Differentiating PsA from Rheumatoid Arthritis
 
 PsA and rheumatoid arthritis (RA) can both cause joint inflammation and destruction, but several features help distinguish them:
 
@@ -50,13 +50,13 @@ PsA and rheumatoid arthritis (RA) can both cause joint inflammation and destruct
 - **Radiographic pattern:** PsA shows both erosion and new bone formation (a "mixed" pattern); RA shows erosion without significant new bone formation.
 - **Skin and nails:** The presence of psoriasis or psoriatic nail changes strongly favours PsA.
 
-## 10a.5 The Importance of Early Diagnosis
+## 15.5 The Importance of Early Diagnosis
 
 A landmark study by Haroon et al. (2015) demonstrated that a diagnostic delay of more than 6 months from symptom onset to first rheumatology consultation was associated with significantly worse outcomes: more peripheral joint erosions, higher rates of sacroiliitis, more joint deformity, and worse functional disability [(Haroon et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/24525911/). Even a 6-month delay contributed to irreversible joint damage that could not be fully recovered with subsequent treatment.
 
 This finding underscores the importance of screening all psoriasis patients for early signs of PsA — joint pain, stiffness, swelling, entheseal tenderness, or dactylitis — and referring promptly to rheumatology when PsA is suspected. Screening tools such as the PEST (Psoriasis Epidemiology Screening Tool) questionnaire can be used in dermatology clinics to identify patients who may need rheumatology assessment [(Ibrahim et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19174392/).
 
-## 10a.6 Treatment Algorithms
+## 15.6 Treatment Algorithms
 
 PsA treatment follows a domain-based approach, as recommended by the Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA) 2021 guidelines [(Coates et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35761070/):
 
@@ -68,9 +68,9 @@ PsA treatment follows a domain-based approach, as recommended by the Group for R
 
 **Dactylitis.** NSAIDs and local corticosteroid injections are first-line. Biologics are indicated for refractory or recurrent dactylitis.
 
-**Skin and nails.** Managed as described in the topical treatments (Section 15a) and therapeutic landscape (Section 16) chapters, with the important note that treatment choice should ideally address both skin and joint disease domains simultaneously where possible.
+**Skin and nails.** Managed as described in the topical treatments (Section 23) and therapeutic landscape (Section 24) chapters, with the important note that treatment choice should ideally address both skin and joint disease domains simultaneously where possible.
 
-## 10a.7 The Treat-to-Target Approach
+## 15.7 The Treat-to-Target Approach
 
 Current guidelines recommend a **treat-to-target (T2T)** strategy for PsA, meaning that treatment is adjusted systematically to achieve a predefined goal — typically remission or low disease activity — rather than simply responding to symptoms as they arise. This approach, borrowed from rheumatology where it has proven successful in RA, involves regular assessment of disease activity using validated composite measures and escalation of therapy if the target is not achieved within a defined timeframe. The principal composite measures used in PsA include:
 
@@ -81,6 +81,6 @@ Current guidelines recommend a **treat-to-target (T2T)** strategy for PsA, meani
 
 Evidence supports that T2T in PsA leads to better outcomes than routine care, including less radiographic progression and better functional outcomes. The challenge lies in PsA's multi-domain nature — a patient may achieve remission in one domain (e.g. skin) while remaining active in another (e.g. enthesitis) — requiring comprehensive assessment across all domains at each visit.
 
-## 10a.8 Rheumatology Co-Management
+## 15.8 Rheumatology Co-Management
 
 Optimal PsA care requires collaboration between dermatology and rheumatology. Dermatologists are best placed to manage skin and nail disease, screen for early PsA, and initiate appropriate referrals. Rheumatologists bring expertise in joint examination, imaging interpretation, and the management of complex musculoskeletal disease. Shared care pathways — including combined dermatology-rheumatology clinics where both specialists see the patient together — represent best practice but remain uncommon. The pathogenesis of PsA involves the same IL-23/IL-17 axis that drives skin psoriasis [(Veale & Fearon, 2018)](https://pubmed.ncbi.nlm.nih.gov/29893226/), which means that many biologic therapies are effective for both skin and joint disease, facilitating unified treatment strategies.

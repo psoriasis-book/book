@@ -21,46 +21,47 @@ book:
         - src/content/docs/04-immune-system.md
         - src/content/docs/05-genetics.md
         - src/content/docs/06-immunopathogenesis.md
-        - src/content/docs/06a-novel-pathogenic-mechanisms.md
-        - src/content/docs/07-environmental-triggers.md
-        - src/content/docs/07a-drug-induced-psoriasis.md
-    - part: "Clinical Practice"
+        - src/content/docs/07-novel-pathogenic-mechanisms.md
+        - src/content/docs/08-environmental-triggers.md
+        - src/content/docs/09-drug-induced-psoriasis.md
+    - part: "Clinical Recognition & Diagnosis"
       chapters:
-        - src/content/docs/08-clinical-presentation.md
-        - src/content/docs/08a-difficult-to-treat-sites.md
-        - src/content/docs/09-diagnostic-testing.md
-        - src/content/docs/09a-biomarkers-precision-medicine.md
-        - src/content/docs/10-comorbidities.md
-        - src/content/docs/10a-psoriatic-arthritis.md
-        - src/content/docs/10b-additional-comorbidities.md
-        - src/content/docs/11-psychological-burden.md
-        - src/content/docs/11a-sleep-sexual-health.md
-        - src/content/docs/11b-pain-and-itch.md
+        - src/content/docs/10-clinical-presentation.md
+        - src/content/docs/11-difficult-to-treat-sites.md
+        - src/content/docs/12-diagnostic-testing.md
+        - src/content/docs/13-biomarkers-precision-medicine.md
+    - part: "Psoriasis as a Systemic Disease"
+      chapters:
+        - src/content/docs/14-comorbidities.md
+        - src/content/docs/15-psoriatic-arthritis.md
+        - src/content/docs/16-psychological-burden.md
+        - src/content/docs/17-sleep-sexual-health.md
+        - src/content/docs/18-pain-and-itch.md
     - part: "Living with Psoriasis"
       chapters:
-        - src/content/docs/12-lifestyle-diet.md
-        - src/content/docs/13-daily-management.md
-        - src/content/docs/14-special-populations.md
-        - src/content/docs/15-remission.md
+        - src/content/docs/19-lifestyle-diet.md
+        - src/content/docs/20-daily-management.md
+        - src/content/docs/21-special-populations.md
     - part: "Treatment"
       chapters:
-        - src/content/docs/15a-topical-treatments.md
-        - src/content/docs/16-therapeutic-landscape.md
-        - src/content/docs/17-nhs-pathway.md
-        - src/content/docs/18-traditional-medicine.md
-    - part: "Research & Future"
+        - src/content/docs/22-remission.md
+        - src/content/docs/23-topical-treatments.md
+        - src/content/docs/24-therapeutic-landscape.md
+        - src/content/docs/25-nhs-pathway.md
+        - src/content/docs/26-traditional-medicine.md
+    - part: "Recent Advances & Future Directions"
       chapters:
-        - src/content/docs/19-landmark-studies.md
-        - src/content/docs/20-emerging-research.md
-        - src/content/docs/20a-digital-health.md
-        - src/content/docs/21-covid19.md
+        - src/content/docs/27-landmark-studies.md
+        - src/content/docs/28-emerging-research.md
+        - src/content/docs/29-digital-health.md
+        - src/content/docs/30-vaccination-and-covid19.md
+    - src/content/docs/31-conclusion.md
   appendices:
-    - src/content/docs/22-registries.md
-    - src/content/docs/22a-patient-resources.md
-    - src/content/docs/23-major-books.md
-    - src/content/docs/24-glossary.md
-    - src/content/docs/25-conclusion.md
-    - src/content/docs/26-references.md
+    - src/content/docs/A1-registries.md
+    - src/content/docs/A2-patient-resources.md
+    - src/content/docs/A3-major-books.md
+    - src/content/docs/A4-glossary.md
+    - src/content/docs/A5-references.md
 
 format:
   pdf:

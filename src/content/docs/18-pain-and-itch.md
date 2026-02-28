@@ -2,12 +2,12 @@
 title: "Pain and Itch: The Neuroimmune Burden of Psoriasis"
 description: "The neuroscience of psoriatic pruritus, nociceptive and neuropathic pain mechanisms, central sensitisation, and emerging anti-itch therapies"
 sidebar:
-  order: 11.6
+  order: 18
 ---
 
-Pain and itch are among the most distressing symptoms reported by psoriasis patients, yet they receive remarkably little attention compared with the visible signs of the disease. Both are mediated by a complex neuroimmune dialogue between sensory nerve fibres, immune cells, and keratinocytes — the same cross-talk described in Section 20.8 (neuroimmunology). This chapter examines the molecular mechanisms underlying these symptoms and the therapeutic implications.
+Pain and itch are among the most distressing symptoms reported by psoriasis patients, yet they receive remarkably little attention compared with the visible signs of the disease. Both are mediated by a complex neuroimmune dialogue between sensory nerve fibres, immune cells, and keratinocytes — the same cross-talk described in Section 28.8 (neuroimmunology). This chapter examines the molecular mechanisms underlying these symptoms and the therapeutic implications.
 
-## 11b.1 The Neuroscience of Psoriatic Itch
+## 18.1 The Neuroscience of Psoriatic Itch
 
 Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently cited as the single most bothersome symptom — more troublesome even than visible plaques. Psoriatic itch differs from itch in other conditions (such as eczema) in its mechanisms, and current treatments often fail to adequately control it.
 
@@ -17,10 +17,10 @@ Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently 
 
 **TRPV1 and TRPA1 channels.** Transient receptor potential vanilloid 1 (TRPV1) and ankyrin 1 (TRPA1) are ion channels on sensory nerve endings that detect heat, chemicals, and inflammatory mediators. In psoriatic skin:
 - **TRPV1 is upregulated**, lowering the threshold for itch and pain perception.
-- **Nerve growth factor (NGF)**, which is elevated in psoriatic lesions (Section 20.8), further sensitises TRPV1 channels by lowering their activation threshold.
+- **Nerve growth factor (NGF)**, which is elevated in psoriatic lesions (Section 28.8), further sensitises TRPV1 channels by lowering their activation threshold.
 - The skin microbiota stimulates NGF production in mast cells, adding a microbial contribution to itch generation [(Takahashi & Yamasaki, 2023)](https://www.sciencedirect.com/science/article/abs/pii/S1567576923003843).
 
-**Neuropeptide amplification.** When TRPV1+ nerve endings are activated, they release **substance P** and **CGRP** (calcitonin gene-related peptide) — the same neuropeptides described in the neuroimmunology section (Section 20.8). Substance P activates mast cells via the NK1 receptor, causing degranulation and release of histamine, tryptase, and further inflammatory mediators. CGRP amplifies IL-23/IL-17 signalling. This creates a **neurogenic inflammation loop** in which itch signals generate more inflammation, which generates more itch.
+**Neuropeptide amplification.** When TRPV1+ nerve endings are activated, they release **substance P** and **CGRP** (calcitonin gene-related peptide) — the same neuropeptides described in the neuroimmunology section (Section 28.8). Substance P activates mast cells via the NK1 receptor, causing degranulation and release of histamine, tryptase, and further inflammatory mediators. CGRP amplifies IL-23/IL-17 signalling. This creates a **neurogenic inflammation loop** in which itch signals generate more inflammation, which generates more itch.
 
 **Emerging therapeutic targets for itch:**
 
@@ -33,9 +33,9 @@ Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently 
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Preclinical mechanisms well-established; early clinical data for anti-itch agents, though most are not yet specifically approved for psoriatic itch.
 
-## 11b.2 Pain in Psoriasis and Psoriatic Arthritis
+## 18.2 Pain in Psoriasis and Psoriatic Arthritis
 
-Pain in psoriasis extends beyond the joint involvement of PsA (Section 10a). Cutaneous pain — burning, stinging, and soreness of psoriatic plaques — is reported by 42% of patients and is distinct from itch, though both share some neural pathways.
+Pain in psoriasis extends beyond the joint involvement of PsA (Section 15). Cutaneous pain — burning, stinging, and soreness of psoriatic plaques — is reported by 42% of patients and is distinct from itch, though both share some neural pathways.
 
 A 2025 study of 114 psoriatic arthritis patients systematically characterised pain mechanisms and found [(Akdeniz et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010264/):
 - **Central sensitisation** (amplified pain processing in the spinal cord and brain) was present in **43%** of patients
@@ -56,12 +56,12 @@ A 2025 study of 114 psoriatic arthritis patients systematically characterised pa
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Cross-sectional studies with mechanistic characterisation; pain phenotyping studies now being conducted.
 
-## 11b.3 Current Limitations and Future Directions
+## 18.3 Current Limitations and Future Directions
 
 Current biologic therapies — while highly effective at clearing skin plaques and reducing joint inflammation — have **limited impact on neurological symptoms**. Patients who achieve PASI 90 or PASI 100 may still report residual itch, pain, and burning, likely because:
 
 1. **Biologics target immune pathways but not neural pathways**: IL-17 and IL-23 blockade reduces immune-mediated inflammation but does not directly modulate sensory nerve sensitisation or neuropeptide release.
-2. **Structural nerve changes persist**: The hyperinnervation of psoriatic skin (increased nerve fibre density — Section 20.8) may take longer to resolve than epidermal thickening, or may not resolve at all after chronic disease.
+2. **Structural nerve changes persist**: The hyperinnervation of psoriatic skin (increased nerve fibre density — Section 28.8) may take longer to resolve than epidermal thickening, or may not resolve at all after chronic disease.
 3. **Central sensitisation is self-sustaining**: Once established, central pain amplification can persist independently of the original peripheral stimulus.
 
 This represents a significant **unmet therapeutic need**. Future approaches may include:

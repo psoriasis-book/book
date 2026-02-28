@@ -2,12 +2,12 @@
 title: "Practical Daily Management: Living with Psoriasis"
 description: "Practical guidance for daily skin care, scalp and nail management, clothing choices, sun exposure, travel, and intimate relationships for psoriasis patients."
 sidebar:
-  order: 13
+  order: 20
 ---
 
 Clinical papers rarely address the everyday practicalities of living with psoriasis. This section covers the practical knowledge that patients commonly seek.
 
-## 13.1 Skin Care Routine
+## 20.1 Skin Care Routine
 
 **Moisturising** is the single most important daily intervention [(NICE CG153, 2017)](https://www.nice.org.uk/guidance/cg153). Generous and frequent application of an emollient — ideally within 3 minutes of bathing while the skin is still damp — helps seal in moisture, reduce scale, and maintain the skin barrier. Ointment-based (greasy) emollients are most effective but can be cosmetically unacceptable during the day; cream-based emollients offer a reasonable daytime compromise. Common effective emollients available in the UK include Cetraben, Epaderm, Hydromol, and Diprobase. Avoid products with fragrances, sodium lauryl sulphate (SLS), or alcohol, which can irritate psoriatic skin.
 
@@ -15,7 +15,7 @@ Clinical papers rarely address the everyday practicalities of living with psoria
 
 **Scale removal.** For thick plaques, gentle scale removal before applying topical treatments improves drug penetration. Salicylic acid preparations (2–10%) soften scale. Coconut oil applied under an occlusive wrap (cling film) overnight is a common home remedy for stubborn plaques. Never pick or scratch at scales — this risks triggering the Köbner phenomenon and worsening disease.
 
-## 13.2 Scalp Care
+## 20.2 Scalp Care
 
 Scalp psoriasis is one of the most common and difficult-to-treat sites, affecting approximately 45–56% of all psoriasis patients and frequently cited as the most bothersome location for disease. The scalp's dense hair coverage makes topical application difficult, reduces treatment adherence, and limits drug penetration. The psychological impact is substantial — visible flaking causes embarrassment, and many patients avoid hairdressers or social situations.
 
@@ -29,7 +29,7 @@ Scalp psoriasis is one of the most common and difficult-to-treat sites, affectin
 
 **For moderate-to-severe scalp psoriasis** that does not respond to topical therapy, biologic treatments — particularly IL-17 inhibitors (secukinumab, ixekizumab) — have demonstrated high scalp-specific response rates in clinical trials, with complete scalp clearance achieved in over 50% of patients. Avoid aggressive brushing, scratching, or picking at scalp plaques, as this risks triggering the Köbner phenomenon.
 
-## 13.3 Nail Care
+## 20.3 Nail Care
 
 Nail psoriasis is slow to respond to treatment because nails grow slowly (fingernails: 3–4 mm/month, toenails: 1 mm/month). Visible improvement typically takes 6–12 months even with effective therapy, so patience is essential. Severity can be assessed using the Nail Psoriasis Severity Index (NAPSI), which grades pitting, onycholysis, crumbling, and other features in each nail.
 
@@ -39,19 +39,19 @@ Nail psoriasis is slow to respond to treatment because nails grow slowly (finger
 
 **Practical nail care:** Keep nails trimmed short and filed smooth to reduce leverage on lifting nails. Wear gloves for wet work and household cleaning. Avoid manicures that involve pushing back or trimming the cuticle, as this trauma can worsen nail disease via the Köbner phenomenon. Clear nail varnish or medical-grade nail hardeners can disguise pitting and protect the nail plate. Thick "gel" or acrylic nails should be avoided as they may trap moisture and worsen onycholysis.
 
-## 13.4 Clothing and Fabrics
+## 20.4 Clothing and Fabrics
 
 Cotton and other natural, breathable fabrics are generally best tolerated. Tight clothing can create friction that triggers Köbner-effect lesions in folds and waistbands. Synthetic fabrics may trap heat and moisture. Some patients find that dark-coloured clothing is preferable for disguising scale shedding.
 
-## 13.5 Sun Exposure
+## 20.5 Sun Exposure
 
 Moderate sun exposure benefits many psoriasis patients — UV light has a natural immunosuppressive effect on the skin. However, sunburn must be avoided as it triggers the Köbner phenomenon and can cause severe flares. Practical guidance: build up exposure gradually (10–15 minutes initially), avoid peak UV hours (11am–3pm), use sunscreen on unaffected skin, and be aware that some psoriasis medications (methotrexate, acitretin) increase photosensitivity.
 
-## 13.6 Managing Flares at Work and Travel
+## 20.6 Managing Flares at Work and Travel
 
 Patients on biologic injections can generally travel freely; most biologics are stable for limited periods at room temperature (check individual drug guidance). Carry medication in hand luggage when flying, with a letter from the prescribing consultant confirming medical necessity. For work, planning ahead around injection schedules and understanding sick leave policies can reduce stress. Stress management itself matters: psychological stress is a well-documented trigger for psoriasis flares, creating a feedback loop that patients should be aware of.
 
-## 13.7 Intimate Relationships and Genital Psoriasis
+## 20.7 Intimate Relationships and Genital Psoriasis
 
 Genital psoriasis affects up to 60% of patients at some point and is frequently undisclosed due to embarrassment [(Meeuwis et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21569104/). A systematic review found sexual dysfunction prevalence ranging from 23% to 71% across studies of psoriasis patients, including reduced desire, arousal difficulties, pain during intercourse, and avoidance of sexual activity altogether [(Molina-Leyva et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25424331/). The impact is often disproportionate to the visible severity of disease elsewhere on the body.
 

@@ -2,7 +2,7 @@
 title: "Glossary"
 description: "Definitions of key terms used throughout this psoriasis reference, from clinical scoring systems to immunological concepts."
 sidebar:
-  order: 24
+  order: 35
 ---
 
 | Term | Definition |

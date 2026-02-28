@@ -2,18 +2,18 @@
 title: "Psoriasis, Vaccination, and COVID-19"
 description: "General vaccination guidance for immunosuppressed psoriasis patients and the impact of COVID-19, including biologic therapy safety and vaccine response considerations."
 sidebar:
-  order: 21
+  order: 30
 ---
 
 The COVID-19 pandemic raised urgent questions about whether patients on immunosuppressive biologic therapy were at increased risk of severe infection and whether their treatments would impair vaccine responses.
 
-## 21.1 COVID-19 Risk on Biologics
+## 30.1 COVID-19 Risk on Biologics
 
 Reassuringly, multiple studies and registries found that patients on biologic therapy for psoriasis were **not at increased risk of severe COVID-19** — and may even have had somewhat better outcomes than the general population. The PsoProtect global registry study found that biologic use was associated with lower odds of COVID-19 hospitalisation (adjusted OR 0.42, 95% CI 0.18–0.98) compared with non-biologic systemic therapy, with 93% of biologic-treated patients fully recovering [(Mahil et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/33075408/). The leading hypothesis is that the cytokine storm driving severe COVID-19 involves TNF-α, IL-6, and IL-17 — the very cytokines that biologic therapies suppress. By dampening this inflammatory cascade, biologics may have inadvertently provided partial protection against the most dangerous phase of COVID-19 infection.
 
 IL-17 and IL-23 inhibitors appeared particularly favourable: large cohort studies showed that these drugs were not associated with increased risk of serious infections. BADBIR registry data had previously established that infliximab specifically carries a higher incidence of serious infections compared with other biologics and non-biologic systemics [(Yiu et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30070708/), and the OpenSAFELY platform analysis confirmed that broader immunosuppression was associated with worse COVID-19 outcomes in immune-mediated inflammatory diseases [(MacKenna et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35698725/). Current guidelines do not recommend stopping biologic therapy during respiratory infections unless the treating physician advises otherwise on a case-by-case basis.
 
-## 21.2 Vaccine Response
+## 30.2 Vaccine Response
 
 A key concern was whether immunosuppressive therapy would impair vaccine responses. The evidence is nuanced:
 
@@ -22,7 +22,7 @@ A key concern was whether immunosuppressive therapy would impair vaccine respons
 
 Current NPF (National Psoriasis Foundation) Delphi consensus recommendations advise continuing biologic therapy without modification when receiving non-live vaccines (including all COVID-19 vaccines) and considering temporary interruption of methotrexate [(Gelfand et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/33422626/). Live vaccines should generally not be given to patients on biologic therapy, though the risk is primarily theoretical for IL-17 and IL-23 inhibitors.
 
-## 21.3 Practical Vaccination Guidance for Psoriasis Patients
+## 30.3 Practical Vaccination Guidance for Psoriasis Patients
 
 Based on the evidence above, the following drug-by-drug guidance reflects current consensus for COVID-19 and other non-live vaccinations:
 
@@ -35,7 +35,7 @@ Based on the evidence above, the following drug-by-drug guidance reflects curren
 
 Timing of vaccination relative to biologic dosing is not considered critical for non-live vaccines, though some clinicians prefer to administer vaccines at the midpoint between biologic doses when practical. For patients due to start biologic therapy, it is advisable to complete vaccinations (including COVID-19 boosters, influenza, pneumococcal, and herpes zoster vaccines) before initiating treatment where possible.
 
-## 21.4 General Vaccination Guidance for Immunosuppressed Patients
+## 30.4 General Vaccination Guidance for Immunosuppressed Patients
 
 The lessons learned from COVID-19 vaccination have reinforced and refined broader vaccination principles for psoriasis patients on immunosuppressive therapy. The **National Psoriasis Foundation Medical Board** developed **22 consensus statements** on vaccination for psoriasis patients, and similar guidance has been issued by the British Association of Dermatologists and European Academy of Dermatology and Venereology [(Gelfand et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11998957/).
 
@@ -59,7 +59,7 @@ The lessons learned from COVID-19 vaccination have reinforced and refined broade
 - **Influenza**: Annual vaccination recommended for all psoriasis patients on systemic therapy. Inactivated (injected) vaccine preferred over live-attenuated (nasal) formulation.
 - **Pneumococcal**: PCV15 or PCV20 followed by PPSV23 (if PCV15 used). Recommended at earlier ages than the general population for patients on immunosuppressive therapy, given increased pneumonia risk.
 - **Herpes zoster (shingles)**: The recombinant (non-live) vaccine **Shingrix** is recommended for patients aged 50+ and is safe to administer during biologic therapy. The older live vaccine (Zostavax) should be avoided in immunosuppressed patients.
-- **Hepatitis B**: Pre-treatment screening is mandatory before starting biologics (Section 9). Vaccination is recommended for non-immune patients. Post-vaccination antibody titre testing is advised to confirm seroconversion.
+- **Hepatitis B**: Pre-treatment screening is mandatory before starting biologics (Section 12). Vaccination is recommended for non-immune patients. Post-vaccination antibody titre testing is advised to confirm seroconversion.
 - **HPV (human papillomavirus)**: Recommended per standard age-based guidelines. No specific concerns with biologic co-administration.
 
 ### Pre-Treatment Vaccination Strategy

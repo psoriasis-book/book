@@ -2,12 +2,12 @@
 title: Clinical Presentation and Diagnosis
 description: "Types of psoriasis, histopathology, and severity measurement including PASI scoring"
 sidebar:
-  order: 8
+  order: 10
 ---
 
 ![Psoriasis subtypes and their typical distribution](./images/psoriasis-subtypes.svg)
 
-## 8.1 Types of Psoriasis
+## 10.1 Types of Psoriasis
 
 Psoriasis encompasses several clinical variants:
 
@@ -18,11 +18,11 @@ Psoriasis encompasses several clinical variants:
 - **Erythrodermic psoriasis**: A rare, severe form involving widespread inflammation and erythema covering most of the body surface. It can be life-threatening and requires urgent medical attention.
 - **Nail psoriasis**: Affects fingernails and toenails, causing pitting, discolouration, onycholysis (separation of the nail from the nail bed), and subungual hyperkeratosis. Present in up to 50% of patients with plaque psoriasis.
 
-## 8.2 Histopathology (What Psoriatic Skin Looks Like Under a Microscope)
+## 10.2 Histopathology (What Psoriatic Skin Looks Like Under a Microscope)
 
 Under the microscope, psoriatic skin shows characteristic features: acanthosis (thickening of the epidermis — the skin's outer layer), elongation of rete ridges (finger-like projections of the epidermis pushing down into the dermis — the deeper skin layer), dilated and tortuous (swollen and twisted) blood vessels in the dermal papillae (the bumpy upper surface of the dermis), a mixed inflammatory infiltrate (a collection of various immune cells that have migrated into the tissue) of T cells and dendritic cells in the dermis, and collections of neutrophils called Munro microabscesses (tiny pockets of white blood cells) in the epidermis [(Armstrong & Read, 2020)](https://pubmed.ncbi.nlm.nih.gov/32427307/).
 
-## 8.3 Measurement of Severity
+## 10.3 Measurement of Severity
 
 ![PASI scoring diagram](./images/pasi-scoring.svg)
 

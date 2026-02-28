@@ -2,12 +2,12 @@
 title: "Drug-Induced Psoriasis"
 description: "Comprehensive coverage of medications that trigger or exacerbate psoriasis, including classical triggers, immune checkpoint inhibitors, biologic paradoxical reactions, and management principles"
 sidebar:
-  order: 7.5
+  order: 9
 ---
 
-While Section 7.6 briefly lists medications that can trigger psoriasis, the topic warrants dedicated treatment given the expanding pharmacopoeia and the rising use of immune-modulating drugs in oncology, rheumatology, and gastroenterology. Drug-induced psoriasis can present as de novo disease (new onset in a patient without prior psoriasis), exacerbation of pre-existing disease, or paradoxical psoriasis (new psoriasis caused by a drug that is itself used to treat psoriasis).
+While Section 8.6 briefly lists medications that can trigger psoriasis, the topic warrants dedicated treatment given the expanding pharmacopoeia and the rising use of immune-modulating drugs in oncology, rheumatology, and gastroenterology. Drug-induced psoriasis can present as de novo disease (new onset in a patient without prior psoriasis), exacerbation of pre-existing disease, or paradoxical psoriasis (new psoriasis caused by a drug that is itself used to treat psoriasis).
 
-## 7a.1 Classical Drug Triggers
+## 9.1 Classical Drug Triggers
 
 The following medications have well-established associations with psoriasis onset or exacerbation, supported by decades of clinical observation:
 
@@ -23,7 +23,7 @@ The following medications have well-established associations with psoriasis onse
 
 **Research stage: Established.** **Evidence strength: High.** Supported by decades of case series, systematic reviews, and pharmacovigilance data.
 
-## 7a.2 Immune Checkpoint Inhibitors
+## 9.2 Immune Checkpoint Inhibitors
 
 The explosive growth of cancer immunotherapy has introduced a new category of drug-induced psoriasis. **Immune checkpoint inhibitors (ICIs)** — including anti-PD-1 (nivolumab, pembrolizumab), anti-PD-L1 (atezolizumab, durvalumab), and anti-CTLA-4 (ipilimumab) agents — work by removing the brakes on anti-tumour immunity, but in doing so can unleash autoimmune responses against healthy tissues.
 
@@ -33,7 +33,7 @@ Management requires careful balancing of dermatological and oncological needs. M
 
 **Research stage: Established.** **Evidence strength: Moderate-High.** Growing case series and retrospective cohort studies; specific management guidelines published by ESMO and NCCN.
 
-## 7a.3 Biologic Paradoxical Reactions
+## 9.3 Biologic Paradoxical Reactions
 
 One of the more counterintuitive phenomena in dermatology is **paradoxical psoriasis**: the development of new psoriatic lesions — or a morphological switch (e.g., plaque to pustular) — in patients receiving biologic therapy for psoriasis or other inflammatory conditions. This occurs most frequently with TNF-α inhibitors (infliximab, adalimumab, etanercept) at rates of approximately 2–5%, but has also been reported with vedolizumab (anti-integrin, used for IBD) and rituximab (anti-CD20, used for lymphoma and rheumatoid arthritis) [(Balak & Hajdarbegovic, 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774610/).
 
@@ -43,7 +43,7 @@ Management typically involves switching to a biologic with a different mechanism
 
 **Research stage: Established.** **Evidence strength: Moderate.** Registry data (BADBIR, PSOLAR), systematic reviews, and case series.
 
-## 7a.4 Other Drug Triggers
+## 9.4 Other Drug Triggers
 
 Several additional medication classes have been associated with psoriasis exacerbation, typically supported by case reports or small case series rather than large epidemiological studies:
 
@@ -55,15 +55,15 @@ Several additional medication classes have been associated with psoriasis exacer
 
 **Research stage: Established.** **Evidence strength: Low-Moderate.** Primarily case reports and small case series; mechanisms plausible but not definitively proven.
 
-## 7a.5 Rapid Corticosteroid Withdrawal and Rebound
+## 9.5 Rapid Corticosteroid Withdrawal and Rebound
 
 Systemic corticosteroids are generally avoided in psoriasis because, while they can produce rapid improvement, their withdrawal frequently triggers severe **rebound flares** — including conversion from stable plaque psoriasis to pustular or erythrodermic forms, which can be life-threatening. The mechanism involves corticosteroid-induced suppression of the HPA axis and IL-2 production; upon withdrawal, a compensatory surge in pro-inflammatory cytokine production overwhelms the skin's capacity to maintain homeostasis [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract).
 
-This phenomenon is also seen with potent topical corticosteroids applied to large body surface areas, particularly when stopped abruptly rather than tapered. Best practice involves gradual dose reduction (tapering) and transition to steroid-sparing agents (Section 15a).
+This phenomenon is also seen with potent topical corticosteroids applied to large body surface areas, particularly when stopped abruptly rather than tapered. Best practice involves gradual dose reduction (tapering) and transition to steroid-sparing agents (Section 23).
 
 **Research stage: Established.** **Evidence strength: High.** Well-characterised over decades of clinical practice; reflected in all major clinical guidelines.
 
-## 7a.6 Management Principles
+## 9.6 Management Principles
 
 When drug-induced psoriasis is suspected, the following framework guides clinical management:
 

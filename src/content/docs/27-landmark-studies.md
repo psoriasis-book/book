@@ -2,12 +2,12 @@
 title: "Landmark Studies of Recent Years (2023–2025)"
 description: "The most significant psoriasis studies published in 2023–2025, explaining why each matters and what new knowledge it introduced."
 sidebar:
-  order: 19
+  order: 27
 ---
 
 The pace of psoriasis research has accelerated dramatically. This section highlights the most significant studies published in 2023–2025, explaining why each matters and what new knowledge it introduced.
 
-## 19.1 The 109-Loci GWAS Meta-Analysis (Dand et al., 2025)
+## 27.1 The 109-Loci GWAS Meta-Analysis (Dand et al., 2025)
 
 **Study:** *Identification of 109 psoriasis susceptibility loci, including 46 novel loci, by multi-ancestry genome-wide meta-analysis.* Dand N, et al. Nature Communications. 2025;16:2051.
 **Read it:** [Nature Communications](https://www.nature.com/articles/s41467-025-56719-8)
@@ -16,7 +16,7 @@ The pace of psoriasis research has accelerated dramatically. This section highli
 
 **New knowledge:** The study provided genetic proof that the IL-23/IL-17 axis is the central pathogenic pathway in psoriasis — not just a clinical observation, but confirmed at the level of DNA. It also revealed new pathway involvement, including type I interferon signalling, NF-κB regulation, and skin barrier function genes. Perhaps most importantly for patients, it validated the targets of existing biologic therapies at a genetic level, and provided a foundation for future pharmacogenomic approaches that could match patients to the right drug based on their individual genetic profile.
 
-## 19.2 The STEPIn Trial — Early Intervention as Disease Modification (Iversen et al., 2023; Conrad et al., 2023)
+## 27.2 The STEPIn Trial — Early Intervention as Disease Modification (Iversen et al., 2023; Conrad et al., 2023)
 
 **Study:** *Secukinumab demonstrates superiority over narrow-band ultraviolet B phototherapy in new-onset moderate to severe plaque psoriasis patients: Week 52 results from the STEPIn study.* Iversen L, Conrad C, Eidsmo L, et al. JEADV. 2023;37(5):1004–1016.
 **Read it:** [JEADV (Wiley)](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18846)
@@ -27,7 +27,7 @@ The pace of psoriasis research has accelerated dramatically. This section highli
 
 The GUIDE trial is now investigating a similar approach using guselkumab (an IL-23 inhibitor) with treatment tapering.
 
-## 19.3 The GUIDE Trial — Super-Responders and Treatment Tapering (Eyerich et al., 2024)
+## 27.3 The GUIDE Trial — Super-Responders and Treatment Tapering (Eyerich et al., 2024)
 
 **Study:** *Early disease intervention with guselkumab in psoriasis leads to a higher rate of stable complete skin clearance ('clinical super response').* Eyerich K, et al. JAMA Dermatology. 2024;160(8):953–963.
 **Read it:** [JAMA Dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2820951)
@@ -36,7 +36,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **New knowledge:** Interim results showed that patients with shorter disease duration (≤2 years) were significantly more likely to achieve and maintain complete skin clearance than patients with longer disease histories. This reinforces the STEPIn findings and supports the hypothesis that early, aggressive treatment may prevent the establishment of tissue-resident memory T cells and epigenetic changes that drive chronic, relapsing disease.
 
-## 19.4 Bimekizumab Phase 3 Trials — Dual IL-17 Blockade (Warren et al., 2021–2023; BE SURE, BE READY, BE RADIANT, BE BRIGHT)
+## 27.4 Bimekizumab Phase 3 Trials — Dual IL-17 Blockade (Warren et al., 2021–2023; BE SURE, BE READY, BE RADIANT, BE BRIGHT)
 
 **Study:** *Bimekizumab versus adalimumab in plaque psoriasis.* Warren RB, et al. N Engl J Med. 2021;385(2):130–141 (BE SURE). Extended data published through 2023.
 **Read it:** [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2102388)
@@ -45,7 +45,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **New knowledge:** The BE SURE and BE READY trials demonstrated that dual IL-17A/F blockade produces among the highest rates of complete skin clearance (PASI 100) of any therapy studied to date. The BE RADIANT trial provided head-to-head evidence that bimekizumab was superior to secukinumab (an IL-17A-only inhibitor) in achieving PASI 100 at week 16 (61% vs 49%) [(Reich et al., 2021)](https://www.nejm.org/doi/full/10.1056/NEJMoa2102383), directly demonstrating the clinical benefit of additionally blocking IL-17F. Responses were maintained through 3 years in the BE BRIGHT extension study [(Strober et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36967713/). Bimekizumab was FDA-approved in October 2023. Its success confirmed that IL-17F is indeed a non-redundant driver of psoriatic inflammation and that blocking both IL-17 family members provides additional clinical benefit over blocking IL-17A alone.
 
-## 19.5 Cochrane Network Meta-Analysis of Systemic Therapies (Sbidian et al., 2023)
+## 27.5 Cochrane Network Meta-Analysis of Systemic Therapies (Sbidian et al., 2023)
 
 **Study:** *Systemic pharmacological treatments for chronic plaque psoriasis: a network meta-analysis.* Sbidian E, Chaimani A, et al. Cochrane Database Syst Rev. 2023;7:CD011535.
 **Read it:** [Cochrane Library](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011535.pub6/full)
@@ -54,7 +54,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **New knowledge:** The analysis definitively established the efficacy hierarchy of psoriasis biologics. IL-23 inhibitors (risankizumab, guselkumab) and the dual IL-17 inhibitor bimekizumab ranked at the top for achieving PASI 90. It confirmed that the newer biologics targeting IL-23 and IL-17 are substantially more effective than older TNF-α inhibitors and conventional systemics, while maintaining favourable safety profiles. This evidence has driven the global shift toward IL-23 inhibitors as first-line biologic therapy.
 
-## 19.6 Oral IL-23 Receptor Antagonist — Icotrokinra Phase 3 (ICONIC-LEAD, 2025)
+## 27.6 Oral IL-23 Receptor Antagonist — Icotrokinra Phase 3 (ICONIC-LEAD, 2025)
 
 **Study:** *Oral Icotrokinra for Plaque Psoriasis in Adults and Adolescents.* Bissonnette R, Soung J, Hebert AA, et al. N Engl J Med. 2025;393(18):1784-1795.
 **Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2504187) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41191940/)
@@ -63,7 +63,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **New knowledge:** Phase 3 data showed that nearly half of patients achieved completely clear skin (IGA 0) at week 24 with a once-daily pill. Johnson & Johnson has initiated the first-ever head-to-head trial comparing an oral drug (icotrokinra) against an injectable biologic (ustekinumab), seeking to prove that a pill can match or surpass a biologic injection. This could fundamentally shift how psoriasis is treated, removing a major barrier (injection aversion) that prevents some patients from starting biologic therapy.
 
-## 19.7 Zasocitinib Phase 3 — Next-Generation Oral TYK2 Inhibitor (Takeda, December 2025)
+## 27.7 Zasocitinib Phase 3 — Next-Generation Oral TYK2 Inhibitor (Takeda, December 2025)
 
 **Study:** *Phase 3 pivotal studies of zasocitinib (TAK-279) in moderate-to-severe plaque psoriasis.* Topline results announced December 2025. Phase 2b published: Tehlirian C, et al. JAMA Dermatology. 2024.
 **Read it:** [Takeda press release](https://www.takeda.com/newsroom/newsreleases/2025/takeda-zasocitinib-phase-3-plaque-psoriasis-data-once-daily-pill/) | [Phase 2b (PubMed)](https://pubmed.ncbi.nlm.nih.gov/39167366/)
@@ -72,16 +72,16 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **New knowledge:** Both pivotal studies met all primary and all 44 ranked secondary endpoints, including PASI 90 and PASI 100, demonstrating complete skin clearance with a once-daily pill — results that approach injectable biologic-level efficacy. This confirmed that the TYK2 pathway, once considered "undruggable," can be effectively targeted orally, opening the door to an era where high-efficacy psoriasis treatment may no longer require injections.
 
-## 19.8 Biologics Reduce Psoriatic Arthritis Development (Floris et al., 2025)
+## 27.8 Biologics Reduce Psoriatic Arthritis Development (Floris et al., 2025)
 
 **Study:** *Treatment of psoriasis with different classes of biologics reduces the likelihood of peripheral and axial psoriatic arthritis development.* Floris A, et al. Rheumatology. 2025;64:1131–1137.
 **Read it:** [Oxford Academic](https://academic.oup.com/rheumatology/article/64/3/1131/7691289)
 
 **Why it matters:** Approximately 30% of psoriasis patients develop psoriatic arthritis (PsA), often years after skin disease onset [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract). This study is among the first to demonstrate that treating psoriasis with biologics doesn't just clear skin — it may actually prevent the development of joint disease.
 
-**New knowledge:** The study found that patients treated with IL-17 and IL-23 inhibitors had a significantly reduced likelihood of developing both peripheral and axial psoriatic arthritis compared to untreated patients or those on conventional therapies. This finding supports the "psoriatic march" hypothesis (Section 10.7) and has major clinical implications: it suggests that early, effective biologic treatment of skin psoriasis may prevent the downstream organ damage that occurs when systemic inflammation is left unchecked.
+**New knowledge:** The study found that patients treated with IL-17 and IL-23 inhibitors had a significantly reduced likelihood of developing both peripheral and axial psoriatic arthritis compared to untreated patients or those on conventional therapies. This finding supports the "psoriatic march" hypothesis (Section 14.7) and has major clinical implications: it suggests that early, effective biologic treatment of skin psoriasis may prevent the downstream organ damage that occurs when systemic inflammation is left unchecked.
 
-## 19.9 Hepcidin and Iron Dysregulation — A Novel Pathogenic Mechanism (2024)
+## 27.9 Hepcidin and Iron Dysregulation — A Novel Pathogenic Mechanism (2024)
 
 **Study:** *Skin hepcidin initiates psoriasiform skin inflammation via Fe-driven hyperproliferation and neutrophil recruitment.* Abboud E, Chrayteh D, Boussetta N, et al. Nature Communications. 2024;15(1):6718.
 **Read it:** [Nature Communications](https://doi.org/10.1038/s41467-024-50993-8) | [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11306357/)
@@ -90,7 +90,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **New knowledge:** If confirmed in larger studies, iron dysregulation in the skin could represent an entirely new therapeutic target. This finding reminds us that while the IL-23/Th17 axis is the dominant framework, psoriasis pathogenesis may involve additional mechanisms that current therapies do not address.
 
-## 19.10 Somatic Mutations Ruled Out (2023)
+## 27.10 Somatic Mutations Ruled Out (2023)
 
 **Study:** *Effects of psoriasis and psoralen exposure on the somatic mutation landscape of the skin.* Olafsson S, Rodriguez E, Lawson ARJ, et al. Nature Genetics. 2023;55(11):1892-1900.
 **Read it:** [Nature Genetics](https://doi.org/10.1038/s41588-023-01545-1) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/37884686/)
