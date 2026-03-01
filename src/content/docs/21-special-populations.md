@@ -47,6 +47,21 @@ Psoriasis begins in childhood in approximately one-third of all cases, with an e
 
 **Treatment.** Most paediatric psoriasis is mild and manageable with topical therapy: low-potency corticosteroids, vitamin D analogues (calcipotriol), calcineurin inhibitors for face and flexures, and emollients. NB-UVB phototherapy is safe in children. For moderate-to-severe disease, systemic options have expanded considerably in recent years. Biologics now approved for paediatric psoriasis (ages vary by drug and country) include etanercept, adalimumab, ustekinumab, secukinumab, and ixekizumab. Apremilast was approved for children aged 6–17 in April 2024 (USA) [(FDA, 2024)](https://pubmed.ncbi.nlm.nih.gov/39576565/). Roflumilast cream (a topical PDE4 inhibitor) was also approved for children aged 6 and over in October 2023 [(FDA, 2023)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/215985s007lbl.pdf).
 
+### Paediatric Dosing Reference Table
+
+The following table summarises the approved biologic and oral agents for paediatric plaque psoriasis, with age cutoffs and weight-based dosing. Approval status differs between the FDA and EMA; clinicians should consult local regulatory guidance.
+
+| Drug | Brand | Min. Age (FDA) | Min. Age (EMA) | Weight-Based Dosing | Schedule |
+|---|---|---|---|---|---|
+| Etanercept | Enbrel | ≥4 yr | ≥6 yr | 0.8 mg/kg (max 50 mg) | SC once weekly |
+| Adalimumab | Humira | Not approved | ≥4 yr | 0.8 mg/kg load, then 0.4 mg/kg (max 40/20 mg) | SC every 2 weeks |
+| Ustekinumab | Stelara | ≥6 yr | ≥6 yr | <60 kg: 0.75 mg/kg; 60–100 kg: 45 mg; >100 kg: 90 mg | SC wk 0, 4, then q12w |
+| Secukinumab | Cosentyx | ≥6 yr | ≥6 yr | <50 kg: 75 mg; ≥50 kg: 150 mg | SC wk 0,1,2,3,4, then q4w |
+| Ixekizumab | Taltz | ≥6 yr (≥25 kg) | ≥6 yr (≥25 kg) | 25–50 kg: 80→40 mg; >50 kg: 160→80 mg | SC load, then q4w |
+| Apremilast | Otezla | ≥6 yr | Pending | 6–11 yr (≥15 kg): 20 mg BD; 12–17 yr (≥35 kg): 20–30 mg BD | Oral twice daily |
+
+*SC = subcutaneous; q4w = every 4 weeks; q12w = every 12 weeks; BD = twice daily. Adalimumab is not FDA-approved for paediatric psoriasis but is EMA-approved. Apremilast is an oral PDE4 inhibitor, not a biologic. Growth monitoring is recommended with apremilast in children.*
+
 ## 21.3 Psoriasis in Skin of Colour
 
 Psoriasis affects all racial and ethnic groups, but there are significant differences in prevalence, clinical presentation, diagnostic accuracy, treatment access, and outcomes. These disparities represent one of the most important equity issues in dermatology today.
