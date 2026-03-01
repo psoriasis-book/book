@@ -5,7 +5,7 @@ export default defineConfig({
   site: 'https://psoriasis.fyi',
   integrations: [
     starlight({
-      title: 'Psoriasis: A Comprehensive Review',
+      title: 'Psoriasis: The Missing Manual',
       description:
         'A meta-analysis of pathogenesis, immunology, genetics, and therapeutics',
       social: {
