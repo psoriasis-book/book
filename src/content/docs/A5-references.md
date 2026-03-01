@@ -430,3 +430,7 @@ sidebar:
 212. He J, Zhang X, Ge Z, Shi J, Guo S, Chen J. Whole-body cryotherapy can reduce the inflammatory response in humans: a meta-analysis based on 11 randomized controlled trials. *Sci Rep*. 2025;15(1):7759. doi:10.1038/s41598-025-90396-3. [Nature](https://doi.org/10.1038/s41598-025-90396-3)
 
 213. Natarelli N, Gahoonia N, Sivamani RK. Bacteriophages and the microbiome in dermatology: the role of the phageome and a potential therapeutic strategy. *Int J Mol Sci*. 2023;24(3):2695. doi:10.3390/ijms24032695. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9916943/)
+
+214. Manchanda Y, De A, Das S, Chakraborty D. Disease assessment in psoriasis. *Indian J Dermatol*. 2023;68(3):278-281. doi:10.4103/ijd.ijd_420_23. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389140/)
+
+215. Kumar R, Mahajan M, Mahajan BB. Cryotherapy in chronic plaque psoriasis: an effective therapeutic modality. *Egypt J Dermatol Venerol*. 2024;44(2):73-79. doi:10.4103/ejdv.ejdv_38_23. [LWW](https://journals.lww.com/ejdv/fulltext/2024/44020/cryotherapy_in_chronic_plaque_psoriasis__an.2.aspx)

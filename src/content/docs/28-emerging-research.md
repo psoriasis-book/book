@@ -89,7 +89,7 @@ Next-generation approaches include **CRISPR-engineered MSCs** with enhanced immu
 
 **Cryotherapy** — the application of extreme cold to the skin — has been explored as both a localised and whole-body treatment for psoriasis.
 
-**Localised cryotherapy** using liquid nitrogen or cryoprobe application directly to psoriatic plaques was evaluated in a 2024 study of 128 lesions: 49% achieved G5 (complete or near-complete) improvement. Palmoplantar psoriasis showed a notably better response, with 73% achieving G5 improvement [(Egyptian J Dermatology, 2024)](https://journals.lww.com/ejdv/fulltext/2024/44020/cryotherapy_in_chronic_plaque_psoriasis__an.2.aspx).
+**Localised cryotherapy** using liquid nitrogen or cryoprobe application directly to psoriatic plaques was evaluated in a 2024 study of 128 lesions: 49% achieved G5 (complete or near-complete) improvement. Palmoplantar psoriasis showed a notably better response, with 73% achieving G5 improvement [(Kumar et al., 2024)](https://journals.lww.com/ejdv/fulltext/2024/44020/cryotherapy_in_chronic_plaque_psoriasis__an.2.aspx).
 
 **Whole-body cryotherapy (WBC)** — brief (2–3 minute) exposure to extreme cold (−100°C to −140°C) in a cryochamber — increases anti-inflammatory interleukins (IL-10, IL-4) and decreases pro-inflammatory molecules. Small studies suggest benefit for psoriasis symptoms, though evidence is limited by small sample sizes and lack of blinded controls [(He et al., 2025)](https://doi.org/10.1038/s41598-025-90396-3).
 
