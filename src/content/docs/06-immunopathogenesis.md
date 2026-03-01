@@ -13,7 +13,7 @@ Psoriasis pathogenesis involves a complex interplay between innate and adaptive 
 
 Before diving into molecular detail, here's a simplified analogy that captures the essence of psoriasis pathogenesis:
 
-> **The Factory Analogy:** Think of your skin as a conveyor belt in a factory. Normally, new tiles (skin cells) are placed on the belt at one end and gently fall off the other end at a steady pace — about one full cycle every 28 days. In psoriasis, someone has cranked the belt speed to 10x. Tiles pile up at the end because they can't fall off fast enough. Meanwhile, an overzealous security team (the immune system) keeps sounding false alarms, calling in more and more workers — making everything worse. The result: a chaotic pile-up that's red, raised, and inflamed. Biologic drugs work by silencing specific members of that security team.
+> **The Factory Analogy:** Think of your skin as a conveyor belt in a factory. Normally, new tiles (skin cells) are placed on the belt at one end and gently fall off the other end at a steady pace — about one full cycle every 40–56 days. In psoriasis, someone has cranked the belt speed to roughly 8–10x. Tiles pile up at the end because they can't fall off fast enough. Meanwhile, an overzealous security team (the immune system) keeps sounding false alarms, calling in more and more workers — making everything worse. The result: a chaotic pile-up that's red, raised, and inflamed. Biologic drugs work by silencing specific members of that security team.
 
 ## 6.1 The Pathogenic Triad
 
