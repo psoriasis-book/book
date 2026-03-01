@@ -52,7 +52,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **Why it matters:** This is the gold standard of evidence synthesis, a Cochrane network meta-analysis, and provides the most comprehensive comparison of all systemic psoriasis therapies ever conducted. Clinical guidelines worldwide rely on it when ranking treatment options.
 
-**New knowledge:** The analysis definitively established the efficacy hierarchy of psoriasis biologics. IL-23 inhibitors (risankizumab, guselkumab) and the dual IL-17 inhibitor bimekizumab ranked at the top for achieving PASI 90. It confirmed that newer biologics targeting IL-23 and IL-17 are substantially more effective than older TNF-α inhibitors and conventional systemics, while maintaining favourable safety profiles. This evidence has driven the global shift toward IL-23 inhibitors as first-line biologic therapy.
+**New knowledge:** The analysis established the efficacy hierarchy of psoriasis biologics. IL-23 inhibitors (risankizumab, guselkumab) and IL-17 inhibitors (ixekizumab) ranked at the top for achieving PASI 90. It confirmed that newer biologics targeting IL-23 and IL-17 are substantially more effective than older TNF-α inhibitors and conventional systemics, while maintaining favourable safety profiles. Bimekizumab was not included in this analysis (its pivotal trials were too recent for the review's inclusion window) but has since demonstrated comparable or superior efficacy in head-to-head trials (Section 27.4). This evidence has driven the global shift toward IL-23 inhibitors as first-line biologic therapy.
 
 ## 27.6 Oral IL-23 Receptor Antagonist — Icotrokinra Phase 3 (ICONIC-LEAD, 2025)
 
