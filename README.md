@@ -1,6 +1,8 @@
-# Psoriasis: A Comprehensive Meta-Analysis
+# Psoriasis: The Missing Manual
 
 A collaborative book covering the pathogenesis, immunology, genetics, and therapeutics of psoriasis.
+
+**Not medical advice**.
 
 **Read online:** [psoriasis.fyi](https://psoriasis.fyi)
 
