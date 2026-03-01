@@ -15,6 +15,16 @@ The biological rationale is well-established. Adipose tissue (body fat) produces
 
 **Evidence grade: High. Recommended as adjunct therapy by clinical guidelines.**
 
+### GLP-1 Receptor Agonists and Psoriasis
+
+GLP-1 receptor agonists (semaglutide/Ozempic/Wegovy, liraglutide/Saxenda, tirzepatide/Mounjaro) deserve specific mention. Originally developed for type 2 diabetes, they've become widely prescribed for weight loss. For psoriasis patients, they're interesting for two reasons.
+
+First, the weight loss they produce is substantial (typically 10-15% of body weight), and as discussed above, weight loss directly improves psoriasis. A 2024 retrospective cohort study of over 1,800 psoriasis patients with type 2 diabetes found that those prescribed GLP-1 RAs had significantly lower rates of psoriasis flares requiring treatment escalation compared to patients on other diabetes medications [(Hoisnard et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38722631/). Second, GLP-1 RAs may have direct anti-inflammatory effects beyond weight loss. GLP-1 receptors are expressed on immune cells, and preclinical data suggest that GLP-1 signalling suppresses NF-κB activation and reduces TNF-α, IL-6, and IL-17 production [(Mehdi et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37297087/).
+
+This is an active and fast-moving research area. If you have psoriasis and are considering weight loss medication, there may be an additional rationale for choosing a GLP-1 RA, though no clinical guideline yet recommends them specifically for psoriasis.
+
+**Evidence grade: Moderate (observational + preclinical). No RCTs of GLP-1 RAs for psoriasis as primary indication yet.**
+
 ## 19.2 Mediterranean Diet — Moderate Evidence (Growing)
 
 The Mediterranean diet, rich in olive oil, fish, fruits, vegetables, legumes, and whole grains, and low in processed food and red meat, has shown promising results. The first randomised clinical trial specifically evaluating a structured Mediterranean diet programme for psoriasis (the MEDIPSO trial, 2025) found that a 16-week dietitian-guided Mediterranean diet intervention produced a 3.4-point greater PASI reduction than a standard low-fat diet. This improvement was independent of weight loss [(Perez-Bootello et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40991259/). The intervention group also showed improvements in HbA1c (a marker of blood sugar control) and anxiety.
