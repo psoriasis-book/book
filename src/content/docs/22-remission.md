@@ -35,4 +35,14 @@ The biological explanation for this is the persistence of tissue-resident memory
 
 ## 22.4 On-Treatment Complete Clearance: Increasingly Achievable
 
+### Dose Reduction and Interval Extension
+
+Between full-dose treatment and complete discontinuation lies a middle ground that's gaining traction: dose reduction or interval extension. The idea is simple. If a patient achieves sustained clearance on a biologic, can you maintain that clearance while giving the drug less often?
+
+Registry data and several prospective studies suggest you can. A systematic review of biologic dose reduction strategies found that 50-80% of patients who achieved stable clearance maintained acceptable disease control when dosing intervals were extended [(Atalay et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32474913/). The GUIDE trial (Section 27.3) is the most rigorous test of this approach, using structured guselkumab tapering in super-responders. IL-23 inhibitors appear particularly suited to interval extension because of their upstream mechanism: by blocking the master switch rather than the downstream effectors, they may achieve deeper immunological remission.
+
+The practical appeal is obvious. Less frequent dosing means fewer injections, lower cost, reduced drug exposure, and potentially fewer side effects. The risk is disease relapse during the extended interval. Current evidence suggests that patients with shorter disease duration, complete clearance (not just near-clearance), and absence of psoriatic arthritis are the best candidates. If a flare occurs during dose reduction, returning to the standard dosing interval typically recaptures the response.
+
+This isn't yet standard guideline practice, but it's happening in real-world clinical settings, and the evidence base is building.
+
 Drug-free remission remains elusive for chronic plaque psoriasis, but *on-treatment* complete clearance (PASI 100) has become an increasingly realistic goal with modern biologics. The most effective IL-23 inhibitors (e.g. risankizumab) achieve PASI 100 in approximately 40–55% of patients, and newer agents like bimekizumab achieve even higher rates. PASI 90 (near-complete clearance) is achieved in 60–80% of patients on modern biologics. The 2025 NPF consensus statement reflects this shift: on-treatment remission is now defined as sustained complete clearance (BSA 0% or IGA 0) for at least 6 months. That's a standard far beyond the historical PASI 75 benchmark, recognising that complete clearance represents deeper suppression of the underlying systemic inflammation and may reduce the risk of psoriatic arthritis [(Armstrong et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40531503/).
