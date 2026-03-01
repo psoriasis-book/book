@@ -26,9 +26,9 @@ Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently 
 
 | Target | Agent | Status | Mechanism |
 |--------|-------|--------|-----------|
-| TRPV1 | Asivatrep (PAC-14028) | Phase 2/3 | Topical TRPV1 antagonist; most clinically advanced anti-itch agent |
-| NK1R | Serlopitant | Phase 2 completed | Blocks substance P signalling; mixed results in psoriasis |
-| IL-31RA | Nemolizumab | Approved (atopic dermatitis) | Anti-IL-31RA antibody; being explored for psoriatic itch |
+| TRPV1 | Asivatrep (PAC-14028) | Phase 2/3 | Topical TRPV1 antagonist; inhibits heat and capsaicin-mediated itch signalling |
+| NK1R | Serlopitant | Phase 2 completed (programme discontinued) | Blocks substance P signalling; showed significant itch reduction vs placebo in psoriasis (PSORIXA trial) but development halted for strategic reasons |
+| IL-31RA | Nemolizumab | FDA-approved (Dec 2024, atopic dermatitis) | Anti-IL-31RA antibody; the most clinically advanced anti-itch biologic; being explored for psoriatic itch |
 | JAK pathway | Ruxolitinib cream | Approved (atopic dermatitis) | Topical JAK inhibitor; reduces itch-associated cytokine signalling |
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Preclinical mechanisms well-established; early clinical data for anti-itch agents, though most are not yet specifically approved for psoriatic itch.
