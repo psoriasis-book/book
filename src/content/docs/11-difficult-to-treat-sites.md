@@ -1,13 +1,29 @@
 ---
-title: "Difficult-to-Treat Sites: Palmoplantar, Scalp, and Intertriginous Psoriasis"
-description: "Palmoplantar psoriasis, scalp psoriasis, and inverse/genital psoriasis as distinct clinical entities requiring specialised management"
+title: "Difficult-to-Treat Sites: Nails, Palmoplantar, Scalp, and Intertriginous Psoriasis"
+description: "Nail psoriasis, palmoplantar psoriasis, scalp psoriasis, and inverse/genital psoriasis as distinct clinical entities requiring specialised management"
 sidebar:
   order: 11
 ---
 
-While Section 10 covers the clinical presentation of psoriasis subtypes, certain anatomical sites present unique diagnostic and therapeutic challenges that warrant dedicated discussion. These "difficult-to-treat" sites — palms and soles, scalp, and skin folds (including genital skin) — disproportionately affect quality of life relative to their surface area and often require treatment strategies distinct from generalised plaque psoriasis.
+While Section 10 covers the clinical presentation of psoriasis subtypes, certain anatomical sites present unique diagnostic and therapeutic challenges that warrant dedicated discussion. These "difficult-to-treat" sites — nails, palms and soles, scalp, and skin folds (including genital skin) — disproportionately affect quality of life relative to their surface area and often require treatment strategies distinct from generalised plaque psoriasis.
 
-## 11.1 Palmoplantar Psoriasis
+## 11.1 Nail Psoriasis
+
+Nail psoriasis affects approximately 50% of psoriasis patients at any given time and up to 80–90% over a lifetime [(Jiaravuthisan et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17572277/). In patients with psoriatic arthritis, nail involvement is even more common (66–80%) and serves as an independent predictor of PsA development — reflecting the anatomical connection between the nail matrix and the enthesis of the distal interphalangeal (DIP) joint extensor tendon [(Edwards & de Berker, 2009)](https://pubmed.ncbi.nlm.nih.gov/19911853/). Despite its high prevalence, nail psoriasis is frequently undertreated and can cause significant functional impairment and psychological distress.
+
+**Clinical features.** Nail psoriasis produces distinct signs depending on whether the nail matrix or nail bed is affected. Matrix disease causes **pitting** (the hallmark sign — small depressions in the nail plate), **leukonychia** (white spots), **crumbling**, and **red spots in the lunula**. Nail bed disease causes **onycholysis** (separation of the nail plate from the bed), **oil drop discolouration** (translucent yellow-red patches), **splinter haemorrhages**, and **subungual hyperkeratosis** (thickening under the nail). The mNAPSI scoring system (see Section 10) assesses all 8 features across 10 fingernails on a 0–130 scale; mNAPSI = 0 represents complete nail clearance, the nail equivalent of PASI 100 [(Cassell et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17216680/).
+
+**Treatment ladder.** A stepwise approach is recommended, guided by the number of nails involved and severity [(Rigopoulos et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30731172/):
+
+1. **Topical therapy** (first-line for mild disease or few nails affected): Potent topical corticosteroids (e.g., clobetasol propionate 0.05%) applied under occlusion, topical calcipotriol (more effective for nail bed signs than matrix disease), and tazarotene 0.1% gel. Evidence quality for topicals is low per the Cochrane review, but clinical experience supports their use in mild cases [(de Vries et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23440816/).
+2. **Intralesional corticosteroid injection** (first-line for ≤3 nails, especially matrix-predominant disease): Triamcinolone acetonide 2.5–10 mg/mL (diluted with 1% lidocaine), 0.1–0.2 mL per injection into the proximal nail fold, every 4–5 weeks for fingernails. Recent evidence suggests lower concentrations (2.5 mg/mL) are equally effective as higher doses. Pain is the main limiting factor.
+3. **Systemic biologic therapy** (for moderate-to-severe disease or multiple nails): Biologics targeting the IL-17 pathway show the strongest nail-specific evidence. In the TRANSFIGURE trial, secukinumab 300 mg achieved a 45% NAPSI reduction at week 16 (vs. 11% placebo) and 73% improvement at 2.5 years [(Reich et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30367462/). Ixekizumab achieved complete nail clearance (NAPSI = 0) in 67% of patients at week 60 in UNCOVER-3. In the head-to-head IXORA-S trial, ixekizumab was superior to ustekinumab for nail clearance (62% vs. 29% at week 52). Bimekizumab, targeting both IL-17A and IL-17F, achieved the highest rates of simultaneous PASI 100 + mNAPSI 0 in head-to-head trials: 46% vs. 18% (adalimumab), 51% vs. 27% (ustekinumab), and 63% vs. 36% (secukinumab). IL-23 inhibitors (risankizumab, guselkumab) are also effective for nails, though real-world data suggest IL-17 pathway agents may achieve faster and more complete nail clearance.
+
+**Key clinical points.** Nail psoriasis responds more slowly to treatment than skin disease — patients should be counselled that visible improvement in nails typically takes 3–6 months due to the slow rate of nail growth (fingernails grow approximately 3 mm per month). Complete regrowth of a fingernail takes 4–6 months; toenails may take 12–18 months.
+
+**Research stage: Established entity.** **Evidence strength: High.** Phase 3 RCTs with nail-specific endpoints; Cochrane review available; expert consensus guidelines published.
+
+## 11.2 Palmoplantar Psoriasis
 
 Psoriasis affecting the palms and soles is recognised as a distinct clinical entity with unique characteristics that set it apart from generalised plaque psoriasis. It affects approximately 3–4% of psoriasis patients but causes disproportionate disability: even a small affected area on the hands or feet can impair grasping, walking, and occupational function, with DLQI scores comparable to those of patients with much larger BSA involvement [(Brunasso et al., 2025)](https://www.mdpi.com/2077-0383/14/10/3273).
 
@@ -19,7 +35,7 @@ Psoriasis affecting the palms and soles is recognised as a distinct clinical ent
 
 **Research stage: Established entity, emerging treatments.** **Evidence strength: Moderate-High.** Phase 3 RCT data for multiple agents; distinct pathophysiology well-characterised.
 
-## 11.2 Scalp Psoriasis
+## 11.3 Scalp Psoriasis
 
 Scalp involvement occurs in over 50% of psoriasis patients, making it one of the most common manifestations of the disease. The scalp is now recognised as a **high-impact site** — a designation that may qualify patients for systemic or biologic therapy even when total BSA is low, given its outsized effect on quality of life [(NICE CG153)](https://www.nice.org.uk/guidance/cg153).
 
@@ -39,7 +55,7 @@ Scalp involvement occurs in over 50% of psoriasis patients, making it one of the
 
 **Research stage: Established entity, new treatments emerging.** **Evidence strength: High.** Network meta-analyses, Phase 3 data, and newly approved agents.
 
-## 11.3 Inverse and Genital Psoriasis
+## 11.4 Inverse and Genital Psoriasis
 
 **Inverse psoriasis** (also called flexural psoriasis) affects skin folds — axillae, groin, inframammary folds, intergluteal cleft, and genital skin. **Genital psoriasis** specifically affects the vulva, penis, or perianal area and may occur with or without flexural involvement elsewhere. Up to 63% of psoriasis patients experience genital involvement at some point in their lives, yet it remains under-reported, under-diagnosed, and undertreated [(Wiley, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajd.14227).
 

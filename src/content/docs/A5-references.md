@@ -446,3 +446,15 @@ sidebar:
 220. Takeshita J, Augustin M, de Jong EMGJ, et al. Health-related QOL differs by race/ethnicity in North American patients with psoriasis: results from PSOLAR. *J Invest Dermatol*. 2022;142(12):2528-2531.e3. doi:10.1016/j.jid.2022.02.013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35304247/)
 
 221. Liang Y, Sarkar MK, Tsoi LC, Gudjonsson JE. Psoriasis: a mixed autoimmune and autoinflammatory disease. *Curr Opin Immunol*. 2017;49:1-8. doi:10.1016/j.coi.2017.07.007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28738209/)
+
+222. Jiaravuthisan MM, Sasseville D, Vender RB, Murphy F, Muhn CY. Psoriasis of the nail: anatomy, pathology, clinical presentation, and a review of the literature on therapy. *J Am Acad Dermatol*. 2007;57(1):1-27. doi:10.1016/j.jaad.2005.07.073. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17572277/)
+
+223. Edwards F, de Berker D. Nail psoriasis: clinical presentation and best practice recommendations. *Drugs*. 2009;69(17):2351-2361. doi:10.2165/11318180-000000000-00000. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19911853/)
+
+224. Cassell SE, Bieber JD, Rich P, et al. The modified Nail Psoriasis Severity Index: validation of an instrument to assess psoriatic nail involvement in patients with psoriatic arthritis. *J Rheumatol*. 2007;34(1):123-129. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17216680/)
+
+225. Rigopoulos D, Baran R, Chiheb S, et al. Recommendations for the definition, evaluation, and treatment of nail psoriasis in adult patients with no or mild skin psoriasis: a dermatologist and nail expert group consensus. *J Am Acad Dermatol*. 2019;81(1):228-240. doi:10.1016/j.jaad.2019.01.072. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30731172/)
+
+226. de Vries ACQ, Bogaards NA, Hooft L, et al. Interventions for nail psoriasis. *Cochrane Database Syst Rev*. 2013;(1):CD007633. doi:10.1002/14651858.CD007633.pub2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23440816/)
+
+227. Reich K, Sullivan J, Arenberger P, et al. Effect of secukinumab on the clinical activity and disease burden of nail psoriasis: 32-week results from the randomized placebo-controlled TRANSFIGURE trial. *Br J Dermatol*. 2019;181(5):954-966. doi:10.1111/bjd.17351. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30367462/)
