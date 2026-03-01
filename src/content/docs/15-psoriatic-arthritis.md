@@ -79,7 +79,7 @@ Current guidelines recommend a **treat-to-target (T2T)** strategy for PsA. This 
 - **PASDAS** (Psoriatic Arthritis Disease Activity Score) integrates joint counts, patient and physician assessments, CRP, SF-36 physical component, and enthesitis into a continuous score.
 - **CPDAI** (Composite Psoriatic Disease Activity Index) uniquely assesses all five clinical domains of PsA separately, making it the most comprehensive domain-level assessment.
 
-Evidence supports that T2T in PsA leads to better outcomes than routine care, including less radiographic progression and better functional outcomes. The challenge lies in PsA's multi-domain nature. A patient may achieve remission in one domain (e.g. skin) while remaining active in another (e.g. enthesitis). That means comprehensive assessment across all domains at each visit is essential.
+The TICOPA trial demonstrated that T2T in PsA leads to better outcomes than routine care, including less radiographic progression and better functional outcomes [(Coates et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/26673831/). The challenge lies in PsA's multi-domain nature. A patient may achieve remission in one domain (e.g. skin) while remaining active in another (e.g. enthesitis). That means comprehensive assessment across all domains at each visit is essential.
 
 ## 15.8 Rheumatology Co-Management
 
