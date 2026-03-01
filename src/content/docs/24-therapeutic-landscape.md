@@ -116,6 +116,27 @@ The availability of biosimilars is expected to expand significantly in the comin
 - **Cyclosporine**: A calcineurin inhibitor (it blocks calcineurin, a protein that T cells need to activate) that suppresses T cell activation. Effective but limited by nephrotoxicity (kidney damage) and is generally used for short-term control.
 - **Acitretin**: An oral retinoid (a synthetic form of vitamin A). Teratogenic (causes birth defects), precluding use in women of childbearing potential.
 
+### Key Drug-Drug Interactions
+
+Conventional systemic agents for psoriasis have clinically significant drug interactions that clinicians must be aware of. The table below summarises the most important interactions:
+
+| Psoriasis Drug | Interacting Drug | Mechanism | Clinical Consequence |
+|---|---|---|---|
+| **Methotrexate** | NSAIDs | Reduced renal clearance of methotrexate via inhibition of tubular secretion | Methotrexate toxicity: pancytopenia, mucositis, hepatitis |
+| Methotrexate | Trimethoprim (co-trimoxazole) | Additive antifolate effect + displacement from protein binding | Severe bone marrow suppression; **avoid combination** |
+| Methotrexate | Hepatotoxic drugs (alcohol, azole antifungals) | Cumulative hepatotoxicity | Elevated transaminases, fibrosis, cirrhosis |
+| **Ciclosporin** | Statins (simvastatin, lovastatin) | CYP3A4 and OATP1B1 inhibition increases statin levels | Rhabdomyolysis; use pravastatin or fluvastatin instead |
+| Ciclosporin | Macrolides (clarithromycin, erythromycin) | CYP3A4 inhibition increases ciclosporin levels | Nephrotoxicity, hypertension; azithromycin is safe |
+| Ciclosporin | Potassium-sparing diuretics | Reduced potassium excretion (additive) | Hyperkalaemia, cardiac arrhythmia risk |
+| Ciclosporin | Grapefruit juice | Intestinal CYP3A4 inhibition | 50–62% increase in ciclosporin levels |
+| **Acitretin** | Methotrexate | Cumulative hepatotoxicity | Elevated transaminases, hepatic fibrosis |
+| Acitretin | Tetracyclines | Both raise intracranial pressure | Pseudotumour cerebri; **contraindicated** |
+| Acitretin | Alcohol | Conversion to etretinate (t½ >100 days) | Prolonged teratogenic risk (up to 3 years) |
+| **Apremilast** | Strong CYP3A4 inducers (rifampicin, carbamazepine, phenytoin) | Accelerated apremilast metabolism | ~72% reduction in drug levels; therapeutic failure |
+| **Deucravacitinib** | Live vaccines | Immunosuppressive effect | Impaired vaccine response; use inactivated vaccines |
+
+Biologic therapies generally have fewer drug-drug interactions than conventional systemics, as they are not metabolised by cytochrome P450 enzymes. However, concurrent use of multiple immunosuppressive agents increases infection risk, and live vaccines should be avoided during biologic therapy.
+
 ## 24.7 Phototherapy
 
 **Narrowband UV-B (NB-UVB)** phototherapy is the most commonly prescribed light therapy for psoriasis. UV-B radiation induces apoptosis (programmed cell death — a controlled self-destruct mechanism that cells use to die without causing inflammation) in activated T cells in the skin and suppresses local immune responses. **PUVA** (psoralen + UV-A) is also used but carries a higher long-term risk of skin cancer.
