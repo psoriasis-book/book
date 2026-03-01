@@ -9,7 +9,7 @@ sidebar:
 
 ## 10.1 Types of Psoriasis
 
-Psoriasis encompasses several clinical variants:
+Psoriasis encompasses several clinical variants [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract):
 
 - **Plaque psoriasis (psoriasis vulgaris)**: The most common form, accounting for approximately 80-90% of cases. It presents as well-demarcated, raised, erythematous (red) plaques covered with silvery-white scales, typically on the elbows, knees, scalp, and lower back.
 - **Guttate psoriasis**: Characterised by small, droplet-shaped lesions scattered across the trunk and limbs. Often triggered by streptococcal throat infection, particularly in young adults.
