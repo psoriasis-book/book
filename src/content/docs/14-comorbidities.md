@@ -66,7 +66,7 @@ The mechanisms linking psoriasis to kidney disease are multifactorial:
 - **Drug nephrotoxicity**: Methotrexate can cause interstitial nephritis and direct tubular toxicity, particularly with chronic use. Ciclosporin causes dose-dependent nephrotoxicity.
 - **Metabolic syndrome**: Obesity, diabetes, and hypertension — all more prevalent in psoriasis — are independently the leading causes of CKD.
 
-A 2025 study found that psoriasis remains a risk factor for CKD even in patients with concurrent type 2 diabetes, suggesting the inflammatory contribution is additive rather than fully explained by metabolic comorbidities [(Medscape, 2025)](https://www.medscape.com/viewarticle/psoriasis-tied-kidney-disease-risk-t2d-despite-treatment-2025a1000bzw).
+A 2025 retrospective cohort study found that psoriasis remains a risk factor for CKD even in patients with concurrent type 2 diabetes, with significantly higher rates of diabetic nephropathy, CKD, ESRD, and dialysis at 3, 5, and 10 years — even in patients receiving renoprotective or biologic therapy — suggesting the inflammatory contribution is additive rather than fully explained by metabolic comorbidities [(Sontam et al., 2025)](https://doi.org/10.1016/j.jaad.2025.03.098).
 
 **Clinical implications**: Renal function (eGFR, serum creatinine) should be monitored regularly in psoriasis patients, particularly those on nephrotoxic medications. Dose adjustments for methotrexate and other renally cleared drugs are essential in patients with impaired renal function (see Section 21.4).
 

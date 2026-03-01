@@ -424,3 +424,9 @@ sidebar:
 209. Wang H, Li C, Zhang Y, et al. Expert consensus on mesenchymal stem cell application in psoriasis clinical trials. *Aging Dis*. 2024;15(4):1456-1470. doi:10.14336/AD.2024.0012. [Aging and Disease](https://www.aginganddisease.org/EN/10.14336/AD.2024.0012)
 
 210. Gelfand JM, Armstrong AW, Garg A, et al. National Psoriasis Foundation consensus statements on vaccination for psoriasis patients. *J Am Acad Dermatol*. 2024;91(5):978-989. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11998957/)
+
+211. Sontam T, Cho SW, Chen A, Chen H, Raman J, Tarbox M. Psoriasis is associated with an increased risk of chronic kidney disease in diabetic patients despite renoprotective or biologic therapy: a retrospective cohort study. *J Am Acad Dermatol*. 2025;93(3):788-789. doi:10.1016/j.jaad.2025.03.098. [JAAD](https://doi.org/10.1016/j.jaad.2025.03.098)
+
+212. He J, Zhang X, Ge Z, Shi J, Guo S, Chen J. Whole-body cryotherapy can reduce the inflammatory response in humans: a meta-analysis based on 11 randomized controlled trials. *Sci Rep*. 2025;15(1):7759. doi:10.1038/s41598-025-90396-3. [Nature](https://doi.org/10.1038/s41598-025-90396-3)
+
+213. Natarelli N, Gahoonia N, Sivamani RK. Bacteriophages and the microbiome in dermatology: the role of the phageome and a potential therapeutic strategy. *Int J Mol Sci*. 2023;24(3):2695. doi:10.3390/ijms24032695. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9916943/)
