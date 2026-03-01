@@ -5,11 +5,11 @@ sidebar:
   order: 13
 ---
 
-Psoriasis is currently diagnosed clinically, with disease severity assessed by subjective scoring systems (Section 8) and treatment selected largely by trial and error. The emerging field of biomarker discovery — using high-throughput technologies to identify measurable biological indicators — promises to transform this approach into one guided by objective, molecular data. This chapter surveys the current state of biomarker research across proteomic, metabolomic, and transcriptomic platforms.
+Psoriasis is currently diagnosed clinically, with disease severity assessed by subjective scoring systems (Section 8) and treatment selected largely by trial and error. The emerging field of biomarker discovery, using high-throughput technologies to identify measurable biological indicators, promises to change this. The goal: treatment guided by objective, molecular data. This chapter surveys the current state of biomarker research across proteomic, metabolomic, and transcriptomic platforms.
 
 ## 13.1 Proteomic Biomarkers
 
-**Proteomics** — the large-scale study of all proteins present in a biological sample — is being applied to psoriasis with the goal of identifying blood-based markers that could replace or supplement clinical scoring.
+**Proteomics**, the large-scale study of all proteins present in a biological sample, is being applied to psoriasis with the goal of identifying blood-based markers that could replace or supplement clinical scoring.
 
 A 2025 study using plasma proteomics developed a **risk score** for early psoriasis diagnosis based on a panel of circulating proteins, demonstrating the feasibility of protein-based screening in at-risk populations [(Sorokin et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12303817/). Specific proteins of interest include:
 
@@ -23,15 +23,15 @@ The clinical application of proteomic biomarkers remains in early stages. Key ch
 
 ## 13.2 Metabolomic Signatures
 
-**Metabolomics** analyses the small molecules (metabolites) produced by cellular processes, providing a functional readout of what is actually happening in the body at a given moment.
+**Metabolomics** analyses the small molecules (metabolites) produced by cellular processes, providing a functional readout of what's actually happening in the body at a given moment.
 
 Several metabolomic studies have identified psoriasis-specific signatures:
 
-- **Dipeptide biomarkers**: Two novel dipeptides — **gamma-glutamylserine (gamma-GluSer)** and **threonylglycine (ThrGly)** — were identified as elevated in psoriasis patients compared with healthy controls. A lysine glycation metabolite (**fructosyl-lysine/Fruc-Lys**) was also discriminating [(Zhang et al., 2025)](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173).
+- **Dipeptide biomarkers**: Two novel dipeptides, **gamma-glutamylserine (gamma-GluSer)** and **threonylglycine (ThrGly)**, were identified as elevated in psoriasis patients compared with healthy controls. A lysine glycation metabolite (**fructosyl-lysine/Fruc-Lys**) was also discriminating [(Zhang et al., 2025)](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173).
 - **Severity-dependent amino acid changes**: LC-MS metabolomics reveals that circulating amino acid levels change proportionally with disease severity and are ameliorated by anti-TNF treatment, suggesting they may serve as objective treatment response markers [(Sorokin et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507/).
 - **Lipid dysregulation**: Altered profiles of sphingolipids, phospholipids, and ceramides have been consistently observed, connecting to the oxidative stress and ferroptosis pathways described in Section 7.
 
-The advantage of metabolomics is its functional nature — metabolites reflect real-time disease activity rather than genetic predisposition — making it potentially more useful for monitoring treatment response and predicting flares than genomic approaches.
+The advantage of metabolomics is its functional nature. Metabolites reflect real-time disease activity rather than genetic predisposition, making this approach potentially more useful for monitoring treatment response and predicting flares than genomic approaches.
 
 **Research stage: Experimental.** **Evidence strength: Low-Moderate.** Cohort studies with replication in some findings; requires prospective validation in clinical trial settings.
 
@@ -51,7 +51,7 @@ Blood-based transcriptomics is also advancing, with studies identifying circulat
 
 ## 13.4 Multi-Omics Integration and the Future of Precision Medicine
 
-The greatest potential for biomarker-guided treatment lies in integrating multiple data layers — genomics (Section 5), transcriptomics, proteomics, and metabolomics — into comprehensive patient profiles.
+The greatest potential for biomarker-guided treatment lies in integrating multiple data layers: genomics (Section 5), transcriptomics, proteomics, and metabolomics into comprehensive patient profiles.
 
 The **109-loci GWAS** (Section 19.1) provides the genomic foundation: genetic risk scores may predict disease onset and severity. The PSORT Consortium (Section 22) has already demonstrated that combining HLA-C*06:02 genotyping with clinical variables can predict differential response to adalimumab versus ustekinumab (Section 9.7). The next step is integrating these genetic predictors with real-time molecular data (transcriptomic and proteomic signatures from blood or skin samples) to guide treatment selection at diagnosis.
 
@@ -61,6 +61,6 @@ The vision of precision medicine in psoriasis is a decision framework where:
 3. **Treatment response biomarkers** monitor efficacy objectively and predict loss of response before clinical relapse
 4. **Pharmacogenomics** identifies patients at risk of adverse events (e.g., hepatotoxicity with methotrexate)
 
-Current limitations include the cost of multi-omics profiling, the need for prospective validation in clinical trial populations, and the challenge of translating complex data into clinically actionable algorithms. However, decreasing sequencing and analysis costs, combined with AI-driven data integration (Section 28.7), are likely to make precision approaches increasingly accessible.
+We're not there yet. Current limitations include the cost of multi-omics profiling, the need for prospective validation in clinical trial populations, and the challenge of translating complex data into clinically actionable algorithms. But decreasing sequencing and analysis costs, combined with AI-driven data integration (Section 28.7), are likely to make precision approaches increasingly accessible.
 
 **Research stage: Experimental.** **Evidence strength: Low.** Concept papers and pilot studies; HLA-C*06:02 pharmacogenomic testing is the most clinically advanced element, but multi-omics integration remains largely theoretical.

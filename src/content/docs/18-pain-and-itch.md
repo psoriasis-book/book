@@ -5,22 +5,22 @@ sidebar:
   order: 18
 ---
 
-Pain and itch are among the most distressing symptoms reported by psoriasis patients, yet they receive remarkably little attention compared with the visible signs of the disease. Both are mediated by a complex neuroimmune dialogue between sensory nerve fibres, immune cells, and keratinocytes — the same cross-talk described in Section 28.8 (neuroimmunology). This chapter examines the molecular mechanisms underlying these symptoms and the therapeutic implications.
+Pain and itch are among the most distressing symptoms reported by psoriasis patients, yet they receive far less attention than the visible signs of the disease. Both are mediated by a complex neuroimmune dialogue between sensory nerve fibres, immune cells, and keratinocytes, the same cross-talk described in Section 28.8 (neuroimmunology). This chapter examines the molecular mechanisms underlying these symptoms and the therapeutic implications.
 
 ## 18.1 The Neuroscience of Psoriatic Itch
 
-Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently cited as the single most bothersome symptom — more troublesome even than visible plaques. Psoriatic itch differs from itch in other conditions (such as eczema) in its mechanisms, and current treatments often fail to adequately control it.
+Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently cited as the single most bothersome symptom, more troublesome even than visible plaques. Psoriatic itch differs from itch in other conditions (such as eczema) in its mechanisms, and current treatments often fail to adequately control it.
 
 **The neuro-immune itch circuit** in psoriasis involves several key molecular players:
 
-**IL-31 and its receptor.** IL-31, produced by Th2 cells and activated macrophages, acts through the **IL-31 receptor A (IL-31RA)** expressed on sensory neurons in the dorsal root ganglia (DRG) — the clusters of nerve cell bodies that relay sensory information from the skin to the spinal cord. IL-31 binding triggers intracellular calcium release and ERK1/2 phosphorylation in these neurons, directly generating itch signals [(Jaworecka et al., 2025)](https://link.springer.com/article/10.1007/s10753-025-02385-3).
+**IL-31 and its receptor.** IL-31, produced by Th2 cells and activated macrophages, acts through the **IL-31 receptor A (IL-31RA)** expressed on sensory neurons in the dorsal root ganglia (DRG), the clusters of nerve cell bodies that relay sensory information from the skin to the spinal cord. IL-31 binding triggers intracellular calcium release and ERK1/2 phosphorylation in these neurons, directly generating itch signals [(Jaworecka et al., 2025)](https://link.springer.com/article/10.1007/s10753-025-02385-3).
 
 **TRPV1 and TRPA1 channels.** Transient receptor potential vanilloid 1 (TRPV1) and ankyrin 1 (TRPA1) are ion channels on sensory nerve endings that detect heat, chemicals, and inflammatory mediators. In psoriatic skin:
 - **TRPV1 is upregulated**, lowering the threshold for itch and pain perception.
 - **Nerve growth factor (NGF)**, which is elevated in psoriatic lesions (Section 28.8), further sensitises TRPV1 channels by lowering their activation threshold.
 - The skin microbiota stimulates NGF production in mast cells, adding a microbial contribution to itch generation [(Takahashi & Yamasaki, 2023)](https://www.sciencedirect.com/science/article/abs/pii/S1567576923003843).
 
-**Neuropeptide amplification.** When TRPV1+ nerve endings are activated, they release **substance P** and **CGRP** (calcitonin gene-related peptide) — the same neuropeptides described in the neuroimmunology section (Section 28.8). Substance P activates mast cells via the NK1 receptor, causing degranulation and release of histamine, tryptase, and further inflammatory mediators. CGRP amplifies IL-23/IL-17 signalling. This creates a **neurogenic inflammation loop** in which itch signals generate more inflammation, which generates more itch.
+**Neuropeptide amplification.** When TRPV1+ nerve endings are activated, they release **substance P** and **CGRP** (calcitonin gene-related peptide), the same neuropeptides described in the neuroimmunology section (Section 28.8). Substance P activates mast cells via the NK1 receptor, causing degranulation and release of histamine, tryptase, and further inflammatory mediators. CGRP amplifies IL-23/IL-17 signalling. This creates a **neurogenic inflammation loop**: itch signals generate more inflammation, which generates more itch.
 
 **Emerging therapeutic targets for itch:**
 
@@ -35,7 +35,7 @@ Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently 
 
 ## 18.2 Pain in Psoriasis and Psoriatic Arthritis
 
-Pain in psoriasis extends beyond the joint involvement of PsA (Section 15). Cutaneous pain — burning, stinging, and soreness of psoriatic plaques — is reported by 42% of patients and is distinct from itch, though both share some neural pathways.
+Pain in psoriasis extends beyond the joint involvement of PsA (Section 15). Cutaneous pain (burning, stinging, and soreness of psoriatic plaques) is reported by 42% of patients and is distinct from itch, though both share some neural pathways.
 
 A 2025 study of 114 psoriatic arthritis patients systematically characterised pain mechanisms and found [(Akdeniz et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010264/):
 - **Central sensitisation** (amplified pain processing in the spinal cord and brain) was present in **43%** of patients
@@ -46,22 +46,22 @@ A 2025 study of 114 psoriatic arthritis patients systematically characterised pa
 
 1. **Peripheral nociception**: Inflammatory mediators (TNF-α, IL-17, IL-1β, prostaglandins) directly activate nociceptors (pain-sensing nerve endings) in the skin via TRPV1 and TRPA1 channels. This produces the burning and stinging sensation of active plaques.
 
-2. **Peripheral sensitisation**: Prolonged inflammation lowers the activation threshold of nociceptors through phosphorylation of TRPV1 by protein kinase C (PKC), protein kinase A (PKA), and calcium/calmodulin-dependent kinase II (CaMKII). Stimuli that would normally be painless (light touch, warm water) become painful — a phenomenon called **allodynia** [(Puig et al., 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196).
+2. **Peripheral sensitisation**: Prolonged inflammation lowers the activation threshold of nociceptors through phosphorylation of TRPV1 by protein kinase C (PKC), protein kinase A (PKA), and calcium/calmodulin-dependent kinase II (CaMKII). Stimuli that would normally be painless (light touch, warm water) become painful. This phenomenon is called **allodynia** [(Puig et al., 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196).
 
-3. **Central sensitisation**: Persistent nociceptive input from the periphery causes maladaptive changes in spinal cord dorsal horn neurons, including increased excitability and expansion of receptive fields. This amplifies pain perception beyond the original stimulus and beyond the original body region — explaining why some patients experience widespread pain.
+3. **Central sensitisation**: Persistent nociceptive input from the periphery causes maladaptive changes in spinal cord dorsal horn neurons, including increased excitability and expansion of receptive fields. This amplifies pain perception beyond the original stimulus and beyond the original body region, which explains why some patients experience widespread pain.
 
-4. **Peripheral polyneuropathy**: Psoriasis and PsA are associated with increased risk of peripheral polyneuropathy — damage to the small nerve fibres that detect temperature and pain. This may contribute to the persistent burning and tingling sensations reported by patients.
+4. **Peripheral polyneuropathy**: Psoriasis and PsA are associated with increased risk of peripheral polyneuropathy, meaning damage to the small nerve fibres that detect temperature and pain. This may contribute to the persistent burning and tingling sensations patients report.
 
-**Clinical implications**: Pain in psoriasis is often undertreated because it is attributed solely to joint disease (and therefore considered the domain of rheumatology) or dismissed as secondary to itch. Recognising the central sensitisation component is important because it responds poorly to conventional analgesics and anti-inflammatory biologics; it may require targeted approaches such as duloxetine, pregabalin, or cognitive behavioural therapy for chronic pain.
+**Clinical implications**: Pain in psoriasis is often undertreated because clinicians attribute it solely to joint disease (and therefore consider it rheumatology's domain) or dismiss it as secondary to itch. Recognising the central sensitisation component matters because it responds poorly to conventional analgesics and anti-inflammatory biologics. It may require targeted approaches such as duloxetine, pregabalin, or cognitive behavioural therapy for chronic pain.
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Cross-sectional studies with mechanistic characterisation; pain phenotyping studies now being conducted.
 
 ## 18.3 Current Limitations and Future Directions
 
-Current biologic therapies — while highly effective at clearing skin plaques and reducing joint inflammation — have **limited impact on neurological symptoms**. Patients who achieve PASI 90 or PASI 100 may still report residual itch, pain, and burning, likely because:
+Current biologic therapies, while effective at clearing skin plaques and reducing joint inflammation, have **limited impact on neurological symptoms**. Patients who achieve PASI 90 or PASI 100 may still report residual itch, pain, and burning. There are three likely reasons:
 
-1. **Biologics target immune pathways but not neural pathways**: IL-17 and IL-23 blockade reduces immune-mediated inflammation but does not directly modulate sensory nerve sensitisation or neuropeptide release.
-2. **Structural nerve changes persist**: The hyperinnervation of psoriatic skin (increased nerve fibre density — Section 28.8) may take longer to resolve than epidermal thickening, or may not resolve at all after chronic disease.
+1. **Biologics target immune pathways but not neural pathways**: IL-17 and IL-23 blockade reduces immune-mediated inflammation but doesn't directly modulate sensory nerve sensitisation or neuropeptide release.
+2. **Structural nerve changes persist**: The hyperinnervation of psoriatic skin (increased nerve fibre density, see Section 28.8) may take longer to resolve than epidermal thickening, or may not resolve at all after chronic disease.
 3. **Central sensitisation is self-sustaining**: Once established, central pain amplification can persist independently of the original peripheral stimulus.
 
 This represents a significant **unmet therapeutic need**. Future approaches may include:

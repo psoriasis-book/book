@@ -5,7 +5,7 @@ sidebar:
   order: 34
 ---
 
-The following is a curated list of the most significant books published on psoriasis, spanning clinical textbooks, research references, and patient-oriented guides. They represent the breadth of published knowledge on the disease and will serve as a foundation for deeper review.
+The following is a curated list of the most significant books published on psoriasis, spanning clinical textbooks, research references, and patient-oriented guides. They represent the breadth of published knowledge on the disease and should serve as a foundation for deeper review.
 
 ## Academic and Clinical Textbooks
 
@@ -15,7 +15,7 @@ The following is a curated list of the most significant books published on psori
 *Editors: Peter van de Kerkhof, Christopher E.M. Griffiths, Jonathan N.W.N. Barker*
 Publisher: Wiley-Blackwell, 2012 | ISBN: 978-1-4051-8521-4
 
-Widely regarded as the definitive academic reference on psoriasis. Organised in three sections — clinical morphology, aetiology and pathogenesis, and current treatments — with contributions from a distinguished international team of experts. Covers genetics, immunology, clinical subtypes, and the full therapeutic landscape. Aimed at trainee and practising dermatologists.
+Widely regarded as the definitive academic reference on psoriasis. Organised in three sections (clinical morphology, aetiology and pathogenesis, and current treatments) with contributions from a distinguished international team of experts. Covers genetics, immunology, clinical subtypes, and the full therapeutic landscape. Aimed at trainee and practising dermatologists.
 
 **About the editors:** Christopher Griffiths CBE is Professor of Dermatology at the University of Manchester and a world authority on psoriasis who has published over 500 peer-reviewed papers. Jonathan Barker is Professor of Clinical Dermatology at King's College London and a leading figure in psoriasis genetics. Peter van de Kerkhof is former Chairman of the Department of Dermatology at Radboud University Medical Centre, Nijmegen, Netherlands, and an internationally recognised expert on psoriasis treatment.
 
@@ -25,7 +25,7 @@ Widely regarded as the definitive academic reference on psoriasis. Organised in 
 *Editors: Henry H. Roenigk Jr., Howard I. Maibach*
 Publisher: Marcel Dekker, 1998 | ISBN: 978-0-8247-0108-2
 
-One of the foundational multi-author reference texts in the field, published across three editions from the 1980s to 1998. Organised into clinical features, incidence and genetics, pathology, and treatment sections with over 40 chapters from international contributors. Covers clinical subtypes, phototherapy, systemic therapy, psychological aspects, and HIV-associated psoriasis. Though now dated in its treatment sections, its chapters on pathophysiology, clinical features, and epidemiology remain valuable historical references.
+One of the foundational multi-author reference texts in the field, published across three editions from the 1980s to 1998. Organised into clinical features, incidence and genetics, pathology, and treatment sections with over 40 chapters from international contributors. Covers clinical subtypes, phototherapy, systemic therapy, psychological aspects, and HIV-associated psoriasis. The treatment sections are now dated, but the chapters on pathophysiology, clinical features, and epidemiology remain valuable historical references.
 
 **About the editors:** Henry H. Roenigk Jr. was Clinical Professor of Dermatology at Northwestern University Medical School, Chicago, and a pioneer in psoriasis therapeutics. Howard I. Maibach is Professor of Dermatology at the University of California, San Francisco, and one of the most prolific dermatology researchers in history, with over 2,500 publications.
 
@@ -37,7 +37,7 @@ Publisher: CRC Press, 2014 | ISBN: 978-1-4822-1526-4
 
 One of the two most widely referenced psoriasis textbooks globally (alongside its companion volume on mild-to-moderate disease). Focuses specifically on moderate-to-severe psoriasis management, covering systemic therapies, biologics, phototherapy, and combination treatments. Practical and clinically oriented, with extensive discussion of real-world treatment algorithms.
 
-**About the editors:** Mark Lebwohl is Dean for Clinical Therapeutics and Professor of Dermatology at the Icahn School of Medicine at Mount Sinai, New York, and one of the world's foremost psoriasis clinicians and clinical trialists — he has been principal investigator in over 100 psoriasis clinical trials. John Y.M. Koo is Professor of Dermatology at UCSF and an expert in both dermatology and psychodermatology.
+**About the editors:** Mark Lebwohl is Dean for Clinical Therapeutics and Professor of Dermatology at the Icahn School of Medicine at Mount Sinai, New York, and one of the world's foremost psoriasis clinicians and clinical trialists. He has been principal investigator in over 100 psoriasis clinical trials. John Y.M. Koo is Professor of Dermatology at UCSF and an expert in both dermatology and psychodermatology.
 
 ---
 
@@ -47,7 +47,7 @@ Publisher: Springer (Updates in Clinical Dermatology series), 2018 | ISBN: 978-3
 
 A concise, evidence-based reference organised around disease severity (mild, moderate, severe), with chapters on topicals, phototherapy, oral systemics, and injectable biologics. Includes discussion of sequential and combination therapy. Features high-quality clinical photographs and tables designed for quick reference in clinical practice.
 
-**About the editors:** Tina Bhutani is Associate Clinical Professor of Dermatology at UCSF and co-directed the UCSF Psoriasis and Skin Treatment Center. She is a recognised leader in psoriasis clinical research and a member of the National Psoriasis Foundation Medical Board. John Berth-Jones is Consultant Dermatologist at University Hospitals Coventry and Warwickshire, UK.
+**About the editors:** Tina Bhutani is Associate Clinical Professor of Dermatology at UCSF and co-directed the UCSF Psoriasis and Skin Treatment Center. She's a recognised leader in psoriasis clinical research and a member of the National Psoriasis Foundation Medical Board. John Berth-Jones is Consultant Dermatologist at University Hospitals Coventry and Warwickshire, UK.
 
 ---
 
@@ -57,7 +57,7 @@ Publisher: Springer (Clinical Cases in Dermatology series), 2019 | ISBN: 978-3-0
 
 A case-based approach to psoriasis management, working through unusual and complex clinical scenarios including erythrodermic psoriasis, severe paediatric psoriasis, psoriasis in patients with prior malignancy, and psoriasis in pregnancy. Also covers management in the context of hepatitis B/C and HIV co-infection.
 
-**About the editor:** Jashin J. Wu is a dermatologist and researcher who completed the 7-year Honors Program in Medical Education at Northwestern University. He is co-editor of the widely referenced *Mild-to-Moderate Psoriasis* and *Moderate-to-Severe Psoriasis* textbook series and has published extensively on psoriasis treatment outcomes and health services research.
+**About the editor:** Jashin J. Wu is a dermatologist and researcher who completed the 7-year Honors Program in Medical Education at Northwestern University. He's co-editor of the widely referenced *Mild-to-Moderate Psoriasis* and *Moderate-to-Severe Psoriasis* textbook series and has published extensively on psoriasis treatment outcomes and health services research.
 
 ---
 
@@ -91,9 +91,9 @@ Publisher: John Wiley & Sons, 2009 (revised edition) | ISBN: 978-0-470-26726-3
 
 The best-known patient-oriented book on psoriasis, originally published in 1991 and now in a revised edition. Pagano's central thesis is that psoriasis originates in the intestines ("leaky gut") and can be managed through dietary modification, detoxification, and spinal adjustments. The book outlines an elimination diet, herbal teas, and lifestyle changes. It remains hugely popular with patients, with a companion cookbook also available (*Dr. John's Healing Psoriasis Cookbook*).
 
-**About the author:** John O.A. Pagano (1929–2012) was a chiropractic physician based in New Jersey who spent over 40 years developing his dietary approach to psoriasis. His work is not considered evidence-based by mainstream dermatology, and his "leaky gut" hypothesis, while now partially supported by emerging microbiome research (Section 6.5), has never been validated in controlled clinical trials. Nevertheless, many patients report subjective benefit from his dietary recommendations, and the book has been translated into multiple languages.
+**About the author:** John O.A. Pagano (1929-2012) was a chiropractic physician based in New Jersey who spent over 40 years developing his dietary approach to psoriasis. Mainstream dermatology doesn't consider his work evidence-based, and his "leaky gut" hypothesis, while now partially supported by emerging microbiome research (Section 6.5), has never been validated in controlled clinical trials. Many patients nonetheless report subjective benefit from his dietary recommendations, and the book has been translated into multiple languages.
 
-**WARNING: Note:** This book should be read critically. While some dietary principles overlap with evidence-supported recommendations (reducing processed food, increasing fibre), other claims lack scientific support, and the book should not be used as a substitute for medical treatment.
+**WARNING: Note:** Read this book critically. Some dietary principles overlap with evidence-supported recommendations (reducing processed food, increasing fibre), but other claims lack scientific support. Don't use it as a substitute for medical treatment.
 
 ---
 
@@ -103,9 +103,9 @@ Publisher: Avery, 2000 | ISBN: 978-0-89529-983-5
 
 A patient guide emphasising dietary and lifestyle interventions, nutritional supplementation, and stress management. Covers fish oil, antioxidant vitamins, herbal remedies, and elimination diets. Written in accessible language for newly diagnosed patients.
 
-**About the author:** Lisa LeVan is a health writer and patient advocate who was diagnosed with psoriasis herself. The book reflects the patient experience but, like the Pagano book, its dietary and supplement recommendations are not supported by robust clinical trial evidence. It should be read as a patient perspective rather than a clinical guide.
+**About the author:** Lisa LeVan is a health writer and patient advocate who was diagnosed with psoriasis herself. The book reflects the patient experience but, like the Pagano book, its dietary and supplement recommendations aren't supported by robust clinical trial evidence. Read it as a patient perspective rather than a clinical guide.
 
-**WARNING: Note:** The title's promise of a "cure" is misleading — there is no cure for psoriasis. Some dietary recommendations overlap with emerging evidence (omega-3 fatty acids, anti-inflammatory diets) but others are unsubstantiated.
+**WARNING: Note:** The title's promise of a "cure" is misleading. There is no cure for psoriasis. Some dietary recommendations overlap with emerging evidence (omega-3 fatty acids, anti-inflammatory diets) but others are unsubstantiated.
 
 ---
 
@@ -151,4 +151,4 @@ The most comprehensive general dermatology reference in the English language (ov
 
 ---
 
-> **Note for future review:** The clinical textbooks (Griffiths/Barker, Lebwohl/Koo, Menter/Ryan, Bhutani) contain the most reliable and up-to-date scientific information. The patient-oriented books (Pagano, LeVan) are popular but should be evaluated critically against the evidence presented in this paper, particularly Sections 19 (Lifestyle and Diet) and 6 (Immunopathogenesis). Several of these books — particularly the older editions — predate the biologic therapy revolution and the IL-23/Th17 paradigm shift; readers should supplement them with recent primary literature.
+> **Note for future review:** The clinical textbooks (Griffiths/Barker, Lebwohl/Koo, Menter/Ryan, Bhutani) contain the most reliable and up-to-date scientific information. The patient-oriented books (Pagano, LeVan) are popular but should be evaluated critically against the evidence presented in this paper, particularly Sections 19 (Lifestyle and Diet) and 6 (Immunopathogenesis). Several of these books, particularly the older editions, predate the biologic therapy revolution and the IL-23/Th17 paradigm shift; readers should supplement them with recent primary literature.

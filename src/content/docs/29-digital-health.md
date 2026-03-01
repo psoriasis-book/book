@@ -13,14 +13,14 @@ The **International Psoriasis Council (IPC)** has endorsed remote monitoring as 
 
 Two models of teledermatology are in use:
 
-- **Store-and-forward (asynchronous)**: Patients submit photographs and clinical information through a secure platform; a dermatologist reviews and responds within hours to days. This model is efficient for routine monitoring of stable disease and medication refills.
+- **Store-and-forward (asynchronous)**: Patients submit photographs and clinical information through a secure platform; a dermatologist reviews and responds within hours to days. This model works well for routine monitoring of stable disease and medication refills.
 - **Live video (synchronous)**: Real-time consultations via video link. Preferred for initial assessments, treatment decisions, and patient education.
 
 **Evidence for effectiveness** is nuanced:
-- **Specialist-led remote care** is effective: studies demonstrate comparable clinical outcomes (PASI improvement, DLQI change) between teledermatology and face-to-face consultations for established psoriasis patients on stable therapy.
+- **Specialist-led remote care** works: studies demonstrate comparable clinical outcomes (PASI improvement, DLQI change) between teledermatology and face-to-face consultations for established psoriasis patients on stable therapy.
 - **Primary care-led remote management** shows non-significant outcomes, highlighting the importance of specialist expertise in interpreting clinical images and making treatment decisions [(Frontiers in Digital Health, 2025)](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1656585/full).
 
-**Limitations** include difficulty assessing palpable features (induration, tenderness), challenges with image quality and standardisation, potential for missed diagnoses (particularly in darker skin phototypes where erythema is less visible in photographs — Section 21.3), and digital literacy barriers in older or socioeconomically disadvantaged populations.
+**Limitations** include difficulty assessing palpable features (induration, tenderness), challenges with image quality and standardisation, potential for missed diagnoses (particularly in darker skin phototypes where erythema is less visible in photographs, see Section 21.3), and digital literacy barriers in older or socioeconomically disadvantaged populations.
 
 **Research stage: Established.** **Evidence strength: Moderate-High.** Consensus guidelines published; RCTs supporting specialist-led remote care.
 
@@ -28,13 +28,13 @@ Two models of teledermatology are in use:
 
 A growing ecosystem of smartphone apps supports psoriasis self-management:
 
-- **Symptom tracking**: Apps that allow patients to photograph lesions over time, track PASI or BSA, and record flare triggers. Longitudinal self-monitoring data can inform clinical decisions and empower patients to identify personal trigger patterns.
+- **Symptom tracking**: Apps that let you photograph lesions over time, track PASI or BSA, and record flare triggers. Longitudinal self-monitoring data can inform clinical decisions and help you identify personal trigger patterns.
 - **Education and community**: Platforms connecting patients with evidence-based information and peer support networks (complementing the organisations listed in Appendix A2).
-- **Treatment adherence**: Medication reminder apps that prompt topical application or injection scheduling. Given that non-adherence to topical therapy is one of the primary drivers of treatment failure (Section 23), these tools address a significant clinical challenge.
+- **Treatment adherence**: Medication reminder apps that prompt topical application or injection scheduling. Given that non-adherence to topical therapy is one of the primary drivers of treatment failure (Section 23), these tools address a real clinical challenge.
 
 **Psorcast** is a notable research application developed to collect real-world data on psoriasis and PsA. It uses smartphone sensors and patient-reported outcomes to predict PsA flares and assess medication efficacy in real-world settings.
 
-**Limitations** include variable app quality, lack of regulatory oversight (most health apps are not classified as medical devices), privacy concerns regarding health data, and the "digital divide" — patients most in need of support may have least access to smartphone technology.
+**Limitations** include variable app quality, lack of regulatory oversight (most health apps aren't classified as medical devices), privacy concerns regarding health data, and the "digital divide" -- patients most in need of support may have least access to smartphone technology.
 
 **Research stage: Emerging.** **Evidence strength: Low-Moderate.** Pilot studies and feasibility trials; few RCTs comparing app-based interventions with standard care.
 
@@ -59,7 +59,7 @@ Looking further ahead, digital health may enable **continuous, passive monitorin
 
 - **Wearable devices**: Sensors measuring skin temperature, moisture, and scratching behaviour (accelerometry) could detect subclinical flares before they become visible, enabling pre-emptive treatment adjustment.
 - **Patient-reported outcome (PRO) platforms**: Structured digital collection of DLQI, itch VAS (visual analogue scale), and pain scores between clinic visits, feeding directly into electronic health records.
-- **Biologic dosing optimisation**: Integration of remote severity data with pharmacokinetic modelling could support personalised dosing intervals — for example, extending IL-23 inhibitor dosing in patients maintaining PASI 0 or reducing intervals in patients showing early signs of relapse.
+- **Biologic dosing optimisation**: Integration of remote severity data with pharmacokinetic modelling could support personalised dosing intervals. For example, extending IL-23 inhibitor dosing in patients maintaining PASI 0 or reducing intervals in patients showing early signs of relapse.
 
 These approaches are conceptual or in early pilot stages, but they represent the trajectory of psoriasis care: from episodic, clinic-based assessment to continuous, data-driven management.
 
