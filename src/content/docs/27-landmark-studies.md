@@ -98,3 +98,30 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 **Why it matters:** One longstanding hypothesis was that psoriasis might be driven by somatic mutations (random DNA changes that accumulate in skin cells over a lifetime), similar to how cancer develops. If true, this would have fundamentally changed how we understand the disease.
 
 **New knowledge:** Comprehensive genetic analysis showed that somatic mutations are not linked to either the development or the spread of psoriatic plaques. This conclusively rules out a cancer-like mutational model and confirms that psoriasis is driven by immune dysregulation acting on genetically predisposed but otherwise normal skin cells, reinforcing the rationale for immune-targeting therapies.
+
+## 27.11 Deucravacitinib — First TYK2 Inhibitor (POETYK PSO-1 and PSO-2, 2022)
+
+**Study:** *Trial of Deucravacitinib versus Placebo and Apremilast in Moderate to Severe Plaque Psoriasis.* Armstrong AW, et al. N Engl J Med. 2023;388(8):666–678.
+**Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2118345) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36351280/)
+
+**Why it matters:** Deucravacitinib (Sotyktu) was the first oral drug to selectively inhibit TYK2, a specific member of the Janus kinase family involved in IL-23, IL-12, and type I interferon signalling. Unlike older JAK inhibitors (tofacitinib, baricitinib) that broadly suppress multiple JAK enzymes and carry cardiovascular and thromboembolic safety signals, deucravacitinib targets only TYK2 through its regulatory (pseudokinase) domain, offering a more selective mechanism. It received FDA approval in September 2022.
+
+**New knowledge:** The POETYK PSO-1 and PSO-2 trials demonstrated that deucravacitinib achieved PASI 75 in approximately 53-59% of patients at week 16, significantly outperforming both placebo and apremilast (the only other oral targeted therapy). While these response rates fall below injectable biologics, deucravacitinib established that the TYK2 pathway is a viable oral drug target and opened the door for next-generation TYK2 inhibitors like zasocitinib (Section 27.7) that aim to close the efficacy gap with biologics.
+
+## 27.12 Spesolimab — First Approved Therapy for GPP Flares (Effisayil 1, 2021)
+
+**Study:** *Trial of Spesolimab for Generalized Pustular Psoriasis.* Bachelez H, et al. N Engl J Med. 2021;385(26):2431–2440.
+**Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2111563) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34936739/)
+
+**Why it matters:** Generalised pustular psoriasis (GPP) is rare and potentially life-threatening, yet it had no specifically approved treatment until spesolimab (Spevigo). Before this, GPP flares were managed with off-label use of drugs developed for plaque psoriasis, often with poor results. Spesolimab is a monoclonal antibody that blocks the IL-36 receptor, targeting the distinct inflammatory pathway that drives GPP (Section 7.3). It received FDA approval in September 2022.
+
+**New knowledge:** The Effisayil 1 trial showed that a single intravenous dose of spesolimab cleared pustules in 54% of patients within one week, compared to 6% on placebo. This trial validated IL-36 as the dominant cytokine pathway in GPP (distinct from the IL-23/IL-17 axis of plaque psoriasis) and demonstrated that targeting it could rapidly control a previously uncontrollable disease. The Effisayil 2 trial subsequently showed that subcutaneous spesolimab prevented GPP flares over 48 weeks [(Bachelez et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38507752/).
+
+## 27.13 Tapinarof — A New Topical Mechanism (PSOARING 1 and 2, 2022)
+
+**Study:** *Two Phase 3 Trials of Tapinarof Cream for the Treatment of Plaque Psoriasis.* Lebwohl M, et al. N Engl J Med. 2022;387(11):983–994.
+**Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2103629) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35613023/)
+
+**Why it matters:** Tapinarof (Vtama) was the first topical aryl hydrocarbon receptor (AhR) agonist approved for psoriasis (May 2022), representing an entirely new mechanism of action in a therapeutic space long dominated by corticosteroids and vitamin D analogues. It offered something no topical steroid can: no duration-of-use restrictions and a "remittive effect" where skin improvement continues after treatment stops.
+
+**New knowledge:** The PSOARING trials demonstrated a unique post-treatment durability: patients who achieved clear or almost-clear skin maintained that response for a median of approximately 4 months after stopping the cream. This "remittive effect" was unprecedented for a topical agent and suggests that tapinarof may modulate the underlying immune response rather than simply suppressing symptoms. Section 23 covers the clinical details of tapinarof use.
