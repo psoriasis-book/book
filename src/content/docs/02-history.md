@@ -15,7 +15,7 @@ Ancient Egyptian medical texts (the Ebers Papyrus, c. 1550 BC) describe treatmen
 
 ## 2.2 The Leprosy Confusion (200 AD – 1800)
 
-For over 1,500 years following Galen, psoriasis and leprosy remained entangled in medical and public consciousness. During medieval Europe, both conditions were grouped under the Latin term *lepra*, and people with either disease faced similar social exclusion. They were forced into leprosariums and sometimes required to carry a bell or clapper to announce their presence. This confusion persisted even as knowledge of other diseases advanced. Treatments during this era were rudimentary and often dangerous: mercury ointments, arsenic compounds, viper broth, bloodletting, and purgatives were all applied without clear distinction between conditions.
+For over 1,500 years following Galen, psoriasis and leprosy remained entangled in medical and public consciousness. During medieval Europe, both conditions were grouped under the Latin term *lepra*, and people with either disease faced similar social exclusion. They were forced into leprosariums and sometimes required to carry a bell or clapper to announce their presence. This confusion persisted even as knowledge of other diseases advanced. Treatments during this era were rudimentary and often dangerous: mercury ointments, arsenic compounds, viper broth, bloodletting, and purgatives were all applied without clear distinction between conditions [(Brajac & Gruber, 2012)](https://doi.org/10.5772/27640).
 
 ## 2.3 The Birth of Dermatology (1800–1900)
 
