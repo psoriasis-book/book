@@ -2,6 +2,8 @@ project:
   type: book
   output-dir: _book
 
+# When changing parts, title, subtitle, or chapters below,
+# also update src/content/docs/index.mdx to match.
 book:
   title: "Psoriasis"
   subtitle: "The Missing Manual"

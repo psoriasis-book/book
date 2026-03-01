@@ -17,6 +17,7 @@ Miko Pawlikowski. Engineer, not a doctor. Also wrote *Chaos Engineering* (Mannin
 - Section headings: `## X.Y` where X = chapter number
 - YAML front matter: title, description, sidebar.order
 - Glossary: alphabetical table in A4-glossary.md
+- **Sync rule**: `_quarto.yml` and `src/content/docs/index.mdx` must stay in sync. When changing parts, title, subtitle, or chapter structure in `_quarto.yml`, also update `index.mdx` to match (cards, tagline, about section).
 
 ## Book Structure
 Parts: Foundation & Context (01-03), Understanding the Disease (04-09), Clinical Recognition & Diagnosis (10-13), Psoriasis as a Systemic Disease (14-18), Living with Psoriasis (19-21), Treatment (22-26), Recent Advances & Future Directions (27-30), Conclusion (31), Appendices (A1-A5)
