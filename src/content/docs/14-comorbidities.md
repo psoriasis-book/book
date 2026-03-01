@@ -128,7 +128,17 @@ Dual-energy X-ray absorptiometry (DXA) scanning should be considered in psoriasi
 
 **Research stage: Emerging.** **Evidence strength: Low-Moderate.** Heterogeneous studies with variable BMD findings; fracture risk data more consistent.
 
-## 14.14 Neurodegeneration: Alzheimer's and Parkinson's Disease
+## 14.14 Venous Thromboembolism
+
+Psoriasis patients have an elevated risk of venous thromboembolism (VTE), including deep vein thrombosis (DVT) and pulmonary embolism (PE). A meta-analysis of 9 studies encompassing over 4.5 million participants found a pooled relative risk of 1.43 (95% CI 1.29-1.58) for VTE in psoriasis patients compared to the general population [(Ungprasert et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24913385/). The risk is higher in patients with severe disease and in those with psoriatic arthritis.
+
+The mechanisms link back to the same systemic inflammation driving other comorbidities. TNF-α and IL-17 upregulate tissue factor expression on monocytes and endothelial cells, promoting a prothrombotic state. Psoriasis patients also show elevated platelet activation, increased P-selectin levels, and impaired fibrinolysis. The metabolic syndrome component (obesity, insulin resistance) adds further prothrombotic risk.
+
+This has practical implications. Clinicians should consider VTE risk when prescribing medications that independently increase clotting risk, and should ensure psoriasis patients receive appropriate thromboprophylaxis during hospitalisation, surgery, or prolonged immobilisation. The JAK inhibitor cardiovascular safety signal (Section 24.5) includes a thromboembolic component that's particularly relevant here.
+
+**Research stage: Established.** **Evidence strength: Moderate.** Meta-analyses with consistent findings; biological mechanisms plausible and partially characterised.
+
+## 14.15 Neurodegeneration: Alzheimer's and Parkinson's Disease
 
 An unresolved question is whether psoriasis increases the risk of neurodegenerative diseases. Population-based studies have reported modestly elevated risks of both **Alzheimer's disease (AD)** and **Parkinson's disease (PD)** in psoriasis patients [(Fu & Chi, 2022)](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full).
 
