@@ -5,7 +5,7 @@ sidebar:
   order: 4
 ---
 
-To understand psoriasis at a molecular level, you need some fundamental immunology vocabulary. This section defines the key terms used throughout the book.
+To understand psoriasis at a molecular level, you need some fundamental immunology vocabulary. This section defines the key terms used throughout the book. For a comprehensive review of the immunology underlying psoriasis, see [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract) and [(Lowes et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24388013/).
 
 ![Key immune cells in psoriasis](./images/immune-cell-types.svg)
 
