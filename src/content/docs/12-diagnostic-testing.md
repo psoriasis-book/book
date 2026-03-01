@@ -32,7 +32,7 @@ Characteristic histological features of psoriasis include [(Kimmel & Lebwohl, 20
 - **Dilated, tortuous capillaries** in the dermal papillae.
 - **Perivascular inflammatory infiltrate**: Collections of T lymphocytes and other immune cells around blood vessels in the dermis.
 
-Biopsy has an accuracy rate of approximately 83% for psoriasis diagnosis. It's particularly important for ruling out conditions that can closely mimic psoriasis, including cutaneous T-cell lymphoma (mycosis fungoides), cutaneous lupus, pityriasis rubra pilaris, and drug reactions.
+Biopsy has an accuracy rate of approximately 83% for psoriasis diagnosis [(Kimmel & Lebwohl, 2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7122924/). It's particularly important for ruling out conditions that can closely mimic psoriasis, including cutaneous T-cell lymphoma (mycosis fungoides), cutaneous lupus, pityriasis rubra pilaris, and drug reactions.
 
 ## 12.3 KOH Preparation and Fungal Culture
 
