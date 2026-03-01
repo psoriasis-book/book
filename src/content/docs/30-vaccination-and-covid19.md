@@ -58,7 +58,7 @@ The lessons from COVID-19 vaccination have reinforced and refined broader vaccin
 
 - **Influenza**: Annual vaccination recommended for all psoriasis patients on systemic therapy. Inactivated (injected) vaccine preferred over live-attenuated (nasal) formulation.
 - **Pneumococcal**: PCV15 or PCV20 followed by PPSV23 (if PCV15 used). Recommended at earlier ages than the general population for patients on immunosuppressive therapy, given increased pneumonia risk.
-- **Herpes zoster (shingles)**: The recombinant (non-live) vaccine **Shingrix** is recommended for patients aged 50+ and is safe to administer during biologic therapy. The older live vaccine (Zostavax) should be avoided in immunosuppressed patients.
+- **Herpes zoster (shingles)**: The recombinant (non-live) vaccine **Shingrix** is recommended for patients aged 50+ in the general population, but for immunocompromised patients (including those on biologics) ACIP recommends it from **age 19+**. Shingrix is safe to administer during biologic therapy. The older live vaccine (Zostavax) should be avoided in immunosuppressed patients.
 - **Hepatitis B**: Pre-treatment screening is mandatory before starting biologics (Section 12). Vaccination is recommended for non-immune patients. Post-vaccination antibody titre testing is advised to confirm seroconversion.
 - **HPV (human papillomavirus)**: Recommended per standard age-based guidelines. No specific concerns with biologic co-administration.
 
