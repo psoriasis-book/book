@@ -191,7 +191,7 @@ The therapeutic revolution in psoriasis has been unevenly distributed. Patients 
 
 **The treatment gap.** Even in high-income countries, significant treatment gaps persist. In the US, racial and ethnic disparities in biologic access (Section 21.3) mean that many patients who meet clinical criteria for biologic therapy never receive it. In the UK, the sequential therapy requirements of the NICE pathway (Section 25) mean that patients must "fail" conventional treatments before accessing biologics, introducing delays of months to years. The gap between what is clinically achievable and what patients actually receive remains the central challenge in psoriasis care worldwide.
 
-## 24.10 Health Economics and Cost-Effectiveness
+## 24.11 Health Economics and Cost-Effectiveness
 
 List prices (Section 24.3) only tell part of the story. Health economic analysis evaluates whether treatments provide value for money by comparing costs with health outcomes, measured in **quality-adjusted life years (QALYs)**, a metric that combines survival duration with quality of life, where one QALY equals one year of perfect health.
 
