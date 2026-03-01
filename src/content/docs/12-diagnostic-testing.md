@@ -53,7 +53,7 @@ Before initiating immunosuppressive or biologic treatment, clinicians typically 
 - **Kidney function tests**: Urea, creatinine, estimated glomerular filtration rate (eGFR). Essential before starting ciclosporin (which is nephrotoxic).
 - **Hepatitis B and C screening**: Biologic therapies suppress the immune system and can reactivate latent hepatitis. Screening is mandatory before starting any biologic.
 - **HIV screening**: May be ordered when erythrodermic (whole-body) psoriasis is present, as HIV can present with severe psoriasiform skin eruptions.
-- **Pregnancy test**: Required before starting teratogenic medications (those that cause birth defects), including methotrexate, acitretin, and some biologics.
+- **Pregnancy test**: Required before starting teratogenic medications (methotrexate and acitretin). Biologics are not classified as teratogenic, but those with an Fc region cross the placenta and may immunosuppress the neonate, so pregnancy testing and counselling are still recommended before starting biologic therapy.
 
 ### 12.4.2 Tuberculosis (TB) Screening
 
