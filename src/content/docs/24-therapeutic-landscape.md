@@ -48,7 +48,7 @@ These selectively target the p19 subunit unique to IL-23, blocking IL-23 without
 
 - **Guselkumab (Tremfya)**: The first selective IL-23 inhibitor approved for psoriasis. Administered subcutaneously every 8 weeks after induction. Also approved for psoriatic arthritis.
 - **Risankizumab (Skyrizi)**: Manufactured by AbbVie. Achieves the highest PASI 90 response rates (~71.6%) among IL-23 inhibitors. Given subcutaneously every 12 weeks after induction — the longest dosing interval of any injectable psoriasis biologic. Also approved for psoriatic arthritis and Crohn's disease.
-- **Tildrakizumab (Ilumya)**: Administered subcutaneously every 12 weeks after induction. Shown to be the safest biologic among IL-17 and IL-23 inhibitors in meta-analysis, with the lowest adverse event rates, though its efficacy builds more gradually than some competitors, reaching comparable levels by week 28.
+- **Tildrakizumab (Ilumya)**: Administered subcutaneously every 12 weeks after induction. Ranked favourably for safety in network meta-analyses, with the anti-IL-23 class showing the lowest adverse event rates among biologic classes after placebo [(Sbidian et al., 2023)](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011535.pub6/full) [(Xie et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12126413/). Efficacy builds more gradually than some competitors, reaching comparable levels by week 28.
 
 ### IL-36 Receptor Antagonist
 **Spesolimab (Spevigo)** targets the IL-36 receptor and is specifically indicated for generalised pustular psoriasis (GPP), which has a distinct pathogenesis involving the IL-36 pathway rather than the IL-23/IL-17 axis [(Childs et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/).
