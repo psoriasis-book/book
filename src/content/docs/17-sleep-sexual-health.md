@@ -9,7 +9,7 @@ Two aspects of quality of life that psoriasis profoundly affects yet clinicians 
 
 ## 17.1 Sleep Disturbance and Obstructive Sleep Apnoea
 
-Sleep disturbance is strikingly prevalent in psoriasis. Studies report that **obstructive sleep apnoea (OSA)**, a condition in which the airway repeatedly collapses during sleep causing intermittent oxygen deprivation, occurs in 36–82% of psoriasis patients, compared with 2–4% in the general population [(Ghannam et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/). A 2025 study of 200 psoriasis patients found 54% were at high risk for OSA on validated screening questionnaires.
+Sleep disturbance is strikingly prevalent in psoriasis. **Obstructive sleep apnoea (OSA)**, a condition in which the airway repeatedly collapses during sleep causing intermittent oxygen deprivation, appears significantly more common in psoriasis patients. Studies using screening questionnaires report that 36–82% of psoriasis patients are at high risk for OSA [(Ghannam et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/). A 2025 study of 200 psoriasis patients found 54% were at high risk on validated questionnaires. These figures are based on screening tools rather than polysomnography (the gold standard sleep study), so they overestimate confirmed OSA prevalence, but the association is robust even after adjusting for obesity.
 
 The relationship between psoriasis and sleep disturbance is **bidirectional**:
 

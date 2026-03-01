@@ -101,7 +101,7 @@ sidebar:
 | **Metabolomics** | The large-scale study of small molecules (metabolites) in biological samples; being used to discover psoriasis biomarkers and monitor treatment response |
 | **mNAPSI** | Modified Nail Psoriasis Severity Index, a scoring system specifically for nail psoriasis, assessing 8 features across 10 fingernails on a 0–130 scale |
 | **Nanomedicine** | The application of nanotechnology to drug delivery; includes liposomes, microneedles, and nanoparticles designed to enhance topical drug penetration |
-| **Obstructive sleep apnoea (OSA)** | A sleep disorder where the airway repeatedly collapses during sleep; prevalence 36–82% in psoriasis vs 2–4% in the general population |
+| **Obstructive sleep apnoea (OSA)** | A sleep disorder where the airway repeatedly collapses during sleep; screening studies suggest significantly elevated risk in psoriasis patients |
 | **Palmoplantar psoriasis** | Psoriasis specifically affecting the palms and soles; a distinct clinical entity with unique genetic and immunological features |
 | **Phage therapy** | The use of bacteriophages (viruses that specifically kill bacteria) to treat microbial infections; being explored for skin microbiome-based psoriasis treatments |
 | **PGA × BSA** | Physician's Global Assessment multiplied by Body Surface Area, a composite severity score that is more sensitive than PASI for mild-to-moderate disease |
