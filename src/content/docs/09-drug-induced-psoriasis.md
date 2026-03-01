@@ -47,6 +47,8 @@ Management typically involves switching to a biologic with a different mechanism
 
 Several additional medication classes have been associated with psoriasis exacerbation, typically supported by case reports or small case series rather than large epidemiological studies:
 
+**Dupilumab** (an anti-IL-4/IL-13 biologic used for atopic dermatitis, asthma, and chronic rhinosinusitis) has emerged as a notable trigger of de novo psoriasis and psoriasiform dermatitis. A systematic review identified over 100 published cases, with onset typically 4-16 weeks after initiation [(Gori et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35735052/). The proposed mechanism involves a Th2/Th17 imbalance: by potently suppressing the Th2 axis (IL-4, IL-13), dupilumab may remove a counterbalancing brake on the Th17 pathway that drives psoriasis. This is clinically important because atopic dermatitis and psoriasis were traditionally considered opposite poles of the immune spectrum (Th2 vs Th17), and dupilumab can apparently push patients from one pole to the other. Most cases resolve with topical treatment or switching to a different atopic dermatitis therapy, though some patients develop persistent plaque psoriasis.
+
 - **ACE inhibitors and angiotensin receptor blockers (sartans)**: May modulate inflammatory pathways through bradykinin accumulation and angiotensin II effects on T-cell function.
 - **NSAIDs (particularly indomethacin)**: May disrupt the balance between pro-inflammatory and anti-inflammatory prostaglandins.
 - **VEGF/tyrosine kinase inhibitors** (sorafenib, sunitinib): Used in oncology; may trigger psoriasis through paradoxical immune activation.
