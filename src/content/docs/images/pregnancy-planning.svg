@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 520" role="img" aria-labelledby="preg-title preg-desc">
+  <title id="preg-title">Psoriasis Pregnancy Planning Flowchart</title>
+  <desc id="preg-desc">Decision algorithm for managing psoriasis medications before, during, and after pregnancy. Shows which drugs to stop, safe treatment options during pregnancy, and breastfeeding considerations.</desc>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8" fill="none" stroke="#888" stroke-width="1.5"/>
+    </marker>
+  </defs>
+
+  <rect width="580" height="520" fill="#fff"/>
+
+  <text x="290" y="22" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="#333">Psoriasis Pregnancy Planning Algorithm</text>
+
+  <!-- Step 1: Planning Pregnancy -->
+  <rect x="190" y="38" width="200" height="36" fill="#e0ecf8" stroke="#4a78b0" stroke-width="1.5" rx="5"/>
+  <text x="290" y="56" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#2a5a90">Planning Pregnancy</text>
+  <text x="290" y="68" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Aim for disease stability before conception</text>
+
+  <line x1="290" y1="74" x2="290" y2="92" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Step 2: Stop Teratogenic Drugs -->
+  <rect x="130" y="92" width="320" height="58" fill="#fce4e4" stroke="#c05050" stroke-width="1.5" rx="5"/>
+  <text x="290" y="108" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#a03030">Stop Teratogenic Drugs</text>
+  <text x="290" y="122" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Methotrexate: stop ≥3 months before conception (both sexes)</text>
+  <text x="290" y="135" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Acitretin: stop ≥3 years before conception (women)</text>
+  <text x="290" y="148" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Topical tazarotene: stop before conception</text>
+
+  <line x1="290" y1="150" x2="290" y2="170" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Diamond: Needs systemic therapy? -->
+  <polygon points="290,170 370,200 290,230 210,200" fill="#f0e8d8" stroke="#a08040" stroke-width="1.5"/>
+  <text x="290" y="197" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#806020">Systemic</text>
+  <text x="290" y="209" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#806020">therapy needed?</text>
+
+  <!-- No branch (left) -->
+  <line x1="210" y1="200" x2="80" y2="200" stroke="#888" stroke-width="1.5"/>
+  <line x1="80" y1="200" x2="80" y2="268" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="140" y="193" text-anchor="middle" font-family="serif" font-size="9" fill="#555">No</text>
+
+  <!-- Topicals box (left) -->
+  <rect x="10" y="268" width="140" height="55" fill="#e8f5e4" stroke="#509050" stroke-width="1.5" rx="5"/>
+  <text x="80" y="284" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#307030">Safe Topicals</text>
+  <text x="80" y="297" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Emollients</text>
+  <text x="80" y="308" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Low-potency corticosteroids</text>
+  <text x="80" y="319" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Calcineurin inhibitors</text>
+
+  <!-- Yes branch (right) -->
+  <line x1="370" y1="200" x2="500" y2="200" stroke="#888" stroke-width="1.5"/>
+  <line x1="500" y1="200" x2="500" y2="248" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="440" y="193" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Yes</text>
+
+  <!-- Biologic box (right) -->
+  <rect x="415" y="248" width="170" height="75" fill="#e8f0f8" stroke="#4070a0" stroke-width="1.5" rx="5"/>
+  <text x="500" y="264" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#2a5090">First-Line Biologic</text>
+  <text x="500" y="278" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#555">Certolizumab pegol</text>
+  <text x="500" y="291" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Does not cross placenta</text>
+  <text x="500" y="302" text-anchor="middle" font-family="serif" font-size="8" fill="#555">(lacks Fc region)</text>
+  <text x="500" y="317" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Safe throughout pregnancy</text>
+
+  <!-- Down arrow from diamond to centre -->
+  <line x1="290" y1="230" x2="290" y2="268" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- NB-UVB box (centre) -->
+  <rect x="210" y="268" width="160" height="55" fill="#e8f5e4" stroke="#509050" stroke-width="1.5" rx="5"/>
+  <text x="290" y="284" text-anchor="middle" font-family="serif" font-size="10" font-weight="bold" fill="#307030">Phototherapy</text>
+  <text x="290" y="298" text-anchor="middle" font-family="serif" font-size="9" fill="#555">NB-UVB is safe</text>
+  <text x="290" y="311" text-anchor="middle" font-family="serif" font-size="9" fill="#555">throughout pregnancy</text>
+  <text x="290" y="252" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Moderate disease</text>
+
+  <!-- Alternative biologic note -->
+  <rect x="415" y="338" width="170" height="50" fill="#f8f4f0" stroke="#b09070" stroke-width="1.5" rx="5"/>
+  <text x="500" y="353" text-anchor="middle" font-family="serif" font-size="9" font-weight="bold" fill="#805030">Other TNF inhibitors</text>
+  <text x="500" y="366" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Adalimumab, etanercept, infliximab</text>
+  <text x="500" y="377" text-anchor="middle" font-family="serif" font-size="8" fill="#555">Safe in 1st half; stop by wk 20</text>
+  <text x="500" y="388" text-anchor="middle" font-family="serif" font-size="8" fill="#888">(delay live vaccines in infant 6 mo)</text>
+
+  <line x1="500" y1="323" x2="500" y2="338" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <!-- Breastfeeding section -->
+  <line x1="80" y1="323" x2="80" y2="420" stroke="#888" stroke-width="1.5"/>
+  <line x1="290" y1="323" x2="290" y2="420" stroke="#888" stroke-width="1.5"/>
+  <line x1="500" y1="388" x2="500" y2="420" stroke="#888" stroke-width="1.5"/>
+  <line x1="80" y1="420" x2="500" y2="420" stroke="#888" stroke-width="1.5"/>
+  <line x1="290" y1="420" x2="290" y2="440" stroke="#888" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+  <rect x="140" y="440" width="300" height="65" fill="#f0e8f4" stroke="#806090" stroke-width="1.5" rx="5"/>
+  <text x="290" y="457" text-anchor="middle" font-family="serif" font-size="11" font-weight="bold" fill="#604070">Breastfeeding</text>
+  <text x="290" y="472" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Safe: emollients, low-potency corticosteroids (not on nipple),</text>
+  <text x="290" y="484" text-anchor="middle" font-family="serif" font-size="9" fill="#555">certolizumab (minimal milk excretion), NB-UVB</text>
+  <text x="290" y="498" text-anchor="middle" font-family="serif" font-size="9" fill="#555">Avoid: methotrexate, acitretin, ciclosporin</text>
+</svg>

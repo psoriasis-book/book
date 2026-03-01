@@ -28,6 +28,8 @@ Pregnancy and psoriasis present a complex intersection, particularly relevant fo
 
 **Guidance for patients trying to conceive.** Current BAD and European guidelines recommend: (1) plan the pregnancy during a period of disease stability; (2) if systemic treatment is needed during pregnancy, certolizumab pegol is first-line; (3) NB-UVB phototherapy is a safe non-drug option; (4) methotrexate and acitretin must be stopped well in advance; (5) cyclosporine can be used short-term in pregnancy if needed (it does not appear to be teratogenic, though it crosses the placenta).
 
+![Pregnancy planning algorithm](./images/pregnancy-planning.svg)
+
 ## 21.2 Paediatric Psoriasis
 
 Psoriasis begins in childhood in approximately one-third of all cases, with an estimated prevalence of 0.5–2% in children. It can present at any age, including infancy, though onset is more common during adolescence. Female children are affected slightly more frequently than males.
