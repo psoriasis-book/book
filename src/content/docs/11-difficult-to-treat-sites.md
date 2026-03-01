@@ -37,7 +37,7 @@ Psoriasis affecting the palms and soles is recognised as a distinct clinical ent
 
 ## 11.3 Scalp Psoriasis
 
-Scalp involvement occurs in over 50% of psoriasis patients, making it one of the most common manifestations of the disease. The scalp is now recognised as a **high-impact site**, a designation that may qualify patients for systemic or biologic therapy even when total BSA is low, given its outsized effect on quality of life [(NICE CG153)](https://www.nice.org.uk/guidance/cg153).
+Scalp involvement occurs in over 50% of psoriasis patients at any given time (and up to 80% at some point during the disease course), making it one of the most common manifestations [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract). The scalp is now recognised as a **high-impact site**, a designation that may qualify patients for systemic or biologic therapy even when total BSA is low, given its outsized effect on quality of life [(NICE CG153)](https://www.nice.org.uk/guidance/cg153).
 
 **Clinical features.** Scalp psoriasis ranges from mild, fine scaling to thick, adherent plaques extending beyond the hairline onto the forehead, temples, and posterior neck. Unlike seborrhoeic dermatitis (which is a key differential diagnosis), scalp psoriasis typically features well-demarcated, silvery-white plaques with more pronounced induration. Trichoscopy (dermoscopy of the scalp) reveals characteristic twisted red loops and white scaling.
 
