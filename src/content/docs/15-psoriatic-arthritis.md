@@ -62,7 +62,7 @@ PsA treatment follows a domain-based approach, as recommended by the Group for R
 
 **Peripheral arthritis.** First-line treatment is NSAIDs (non-steroidal anti-inflammatory drugs) for mild disease. If that's inadequate, conventional synthetic DMARDs (disease-modifying anti-rheumatic drugs), principally methotrexate, are used. For moderate-to-severe disease or DMARD failure, biologic therapies are indicated: TNF-α inhibitors, IL-17 inhibitors, IL-23 inhibitors, and JAK inhibitors are all effective. IL-12/23 inhibition (ustekinumab) and PDE4 inhibition (apremilast) are alternatives.
 
-**Axial disease.** Conventional DMARDs (including methotrexate) are **not effective** for axial PsA. That's an important difference from peripheral disease. NSAIDs are first-line, and biologic therapies (TNF-α inhibitors, IL-17 inhibitors, JAK inhibitors) are used for inadequate NSAID response.
+**Axial disease.** Conventional DMARDs (including methotrexate) are **not effective** for axial PsA. That's an important difference from peripheral disease. NSAIDs are first-line, and biologic therapies (TNF-α inhibitors, IL-17 inhibitors, JAK inhibitors) are used for inadequate NSAID response. One important caveat: IL-23 inhibitors, despite their effectiveness for peripheral arthritis and skin disease, are **not recommended** for axial PsA per the 2021 GRAPPA guidelines.
 
 **Enthesitis.** NSAIDs are first-line. Biologics, particularly IL-17 inhibitors and TNF-α inhibitors, are effective for refractory enthesitis.
 
