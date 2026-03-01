@@ -134,7 +134,24 @@ While biologic monotherapy achieves excellent results for many patients, combina
 
 **Transition periods.** When switching between systemic therapies, overlap strategies may be needed to prevent flares during the transition. For example, when switching from cyclosporine to a biologic, the cyclosporine may be tapered gradually over several weeks while the biologic takes effect, rather than being stopped abruptly.
 
-## 24.9 Global Access and Health Equity
+## 24.9 Biologic Switching and Sequencing
+
+Despite the efficacy of modern biologics, not all patients respond to their first biologic, and some lose response over time. Understanding when and how to switch biologics is essential for optimising long-term outcomes.
+
+**Primary non-response** is defined as failure to achieve adequate improvement (typically PASI 50) by the end of the induction period (weeks 12–16). This occurs in approximately 10–20% of patients and may reflect a fundamental mismatch between the drug's mechanism of action and the patient's dominant inflammatory pathway [(Menter et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30772098/).
+
+**Secondary loss of efficacy (LOE)** is the more common problem: an initially good response gradually declines during the maintenance phase. This occurs through several mechanisms, most notably the development of **anti-drug antibodies (ADAs)**, which neutralise the biologic and reduce its effective concentration. ADA formation is highest for adalimumab (6–45%) and infliximab (~30%), and lowest for IL-23 inhibitors. Drug survival data from the BADBIR registry show that approximately 23% of patients discontinue their first biologic within year 1, rising to 47% by year 3 [(Warren et al., 2015)](https://doi.org/10.1038/jid.2015.208).
+
+**Switching strategies.** Two main approaches exist:
+
+- **Within-class switching** (e.g., one IL-17 inhibitor to another): May be effective when the mechanism is appropriate but the specific agent has lost efficacy due to ADA formation or pharmacokinetic factors. Short-term PASI 75 rates may be slightly higher with within-class switching at 12 weeks.
+- **Between-class switching** (e.g., TNF inhibitor → IL-17 → IL-23): Preferred when primary non-response suggests the targeted pathway is not the patient's dominant driver. Between-class switching is associated with longer drug survival in registry data and has become the predominant strategy since IL-17 and IL-23 inhibitors became available [(Yiu et al., 2020)](https://doi.org/10.1111/bjd.18981).
+
+**Drug survival by agent.** BADBIR and PSOLAR registry data consistently show that newer-generation biologics have longer drug survival than first-generation agents. In BADBIR, first-line 1-year drug survival was: ustekinumab 82%, adalimumab 69%, etanercept 66%, infliximab 61% [(Warren et al., 2015)](https://doi.org/10.1038/jid.2015.208). In PSOLAR, ustekinumab had the lowest discontinuation rate (8.6%) versus infliximab (25.4%), adalimumab (37.6%), and etanercept (43.9%) [(Menter et al., 2016)](https://doi.org/10.1111/jdv.13611). Real-world data suggest that IL-23 inhibitors (risankizumab, guselkumab) have the lowest switch rates of all biologic classes.
+
+**Guideline recommendations.** The AAD-NPF guidelines recommend reassessing efficacy and adverse events regularly, with switching indicated for inadequate response, loss of response, or intolerable side effects [(Menter et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30772098/). The GRAPPA 2021 recommendations use a domain-based approach for PsA, recommending that treatment efficacy be re-evaluated periodically and adjusted as appropriate, with TNF inhibitors and IL-17 inhibitors strongly recommended across all six PsA domains for both first-line and switch scenarios [(Coates et al., 2022)](https://doi.org/10.1038/s41584-022-00798-0).
+
+## 24.10 Global Access and Health Equity
 
 The therapeutic revolution in psoriasis has been unevenly distributed. While patients in high-income countries increasingly have access to biologic therapies achieving PASI 90–100, the reality for most of the world's psoriasis patients is very different.
 

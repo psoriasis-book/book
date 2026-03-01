@@ -458,3 +458,13 @@ sidebar:
 226. de Vries ACQ, Bogaards NA, Hooft L, et al. Interventions for nail psoriasis. *Cochrane Database Syst Rev*. 2013;(1):CD007633. doi:10.1002/14651858.CD007633.pub2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23440816/)
 
 227. Reich K, Sullivan J, Arenberger P, et al. Effect of secukinumab on the clinical activity and disease burden of nail psoriasis: 32-week results from the randomized placebo-controlled TRANSFIGURE trial. *Br J Dermatol*. 2019;181(5):954-966. doi:10.1111/bjd.17351. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30367462/)
+
+228. Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with biologics. *J Am Acad Dermatol*. 2019;80(4):1029-1072. doi:10.1016/j.jaad.2018.11.057. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30772098/)
+
+229. Warren RB, Smith CH, Yiu ZZN, et al. Differential drug survival of biologic therapies for the treatment of psoriasis: a prospective observational cohort study from the British Association of Dermatologists Biologic Interventions Register (BADBIR). *J Invest Dermatol*. 2015;135(11):2632-2640. doi:10.1038/jid.2015.208. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26053050/)
+
+230. Yiu ZZN, Mason KJ, Hampton PJ, et al. Drug survival of adalimumab, ustekinumab and secukinumab in patients with psoriasis: a prospective cohort study from the British Association of Dermatologists Biologics and Immunomodulators Register (BADBIR). *Br J Dermatol*. 2020;183(2):294-302. doi:10.1111/bjd.18981. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32124442/)
+
+231. Menter A, Papp KA, Gooderham M, et al. Drug survival of biologic therapy in a large, disease-based registry of patients with psoriasis: results from the Psoriasis Longitudinal Assessment and Registry (PSOLAR). *J Eur Acad Dermatol Venereol*. 2016;30(7):1148-1158. doi:10.1111/jdv.13611. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27027388/)
+
+232. Coates LC, Soriano ER, Corp N, et al. Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA): updated treatment recommendations for psoriatic arthritis 2021. *Nat Rev Rheumatol*. 2022;18(8):465-479. doi:10.1038/s41584-022-00798-0. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35761070/)
