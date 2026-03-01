@@ -87,7 +87,7 @@ sidebar:
 | **Treg (regulatory T cell)** | A T cell subtype that suppresses excessive immune responses; dysfunctional in psoriasis |
 | **TRPV1** | Transient receptor potential vanilloid 1, an ion channel on sensory nerve endings that detects heat, chemicals, and inflammatory mediators; upregulated in psoriatic skin and involved in itch and pain signalling |
 | **TRPA1** | Transient receptor potential ankyrin 1, an ion channel on sensory neurons that detects chemical irritants and cold; works alongside TRPV1 in psoriatic itch and pain |
-| **TYK2** | Tyrosine kinase 2, an intracellular enzyme in the IL-23 and IL-12 signalling pathway; target of deucravacitinib |
+| **TYK2** | Tyrosine kinase 2, an intracellular enzyme in the IL-23, IL-12, and type I interferon signalling pathways; target of deucravacitinib |
 | **Allodynia** | Pain caused by stimuli that aren't normally painful (e.g., light touch on inflamed skin); results from peripheral and central sensitisation |
 | **Autophagy** | A cellular self-cleaning process by which cells digest and recycle damaged components; impaired in psoriasis, contributing to NF-κB activation and IL-36 overexpression |
 | **Central sensitisation** | Amplified pain processing in the spinal cord and brain caused by prolonged peripheral inflammation; present in ~43% of PsA patients |
