@@ -1,6 +1,6 @@
 ---
 title: "Comorbidities: Psoriasis as a Systemic Disease"
-description: "Psoriatic arthritis, cardiovascular disease, metabolic syndrome, mental health, IBD, NAFLD, the psoriatic march hypothesis, cancer risk, chronic kidney disease, ocular disease, hearing loss, periodontal disease, osteoporosis, and neurodegeneration"
+description: "Psoriatic arthritis, cardiovascular disease, metabolic syndrome, mental health, IBD, MASLD, the psoriatic march hypothesis, cancer risk, chronic kidney disease, ocular disease, hearing loss, periodontal disease, osteoporosis, and neurodegeneration"
 sidebar:
   order: 14
 ---
@@ -23,15 +23,15 @@ Psoriasis is significantly associated with metabolic syndrome: obesity, type 2 d
 
 ## 14.4 Mental Health
 
-Psoriasis significantly affects mental health. Patients are approximately 40% more likely to carry a diagnosis of depression and experience elevated rates of anxiety, social stigma, and reduced quality of life [(Garshick et al., 2021)](https://www.jacc.org/doi/10.1016/j.jacc.2021.02.009). The visible nature of the disease contributes to shame, social withdrawal, and in severe cases, suicidal ideation [(Takahashi & Iizuka, 2012)](https://pubmed.ncbi.nlm.nih.gov/22035413/).
+Psoriasis significantly affects mental health. Patients are approximately 50-60% more likely to carry a diagnosis of depression and experience elevated rates of anxiety, social stigma, and reduced quality of life [(Garshick et al., 2021)](https://www.jacc.org/doi/10.1016/j.jacc.2021.02.009). The visible nature of the disease contributes to shame, social withdrawal, and in severe cases, suicidal ideation [(Takahashi & Iizuka, 2012)](https://pubmed.ncbi.nlm.nih.gov/22035413/).
 
 ## 14.5 Inflammatory Bowel Disease (IBD)
 
 Psoriasis and IBD (Crohn's disease and ulcerative colitis) share common immune pathways and genetic susceptibility loci. The prevalence of IBD in psoriasis patients is approximately four times higher than in the general population [(Ni & Chiu, 2014)](https://www.dovepress.com/psoriasis-and-comorbidities-links-and-risks-peer-reviewed-fulltext-article-CCID).
 
-## 14.6 Non-Alcoholic Fatty Liver Disease (NAFLD)
+## 14.6 Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)
 
-NAFLD prevalence is significantly higher in psoriasis patients, particularly those with more severe skin disease. This has important implications for treatment selection, as several systemic psoriasis therapies are hepatotoxic (can cause liver damage) [(Prussick & Miele, 2018)](https://pubmed.ncbi.nlm.nih.gov/29235656/).
+MASLD (formerly known as Non-Alcoholic Fatty Liver Disease, or NAFLD, renamed by multi-society consensus in 2023) prevalence is significantly higher in psoriasis patients, particularly those with more severe skin disease. This has important implications for treatment selection, as several systemic psoriasis therapies are hepatotoxic (can cause liver damage) [(Prussick & Miele, 2018)](https://pubmed.ncbi.nlm.nih.gov/29235656/).
 
 ## 14.7 The "Psoriatic March" Hypothesis
 
@@ -57,7 +57,7 @@ The relationship between psoriasis and cancer has been investigated through mult
 
 ## 14.9 Chronic Kidney Disease
 
-Patients with severe psoriasis have a significantly increased risk of developing **chronic kidney disease (CKD)** and progressing to **end-stage renal disease (ESRD)**, with hazard ratios of approximately 1.58 after adjustment for confounders including diabetes, hypertension, and obesity [(Wan et al., 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full).
+Patients with severe psoriasis have a significantly increased risk of developing **chronic kidney disease (CKD)** and progressing to **end-stage renal disease (ESRD)**, with a pooled hazard ratio of approximately 1.65 for CKD (95% CI 1.29-2.12) after adjustment for confounders including diabetes, hypertension, and obesity [(Wan et al., 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full).
 
 The mechanisms linking psoriasis to kidney disease are multifactorial:
 
