@@ -35,7 +35,7 @@ The CASPAR criteria have a specificity of 98.7% and sensitivity of 91.4%, making
 
 Imaging plays an important role in diagnosing and monitoring PsA:
 
-- **Plain radiographs** may show erosions, joint space narrowing, and two features relatively specific to PsA: **juxta-articular new bone formation** (proliferative bone changes near joints, unlike the purely erosive pattern of rheumatoid arthritis) and, in severe cases, the **"pencil-in-cup" deformity**. In this deformity, erosion sharpens the distal end of one phalanx to a pencil-like point while the adjacent bone base erodes into a cup-like concavity. It's seen in approximately 5–16% of PsA patients and is characteristic of arthritis mutilans, the most destructive form of PsA.
+- **Plain radiographs** may show erosions, joint space narrowing, and two features relatively specific to PsA: **juxta-articular new bone formation** (proliferative bone changes near joints, unlike the purely erosive pattern of rheumatoid arthritis) and, in severe cases, the **"pencil-in-cup" deformity**. In this deformity, erosion sharpens the distal end of one phalanx to a pencil-like point while the adjacent bone base erodes into a cup-like concavity. It's characteristic of arthritis mutilans, the most destructive form of PsA, which occurs in approximately 5% of PsA patients.
 - **Ultrasound** is more sensitive than clinical examination for detecting active synovitis, enthesitis, and tenosynovitis, and is increasingly used in clinical practice for early detection and monitoring.
 - **MRI** is the most sensitive imaging modality, capable of detecting bone marrow oedema, enthesitis, dactylitis, and early erosions before they become visible on plain radiographs.
 
