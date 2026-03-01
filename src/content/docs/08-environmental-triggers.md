@@ -31,15 +31,29 @@ Excessive alcohol consumption increases the expression of TNF-a-converting enzym
 
 Several classes of medications can trigger or exacerbate psoriasis, including **beta-blockers**, **lithium**, **antimalarials** (chloroquine, hydroxychloroquine), **interferon-alpha**, **ACE inhibitors**, and rapid withdrawal of systemic corticosteroids [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract).
 
-## 8.7 Physical Trauma (Koebner Phenomenon)
+## 8.7 COVID-19 Infection
+
+SARS-CoV-2 infection has been documented as both a trigger for new-onset psoriasis and a cause of severe flares in existing disease. A systematic review identified cases of de novo guttate, plaque, and pustular psoriasis following COVID-19 infection, with onset typically 2-8 weeks after acute illness [(Gananandan et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35234323/). The mechanisms likely involve the intense cytokine release during COVID-19 (particularly IL-6, TNF-α, and IFN-γ) priming the same inflammatory pathways that drive psoriasis. COVID-19 vaccination has also been associated with psoriasis flares in case reports, most commonly after mRNA vaccines, though the absolute risk is very low and the benefits of vaccination far outweigh this risk (Section 30). Interestingly, some patients on biologic therapy reported improvement in their COVID-19 course, possibly because IL-17 and IL-23 inhibitors dampen the excessive inflammatory response.
+
+## 8.8 Hormonal Changes
+
+Hormonal transitions can trigger or modify psoriasis activity. The most documented is pregnancy (covered in detail in Section 21.1), where 40-60% of women improve due to the Th2 shift that protects the foetus, while 10-20% worsen and postpartum flares are common. But other hormonal transitions also matter:
+
+- **Puberty**: Psoriasis onset peaks during adolescence, coinciding with the surge in sex hormones. Androgens may promote keratinocyte proliferation and inflammatory cytokine production, potentially explaining the adolescent onset peak [(Ceovic et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/24078901/).
+- **Menopause**: Some women report new-onset or worsening psoriasis around menopause. The decline in oestrogen, which has anti-inflammatory and immunomodulatory properties, may remove a protective brake on Th17-mediated inflammation. Hormone replacement therapy has shown mixed results in case reports.
+- **Menstrual cycle**: Premenstrual flares are reported by some women with psoriasis, likely reflecting the drop in oestrogen and progesterone in the late luteal phase.
+
+The interplay between sex hormones and psoriasis is understudied relative to its clinical impact. Most psoriasis clinical trials don't stratify results by hormonal status, and specific hormonal interventions haven't been tested in rigorous trials.
+
+## 8.9 Physical Trauma (Koebner Phenomenon)
 
 Skin injury (cuts, burns, tattoos, surgical wounds, or even friction) can trigger psoriatic lesions at the site of trauma. This is the **Koebner phenomenon** or isomorphic response, and it occurs in approximately 25-30% of psoriasis patients [(Boyd & Neldner, 1990)](https://pubmed.ncbi.nlm.nih.gov/2204607/).
 
-## 8.8 Climate and UV Exposure
+## 8.10 Climate and UV Exposure
 
 Cold, dry climates tend to worsen psoriasis, while moderate sunlight exposure (particularly UV-B radiation) can improve symptoms, forming the basis for phototherapy treatments. Sunburn, on the other hand, can trigger flares. The geographic gradient of psoriasis prevalence (higher at higher latitudes) may partly reflect reduced UV exposure and lower vitamin D levels [(Dairov et al., 2024)](https://www.clinmedkaz.org/download/prevalence-incidence-gender-and-age-distribution-and-economic-burden-of-psoriasis-worldwide-and-in-14497.pdf).
 
-## 8.9 Air Pollution
+## 8.11 Air Pollution
 
 Ambient air pollution is an increasingly recognised environmental trigger for psoriasis. A 2024 meta-analysis found significant associations between particulate matter and nitrogen dioxide exposure and psoriasis prevalence and flares: an excess risk of **3.0% per 10 ug/m3 increase in NO2**, 1.2% for PM10, and 0.2% for PM2.5 [(Chen et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39012635/). Effects were more pronounced in cold seasons and in females.
 
@@ -53,7 +67,7 @@ How does air pollution actually get from your lungs (or skin) to your immune sys
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Meta-analyses and longitudinal studies with plausible biological mechanisms; specific pollutant-pathway links being characterised.
 
-## 8.10 Climate Change
+## 8.12 Climate Change
 
 Climate change is anticipated to affect psoriasis through several interconnected mechanisms [(Frontiers in Immunology, 2025)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1641225/full):
 
