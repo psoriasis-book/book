@@ -43,7 +43,7 @@ Skin transcriptomic studies have compared gene expression in **lesional**, **non
 
 - Lesional psoriatic skin shows massive upregulation of IL-17-responsive genes, chemokines (CXCL1, CXCL8, CCL20), antimicrobial peptides (DEFB4, S100A7), and keratinocyte proliferation markers.
 - Non-lesional skin in psoriasis patients shows a "pre-psoriatic" transcriptomic signature distinct from healthy skin, supporting the concept of subclinical inflammation and epigenetic memory (Section 7.2).
-- **Endotype classification**: Emerging research suggests that psoriasis may consist of distinct molecular subtypes ("endotypes") with different underlying pathway dominance (e.g., IL-17-high vs IL-36-high), which could predict differential treatment responses.
+- **Endotype classification**: Emerging research suggests that psoriasis may consist of distinct molecular subtypes ("endotypes") with different underlying pathway dominance (e.g., IL-17-high vs IL-36-high), which could predict differential treatment responses [(Liang et al., 2017)](https://doi.org/10.1016/j.coi.2017.07.007).
 
 Blood-based transcriptomics is also advancing, with studies identifying circulating mRNA and microRNA signatures that correlate with disease activity and may eventually enable non-invasive monitoring without skin biopsies.
 

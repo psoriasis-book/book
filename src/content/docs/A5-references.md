@@ -434,3 +434,15 @@ sidebar:
 214. Manchanda Y, De A, Das S, Chakraborty D. Disease assessment in psoriasis. *Indian J Dermatol*. 2023;68(3):278-281. doi:10.4103/ijd.ijd_420_23. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389140/)
 
 215. Kumar R, Mahajan M, Mahajan BB. Cryotherapy in chronic plaque psoriasis: an effective therapeutic modality. *Egypt J Dermatol Venerol*. 2024;44(2):73-79. doi:10.4103/ejdv.ejdv_38_23. [LWW](https://journals.lww.com/ejdv/fulltext/2024/44020/cryotherapy_in_chronic_plaque_psoriasis__an.2.aspx)
+
+216. Phan C, Touvier M, Kesse-Guyot E, et al. Association between Mediterranean anti-inflammatory dietary profile and severity of psoriasis: results from the NutriNet-Santé cohort. *JAMA Dermatol*. 2018;154(9):1017-1024. doi:10.1001/jamadermatol.2018.2127. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30046840/)
+
+217. Choonhakarn C, Busaracome P, Sripanidkulchai B, Sarakarn P. A prospective, randomized clinical trial comparing topical aloe vera with 0.1% triamcinolone acetonide in mild to moderate plaque psoriasis. *J Eur Acad Dermatol Venereol*. 2010;24(2):168-172. doi:10.1111/j.1468-3083.2009.03377.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19686327/)
+
+218. Armstrong AW, Mehta MD, Schupp CW, Gondo GC, Bell SJ, Griffiths CEM. Psoriasis prevalence in adults in the United States. *JAMA Dermatol*. 2021;157(8):940-946. doi:10.1001/jamadermatol.2021.2007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34190957/)
+
+219. Takeshita J, Gelfand JM, Li P, et al. Psoriasis in the US Medicare population: prevalence, treatment, and factors associated with biologic use. *J Invest Dermatol*. 2015;135(12):2955-2963. doi:10.1038/jid.2015.296. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26214380/)
+
+220. Takeshita J, Augustin M, de Jong EMGJ, et al. Health-related QOL differs by race/ethnicity in North American patients with psoriasis: results from PSOLAR. *J Invest Dermatol*. 2022;142(12):2528-2531.e3. doi:10.1016/j.jid.2022.02.013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35304247/)
+
+221. Liang Y, Sarkar MK, Tsoi LC, Gudjonsson JE. Psoriasis: a mixed autoimmune and autoinflammatory disease. *Curr Opin Immunol*. 2017;49:1-8. doi:10.1016/j.coi.2017.07.007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28738209/)

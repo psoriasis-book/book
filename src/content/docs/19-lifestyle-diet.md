@@ -19,7 +19,7 @@ The biological rationale is well-established: adipose tissue (body fat) produces
 
 The Mediterranean diet — rich in olive oil, fish, fruits, vegetables, legumes, and whole grains, and low in processed food and red meat — has shown promising results. The first randomised clinical trial specifically evaluating a structured Mediterranean diet programme for psoriasis (the MEDIPSO trial, 2025) found that a 16-week dietitian-guided Mediterranean diet intervention produced a 3.4-point greater PASI reduction than a standard low-fat diet — and this improvement was independent of weight loss [(Perez-Bootello et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40991259/). The intervention group also showed improvements in HbA1c (a marker of blood sugar control) and anxiety.
 
-Prior to this trial, evidence came mainly from observational studies, including a large French survey of 35,735 patients that found an association between severe psoriasis and low adherence to Mediterranean dietary patterns. The anti-inflammatory properties of the Mediterranean diet (particularly omega-3 fatty acids, polyphenols, and fibre) provide a plausible biological mechanism.
+Prior to this trial, evidence came mainly from observational studies, including a large French survey of 35,735 participants from the NutriNet-Santé cohort that found an association between severe psoriasis and low adherence to Mediterranean dietary patterns [(Phan et al., 2018)](https://doi.org/10.1001/jamadermatol.2018.2127). The anti-inflammatory properties of the Mediterranean diet (particularly omega-3 fatty acids, polyphenols, and fibre) provide a plausible biological mechanism.
 
 **Evidence grade: Moderate, with the first RCT published in 2025. Promising but more trials needed.**
 
@@ -55,7 +55,7 @@ A 2025 systematic review published in Complementary Therapies in Medicine evalua
 
 - **Mahonia aquifolium (Oregon grape)**: A double-blind, placebo-controlled trial of 200 people found that 10% Oregon grape cream produced statistically significant improvement over placebo over 3 months, though it was less effective than standard topical medications.
 - **Indigo naturalis** (a traditional Chinese herbal preparation): Several studies have shown efficacy in psoriasis, with active compounds including indirubin, which has been demonstrated to inhibit the JAK3/STAT3 pathway and suppress IL-17A production in laboratory studies.
-- **Aloe vera**: A double-blind study of 60 patients found that 0.5% aloe vera cream produced significantly better results than placebo over 4 weeks. However, a follow-up replication study of 40 patients failed to confirm this finding. A 2023 review noted that aloe vera reduced mean PASI scores by 7.7 points in the treatment group.
+- **Aloe vera**: A double-blind study of 60 patients found that 0.5% aloe vera cream produced significantly better results than placebo over 4 weeks. However, a follow-up replication study of 40 patients failed to confirm this finding. A randomised controlled trial found that aloe vera reduced mean PASI scores by 7.7 points in the treatment group [(Choonhakarn et al., 2010)](https://doi.org/10.1111/j.1468-3083.2009.03377.x).
 
 Other natural remedies commonly discussed include:
 - **Curcumin (turmeric)**: Has demonstrated anti-inflammatory properties in laboratory studies, including the ability to modulate TNF-α expression. However, clinical trial data in psoriasis is limited to small studies.
