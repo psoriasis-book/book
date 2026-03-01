@@ -57,8 +57,8 @@ Emerging evidence indicates that untreated psoriasis impairs **male fertility** 
 A 2024 study demonstrated that treatment with **adalimumab** produced significant improvements not only in erectile function but also in sperm motility, vitality, and serum testosterone levels, suggesting that inflammation control directly benefits male fertility [(Hahn et al., 2024)](https://link.springer.com/article/10.1007/s00403-024-03520-0).
 
 **Medication effects on fertility** must also be considered:
-- **Methotrexate**: A folate antagonist that impairs spermatogenesis; men should discontinue at least 3 months before attempting conception.
-- **Acitretin**: Teratogenic; women must avoid pregnancy for 3 years after discontinuation due to tissue storage and re-esterification. Effects on male fertility are less clear, but current guidelines recommend discontinuation 3 months before conception.
+- **Methotrexate**: A folate antagonist that can impair spermatogenesis at high doses. The 2024 EULAR update on antirheumatic drugs in reproduction now considers methotrexate at standard therapeutic doses (up to 25 mg/week) compatible with paternal conception without a mandatory washout period, based on evidence showing no adverse effects on sperm DNA or birth outcomes. Some national guidelines (including BAD) have not yet updated their recommendations, so discuss this with your prescriber.
+- **Acitretin**: Teratogenic; women must avoid pregnancy for 3 years after discontinuation due to tissue storage and re-esterification. For men, the evidence does not clearly demonstrate teratogenic risk from paternal exposure, though traces are found in semen.
 - **Sulfasalazine**: Can cause reversible oligospermia.
 - **Biologics**: Current evidence suggests IL-17 and IL-23 inhibitors don't adversely affect male fertility, and may improve it by reducing inflammation (see above).
 
