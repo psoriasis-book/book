@@ -31,7 +31,26 @@ Now, OSA isn't the only sleep problem. Psoriasis patients also show elevated rat
 
 **Research stage: Established.** **Evidence strength: High.** Multiple epidemiological studies and meta-analyses; shared inflammatory mechanisms well-characterised.
 
-## 17.2 Sexual Dysfunction
+## 17.2 Fatigue
+
+Fatigue is one of the most common yet least addressed symptoms in psoriasis. Surveys consistently find that 50-70% of psoriasis patients report clinically significant fatigue, and they rate it among their most burdensome symptoms [(Skoie et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28185242/). This isn't ordinary tiredness. Patients describe a pervasive, disproportionate exhaustion that isn't relieved by rest.
+
+The causes are multifactorial and overlapping:
+
+- **Inflammatory cytokines**: TNF-α, IL-1, and IL-6, all elevated in psoriasis, directly cause fatigue through effects on the central nervous system. The same "sickness behaviour" that makes you feel exhausted during a flu operates chronically at a lower level in psoriasis.
+- **Sleep disruption**: Itch-driven sleep fragmentation, OSA, and insomnia (Section 17.1) directly cause daytime fatigue.
+- **Depression**: Fatigue is a core symptom of major depression (Section 16.1), which affects 12-19% of psoriasis patients.
+- **Anaemia of chronic disease**: Chronic inflammation can suppress erythropoiesis and iron availability.
+- **Metabolic comorbidities**: Obesity, insulin resistance, and hypothyroidism (all more common in psoriasis) contribute to fatigue.
+- **Medication effects**: Methotrexate causes fatigue in a significant proportion of patients, typically worst 24-48 hours after the weekly dose.
+
+Biologic therapy can improve fatigue. A pooled analysis of clinical trial data found that patients achieving PASI 90 on IL-17 inhibitors reported significantly less fatigue than partial responders, suggesting that controlling inflammation helps [(Strand et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30552176/). But fatigue often persists even after skin clearance, pointing to the central sensitisation and sleep architecture disruption discussed elsewhere in this chapter.
+
+If you experience persistent fatigue, it's worth discussing with your clinician. Screening for anaemia, thyroid dysfunction, and depression can identify treatable contributors.
+
+**Research stage: Established.** **Evidence strength: Moderate.** Cross-sectional studies and clinical trial secondary endpoints; multifactorial aetiology well-described.
+
+## 17.3 Sexual Dysfunction
 
 Sexual dysfunction is reported by approximately **40.8% of psoriasis patients overall**, with prevalence reaching 68% in women in some studies. Despite its high prevalence, it remains one of the least-discussed aspects of the disease in clinical practice [(Zhang et al., 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full).
 
@@ -46,7 +65,7 @@ Sexual dysfunction is reported by approximately **40.8% of psoriasis patients ov
 
 **Research stage: Established.** **Evidence strength: Moderate-High.** Systematic reviews and large cross-sectional studies; multifactorial mechanisms well-described.
 
-## 17.3 Fertility and Reproductive Health
+## 17.4 Fertility and Reproductive Health
 
 Emerging evidence indicates that untreated psoriasis impairs **male fertility** through mechanisms beyond sexual dysfunction:
 
