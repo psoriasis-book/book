@@ -33,7 +33,7 @@ Several classes of medications can trigger or exacerbate psoriasis, including **
 
 ## 8.7 Physical Trauma (Koebner Phenomenon)
 
-Skin injury (cuts, burns, tattoos, surgical wounds, or even friction) can trigger psoriatic lesions at the site of trauma. This is the **Koebner phenomenon** or isomorphic response, and it occurs in approximately 25-50% of psoriasis patients.
+Skin injury (cuts, burns, tattoos, surgical wounds, or even friction) can trigger psoriatic lesions at the site of trauma. This is the **Koebner phenomenon** or isomorphic response, and it occurs in approximately 25-30% of psoriasis patients [(Boyd & Neldner, 1990)](https://pubmed.ncbi.nlm.nih.gov/2204607/).
 
 ## 8.8 Climate and UV Exposure
 
