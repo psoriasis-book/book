@@ -37,7 +37,7 @@ Psoriasis affecting the palms and soles is recognised as a distinct clinical ent
 
 ## 11.3 Scalp Psoriasis
 
-Scalp involvement occurs in over 50% of psoriasis patients at any given time (and up to 80% at some point during the disease course), making it one of the most common manifestations [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract). The scalp is now recognised as a **high-impact site**, a designation that may qualify patients for systemic or biologic therapy even when total BSA is low, given its outsized effect on quality of life [(NICE CG153)](https://www.nice.org.uk/guidance/cg153).
+Scalp involvement occurs in over 50% of psoriasis patients at any given time (and up to 80% at some point during the disease course), making it one of the most common manifestations [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract). The scalp is now recognised as a **high-impact site**, a designation that may qualify patients for systemic or biologic therapy even when total BSA is low, given its outsized effect on quality of life [(NICE, 2017)](https://www.nice.org.uk/guidance/cg153).
 
 **Clinical features.** Scalp psoriasis ranges from mild, fine scaling to thick, adherent plaques extending beyond the hairline onto the forehead, temples, and posterior neck. Unlike seborrhoeic dermatitis (which is a key differential diagnosis), scalp psoriasis typically features well-demarcated, silvery-white plaques with more pronounced induration. Trichoscopy (dermoscopy of the scalp) reveals characteristic twisted red loops and white scaling.
 
@@ -45,10 +45,10 @@ Scalp involvement occurs in over 50% of psoriasis patients at any given time (an
 
 1. **Descaling phase**: Keratolytic agents (salicylic acid 2-5%, coconut oil, urea) soften and remove thick scale to allow penetration of active treatments. This step is essential and often overlooked.
 2. **Active treatment**: First-line is a combined calcipotriol/betamethasone gel or foam. The solution/foam vehicle is preferred over ointments for scalp use because of better cosmetic acceptability and hair-friendly application. Medicated shampoos containing coal tar, ketoconazole, or clobetasol provide adjunctive benefit.
-3. **Systemic therapy**: For moderate-to-severe scalp disease resistant to topicals, systemic agents are indicated. A network meta-analysis ranked **secukinumab 300 mg Q4W** and **bimekizumab 320 mg Q4W** as the most effective biologics for scalp psoriasis [(PubMed, 2025)](https://pubmed.ncbi.nlm.nih.gov/40401874/).
+3. **Systemic therapy**: For moderate-to-severe scalp disease resistant to topicals, systemic agents are indicated. A network meta-analysis ranked **secukinumab 300 mg Q4W** and **bimekizumab 320 mg Q4W** as the most effective biologics for scalp psoriasis [(Kaur et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40401874/).
 
 **Novel topicals.** Two recently approved agents represent significant advances for scalp psoriasis:
-- **Roflumilast foam 0.3%** (approved May 2025, ages 12+): A topical PDE4 inhibitor in a foam vehicle specifically designed for scalp application. Steroid-free with no duration-of-use restrictions [(Dermatology Times, 2025)](https://www.dermatologytimes.com/view/from-scalp-to-skin-modernizing-psoriasis-treatment-with-versatile-topical-solutions).
+- **Roflumilast foam 0.3%** (approved May 2025, ages 12+): A topical PDE4 inhibitor in a foam vehicle specifically designed for scalp application. Steroid-free with no duration-of-use restrictions [(FDA, 2025)](https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/217242s005lbl.pdf).
 - **Tapinarof** (Section 23): The aryl hydrocarbon receptor agonist, also steroid-free, shows efficacy for scalp psoriasis with its characteristic "remittive effect."
 
 **Oral therapies in development.** Icotrokinra (oral IL-23R peptide, Section 27.6) is being tested in Phase 3 for scalp-specific endpoints.
@@ -57,7 +57,7 @@ Scalp involvement occurs in over 50% of psoriasis patients at any given time (an
 
 ## 11.4 Inverse and Genital Psoriasis
 
-**Inverse psoriasis** (also called flexural psoriasis) affects skin folds: axillae, groin, inframammary folds, intergluteal cleft, and genital skin. **Genital psoriasis** specifically affects the vulva, penis, or perianal area and may occur with or without flexural involvement elsewhere. Up to 63% of psoriasis patients experience genital involvement at some point in their lives, yet it remains under-reported, under-diagnosed, and undertreated [(Wiley, 2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajd.14227).
+**Inverse psoriasis** (also called flexural psoriasis) affects skin folds: axillae, groin, inframammary folds, intergluteal cleft, and genital skin. **Genital psoriasis** specifically affects the vulva, penis, or perianal area and may occur with or without flexural involvement elsewhere. Up to 63% of psoriasis patients experience genital involvement at some point in their lives, yet it remains under-reported, under-diagnosed, and undertreated [(Wu et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38419192/).
 
 **Clinical features.** Inverse psoriasis presents as smooth, shiny, erythematous plaques, typically lacking the thick silvery scale of classical plaque psoriasis because the moist, occluded environment of skin folds causes maceration and scale loss. In darker skin, plaques may appear purple, hyperpigmented, or grey rather than erythematous (see Section 10.1). Genital psoriasis is frequently misdiagnosed as fungal infection, contact dermatitis, or sexually transmitted infection, leading to inappropriate treatment and diagnostic delay.
 
@@ -70,8 +70,8 @@ Scalp involvement occurs in over 50% of psoriasis patients at any given time (an
 **Systemic therapy.** For moderate-to-severe cases, dedicated clinical trials now demonstrate efficacy of systemic agents specifically for genital and inverse psoriasis:
 - **Ixekizumab** (IL-17A inhibitor) was studied in the IXORA-Q trial, a genital psoriasis-specific RCT, showing rapid and significant improvement in genital DLQI and sexual health indices.
 - **Apremilast** has been studied for genital-specific outcomes, showing modest but significant improvement.
-- **IL-23 inhibitors**: A 52-week multicentre study (2024) confirmed efficacy for moderate-to-severe inverse psoriasis [(Springer, 2025)](https://link.springer.com/article/10.1007/s13555-025-01393-3).
-- **Delgocitinib 0.25% ointment**, a topical pan-JAK inhibitor, is in Phase II for inverse psoriasis, potentially offering a novel steroid-free topical option [(PubMed, 2024)](https://pubmed.ncbi.nlm.nih.gov/39269142/).
+- **IL-23 inhibitors**: A 52-week multicentre study (2024) confirmed efficacy for moderate-to-severe inverse psoriasis [(Ceravalls et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/39269142/).
+- **Delgocitinib 0.25% ointment**, a topical pan-JAK inhibitor, is in Phase II for inverse psoriasis, potentially offering a novel steroid-free topical option [(Stein Gold et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40232594/).
 
 **Sexual health impact.** Genital psoriasis significantly affects sexual function and intimate relationships. Section 17.2 discusses sexual dysfunction in detail. Clinicians should proactively ask about genital involvement and sexual health, as patients rarely volunteer this information. A brief, normalising approach ("Psoriasis commonly affects genital skin. Is this something you've experienced?") can open the conversation.
 
