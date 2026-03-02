@@ -29,6 +29,12 @@ Anxiety has received less attention than depression in psoriasis research, but i
 
 The bidirectional relationship between anxiety and psoriasis mirrors that of depression: anxiety triggers the stress-inflammation axis (Section 8.3), which can worsen skin disease, which in turn worsens anxiety. Clinicians should screen for anxiety alongside depression, using validated tools such as the GAD-7.
 
+### The Brodalumab Suicidality Signal
+
+Brodalumab (Siliq), an IL-17 receptor blocker, carries a boxed warning for suicidal ideation and behaviour. This stems from four completed suicides during its clinical trial programme (three in the psoriasis trials, one in the PsA trial). The context matters, though. All four individuals had pre-existing psychiatric comorbidities. Post-marketing surveillance and large cohort analyses haven't confirmed a causal link between brodalumab and suicidality beyond what would be expected in a severe psoriasis population with high baseline psychiatric comorbidity [(Lebwohl et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/31837943/). A pooled safety analysis of over 4,000 brodalumab-treated patients found suicide rates consistent with those in the general psoriasis population.
+
+The practical consequence is that brodalumab requires a Risk Evaluation and Mitigation Strategy (REMS) programme in the US, limiting its prescribing to certified healthcare settings. Whether the boxed warning reflects a true drug effect or the background psychiatric burden of severe psoriasis remains debated. What's not debated: any patient starting systemic psoriasis therapy should be screened for depression and suicidal ideation, regardless of which drug they're prescribed.
+
 ## 16.4 Stigma, Shame, and Social Isolation
 
 Unlike many chronic diseases, psoriasis is visible. Patients report being stared at, refused service at hairdressers and swimming pools, asked whether their condition is contagious, and experiencing rejection in intimate relationships. A concept termed "social skin" has been used in the dermatology literature to describe how the skin mediates social identity and interpersonal connection, and how visible skin disease disrupts this.
