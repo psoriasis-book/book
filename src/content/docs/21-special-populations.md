@@ -102,7 +102,7 @@ Psoriasis in older adults (typically defined as age 65 and over) presents distin
 
 ## 21.5 HIV and Immunocompromised Patients
 
-Psoriasis in HIV-positive patients presents a clinical paradox. Psoriasis is driven by an overactive immune system, yet it often appears or worsens dramatically when the immune system is weakened by HIV. The explanation lies in the specific immune cells affected: HIV depletes CD4+ T cells (particularly regulatory T cells that normally keep inflammation in check), shifting the balance towards uninhibited Th1 and Th17 responses in the skin [(Morar et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20534010/).
+Psoriasis in HIV-positive patients presents a clinical paradox. Psoriasis is driven by an overactive immune system, yet it often appears or worsens dramatically when the immune system is weakened by HIV. The explanation lies in the specific immune cells affected: HIV depletes CD4+ T cells (particularly regulatory T cells that normally keep inflammation in check), shifting the balance towards uninhibited Th1 and Th17 responses in the skin [(Morar et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20610329/).
 
 **Clinical features.** HIV-associated psoriasis tends to be more severe, more treatment-resistant, and more likely to present as erythrodermic or pustular forms. Inverse psoriasis and nail disease are particularly common. The severity of psoriasis often correlates inversely with CD4+ count: as immune suppression deepens, skin disease paradoxically worsens.
 
