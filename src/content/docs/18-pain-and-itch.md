@@ -35,7 +35,7 @@ Pruritus (itch) is reported by 60–90% of psoriasis patients and is frequently 
 
 ## 18.2 Pain in Psoriasis and Psoriatic Arthritis
 
-Pain in psoriasis extends beyond the joint involvement of PsA (Section 15). Cutaneous pain (burning, stinging, and soreness of psoriatic plaques) is reported by 42% of patients and is distinct from itch, though both share some neural pathways.
+Pain in psoriasis extends beyond the joint involvement of PsA (Section 15). Cutaneous pain (burning, stinging, and soreness of psoriatic plaques) is reported by 42% of patients and is distinct from itch, though both share some neural pathways [(Ljosaa et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20107724/).
 
 A 2025 study of 114 psoriatic arthritis patients systematically characterised pain mechanisms and found [(Akdeniz et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010264/):
 - **Central sensitisation** (amplified pain processing in the spinal cord and brain) was present in **43%** of patients
