@@ -32,12 +32,12 @@ Pregnancy and psoriasis present a complex intersection, particularly for patient
 
 ## 21.2 Paediatric Psoriasis
 
-Psoriasis begins in childhood in approximately one-third of all cases, with an estimated prevalence of 0.5–2% in children. It can present at any age, including infancy, though onset is more common during adolescence. Female children are affected slightly more frequently than males.
+Psoriasis begins in childhood in approximately one-third of all cases, with an estimated prevalence of 0.5–2% in children [(Burden-Teh et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/26928555/). It can present at any age, including infancy, though onset is more common during adolescence. Female children are affected slightly more frequently than males.
 
 **Differences in presentation.** Children can develop any subtype of psoriasis, but certain presentations are more common or appear differently than in adults:
 
 - **Napkin psoriasis** (nappy-area psoriasis) can be the earliest manifestation, presenting as persistent, well-demarcated erythema in the nappy area of infants. It's often mistaken for nappy rash and may not develop classic silvery scale.
-- **Facial involvement** is more common in children than adults (up to 50% of paediatric cases), as are involvement of the scalp and flexural areas.
+- **Facial involvement** is more common in children than adults (up to 63% of paediatric cases), as are involvement of the scalp and flexural areas [(Jung et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35347761/).
 - **Guttate psoriasis** is particularly common in children and is frequently triggered by streptococcal pharyngitis.
 - **Thinner plaques** and finer scale are typical in younger children. Classic adult-pattern thick plaques develop more commonly in adolescence.
 
