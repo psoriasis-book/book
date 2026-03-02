@@ -77,7 +77,7 @@ Other natural remedies commonly discussed include:
 
 ## 19.8 Stress Reduction
 
-Stress is a well-documented trigger for psoriasis flares (Section 8.3), and several small studies have explored whether stress-reduction interventions can improve outcomes. Mindfulness-based stress reduction (MBSR) combined with phototherapy showed faster skin clearance than phototherapy alone in one small study. The evidence base remains limited to small trials, though, and no clinical guideline currently recommends specific stress-reduction protocols for psoriasis management.
+Stress is a well-documented trigger for psoriasis flares (Section 8.3), and several small studies have explored whether stress-reduction interventions can improve outcomes. In a landmark trial, Kabat-Zinn et al. randomised 37 patients undergoing UV phototherapy to either listen to a mindfulness meditation tape during treatment or receive light treatment alone. The MBSR group reached both the halfway point and the clearing point significantly faster [(Kabat-Zinn et al., 1998)](https://pubmed.ncbi.nlm.nih.gov/9773769/). A 2022 systematic review identified five additional studies of mindfulness or meditation for psoriasis, most showing trends towards benefit but limited by small sample sizes [(Ghannoum & Khanna, 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9515248/). No clinical guideline currently recommends specific stress-reduction protocols for psoriasis management, though the biological plausibility is strong (Section 8.3).
 
 **Evidence grade: Low. Biologically plausible but inadequately studied.**
 
