@@ -55,7 +55,7 @@ Cold, dry climates tend to worsen psoriasis, while moderate sunlight exposure (p
 
 ## 8.11 Air Pollution
 
-Ambient air pollution is an increasingly recognised environmental trigger for psoriasis. A 2024 meta-analysis found significant associations between particulate matter and nitrogen dioxide exposure and psoriasis prevalence and flares: an excess risk of **3.0% per 10 ug/m3 increase in NO2**, 1.2% for PM10, and 0.2% for PM2.5 [(Chen et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39012635/). Effects were more pronounced in cold seasons and in females.
+Ambient air pollution is an increasingly recognised environmental trigger for psoriasis. A 2024 meta-analysis found significant associations between particulate matter and nitrogen dioxide exposure and psoriasis prevalence and flares: an excess risk of **3.0% per 10 ug/m3 increase in NO2**, 1.2% for PM10, and 0.2% for PM2.5 [(Wu et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39012635/). Effects were more pronounced in cold seasons and in females.
 
 How does air pollution actually get from your lungs (or skin) to your immune system? Several pathways:
 
