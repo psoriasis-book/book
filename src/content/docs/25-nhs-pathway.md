@@ -36,7 +36,7 @@ For **high-impact site psoriasis** (severe disease at localised sites causing si
 
 ## 25.4 Choosing a Biologic
 
-Once eligible, the choice of biologic follows both clinical and cost-effectiveness considerations. As of 2024-2025, the NHS treatment algorithm is broadly:
+Once eligible, the choice of biologic follows both clinical and cost-effectiveness considerations, guided by the BAD biologic therapy guidelines [(Smith et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32189327/) and their 2023 pragmatic update [(Warren et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37740557/). As of 2024-2025, the NHS treatment algorithm is broadly:
 
 **First-line biologic:** Adalimumab biosimilar is currently the best-value biologic (BVB) in most NHS regions because biosimilar competition has driven costs down. Clinical factors may direct the choice elsewhere, though. Certolizumab for pregnancy planning, IL-17 inhibitors for coexisting psoriatic arthritis with axial disease, and so on.
 
@@ -48,7 +48,7 @@ Once eligible, the choice of biologic follows both clinical and cost-effectivene
 
 ## 25.5 Ongoing Monitoring
 
-All patients on biologic therapy are enrolled in BADBIR (British Association of Dermatologists Biologics and Immunomodulators Register), a national prospective registry that tracks long-term safety outcomes. You'll typically be reviewed every 3 months in the first year and every 6 months thereafter if stable, with blood monitoring as required by the specific drug.
+All patients on biologic therapy are enrolled in BADBIR (British Association of Dermatologists Biologics and Immunomodulators Register), a national prospective registry that tracks long-term safety outcomes [(Burden et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/22686691/). You'll typically be reviewed every 3 months in the first year and every 6 months thereafter if stable, with blood monitoring as required by the specific drug.
 
 ## 25.6 Devolved Nations: Scotland, Wales, and Northern Ireland
 
