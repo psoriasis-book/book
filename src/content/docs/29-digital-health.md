@@ -42,7 +42,7 @@ A growing ecosystem of smartphone apps supports psoriasis self-management:
 
 Section 28.7 describes the application of AI to PASI scoring and lesion detection. In the context of digital health, AI integration extends to **point-of-care diagnostic tools**:
 
-- An **EfficientNet-B4** deep learning model achieved 92.3% accuracy in differentiating psoriasis from other papulosquamous disorders (seborrhoeic dermatitis, pityriasis rosea, lichen planus) using dermoscopic images, outperforming several non-specialist dermatologists.
+- An **EfficientNet-B4** deep learning model achieved 92.3% accuracy in differentiating psoriasis from other papulosquamous disorders (seborrhoeic dermatitis, pityriasis rosea, lichen planus) using dermoscopic images, outperforming several non-specialist dermatologists [(Yang et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/34688173/).
 - AI-powered tools integrated into teledermatology platforms could enable automated severity scoring, reducing inter-rater variability and increasing consistency of remote assessments.
 - **Subtype identification**: Machine learning models are being trained to distinguish between psoriasis subtypes (plaque, guttate, pustular) from clinical photographs, which could support diagnostic accuracy in primary care settings.
 
