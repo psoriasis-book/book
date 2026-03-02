@@ -54,7 +54,7 @@ PsA and rheumatoid arthritis (RA) can both cause joint inflammation and destruct
 
 A landmark study by Haroon et al. (2015) demonstrated that a diagnostic delay of more than 6 months from symptom onset to first rheumatology consultation was associated with significantly worse outcomes: more peripheral joint erosions, higher rates of sacroiliitis, more joint deformity, and worse functional disability [(Haroon et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/24525911/). Even a 6-month delay contributed to irreversible joint damage that subsequent treatment couldn't fully recover.
 
-This finding underscores why clinicians should screen all psoriasis patients for early signs of PsA (joint pain, stiffness, swelling, entheseal tenderness, or dactylitis) and refer promptly to rheumatology when PsA is suspected. Screening tools such as the PEST (Psoriasis Epidemiology Screening Tool) questionnaire can identify patients in dermatology clinics who may need rheumatology assessment [(Ibrahim et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19174392/).
+This finding underscores why clinicians should screen all psoriasis patients for early signs of PsA (joint pain, stiffness, swelling, entheseal tenderness, or dactylitis) and refer promptly to rheumatology when PsA is suspected. Screening tools such as the PEST (Psoriasis Epidemiology Screening Tool) questionnaire can identify patients in dermatology clinics who may need rheumatology assessment [(Ibrahim et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19604440/).
 
 ## 15.6 Treatment Algorithms
 
