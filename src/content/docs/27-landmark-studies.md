@@ -101,8 +101,8 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 27.11 Deucravacitinib — First TYK2 Inhibitor (POETYK PSO-1 and PSO-2, 2022)
 
-**Study:** *Trial of Deucravacitinib versus Placebo and Apremilast in Moderate to Severe Plaque Psoriasis.* Armstrong AW, et al. N Engl J Med. 2023;388(8):666–678.
-**Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2118345) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/36351280/)
+**Study:** *Deucravacitinib versus placebo and apremilast in moderate to severe plaque psoriasis: Efficacy and safety results from the 52-week, randomized, double-blinded, phase 3 POETYK PSO-1 trial.* Armstrong AW, et al. J Am Acad Dermatol. 2023;88(1):29–39.
+**Read it:** [JAAD](https://doi.org/10.1016/j.jaad.2022.07.002) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35820547/)
 
 **Why it matters:** Deucravacitinib (Sotyktu) was the first oral drug to selectively inhibit TYK2, a specific member of the Janus kinase family involved in IL-23, IL-12, and type I interferon signalling. Unlike older JAK inhibitors (tofacitinib, baricitinib) that broadly suppress multiple JAK enzymes and carry cardiovascular and thromboembolic safety signals, deucravacitinib targets only TYK2 through its regulatory (pseudokinase) domain, offering a more selective mechanism. It received FDA approval in September 2022.
 
