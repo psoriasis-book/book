@@ -5,7 +5,7 @@ sidebar:
   order: 21
 ---
 
-The experience of psoriasis differs significantly across certain population groups: in how the disease presents, how it's diagnosed, and which treatments are safe and appropriate. This section addresses three populations where these differences have important clinical and practical implications: pregnancy, children, and people with skin of colour.
+The experience of psoriasis differs significantly across certain population groups: in how the disease presents, how it's diagnosed, and which treatments are safe and appropriate. This section addresses the populations where these differences have the most important clinical and practical implications.
 
 ## 21.1 Pregnancy and Conception
 
@@ -62,6 +62,12 @@ The following table summarises the approved biologic and oral agents for paediat
 
 *SC = subcutaneous; q4w = every 4 weeks; q12w = every 12 weeks; BD = twice daily. Adalimumab is not FDA-approved for paediatric psoriasis but is EMA-approved. Apremilast is an oral PDE4 inhibitor, not a biologic. Growth monitoring is recommended with apremilast in children.*
 
+### Paediatric Psoriatic Arthritis
+
+Psoriatic arthritis isn't just an adult disease. Juvenile psoriatic arthritis (JPsA) is a recognised subtype of juvenile idiopathic arthritis (JIA), accounting for approximately 5-10% of JIA cases. It can present before, alongside, or after skin psoriasis, and in some children the arthritis appears years before any skin involvement, making diagnosis challenging.
+
+JPsA differs from adult PsA in several ways. Dactylitis is more common in children, small joint involvement of the hands is typical, and the pattern is more often oligoarticular (fewer than 5 joints) at onset. Enthesitis, particularly at the Achilles insertion and patellar tendon, is a prominent feature in older children and adolescents. Children with JPsA should be managed jointly by paediatric rheumatology and dermatology. Screening for joint symptoms should be part of every paediatric psoriasis assessment, and conversely, children presenting with unexplained arthritis should be examined for subtle nail pitting or scalp psoriasis that might provide the diagnostic clue.
+
 ## 21.3 Psoriasis in Skin of Colour
 
 Psoriasis affects all racial and ethnic groups, but there are significant differences in prevalence, clinical presentation, diagnostic accuracy, treatment access, and outcomes. These disparities represent one of the most important equity issues in dermatology today.
@@ -93,3 +99,19 @@ Psoriasis in older adults (typically defined as age 65 and over) presents distin
 **Dosing adjustments.** Age-related decline in renal and hepatic function requires dosing vigilance. Methotrexate clearance decreases with reduced creatinine clearance, increasing toxicity risk. More frequent blood monitoring (FBC, LFTs, renal function) is recommended in elderly patients on conventional systemics.
 
 **Undertreatment.** Despite the availability of effective biologic therapies, elderly patients are significantly less likely to receive biologics than younger patients. This may reflect clinician concern about infection risk, but it also leads to undertreated disease and reduced quality of life. Guidelines increasingly recognise that age alone should not be a contraindication to biologic therapy, and that the benefits of disease control must be weighed against individual risk factors on a case-by-case basis.
+
+## 21.5 HIV and Immunocompromised Patients
+
+Psoriasis in HIV-positive patients presents a clinical paradox. Psoriasis is driven by an overactive immune system, yet it often appears or worsens dramatically when the immune system is weakened by HIV. The explanation lies in the specific immune cells affected: HIV depletes CD4+ T cells (particularly regulatory T cells that normally keep inflammation in check), shifting the balance towards uninhibited Th1 and Th17 responses in the skin [(Morar et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20534010/).
+
+**Clinical features.** HIV-associated psoriasis tends to be more severe, more treatment-resistant, and more likely to present as erythrodermic or pustular forms. Inverse psoriasis and nail disease are particularly common. The severity of psoriasis often correlates inversely with CD4+ count: as immune suppression deepens, skin disease paradoxically worsens.
+
+**Treatment challenges.** The usual psoriasis treatment ladder is complicated by immunosuppression:
+
+- **Antiretroviral therapy (ART)** is itself the most effective psoriasis treatment in HIV-positive patients. Immune reconstitution with ART often produces dramatic psoriasis improvement, and ART should always be the first intervention.
+- **Topical therapies and phototherapy** are safe and effective as in HIV-negative patients. NB-UVB is generally preferred over PUVA (which carries theoretical concerns about additional immunosuppression).
+- **Acitretin** is often considered first-line for systemic therapy in HIV because it's not immunosuppressive.
+- **Methotrexate and cyclosporine** are generally avoided due to additive immunosuppression, though methotrexate may be used cautiously in patients with well-controlled HIV on ART.
+- **Biologics** have been used successfully in HIV-positive patients with severe, refractory psoriasis, particularly TNF inhibitors and IL-17 inhibitors. Case series report good efficacy without increased opportunistic infections, provided the patient is on stable ART with a CD4+ count above 200 cells/μL [(Bartlett et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36259550/). However, data are limited to case series and reports; no randomised trials exist in this population.
+
+**Other immunocompromised states.** Solid organ transplant recipients on chronic immunosuppression (calcineurin inhibitors, mycophenolate) may develop or experience worsening of psoriasis. Patients on cancer chemotherapy may have psoriasis flares during immune reconstitution after treatment cycles. In all cases, close collaboration between dermatology and the relevant specialist team is essential.
