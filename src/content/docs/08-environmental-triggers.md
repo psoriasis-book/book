@@ -13,7 +13,7 @@ Psoriasis develops when environmental factors interact with genetic susceptibili
 
 ## 8.2 Obesity
 
-Obesity is both a risk factor for developing psoriasis and a factor that worsens existing disease. Adipose tissue (body fat) is metabolically active and produces pro-inflammatory cytokines called adipokines, including TNF-a and IL-6, which contribute to systemic inflammation. Obesity also reduces the efficacy of many psoriasis treatments, and weight loss improves disease severity and treatment response [(Zhu et al., 2024; Al-Kufi et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12047224/).
+Obesity is both a risk factor for developing psoriasis and a factor that worsens existing disease. Adipose tissue (body fat) is metabolically active and produces pro-inflammatory cytokines called adipokines, including TNF-a and IL-6, which contribute to systemic inflammation. Obesity also reduces the efficacy of many psoriasis treatments, and weight loss improves disease severity and treatment response [(Zhu et al., 2024; Sai Chakith et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12047224/).
 
 ## 8.3 Psychological Stress
 
