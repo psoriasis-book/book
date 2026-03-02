@@ -115,7 +115,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 **Why it matters:** Generalised pustular psoriasis (GPP) is rare and potentially life-threatening, yet it had no specifically approved treatment until spesolimab (Spevigo). Before this, GPP flares were managed with off-label use of drugs developed for plaque psoriasis, often with poor results. Spesolimab is a monoclonal antibody that blocks the IL-36 receptor, targeting the distinct inflammatory pathway that drives GPP (Section 7.3). It received FDA approval in September 2022.
 
-**New knowledge:** The Effisayil 1 trial showed that a single intravenous dose of spesolimab cleared pustules in 54% of patients within one week, compared to 6% on placebo. This trial validated IL-36 as the dominant cytokine pathway in GPP (distinct from the IL-23/IL-17 axis of plaque psoriasis) and demonstrated that targeting it could rapidly control a previously uncontrollable disease. The Effisayil 2 trial subsequently showed that subcutaneous spesolimab prevented GPP flares over 48 weeks [(Bachelez et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38507752/).
+**New knowledge:** The Effisayil 1 trial showed that a single intravenous dose of spesolimab cleared pustules in 54% of patients within one week, compared to 6% on placebo. This trial validated IL-36 as the dominant cytokine pathway in GPP (distinct from the IL-23/IL-17 axis of plaque psoriasis) and demonstrated that targeting it could rapidly control a previously uncontrollable disease. The Effisayil 2 trial subsequently showed that subcutaneous spesolimab prevented GPP flares over 48 weeks [(Morita et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37738999/).
 
 ## 27.13 Tapinarof — A New Topical Mechanism (PSOARING 1 and 2, 2022)
 
