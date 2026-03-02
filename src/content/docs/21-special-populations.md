@@ -11,7 +11,7 @@ The experience of psoriasis differs significantly across certain population grou
 
 Pregnancy and psoriasis present a complex intersection, particularly for patients who are trying to conceive or are already pregnant. The challenges are threefold: the natural course of psoriasis changes during pregnancy; many standard treatments are unsafe for the developing foetus; and the evidence base for drug safety in pregnancy is limited because pregnant women are routinely excluded from clinical trials.
 
-**Natural course during pregnancy.** Approximately 40–60% of women with psoriasis experience improvement during pregnancy, likely due to the shift from Th1/Th17-dominant immunity towards a Th2-dominant profile that occurs naturally to protect the foetus from the mother's immune system [(Murase et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15793512/). Roughly 10–20% of women experience worsening, though, and postpartum flares within the first few months after delivery are common.
+**Natural course during pregnancy.** Approximately 40–60% of women with psoriasis experience improvement during pregnancy, likely due to the shift from Th1/Th17-dominant immunity towards a Th2-dominant profile that occurs naturally to protect the foetus from the mother's immune system [(Murase et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15897382/). Roughly 10–20% of women experience worsening, though, and postpartum flares within the first few months after delivery are common.
 
 **Treatments to avoid absolutely.** Two commonly used psoriasis drugs are known teratogens (substances that cause birth defects) and are absolutely contraindicated during pregnancy and conception:
 
