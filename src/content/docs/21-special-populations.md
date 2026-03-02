@@ -64,7 +64,7 @@ The following table summarises the approved biologic and oral agents for paediat
 
 ### Paediatric Psoriatic Arthritis
 
-Psoriatic arthritis isn't just an adult disease. Juvenile psoriatic arthritis (JPsA) is a recognised subtype of juvenile idiopathic arthritis (JIA), accounting for approximately 5-10% of JIA cases. It can present before, alongside, or after skin psoriasis, and in some children the arthritis appears years before any skin involvement, making diagnosis challenging.
+Psoriatic arthritis isn't just an adult disease. Juvenile psoriatic arthritis (JPsA) is a recognised subtype of juvenile idiopathic arthritis (JIA), accounting for approximately 5% of JIA cases [(Brunello et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35722498/). It can present before, alongside, or after skin psoriasis, and in some children the arthritis appears years before any skin involvement, making diagnosis challenging.
 
 JPsA differs from adult PsA in several ways. Dactylitis is more common in children, small joint involvement of the hands is typical, and the pattern is more often oligoarticular (fewer than 5 joints) at onset. Enthesitis, particularly at the Achilles insertion and patellar tendon, is a prominent feature in older children and adolescents. Children with JPsA should be managed jointly by paediatric rheumatology and dermatology. Screening for joint symptoms should be part of every paediatric psoriasis assessment, and conversely, children presenting with unexplained arthritis should be examined for subtle nail pitting or scalp psoriasis that might provide the diagnostic clue.
 
