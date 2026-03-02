@@ -44,7 +44,7 @@ The causes are multifactorial and overlapping:
 - **Metabolic comorbidities**: Obesity, insulin resistance, and hypothyroidism (all more common in psoriasis) contribute to fatigue.
 - **Medication effects**: Methotrexate causes fatigue in a significant proportion of patients, typically worst 24-48 hours after the weekly dose.
 
-Biologic therapy can improve fatigue. A pooled analysis of clinical trial data found that patients achieving PASI 90 on IL-17 inhibitors reported significantly less fatigue than partial responders, suggesting that controlling inflammation helps [(Strand et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30552176/). But fatigue often persists even after skin clearance, pointing to the central sensitisation and sleep architecture disruption discussed elsewhere in this chapter.
+Biologic therapy can improve fatigue. A systematic review and meta-analysis of eight RCTs found that biologic therapy significantly reduced fatigue compared to placebo (SMD -0.40, 95% CI -0.46 to -0.34), suggesting that controlling inflammation helps [(Skoie et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30941636/). But fatigue often persists even after skin clearance, pointing to the central sensitisation and sleep architecture disruption discussed elsewhere in this chapter.
 
 If you experience persistent fatigue, it's worth discussing with your clinician. Screening for anaemia, thyroid dysfunction, and depression can identify treatable contributors.
 
