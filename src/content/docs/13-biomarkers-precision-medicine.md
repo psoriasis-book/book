@@ -53,7 +53,7 @@ Blood-based transcriptomics is also advancing, with studies identifying circulat
 
 The greatest potential for biomarker-guided treatment lies in integrating multiple data layers: genomics (Section 5), transcriptomics, proteomics, and metabolomics into comprehensive patient profiles.
 
-The **109-loci GWAS** (Section 19.1) provides the genomic foundation: genetic risk scores may predict disease onset and severity. The PSORT Consortium (Section 22) has already demonstrated that combining HLA-C*06:02 genotyping with clinical variables can predict differential response to adalimumab versus ustekinumab (Section 9.7). The next step is integrating these genetic predictors with real-time molecular data (transcriptomic and proteomic signatures from blood or skin samples) to guide treatment selection at diagnosis.
+The **109-loci GWAS** (Section 5) provides the genomic foundation: genetic risk scores may predict disease onset and severity. The PSORT Consortium (Section 27.8) has already demonstrated that combining HLA-C*06:02 genotyping with clinical variables can predict differential response to adalimumab versus ustekinumab (Section 12.7). The next step is integrating these genetic predictors with real-time molecular data (transcriptomic and proteomic signatures from blood or skin samples) to guide treatment selection at diagnosis.
 
 The vision of precision medicine in psoriasis is a decision framework where:
 1. **Genetic risk scores** identify patients most likely to develop comorbidities (guiding screening intensity)
