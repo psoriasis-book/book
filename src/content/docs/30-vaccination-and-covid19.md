@@ -24,7 +24,7 @@ Current NPF (National Psoriasis Foundation) Delphi consensus recommendations adv
 
 ## 30.3 Practical Vaccination Guidance for Psoriasis Patients
 
-Based on the evidence above, here is drug-by-drug guidance reflecting current consensus for COVID-19 and other non-live vaccinations:
+Based on the evidence above, here is drug-by-drug guidance reflecting current consensus for COVID-19 and other non-live vaccinations [(Gelfand et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11998957/):
 
 - **IL-23 inhibitors** (risankizumab, guselkumab, tildrakizumab) and **IL-17 inhibitors** (secukinumab, ixekizumab, brodalumab, bimekizumab): Continue without modification. No evidence of impaired vaccine response.
 - **TNF-α inhibitors** (adalimumab, etanercept, infliximab, certolizumab): Continue without modification. Antibody titres may be slightly lower than in untreated individuals but seroconversion rates remain high.
@@ -47,10 +47,12 @@ The lessons from COVID-19 vaccination have reinforced and refined broader vaccin
 
 | Biologic Class | Recommended Hold Before Live Vaccine | Restart After Vaccine |
 |---|---|---|
-| TNF-α inhibitors | 3-5 half-lives (varies by agent) | 2-4 weeks after vaccination |
-| IL-17 inhibitors | 3-5 half-lives | 2-4 weeks |
-| IL-23 inhibitors | 3-5 half-lives (12+ weeks for risankizumab) | 2-4 weeks |
-| Methotrexate | 2 weeks before and after | 2 weeks |
+| TNF-α inhibitors | 1 dosing interval | 2-4 weeks after vaccination |
+| IL-17 inhibitors | 1 dosing interval | 2-4 weeks |
+| IL-23 inhibitors | 1 dosing interval | 2-4 weeks |
+| Methotrexate | 4 weeks before and after | 2-4 weeks |
+
+*Based on 2022 ACR Guideline for Vaccinations in Patients with Rheumatic and Musculoskeletal Diseases [(Bass et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36597813/) and the [NHS Green Book, Chapter 6](https://www.gov.uk/government/collections/immunisation-against-infectious-disease-the-green-book).*
 
 **Not all biologics are equally immunosuppressive.** IL-17 and IL-23 inhibitors target narrow components of the immune system and carry lower overall infection risk than broad immunosuppressants (e.g., cyclosporine, high-dose corticosteroids). This distinction matters for risk counselling and clinical decision-making.
 
