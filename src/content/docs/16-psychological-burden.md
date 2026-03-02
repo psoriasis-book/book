@@ -21,7 +21,7 @@ The 2025 BADBIR analysis (British Association of Dermatologists Biologics and Im
 
 ## 16.3 Anxiety Disorders
 
-Anxiety has received less attention than depression in psoriasis research, but it may be even more prevalent. A meta-analysis of 101 studies found that approximately 21% of psoriasis patients meet diagnostic criteria for a clinical anxiety disorder, and up to 43% report elevated anxiety symptoms on screening questionnaires [(Fleming et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28757614/). The most common presentations include generalised anxiety disorder, social anxiety disorder, and health anxiety.
+Anxiety has received less attention than depression in psoriasis research, but it may be even more prevalent. A meta-analysis of 101 studies found that approximately 21% of psoriasis patients meet diagnostic criteria for a clinical anxiety disorder, and up to 43% report elevated anxiety symptoms on screening questionnaires [(Fleming et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/27620704/). The most common presentations include generalised anxiety disorder, social anxiety disorder, and health anxiety.
 
 **Social anxiety** is particularly relevant. The visibility of psoriasis creates a specific type of anticipatory dread: worry about being stared at, asked intrusive questions, or rejected. Patients with psoriasis on visible sites (hands, face, scalp) report higher anxiety than those with trunk-limited disease, regardless of total BSA. Social anxiety drives avoidance behaviours (declining invitations, changing clothing choices, avoiding intimacy) that compound the quality-of-life burden.
 
