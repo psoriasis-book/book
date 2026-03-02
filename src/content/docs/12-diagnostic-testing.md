@@ -27,7 +27,7 @@ Characteristic histological features of psoriasis include [(Kimmel & Lebwohl, 20
 - **Acanthosis**: Thickening of the epidermis, with elongated rete ridges.
 - **Parakeratosis**: Retention of cell nuclei in the stratum corneum (the outermost layer of skin), indicating abnormally rapid keratinocyte turnover. Cells are moving through the epidermis so quickly that they retain their nuclei instead of shedding them.
 - **Loss of the granular layer**: The normal transitional layer between living and dead skin cells is absent.
-- **Munro's microabscesses**: Collections of neutrophils (white blood cells) trapped within the parakeratotic stratum corneum. Found in approximately 75% of cases and highly characteristic.
+- **Munro's microabscesses**: Collections of neutrophils (white blood cells) trapped within the parakeratotic stratum corneum. Highly characteristic of psoriasis, though not always present on biopsy.
 - **Spongiform pustules of Kogoj**: Clusters of neutrophils between keratinocytes in the spinous layer of the epidermis.
 - **Dilated, tortuous capillaries** in the dermal papillae.
 - **Perivascular inflammatory infiltrate**: Collections of T lymphocytes and other immune cells around blood vessels in the dermis.
