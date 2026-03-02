@@ -119,8 +119,8 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 27.13 Tapinarof — A New Topical Mechanism (PSOARING 1 and 2, 2022)
 
-**Study:** *Two Phase 3 Trials of Tapinarof Cream for the Treatment of Plaque Psoriasis.* Lebwohl M, et al. N Engl J Med. 2022;387(11):983–994.
-**Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2103629) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/35613023/)
+**Study:** *Phase 3 Trials of Tapinarof Cream for Plaque Psoriasis.* Lebwohl M, et al. N Engl J Med. 2021;385(24):2219–2229.
+**Read it:** [NEJM](https://doi.org/10.1056/NEJMoa2103629) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/34879448/)
 
 **Why it matters:** Tapinarof (Vtama) was the first topical aryl hydrocarbon receptor (AhR) agonist approved for psoriasis (May 2022), representing an entirely new mechanism of action in a therapeutic space long dominated by corticosteroids and vitamin D analogues. It offered something no topical steroid can: no duration-of-use restrictions and a "remittive effect" where skin improvement continues after treatment stops.
 
