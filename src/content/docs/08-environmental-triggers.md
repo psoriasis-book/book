@@ -39,7 +39,7 @@ SARS-CoV-2 infection has been documented as both a trigger for new-onset psorias
 
 Hormonal transitions can trigger or modify psoriasis activity. The most documented is pregnancy (covered in detail in Section 21.1), where 40-60% of women improve due to the Th2 shift that protects the foetus, while 10-20% worsen and postpartum flares are common. But other hormonal transitions also matter:
 
-- **Puberty**: Psoriasis onset peaks during adolescence, coinciding with the surge in sex hormones. Androgens may promote keratinocyte proliferation and inflammatory cytokine production, potentially explaining the adolescent onset peak [(Ceovic et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/24078901/).
+- **Puberty**: Psoriasis onset peaks during adolescence, coinciding with the surge in sex hormones. Androgens may promote keratinocyte proliferation and inflammatory cytokine production, potentially explaining the adolescent onset peak [(Ceovic et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/24459670/).
 - **Menopause**: Some women report new-onset or worsening psoriasis around menopause. The decline in oestrogen, which has anti-inflammatory and immunomodulatory properties, may remove a protective brake on Th17-mediated inflammation. Hormone replacement therapy has shown mixed results in case reports.
 - **Menstrual cycle**: Premenstrual flares are reported by some women with psoriasis, likely reflecting the drop in oestrogen and progesterone in the late luteal phase.
 
