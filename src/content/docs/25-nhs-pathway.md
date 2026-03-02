@@ -49,3 +49,15 @@ Once eligible, the choice of biologic follows both clinical and cost-effectivene
 ## 25.5 Ongoing Monitoring
 
 All patients on biologic therapy are enrolled in BADBIR (British Association of Dermatologists Biologics and Immunomodulators Register), a national prospective registry that tracks long-term safety outcomes. You'll typically be reviewed every 3 months in the first year and every 6 months thereafter if stable, with blood monitoring as required by the specific drug.
+
+## 25.6 Devolved Nations: Scotland, Wales, and Northern Ireland
+
+The pathway described above applies to England. Scotland, Wales, and Northern Ireland have their own health technology assessment bodies and may differ in drug availability, eligibility criteria, and prescribing freedom.
+
+**Scotland.** The Scottish Medicines Consortium (SMC) appraises new medicines for NHS Scotland. SMC appraisals generally align with NICE but can diverge on timing and conditions. Prescriptions are free in Scotland (no prescription charge), removing one financial barrier to treatment adherence.
+
+**Wales.** The All Wales Medicines Strategy Group (AWMSG) provides advice to Welsh Government on new medicines not appraised by NICE. Where NICE technology appraisals exist, Wales typically follows them. Prescriptions are free in Wales.
+
+**Northern Ireland.** Northern Ireland generally follows NICE guidance, but implementation timelines can differ. Prescriptions are free in Northern Ireland.
+
+The practical consequence: patients in different UK nations may have slightly different access to specific biologics or face different waiting times for treatment. The BAD guidelines apply across the UK, but commissioning decisions are made locally. If you're unsure about access in your region, your dermatologist or specialist pharmacist can advise on what's available through your local formulary.
