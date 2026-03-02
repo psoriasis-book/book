@@ -39,7 +39,7 @@ The practical consequence is that brodalumab requires a Risk Evaluation and Miti
 
 Unlike many chronic diseases, psoriasis is visible. Patients report being stared at, refused service at hairdressers and swimming pools, asked whether their condition is contagious, and experiencing rejection in intimate relationships. A concept termed "social skin" has been used in the dermatology literature to describe how the skin mediates social identity and interpersonal connection, and how visible skin disease disrupts this.
 
-The WHO's 2016 Global Report on Psoriasis highlighted that patients frequently feel humiliated, stigmatised, and socially excluded, and called on governments to recognise psoriasis as a serious non-communicable disease. The report noted that patients with psoriasis often change their behaviour to avoid situations where their skin might be visible: avoiding swimming, changing how they dress, declining social invitations, and withdrawing from sexual relationships.
+The WHO's 2016 [Global Report on Psoriasis](https://iris.who.int/handle/10665/204417) highlighted that patients frequently feel humiliated, stigmatised, and socially excluded, and called on governments to recognise psoriasis as a serious non-communicable disease. The report noted that patients with psoriasis often change their behaviour to avoid situations where their skin might be visible: avoiding swimming, changing how they dress, declining social invitations, and withdrawing from sexual relationships.
 
 ## 16.5 Impact on Employment and Productivity
 
