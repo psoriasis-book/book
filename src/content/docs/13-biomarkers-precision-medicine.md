@@ -11,7 +11,7 @@ Psoriasis is currently diagnosed clinically, with disease severity assessed by s
 
 **Proteomics**, the large-scale study of all proteins present in a biological sample, is being applied to psoriasis with the goal of identifying blood-based markers that could replace or supplement clinical scoring.
 
-A 2025 study using plasma proteomics developed a **risk score** for early psoriasis diagnosis based on a panel of circulating proteins, demonstrating the feasibility of protein-based screening in at-risk populations [(Sorokin et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12303817/). Specific proteins of interest include:
+A 2025 study using plasma proteomics developed a **risk score** for early psoriasis diagnosis based on a panel of circulating proteins, demonstrating the feasibility of protein-based screening in at-risk populations [(Wei et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12303817/). Specific proteins of interest include:
 
 - **LCN2 (lipocalin-2/NGAL)**: Elevated in psoriatic serum and correlated with disease severity; may serve as a non-invasive severity marker.
 - **S100A8/A9 (calprotectin)**: Already used as a marker of intestinal inflammation in IBD, calprotectin is also elevated in psoriasis and may indicate active skin and joint disease.
