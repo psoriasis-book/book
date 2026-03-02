@@ -11,7 +11,7 @@ Section 8.6 briefly lists medications that can trigger psoriasis, but the topic 
 
 The following medications have well-established associations with psoriasis onset or exacerbation, supported by decades of clinical observation:
 
-**Beta-blockers** (propranolol, atenolol, metoprolol) are among the most frequently implicated. The mechanism involves blockade of b2-adrenergic receptors on keratinocytes, which normally promote cyclic AMP production and inhibit proliferation. Beta-blockade removes this brake, promoting keratinocyte hyperproliferation and reducing intracellular calcium levels in ways that mimic the psoriatic phenotype [(Kim & Del Rosso, 2010)](https://pubmed.ncbi.nlm.nih.gov/20684038/).
+**Beta-blockers** (propranolol, atenolol, metoprolol) are among the most frequently implicated. The mechanism involves blockade of b2-adrenergic receptors on keratinocytes, which normally promote cyclic AMP production and inhibit proliferation. Beta-blockade removes this brake, promoting keratinocyte hyperproliferation and reducing intracellular calcium levels in ways that mimic the psoriatic phenotype [(Kim & Del Rosso, 2010)](https://pubmed.ncbi.nlm.nih.gov/20725536/).
 
 **Lithium**, used for bipolar disorder, triggers or worsens psoriasis in approximately 45% of psoriasis patients who take it. Lithium inhibits inositol monophosphatase and glycogen synthase kinase-3b (GSK-3b), leading to increased pro-inflammatory cytokine production and impaired keratinocyte differentiation [(Balak & Hajdarbegovic, 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774610/).
 
