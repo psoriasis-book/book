@@ -41,11 +41,11 @@ Nail psoriasis is slow to respond to treatment because nails grow slowly (finger
 
 ## 20.4 Clothing and Fabrics
 
-Cotton and other natural, breathable fabrics are generally best tolerated. Tight clothing can create friction that triggers Koebner-effect lesions in folds and waistbands. Synthetic fabrics may trap heat and moisture. Some patients find that dark-coloured clothing is preferable for disguising scale shedding.
+Cotton and other natural, breathable fabrics are generally best tolerated. Tight clothing can create friction that triggers Koebner-effect lesions (Section 8.9) in folds and waistbands. Synthetic fabrics may trap heat and moisture. Some patients find that dark-coloured clothing is preferable for disguising scale shedding.
 
 ## 20.5 Sun Exposure
 
-Moderate sun exposure benefits many psoriasis patients because UV light has a natural immunosuppressive effect on the skin. Sunburn, however, must be avoided as it triggers the Koebner phenomenon and can cause severe flares. Practical guidance: build up exposure gradually (10–15 minutes initially), avoid peak UV hours (11am–3pm), use sunscreen on unaffected skin, and be aware that some psoriasis medications (methotrexate, acitretin) increase photosensitivity.
+Moderate sun exposure benefits many psoriasis patients because UV light has a natural immunosuppressive effect on the skin (Section 8.10). Sunburn, however, must be avoided as it triggers the Koebner phenomenon (Section 8.9) and can cause severe flares. Practical guidance: build up exposure gradually (10–15 minutes initially), avoid peak UV hours (11am–3pm), use sunscreen on unaffected skin, and be aware that some psoriasis medications (methotrexate, acitretin) increase photosensitivity.
 
 ## 20.6 Managing Flares at Work and Travel
 
