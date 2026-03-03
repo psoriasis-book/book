@@ -78,7 +78,7 @@ The DC–Th17–keratinocyte triad is the core of the current pathogenic model, 
 
 ## 6.6 The Gut-Skin Axis: Deeper Mechanisms
 
-The gut-skin axis is a dynamic, bidirectional communication system in which gut-derived metabolites, immune signals, and microbial products directly influence cutaneous immune responses, and vice versa [(Zhu et al., 2025)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1711288/full).
+The gut-skin axis is a dynamic, bidirectional communication system in which gut-derived metabolites, immune signals, and microbial products directly influence cutaneous immune responses, and vice versa [(Chen et al., 2025)](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1711288/full).
 
 **Bacterial signatures.** Psoriatic gut dysbiosis is characterised by decreased **Faecalibacterium prausnitzii** (a butyrate-producing bacterium with anti-inflammatory properties), a finding that's fairly consistent across cohort studies [(Sikora et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32545459/). Some studies also report increased **Prevotella copri** (associated with Th17-mediated inflammation), though this association is stronger in rheumatoid arthritis than in psoriasis and results across psoriasis cohorts are mixed.
 
