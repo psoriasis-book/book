@@ -17,7 +17,7 @@ Obesity is both a risk factor for developing psoriasis and a factor that worsens
 
 ## 8.3 Psychological Stress
 
-Stress is one of the most commonly cited triggers for psoriasis flares, reported by a significant proportion of patients. The mechanism may involve promotion of neurogenic inflammation (inflammation triggered by the nervous system), changes in the neuroendocrine system, particularly the hypothalamic-pituitary-adrenal (HPA) axis (the body's central stress-response system connecting the brain to the adrenal glands), and redistribution of immune cells to the skin [(Ko et al., 2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6629583/).
+Stress is one of the most commonly cited triggers for psoriasis flares, reported by a significant proportion of patients. The mechanism may involve promotion of neurogenic inflammation (inflammation triggered by the nervous system), changes in the neuroendocrine system, particularly the hypothalamic-pituitary-adrenal (HPA) axis (the body's central stress-response system connecting the brain to the adrenal glands), and redistribution of immune cells to the skin [(Hall et al., 2012)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3437281/).
 
 ## 8.4 Smoking
 
@@ -55,7 +55,7 @@ Cold, dry climates tend to worsen psoriasis, while moderate sunlight exposure (p
 
 ## 8.11 Air Pollution
 
-Ambient air pollution is an increasingly recognised environmental trigger for psoriasis. A 2024 meta-analysis found significant associations between particulate matter and nitrogen dioxide exposure and psoriasis prevalence and flares: an excess risk of **3.0% per 10 ug/m3 increase in NO2**, 1.2% for PM10, and 0.2% for PM2.5 [(Wu et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39012635/). Effects were more pronounced in cold seasons and in females.
+Ambient air pollution is an increasingly recognised environmental trigger for psoriasis. A 2024 meta-analysis found significant short-term associations between air pollution and psoriasis flares: an excess risk of **3.0% per 10 µg/m³ increase in NO2**, 1.2% for PM10, and 0.2% for PM2.5 [(Yang et al., 2024)](https://aaqr.org/articles/aaqr-24-02-oa-0062). A separate UK Biobank prospective cohort study of 474,055 participants confirmed long-term associations, with hazard ratios of 1.41 for PM2.5, 1.47 for PM10, and 1.28 for NO2 [(Wu et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39012635/). Effects were more pronounced in cold seasons and in females.
 
 How does air pollution actually get from your lungs (or skin) to your immune system? Several pathways:
 
