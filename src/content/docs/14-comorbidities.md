@@ -130,7 +130,7 @@ Dual-energy X-ray absorptiometry (DXA) scanning should be considered in psoriasi
 
 ## 14.14 Venous Thromboembolism
 
-Psoriasis patients have an elevated risk of venous thromboembolism (VTE), including deep vein thrombosis (DVT) and pulmonary embolism (PE). A meta-analysis of 9 studies encompassing over 4.5 million participants found a pooled relative risk of 1.46 (95% CI 1.29-1.66) for VTE in psoriasis patients compared to the general population [(Ungprasert et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24713224/). The risk is higher in patients with severe disease and in those with psoriatic arthritis.
+Psoriasis patients have an elevated risk of venous thromboembolism (VTE), including deep vein thrombosis (DVT) and pulmonary embolism (PE). A meta-analysis of 4 studies found a pooled relative risk of 1.46 (95% CI 1.29-1.66) for VTE in psoriasis patients compared to the general population [(Ungprasert et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24713224/). The risk is higher in patients with severe disease and in those with psoriatic arthritis.
 
 The mechanisms link back to the same systemic inflammation driving other comorbidities. TNF-α and IL-17 upregulate tissue factor expression on monocytes and endothelial cells, promoting a prothrombotic state. Psoriasis patients also show elevated platelet activation, increased P-selectin levels, and impaired fibrinolysis. The metabolic syndrome component (obesity, insulin resistance) adds further prothrombotic risk.
 
