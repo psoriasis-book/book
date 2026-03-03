@@ -21,11 +21,11 @@ Stress is one of the most commonly cited triggers for psoriasis flares, reported
 
 ## 8.4 Smoking
 
-Smoking is an independent risk factor for psoriasis onset and severity. Tobacco smoke causes oxidative stress and free radical production, interfering with signalling pathways relevant to psoriasis including NF-kB, MAPK, and JAK-STAT [(Naldi, 2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5683129/). Smokers with psoriasis also show reduced treatment response. One study found that patients with longer smoking duration and higher smoking intensity had significantly lower rates of achieving PASI 75 after eight weeks of treatment [(Zhou et al., 2024)](https://www.tobaccoinduceddiseases.org/Tobacco-smoking-negatively-influences-the-achievement-of-greater-than-three-quarters,184143,0,2.html). Smoking also alters the gut microbiota in ways that may promote psoriatic inflammation [(Luca et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11110215/).
+Smoking is an independent risk factor for psoriasis onset and severity. Tobacco smoke causes oxidative stress and free radical production, interfering with signalling pathways relevant to psoriasis including NF-kB, MAPK, and JAK-STAT [(Naldi, 2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5683129/). Smokers with psoriasis also show reduced treatment response. One study found that patients with longer smoking duration and higher smoking intensity had significantly lower rates of achieving PASI 75 after eight weeks of treatment [(Zhou et al., 2024)](https://www.tobaccoinduceddiseases.org/Tobacco-smoking-negatively-influences-the-achievement-of-greater-than-three-quarters,184143,0,2.html). Smoking also alters the gut microbiota in ways that may promote psoriatic inflammation [(Laguardia et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11110215/).
 
 ## 8.5 Alcohol
 
-Excessive alcohol consumption increases the expression of TNF-a-converting enzyme (TACE) and plasma levels of TNF-a receptor, upregulates genes promoting lymphocyte and keratinocyte proliferation, and may facilitate skin infections that act as psoriasis triggers. Alcohol misuse affects approximately one-third of people with psoriasis and worsens therapeutic compliance [(Brenaut et al., 2022; cited in Caso et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/).
+Excessive alcohol consumption increases the expression of TNF-a-converting enzyme (TACE) and plasma levels of TNF-a receptor, upregulates genes promoting lymphocyte and keratinocyte proliferation, and may facilitate skin infections that act as psoriasis triggers. Alcohol misuse affects approximately one-third of people with psoriasis and worsens therapeutic compliance [(Musumeci et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/).
 
 ## 8.6 Medications
 
@@ -74,7 +74,7 @@ Climate change is anticipated to affect psoriasis through several interconnected
 - **Heat stress**: Rising temperatures trigger psoriasis flares through vasodilation, increased sweating (which can irritate intertriginous psoriasis), and upregulation of heat shock proteins that activate innate immune pathways.
 - **Humidity changes**: Low humidity worsens skin barrier dysfunction and promotes scale formation; conversely, high humidity in tropical zones may foster microbial growth (particularly Malassezia, Section 6.6) and maceration in skin folds.
 - **UV radiation changes**: Ozone depletion increases UV exposure, which in moderate doses improves psoriasis but in excessive doses causes sunburn and Koebner phenomenon (Section 8.9).
-- **Seasonal variation in treatment outcomes**: A 2025 multicentre longitudinal study is examining how temperature-trend-defined seasonality affects biologic treatment outcomes across European centres [(Song et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12732634/).
+- **Seasonal variation in treatment outcomes**: A 2025 multicentre longitudinal study is examining how temperature-trend-defined seasonality affects biologic treatment outcomes across European centres [(Zieneldien et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12732634/).
 
 The net effect of climate change on psoriasis is likely to be regionally variable, with worsening in areas experiencing extreme heat and low humidity, and potentially modest improvement in currently cold, dark climates that see increased UV exposure.
 
