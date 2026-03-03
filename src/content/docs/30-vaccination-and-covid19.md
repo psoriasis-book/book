@@ -24,7 +24,7 @@ Current NPF (National Psoriasis Foundation) Delphi consensus recommendations adv
 
 ## 30.3 Practical Vaccination Guidance for Psoriasis Patients
 
-Based on the evidence above, here is drug-by-drug guidance reflecting current consensus for COVID-19 and other non-live vaccinations [(Gelfand et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38331098/):
+Based on the evidence above, here is drug-by-drug guidance reflecting current consensus for COVID-19 and other non-live vaccinations [(Chat et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38331098/):
 
 - **IL-23 inhibitors** (risankizumab, guselkumab, tildrakizumab) and **IL-17 inhibitors** (secukinumab, ixekizumab, brodalumab, bimekizumab): Continue without modification. No evidence of impaired vaccine response.
 - **TNF-α inhibitors** (adalimumab, etanercept, infliximab, certolizumab): Continue without modification. Antibody titres may be slightly lower than in untreated individuals but seroconversion rates remain high.
@@ -37,7 +37,7 @@ Timing of vaccination relative to biologic dosing isn't considered critical for 
 
 ## 30.4 General Vaccination Guidance for Immunosuppressed Patients
 
-The lessons from COVID-19 vaccination have reinforced and refined broader vaccination principles for psoriasis patients on immunosuppressive therapy. The **National Psoriasis Foundation Medical Board** developed **22 consensus statements** on vaccination for psoriasis patients, and similar guidance has been issued by the British Association of Dermatologists and European Academy of Dermatology and Venereology [(Gelfand et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38331098/).
+The lessons from COVID-19 vaccination have reinforced and refined broader vaccination principles for psoriasis patients on immunosuppressive therapy. The **National Psoriasis Foundation Medical Board** developed **22 consensus statements** on vaccination for psoriasis patients, and similar guidance has been issued by the British Association of Dermatologists and European Academy of Dermatology and Venereology [(Chat et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38331098/).
 
 ### Key Principles
 
