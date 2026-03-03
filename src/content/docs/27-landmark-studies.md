@@ -65,7 +65,7 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 27.7 Zasocitinib Phase 3 — Next-Generation Oral TYK2 Inhibitor (Takeda, December 2025)
 
-**Study:** *Phase 3 pivotal studies of zasocitinib (TAK-279) in moderate-to-severe plaque psoriasis.* Topline results announced December 2025. Phase 2b published: Tehlirian C, et al. JAMA Dermatology. 2024.
+**Study:** *Phase 3 pivotal studies of zasocitinib (TAK-279) in moderate-to-severe plaque psoriasis.* Topline results announced December 2025. Phase 2b published: Armstrong AW, et al. JAMA Dermatology. 2024.
 **Read it:** [Takeda press release](https://www.takeda.com/newsroom/newsreleases/2025/takeda-zasocitinib-phase-3-plaque-psoriasis-data-once-daily-pill/) | [Phase 2b (PubMed)](https://pubmed.ncbi.nlm.nih.gov/39167366/)
 
 **Why it matters:** Zasocitinib is a next-generation TYK2 inhibitor, more selective and potent than the first-in-class deucravacitinib (Sotyktu). The Phase 3 results test whether a second-generation oral TYK2 inhibitor can close the efficacy gap between pills and injectable biologics.
