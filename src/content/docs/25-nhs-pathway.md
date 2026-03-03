@@ -36,7 +36,7 @@ For **high-impact site psoriasis** (severe disease at localised sites causing si
 
 ## 25.4 Choosing a Biologic
 
-Once eligible, the choice of biologic follows both clinical and cost-effectiveness considerations, guided by the BAD biologic therapy guidelines [(Smith et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32189327/) and their 2023 pragmatic update [(Warren et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37740557/). As of 2024-2025, the NHS treatment algorithm is broadly:
+Once eligible, the choice of biologic follows both clinical and cost-effectiveness considerations, guided by the BAD biologic therapy guidelines [(Smith et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32189327/) and their 2023 pragmatic update [(Smith et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/37740557/). As of 2024-2025, the NHS treatment algorithm is broadly:
 
 **First-line biologic:** Adalimumab biosimilar is currently the best-value biologic (BVB) in most NHS regions because biosimilar competition has driven costs down. Clinical factors may direct the choice elsewhere, though. Certolizumab for pregnancy planning, IL-17 inhibitors for coexisting psoriatic arthritis with axial disease, and so on.
 
