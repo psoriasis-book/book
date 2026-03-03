@@ -93,7 +93,7 @@ An association between psoriasis and hearing impairment has emerged from a meta-
 
 - **Sensorineural hearing loss**: OR 3.85 (95% CI: 1.87–7.92). The hearing impairment is predominantly subclinical and most pronounced at high frequencies, with the greatest threshold difference at **4000 Hz** [(Ger et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37231542/).
 - **Sudden sensorineural hearing loss**: HR 1.45 (95% CI: 1.17–1.80).
-- **Vestibular dysfunction**: OR 13.12 (95% CI: 2.76–62.46) on caloric testing, though this finding is based on small studies and should be interpreted cautiously [(Polat & Erbek, 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10447668/).
+- **Auditory function changes**: Psoriasis patients show significantly elevated hearing thresholds across multiple frequencies and lower middle ear resonance frequencies compared with matched controls [(Polat & Erbek, 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10447668/).
 
 The proposed mechanisms include inflammation-mediated damage to the cochlear vasculature (the stria vascularis is particularly vulnerable to immune-mediated injury), autoimmune inner ear disease triggered by cross-reactive antibodies, and methotrexate ototoxicity.
 
