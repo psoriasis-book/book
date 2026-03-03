@@ -5,7 +5,7 @@ sidebar:
   order: 13
 ---
 
-Psoriasis is currently diagnosed clinically, with disease severity assessed by subjective scoring systems (Section 8) and treatment selected largely by trial and error. The emerging field of biomarker discovery, using high-throughput technologies to identify measurable biological indicators, promises to change this. The goal: treatment guided by objective, molecular data. This chapter surveys the current state of biomarker research across proteomic, metabolomic, and transcriptomic platforms.
+Psoriasis is currently diagnosed clinically, with disease severity assessed by subjective scoring systems (Section 10) and treatment selected largely by trial and error. The emerging field of biomarker discovery, using high-throughput technologies to identify measurable biological indicators, promises to change this. The goal: treatment guided by objective, molecular data. This chapter surveys the current state of biomarker research across proteomic, metabolomic, and transcriptomic platforms.
 
 ## 13.1 Proteomic Biomarkers
 
