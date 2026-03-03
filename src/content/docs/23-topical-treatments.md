@@ -15,7 +15,7 @@ Emollients work by restoring the disrupted skin barrier that is a hallmark of ps
 
 **Choosing an emollient.** Ointments (e.g., white soft paraffin, emulsifying ointment) are the most effective at trapping moisture but are greasy. Creams are better tolerated cosmetically but less occlusive. Lotions are best for hairy areas. Aqueous cream BP should be avoided as a leave-on product: it contains sodium lauryl sulfate, which can damage the skin barrier and increase transepidermal water loss [(Danby et al., 2011)](https://pubmed.ncbi.nlm.nih.gov/21564067/). The best emollient is the one the patient will actually use consistently, applied liberally at least twice daily and especially after bathing.
 
-**Practical tip.** Apply emollients first, then apply active topical treatments on top. Some guidelines suggest waiting 15-30 minutes between applications to avoid diluting the active agent, though a 2016 systematic review found no strong evidence for a specific interval [(Ng & Lew, 2016)](https://pubmed.ncbi.nlm.nih.gov/26856694/). The key is consistent use of both.
+**Practical tip.** Apply emollients first, then apply active topical treatments on top. Some guidelines suggest waiting 15-30 minutes between applications to avoid diluting the active agent, though a 2016 systematic review found no strong evidence for a specific interval [(Ng et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/26856694/). The key is consistent use of both.
 
 ## 23.2 Topical Corticosteroids
 
