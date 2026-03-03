@@ -59,7 +59,7 @@ Sexual dysfunction is reported by approximately **40.8% of psoriasis patients ov
 - **Psychological**: Shame, body image distress, and fear of rejection significantly impair sexual desire and arousal. In a survey of male psoriasis patients, 44.7% reported experiencing rejection by a sexual partner due to their skin disease.
 - **Hormonal**: Psoriasis is associated with decreased total and free testosterone and increased estradiol levels, which may reflect chronic inflammation-mediated disruption of the hypothalamic-pituitary-gonadal axis.
 - **Vascular/inflammatory**: The same endothelial dysfunction that increases cardiovascular risk (Section 14.2) also impairs penile blood flow. TNF-α, IL-17, and CRP are elevated in psoriasis patients with ED compared with those without.
-- **Genital involvement**: Direct involvement of genital skin (Section 11.3) causes pain, irritation, and dyspareunia (painful intercourse), which may affect up to 63% of patients at some point.
+- **Genital involvement**: Direct involvement of genital skin (Section 11.4) causes pain, irritation, and dyspareunia (painful intercourse), which may affect up to 63% of patients at some point.
 
 **Female sexual dysfunction** is less well-studied but includes reduced desire, arousal difficulty, dyspareunia, and orgasmic dysfunction. Vulvar psoriasis may cause pain, burning, and itching that directly interfere with sexual activity.
 
