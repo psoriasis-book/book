@@ -15,7 +15,7 @@ The relationship between psoriasis and sleep disturbance is **bidirectional**:
 
 **Psoriasis disrupts sleep** through multiple mechanisms:
 - **Pruritus (itch)**: The most direct cause. Psoriatic itch often worsens at night (possibly due to circadian variation in cytokine levels and decreased cortisol), leading to frequent awakenings and fragmented sleep (see Section 18 for itch mechanisms).
-- **Pain**: Both cutaneous pain (from fissures, particularly palmoplantar, see Section 11.1) and joint pain from PsA (Section 15) impair sleep quality.
+- **Pain**: Both cutaneous pain (from fissures, particularly palmoplantar, see Section 11.2) and joint pain from PsA (Section 15) impair sleep quality.
 - **Psychological distress**: Anxiety, depression, and body image concerns (Section 16) contribute to insomnia.
 - **Medication effects**: Corticosteroids can cause insomnia; methotrexate-related fatigue may disrupt sleep architecture.
 
