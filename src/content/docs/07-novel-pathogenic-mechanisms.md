@@ -57,7 +57,7 @@ Now, IL-17A itself also impairs autophagy in keratinocytes, creating a vicious c
 
 **Extracellular vesicles (EVs)**, including exosomes (30-150 nm diameter) and microvesicles (100-1000 nm), are tiny membrane-enclosed parcels released by virtually all cell types. They carry proteins, lipids, and nucleic acids (including microRNAs) and function as long-range molecular messengers.
 
-In psoriasis, serum-derived exosomes modify keratinocyte behaviour by upregulating pro-inflammatory cytokine production and inducing oxidative stress [(Jiang et al., 2024)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1360618/full). The cargo of psoriatic EVs differs from that of healthy individuals, with enrichment in inflammatory microRNAs and altered lipid profiles [(Lu et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11677080/).
+In psoriasis, serum-derived exosomes modify keratinocyte behaviour by upregulating pro-inflammatory cytokine production and inducing oxidative stress [(Iuliano et al., 2024)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1360618/full). The cargo of psoriatic EVs differs from that of healthy individuals, with enrichment in inflammatory microRNAs and altered lipid profiles [(Lu et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11677080/).
 
 EVs are also being explored in two translational directions:
 
