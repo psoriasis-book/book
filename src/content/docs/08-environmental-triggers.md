@@ -63,7 +63,7 @@ How does air pollution actually get from your lungs (or skin) to your immune sys
 - **Skin barrier impairment**: Fine particulate matter deposits on the skin surface, disrupting the lipid barrier and increasing transepidermal water loss.
 - **Oxidative stress**: PM2.5 generates reactive oxygen species that amplify NF-kB signalling (Section 6.5) and lipid peroxidation (Section 7.6).
 - **Microbiome disruption**: Air pollutants alter the skin microbiome composition, potentially promoting pathogenic colonisation.
-- **Epigenetic modification**: A study using UK Biobank data found that PM2.5-related DNA methylation changes at the **ZMIZ1 locus**, a known psoriasis susceptibility gene (Section 5), correlate with increased psoriasis risk [(Huang et al., 2024)](https://link.springer.com/article/10.4209/aaqr.240062).
+- **Epigenetic modification**: A study using UK Biobank data found that PM2.5-related DNA methylation changes at the **ZMIZ1 locus**, a known psoriasis susceptibility gene (Section 5), correlate with increased psoriasis risk [(Leng et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40705910/).
 
 **Research stage: Emerging.** **Evidence strength: Moderate.** Meta-analyses and longitudinal studies with plausible biological mechanisms; specific pollutant-pathway links being characterised.
 
