@@ -98,7 +98,7 @@ Physical activity is an under-recognised but evidence-based adjunct intervention
 - **Mental health improvement**: Exercise reduces depression and anxiety (Section 16), which are both triggers for and consequences of psoriasis.
 - **Improved insulin sensitivity**: Counteracts the metabolic syndrome component of psoriatic comorbidity (Section 14.3).
 
-**Practical recommendations**: Current evidence supports encouraging moderate-to-vigorous physical activity (150 minutes/week of moderate activity or 75 minutes/week of vigorous activity, consistent with WHO guidelines) as an adjunct to standard psoriasis treatment. Swimming may require attention to chlorine irritation, and you should avoid skin-tight or abrasive clothing to minimise Koebner phenomenon (Section 8.7). Activities that cause excessive friction at characteristic psoriasis sites (elbows, knees) may benefit from protective padding.
+**Practical recommendations**: Current evidence supports encouraging moderate-to-vigorous physical activity (150 minutes/week of moderate activity or 75 minutes/week of vigorous activity, consistent with WHO guidelines) as an adjunct to standard psoriasis treatment. Swimming may require attention to chlorine irritation, and you should avoid skin-tight or abrasive clothing to minimise Koebner phenomenon (Section 8.9). Activities that cause excessive friction at characteristic psoriasis sites (elbows, knees) may benefit from protective padding.
 
 **Evidence grade: Moderate. Supported by meta-analyses and interventional studies. Exercise is recommended as adjunct therapy for its combined benefits on skin, cardiovascular health, and mental health.**
 
