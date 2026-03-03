@@ -18,7 +18,7 @@ Two models of teledermatology are in use:
 
 **Evidence for effectiveness** is nuanced:
 - **Specialist-led remote care** works: studies demonstrate comparable clinical outcomes (PASI improvement, DLQI change) between teledermatology and face-to-face consultations for established psoriasis patients on stable therapy.
-- **Primary care-led remote management** shows non-significant outcomes, highlighting the importance of specialist expertise in interpreting clinical images and making treatment decisions [(Frontiers in Digital Health, 2025)](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1656585/full).
+- **Primary care-led remote management** may be less effective than specialist-led care, highlighting the importance of dermatological expertise in interpreting clinical images and making treatment decisions [(Gong et al., 2025)](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1656585/full).
 
 **Limitations** include difficulty assessing palpable features (induration, tenderness), challenges with image quality and standardisation, potential for missed diagnoses (particularly in darker skin phototypes where erythema is less visible in photographs, see Section 21.3), and digital literacy barriers in older or socioeconomically disadvantaged populations.
 
