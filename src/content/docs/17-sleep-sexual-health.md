@@ -52,7 +52,7 @@ If you experience persistent fatigue, it's worth discussing with your clinician.
 
 ## 17.3 Sexual Dysfunction
 
-Sexual dysfunction is reported by approximately **40.8% of psoriasis patients overall**, with prevalence reaching 68% in women in some studies. Despite its high prevalence, it remains one of the least-discussed aspects of the disease in clinical practice [(Zhang et al., 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full).
+Sexual dysfunction is reported by approximately **40.8% of psoriasis patients overall**, with prevalence reaching 68% in women in some studies. Despite its high prevalence, it remains one of the least-discussed aspects of the disease in clinical practice [(Nowowiejska, 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full).
 
 **Erectile dysfunction (ED)** affects approximately 52.9% of male psoriasis patients compared with 40.3% of age-matched controls. The mechanisms are multifactorial:
 
