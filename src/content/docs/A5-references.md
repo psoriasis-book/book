@@ -399,11 +399,11 @@ sidebar:
 
 197. Liu X, Zhang J, Wang Y, et al. Indole-producing gut bacteria remodel epigenetic state of skin Th17 cells via AhR activation. *Gut Microbes*. 2025;17(1):2473524. doi:10.1080/19490976.2025.2473524. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2473524)
 
-198. Fyhrquist N, Muber S, Goffinet C, et al. IL-23 inhibitor treatment reduces Malassezia in the skin mycobiome of psoriasis patients. *J Clin Invest*. 2024;134(20):e184315. doi:10.1172/JCI184315. [JCI](https://www.jci.org/articles/view/184315)
+198. Koike Y, Kuwatsuka S, Motooka D, Murota H. Dysbiosis of the human skin mycobiome in patients receiving systemic IL-23 inhibitors. *Allergol Int*. 2025;74(1):72-77. doi:10.1016/j.alit.2024.06.003. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39307589/)
 
 199. Chen L, Huang X, Zhao J, et al. Association between ambient air pollution and psoriasis: a systematic review and meta-analysis. *Environ Sci Pollut Res*. 2024;31(38):50789-50802. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39012635/)
 
-200. Huang T, Li J, Zhang Y, et al. PM2.5-related DNA methylation at ZMIZ1 locus and psoriasis risk. *Aerosol Air Qual Res*. 2024;24(8):240062. doi:10.4209/aaqr.240062. [Springer](https://link.springer.com/article/10.4209/aaqr.240062)
+200. Leng RX, Zhang J, Du CJ, et al. Unraveling the link between air pollution and psoriasis subtypes: genetic architecture of epigenetic insights and mediating cytokines. *Environ Sci Technol*. 2025;59(30):15637-15648. doi:10.1021/acs.est.5c01573. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40705910/)
 
 201. Bożek A, Reich A. The reliability of three psoriasis assessment tools: Psoriasis Area and Severity Index, body surface area and Physician Global Assessment. *Adv Clin Exp Med*. 2017;26(5):851-856. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6181091/)
 
