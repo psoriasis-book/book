@@ -101,7 +101,7 @@ As of early 2026, biosimilars are available or approved for the following psoria
 
 **Etanercept (Enbrel)** — Biosimilars have been approved in some markets, though US availability has been complicated by patent litigation.
 
-**Biologics without biosimilars**: The newer IL-23 inhibitors (Skyrizi, Tremfya, Ilumya), IL-17 inhibitors (Cosentyx, Taltz, Siliq, Bimzelx), certolizumab pegol (Cimzia), and spesolimab (Spevigo) are all still under patent protection and don't yet have biosimilar competition. A proposed secukinumab (Cosentyx) biosimilar, BAT2306, has shown equivalent efficacy in phase 3 trials and may reach market in coming years [(Phan et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37256582/).
+**Biologics without biosimilars**: The newer IL-23 inhibitors (Skyrizi, Tremfya, Ilumya), IL-17 inhibitors (Cosentyx, Taltz, Siliq, Bimzelx), certolizumab pegol (Cimzia), and spesolimab (Spevigo) are all still under patent protection and don't yet have biosimilar competition. A proposed secukinumab (Cosentyx) biosimilar, BAT2306, demonstrated equivalent efficacy and comparable safety in a 52-week Phase 3 trial of 502 patients, with results presented at EADV 2025.
 
 The availability of biosimilars is expected to expand significantly in the coming years as more patents expire, potentially transforming the economics of psoriasis treatment and broadening access to biologic therapy worldwide.
 
