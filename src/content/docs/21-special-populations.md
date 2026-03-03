@@ -58,7 +58,7 @@ The following table summarises the approved biologic and oral agents for paediat
 | Ustekinumab | Stelara | ≥6 yr | ≥6 yr | <60 kg: 0.75 mg/kg; 60–100 kg: 45 mg; >100 kg: 90 mg | SC wk 0, 4, then q12w |
 | Secukinumab | Cosentyx | ≥6 yr | ≥6 yr | <50 kg: 75 mg; ≥50 kg: 150 mg | SC wk 0,1,2,3,4, then q4w |
 | Ixekizumab | Taltz | ≥6 yr (≥25 kg) | ≥6 yr (≥25 kg) | 25–50 kg: 80→40 mg; >50 kg: 160→80 mg | SC load, then q4w |
-| Apremilast | Otezla | ≥6 yr | Pending | 6–11 yr (≥15 kg): 20 mg BD; 12–17 yr (≥35 kg): 20–30 mg BD | Oral twice daily |
+| Apremilast | Otezla | ≥6 yr | Pending | 6–11 yr (≥20 kg): 20 mg BD; 12–17 yr (≥50 kg): 30 mg BD | Oral twice daily |
 
 *SC = subcutaneous; q4w = every 4 weeks; q12w = every 12 weeks; BD = twice daily. Adalimumab is not FDA-approved for paediatric psoriasis but is EMA-approved. Apremilast is an oral PDE4 inhibitor, not a biologic. Growth monitoring is recommended with apremilast in children.*
 
