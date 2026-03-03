@@ -57,7 +57,7 @@ The relationship between psoriasis and cancer has been investigated through mult
 
 ## 14.9 Chronic Kidney Disease
 
-Patients with severe psoriasis have a significantly increased risk of developing **chronic kidney disease (CKD)** and progressing to **end-stage renal disease (ESRD)**, with a pooled hazard ratio of approximately 1.65 for CKD (95% CI 1.29-2.12) after adjustment for confounders including diabetes, hypertension, and obesity [(Wan et al., 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full).
+Patients with severe psoriasis have a significantly increased risk of developing **chronic kidney disease (CKD)** and progressing to **end-stage renal disease (ESRD)**, with a pooled hazard ratio of approximately 1.65 for CKD (95% CI 1.29-2.12) after adjustment for confounders including diabetes, hypertension, and obesity [(Xu et al., 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full).
 
 The mechanisms linking psoriasis to kidney disease are multifactorial:
 
