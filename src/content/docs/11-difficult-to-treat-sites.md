@@ -71,7 +71,7 @@ Scalp involvement occurs in over 50% of psoriasis patients at any given time (an
 - **Ixekizumab** (IL-17A inhibitor) was studied in the IXORA-Q trial, a genital psoriasis-specific RCT, showing rapid and significant improvement in genital DLQI and sexual health indices.
 - **Apremilast** has been studied for genital-specific outcomes, showing modest but significant improvement.
 - **IL-23 inhibitors**: A 52-week multicentre study (2024) confirmed efficacy for moderate-to-severe inverse psoriasis [(Ceravalls et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/39269142/).
-- **Delgocitinib 0.25% ointment**, a topical pan-JAK inhibitor, is in Phase II for inverse psoriasis, potentially offering a novel steroid-free topical option [(Stein Gold et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40232594/).
+- **Delgocitinib ointment**, a topical pan-JAK inhibitor, has been identified as a potential steroid-free topical option for inverse psoriasis, though dedicated trial results have not yet been published [(Stein Gold et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40232594/).
 
 **Sexual health impact.** Genital psoriasis significantly affects sexual function and intimate relationships. Section 17.2 discusses sexual dysfunction in detail. Clinicians should proactively ask about genital involvement and sexual health, as patients rarely volunteer this information. A brief, normalising approach ("Psoriasis commonly affects genital skin. Is this something you've experienced?") can open the conversation.
 
