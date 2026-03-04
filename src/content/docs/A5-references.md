@@ -339,7 +339,7 @@ sidebar:
 
 167. Jiang M, Fang H, Shao S, et al. Extracellular vesicles in psoriasis pathogenesis: from biomarkers to therapeutic targets. *Front Immunol*. 2024;15:1360618. doi:10.3389/fimmu.2024.1360618. [Frontiers](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1360618/full)
 
-168. Lu Y, Chen X, Wang H, et al. Lipid profiling of extracellular vesicles in biologic-treated psoriasis patients. *Int J Mol Sci*. 2024;25(24):13677. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11677080/)
+168. Tang B, et al. The role of extracellular vesicles in the development and treatment of psoriasis: narrative review. *Int J Mol Sci*. 2024;25(24):13677. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11677080/)
 
 169. Sorokin AV, Kotani K, Engel LC, et al. Metabolomic profiling identifies novel biomarkers and pathways in psoriasis. *J Proteome Res*. 2024;23(8):3456-3467. doi:10.1021/acs.jproteome.4c00173. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507/)
 
