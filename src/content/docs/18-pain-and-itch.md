@@ -46,7 +46,7 @@ A 2025 study of 114 psoriatic arthritis patients systematically characterised pa
 
 1. **Peripheral nociception**: Inflammatory mediators (TNF-α, IL-17, IL-1β, prostaglandins) directly activate nociceptors (pain-sensing nerve endings) in the skin via TRPV1 and TRPA1 channels. This produces the burning and stinging sensation of active plaques.
 
-2. **Peripheral sensitisation**: Prolonged inflammation lowers the activation threshold of nociceptors through phosphorylation of TRPV1 by protein kinase C (PKC), protein kinase A (PKA), and calcium/calmodulin-dependent kinase II (CaMKII). Stimuli that would normally be painless (light touch, warm water) become painful. This phenomenon is called **allodynia** [(Puig et al., 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196).
+2. **Peripheral sensitisation**: Prolonged inflammation lowers the activation threshold of nociceptors through phosphorylation of TRPV1 by protein kinase C (PKC), protein kinase A (PKA), and calcium/calmodulin-dependent kinase II (CaMKII). Stimuli that would normally be painless (light touch, warm water) become painful. This phenomenon is called **allodynia** [(Doneddu et al., 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196).
 
 3. **Central sensitisation**: Persistent nociceptive input from the periphery causes maladaptive changes in spinal cord dorsal horn neurons, including increased excitability and expansion of receptive fields. This amplifies pain perception beyond the original stimulus and beyond the original body region, which explains why some patients experience widespread pain.
 

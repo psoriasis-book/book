@@ -389,7 +389,7 @@ sidebar:
 
 192. Akdeniz M, Ünal S, Yücel A, et al. Central sensitisation and neuropathic pain in psoriatic arthritis. *Rheumatol Int*. 2025;45(5):789-798. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12010264/)
 
-193. Puig L, Carrascosa JM, Daudén E, et al. Peripheral polyneuropathy in psoriasis and psoriatic arthritis. *Muscle Nerve*. 2024;70(4):567-574. doi:10.1002/mus.28196. [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196)
+193. Doneddu PE, et al. Risk of peripheral neuropathy in patients with psoriasis and psoriatic arthritis: a prospective cohort study. *Muscle Nerve*. 2024;70(4):567-574. doi:10.1002/mus.28196. [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196)
 
 194. Goulding JMR, Price CL, Defty CL, et al. Telemedicine in dermatology: outcomes and patient satisfaction. *J Med Internet Res*. 2025;27(1):e73664. doi:10.2196/73664. [JMIR](https://www.jmir.org/2025/1/e73664)
 
