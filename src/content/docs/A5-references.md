@@ -325,7 +325,7 @@ sidebar:
 
 160. Shou Y, Yang L, Yang Y, Xu J. Inhibition of keratinocyte ferroptosis suppresses psoriatic inflammation. *Cell Death Dis*. 2024;15(11):831. doi:10.1038/s41419-024-07219-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39570671/)
 
-161. Naik S, Fuchs E. Inflammatory memory and tissue adaptation in sickness and in health. *Cell Res*. 2025;35:301-316. doi:10.1038/s41422-025-01171-y. [Nature](https://www.nature.com/articles/s41422-025-01171-y)
+161. Naik S, Fuchs E. Inflammatory memory and tissue adaptation in sickness and in health. *Nature*. 2022;607:249-255. doi:10.1038/s41586-022-04919-3. [Nature](https://www.nature.com/articles/s41586-022-04919-3)
 
 162. Tankov S, Rørvig S. Trained immunity in psoriasis: LL-37/DNA complexes induce metabolic and epigenetic reprogramming of monocytes. *Immunol Invest*. 2025;54(4):1-18. doi:10.1080/08820139.2025.2519666. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/08820139.2025.2519666)
 
