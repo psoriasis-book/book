@@ -23,7 +23,7 @@ sidebar:
 
 9. Patel HA, Revankar RR, Pedroza ST, Graham S, Feldman SR. Psoriasis gene expression and the role of those genes in treatment response. *Int J Mol Sci*. 2023;24(16):12564. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10418823/)
 
-10. Li M, et al. Genetics of psoriasis: a basis for precision medicine. *Precis Clin Med*. 2019;2(2):120-130. doi:10.1093/pcmedi/pbz010. [Oxford Academic](https://academic.oup.com/pcm/article/2/2/120/5522496)
+10. Ran D, Cai M, Zhang X. Genetics of psoriasis: a basis for precision medicine. *Precis Clin Med*. 2019;2(2):120-130. doi:10.1093/pcmedi/pbz011. [Oxford Academic](https://academic.oup.com/pcm/article/2/2/120/5522496)
 
 11. Xiong Y, Xue J, Tong M, Xu T, Bai X. Dynamic trend analysis of global psoriasis burden from 1990 to 2021. *Front Public Health*. 2025;13:1518681. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12283580/)
 

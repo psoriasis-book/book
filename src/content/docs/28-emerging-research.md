@@ -19,7 +19,7 @@ Research into the gut-skin axis may yield new therapeutic approaches. Prebiotics
 
 ## 28.4 Personalised/Precision Medicine
 
-The integration of genetic data (such as HLA-C*06:02 status), transcriptomic profiling of lesional skin, and biomarker-guided treatment selection represents the direction of precision medicine in psoriasis. As genetic risk scores become more refined (the 109-loci GWAS meta-analysis in Section 27.1 provides the most comprehensive foundation to date), they may enable risk prediction for disease onset, disease severity, comorbidity development, and treatment response [(Li et al., 2019)](https://academic.oup.com/pcm/article/2/2/120/5522496). The UK PSORT Consortium has already demonstrated that HLA-C*06:02 status can predict differential response to adalimumab vs ustekinumab (Section 12.7), and similar pharmacogenomic approaches are being developed for the newer IL-23 and IL-17 inhibitors.
+The integration of genetic data (such as HLA-C*06:02 status), transcriptomic profiling of lesional skin, and biomarker-guided treatment selection represents the direction of precision medicine in psoriasis. As genetic risk scores become more refined (the 109-loci GWAS meta-analysis in Section 27.1 provides the most comprehensive foundation to date), they may enable risk prediction for disease onset, disease severity, comorbidity development, and treatment response [(Ran et al., 2019)](https://academic.oup.com/pcm/article/2/2/120/5522496). The UK PSORT Consortium has already demonstrated that HLA-C*06:02 status can predict differential response to adalimumab vs ustekinumab (Section 12.7), and similar pharmacogenomic approaches are being developed for the newer IL-23 and IL-17 inhibitors.
 
 ## 28.5 CAR-T and Engineered Cell Therapies
 
