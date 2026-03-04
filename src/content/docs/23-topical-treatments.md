@@ -47,7 +47,7 @@ Modern formulations (shampoos, foams, creams, and solutions at 1–5% concentrat
 
 **Dithranol** (known as anthralin in the US) is a synthetic compound that reduces keratinocyte proliferation and modulates immune function, though its precise mechanism remains incompletely understood. It can be effective but is limited by skin irritation and brown-purple staining of skin and clothing.
 
-**Short-contact therapy**, applying stronger concentrations (1–2%) for 30 minutes to one hour then washing off, exploits the fact that dithranol penetrates psoriatic (abnormal) skin more rapidly than healthy skin, allowing therapeutic benefit while minimising irritation. The traditional **Ingram regimen** (a hospital-based protocol combining coal tar baths, UVB phototherapy, and dithranol paste application) was a mainstay of inpatient psoriasis care for decades and remains in limited use in some specialist centres [(Statham & Rowell, 1984)](https://pubmed.ncbi.nlm.nih.gov/6733040/).
+**Short-contact therapy**, applying stronger concentrations (1–2%) for 30 minutes to one hour then washing off, exploits the fact that dithranol penetrates psoriatic (abnormal) skin more rapidly than healthy skin, allowing therapeutic benefit while minimising irritation. The traditional **Ingram regimen** (a hospital-based protocol combining coal tar baths, UVB phototherapy, and dithranol paste application) was a mainstay of inpatient psoriasis care for decades and remains in limited use in some specialist centres [(Statham et al., 1984)](https://pubmed.ncbi.nlm.nih.gov/6733040/).
 
 ## 23.7 Keratolytics
 
