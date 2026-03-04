@@ -361,7 +361,7 @@ sidebar:
 
 178. Wan J, Wang S, Haynes K, Denburg MR, Shin DB, Gelfand JM. Risk of moderate to advanced kidney disease in patients with psoriasis: population based cohort study. *Front Med*. 2023;10:1175477. doi:10.3389/fmed.2023.1175477. [Frontiers](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full)
 
-179. Kalogeropoulos C, Gorgoli A. Ocular manifestations in psoriasis and psoriatic arthritis: a comprehensive review. *Ocul Immunol Inflamm*. 2025;33(3):1-12. doi:10.1080/09273948.2025.2459710. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09273948.2025.2459710)
+179. Almutairi AG, et al. Ocular manifestations of psoriasis: a systematic review. *Ocul Immunol Inflamm*. 2025;33(5). doi:10.1080/09273948.2025.2459710. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09273948.2025.2459710)
 
 180. Kim J, Lee S, Park H, et al. Biologic therapy reduces ocular inflammatory disease in psoriasis. *Eye*. 2026;40(3):512-520. doi:10.1038/s41433-026-04274-x. [Nature Eye](https://www.nature.com/articles/s41433-026-04274-x)
 

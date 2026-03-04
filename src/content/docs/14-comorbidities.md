@@ -74,7 +74,7 @@ A 2025 retrospective cohort study found that psoriasis remains a risk factor for
 
 ## 14.10 Ocular Disease and Uveitis
 
-Ocular manifestations are surprisingly common in psoriasis, with prevalence estimates ranging from 10% to 81.4% depending on the definition and detection method [(Kalogeropoulos & Gorgoli, 2025)](https://www.tandfonline.com/doi/full/10.1080/09273948.2025.2459710). The spectrum includes:
+Ocular manifestations are surprisingly common in psoriasis, with prevalence estimates ranging from 10% to 81.4% depending on the definition and detection method [(Almutairi et al., 2025)](https://www.tandfonline.com/doi/full/10.1080/09273948.2025.2459710). The spectrum includes:
 
 - **Dry eye**: The most prevalent manifestation. Chronic blepharitis (eyelid inflammation) and meibomian gland dysfunction lead to tear film instability. Prevalence estimates range from 18% to 64% of psoriasis patients.
 - **Blepharitis**: Direct psoriatic involvement of the eyelid margins, often with characteristic scaling.
