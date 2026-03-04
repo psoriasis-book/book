@@ -57,13 +57,13 @@ Nanocarrier systems under investigation for psoriasis include [(Saleem et al., 2
 - **Transferosomes and niosomes**: Ultra-deformable vesicles that can squeeze through intercellular spaces in the stratum corneum.
 - **Dendrimers and polymeric micelles**: Branched or self-assembling nanostructures that can encapsulate hydrophobic drugs and target them to inflamed skin.
 
-The theoretical advantages are compelling: reduced application frequency, lower total drug doses, fewer local side effects (e.g., steroid atrophy), and the potential to deliver biologic-class molecules (antibodies, siRNAs) topically. None of these systems has yet progressed beyond early clinical development for psoriasis [(Li et al., 2025)](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full).
+The theoretical advantages are compelling: reduced application frequency, lower total drug doses, fewer local side effects (e.g., steroid atrophy), and the potential to deliver biologic-class molecules (antibodies, siRNAs) topically. None of these systems has yet progressed beyond early clinical development for psoriasis [(Xu et al., 2025)](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full).
 
 **Research stage: Experimental.** **Evidence strength: Low.** Extensive preclinical data; Phase I/II clinical trials for some formulations; no approved nanomedicine products for psoriasis.
 
 ## 28.10 Gene Therapy and CRISPR
 
-The most conceptually ambitious approach to psoriasis treatment involves directly editing or silencing the genes that drive disease. **CRISPR-Cas9** gene editing, delivered via lipid nanoparticles (LNPs), can target psoriasis-related genes, including **IL-17A**, **IL-22**, **IL-23**, **TNF-α**, and **NF-κB**, directly in keratinocytes via topical application [(Li et al., 2025)](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full).
+The most conceptually ambitious approach to psoriasis treatment involves directly editing or silencing the genes that drive disease. **CRISPR-Cas9** gene editing, delivered via lipid nanoparticles (LNPs), can target psoriasis-related genes, including **IL-17A**, **IL-22**, **IL-23**, **TNF-α**, and **NF-κB**, directly in keratinocytes via topical application [(Xu et al., 2025)](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full).
 
 Additional nucleic acid approaches under investigation include:
 

@@ -417,7 +417,7 @@ sidebar:
 
 206. Saleem M, Akhtar N, Hussain A, et al. Nanomedicine for psoriasis: recent advances in drug delivery systems. *Pharmaceutics*. 2024;16(4):449. doi:10.3390/pharmaceutics16040449. [MDPI](https://www.mdpi.com/1999-4923/16/4/449)
 
-207. Li X, Zhang Y, Wang C, et al. CRISPR-based gene therapy and nanomedicine for psoriasis. *Front Bioeng Biotechnol*. 2025;13:1639869. doi:10.3389/fbioe.2025.1639869. [Frontiers](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full)
+207. Xu G, Ma G, Sun J, et al. Comprehensive analysis of pyroptosis-related genes in psoriasis and targeted gene editing of CASP1 and CASP5 using lipid nanoparticles to alleviate skin inflammation. *Front Bioeng Biotechnol*. 2025;13:1639869. doi:10.3389/fbioe.2025.1639869. [Frontiers](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full)
 
 208. Lwin SM, et al. Mesenchymal stromal cells as rescue therapy in biologic-refractory psoriasis: insights from a case series. *Front Immunol*. 2025;16:1656724. doi:10.3389/fimmu.2025.1656724. [Frontiers](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1656724/full)
 
