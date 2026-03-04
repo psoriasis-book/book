@@ -27,7 +27,7 @@ Psoriasis significantly affects mental health. Patients have elevated rates of d
 
 ## 14.5 Inflammatory Bowel Disease (IBD)
 
-Psoriasis and IBD (Crohn's disease and ulcerative colitis) share common immune pathways and genetic susceptibility loci. The prevalence of IBD in psoriasis patients is approximately four times higher than in the general population [(Ni & Chiu, 2014)](https://www.dovepress.com/psoriasis-and-comorbidities-links-and-risks-peer-reviewed-fulltext-article-CCID).
+Psoriasis and IBD (Crohn's disease and ulcerative colitis) share common immune pathways and genetic susceptibility loci. Psoriasis patients have approximately 2.5 times the risk of Crohn's disease and 1.6 times the risk of ulcerative colitis compared with the general population [(Ni & Chiu, 2014)](https://www.dovepress.com/psoriasis-and-comorbidities-links-and-risks-peer-reviewed-fulltext-article-CCID).
 
 ## 14.6 Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)
 
