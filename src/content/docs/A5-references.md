@@ -391,7 +391,7 @@ sidebar:
 
 193. Doneddu PE, et al. Risk of peripheral neuropathy in patients with psoriasis and psoriatic arthritis: a prospective cohort study. *Muscle Nerve*. 2024;70(4):567-574. doi:10.1002/mus.28196. [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1002/mus.28196)
 
-194. Goulding JMR, Price CL, Defty CL, et al. Telemedicine in dermatology: outcomes and patient satisfaction. *J Med Internet Res*. 2025;27(1):e73664. doi:10.2196/73664. [JMIR](https://www.jmir.org/2025/1/e73664)
+194. Pelet del Toro N, Yahia R, Feldman SR, et al. National Psoriasis Foundation Telemedicine Task Force guidance for management of psoriatic disease via telemedicine. *JAAD Int*. 2023;12:98-112. doi:10.1016/j.jdin.2023.04.002. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10238745/)
 
 195. Smith CH, Yiu ZZN, Bale T, et al. Digital health and remote monitoring in psoriasis. *Front Digit Health*. 2025;7:1656585. doi:10.3389/fdgth.2025.1656585. [Frontiers](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1656585/full)
 
