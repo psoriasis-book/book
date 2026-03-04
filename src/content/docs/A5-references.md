@@ -347,7 +347,7 @@ sidebar:
 
 171. Balak DMW, Hajdarbegovic E. Drug-induced psoriasis: clinical perspectives. *Psoriasis (Auckl)*. 2017;7:87-94. doi:10.2147/PTT.S126727. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774610/)
 
-172. Brunasso AMG, Massone C, Bevölkerung K. Palmoplantar psoriasis: current and emerging treatments. *J Clin Med*. 2025;14(10):3273. doi:10.3390/jcm14103273. [MDPI](https://www.mdpi.com/2077-0383/14/10/3273)
+172. Nam KH, et al. Emerging therapies for palmoplantar pustulosis with a focus on IL-23 inhibitors. *J Clin Med*. 2025;14(10):3273. doi:10.3390/jcm14103273. [MDPI](https://www.mdpi.com/2077-0383/14/10/3273)
 
 173. Terui T, Kato T, Tagami H, et al. Apremilast for palmoplantar pustulosis: a randomised, double-blind, placebo-controlled Phase 3 trial in Japan. *J Dermatolog Treat*. 2024;35(1):2414048. doi:10.1080/09546634.2024.2414048. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09546634.2024.2414048)
 
