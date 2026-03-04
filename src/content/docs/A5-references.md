@@ -331,7 +331,7 @@ sidebar:
 
 163. Akiyama M. Updated genetic background of generalized pustular psoriasis as an autoinflammatory keratinization disease. *J Dermatol*. 2025;52(3):400-407. doi:10.1111/1346-8138.17585. [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.17585)
 
-164. Bachelez H, Choon SE, Marber M, et al. Spesolimab mitigates residual inflammation and prevents flares in generalised pustular psoriasis. *J Clin Invest*. 2025;135(17):e188530. doi:10.1172/JCI188530. [JCI](https://www.jci.org/articles/view/188530)
+164. Krueger JG, Sarkar MK, Lebwohl MG, et al. Spesolimab mitigates residual inflammation and prevents flares in generalised pustular psoriasis. *J Clin Invest*. 2025;135(17):e188530. doi:10.1172/JCI188530. [JCI](https://www.jci.org/articles/view/188530)
 
 165. Mahil SK, Twelves S, Mostowy S, et al. AP1S3 mutations cause skin autoinflammation by disrupting keratinocyte autophagy and up-regulating IL-36 production. *J Invest Dermatol*. 2016;136(11):2064-2073. doi:10.1016/j.jid.2016.06.616. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27388993/)
 
