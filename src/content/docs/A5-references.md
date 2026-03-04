@@ -329,7 +329,7 @@ sidebar:
 
 162. Tankov S, Rørvig S. Trained immunity in psoriasis: LL-37/DNA complexes induce metabolic and epigenetic reprogramming of monocytes. *Immunol Invest*. 2025;54(4):1-18. doi:10.1080/08820139.2025.2519666. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/08820139.2025.2519666)
 
-163. Watanabe T, Tsuchiya T, Kido-Nakahara M, Nakahara T. NETs amplify keratinocyte-derived IL-36 and CCL20 in pustular psoriasis. *J Dermatol Sci*. 2025;117(1):27-35. doi:10.1111/1346-8138.17585. [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.17585)
+163. Akiyama M. Updated genetic background of generalized pustular psoriasis as an autoinflammatory keratinization disease. *J Dermatol*. 2025;52(3):400-407. doi:10.1111/1346-8138.17585. [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.17585)
 
 164. Bachelez H, Choon SE, Marber M, et al. Spesolimab mitigates residual inflammation and prevents flares in generalised pustular psoriasis. *J Clin Invest*. 2024;134(4):e188530. doi:10.1172/JCI188530. [JCI](https://www.jci.org/articles/view/188530)
 
