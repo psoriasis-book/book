@@ -411,7 +411,7 @@ sidebar:
 
 203. Sheppard R, Gan L, Onambele-Pearson G, Young H. Increased physical activity promotes skin clearance, improves cardiovascular and psychological health, and increases functional capacity in patients with psoriasis. *Skin Health Dis*. 2024;4(5):e426. doi:10.1002/ski2.426. [Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/ski2.426)
 
-204. Naldi L, Addis A, Chimenti S, et al. Exercise intervention in psoriasis: a prospective cohort study. *Dermatol Ther (Heidelb)*. 2024;14(12):3245-3256. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589643/)
+204. Zhu H, Sun P, Choi J, et al. Association of psoriasis disease with physical activity and exercise: systematic review and meta-analysis. *BMC Sports Sci Med Rehabil*. 2024;16:238. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589643/)
 
 205. Egilman AC, Wallach JD, Ross JS, et al. Prices of psoriasis biologics versus clinical benefit: an efficiency frontier analysis. *JAMA Dermatol*. 2024;160(3):301-309. doi:10.1001/jamadermatol.2023.5849. [JAMA](https://jamanetwork.com/journals/jamadermatology/fullarticle/2815167)
 

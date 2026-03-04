@@ -91,7 +91,7 @@ As discussed in Sections 8.4 and 8.5, smoking and alcohol are established risk f
 
 Physical activity is an under-recognised but evidence-based adjunct intervention for psoriasis. A 2024 meta-analysis confirmed that psoriasis patients have significantly lower levels of high-intensity exercise than healthy controls, and that this physical inactivity contributes to the elevated cardiovascular and metabolic risk profile discussed in Section 14 [(Sheppard et al., 2024)](https://onlinelibrary.wiley.com/doi/full/10.1002/ski2.426).
 
-**Exercise improves psoriasis severity directly.** An interventional study found that a structured exercise programme promoted significant skin clearance, with 50% of participants achieving PASI-50 response at week 20 [(Naldi et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589643/). The biological mechanisms likely include:
+**Exercise improves psoriasis severity directly.** An interventional study found that a structured exercise programme promoted significant skin clearance, with 50% of participants achieving PASI-50 response at week 20 [(Zhu et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589643/). The biological mechanisms likely include:
 
 - **Reduction of systemic inflammation**: Exercise decreases circulating TNF-α, IL-6, and CRP, the same inflammatory mediators that drive psoriasis and its comorbidities.
 - **Weight loss**: Exercise-induced weight loss reduces adipokine production and improves biologic treatment response (see Section 19.1).
