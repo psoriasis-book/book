@@ -21,7 +21,7 @@ sidebar:
 
 8. Strange A, Capon F, Spencer CCA, et al. Genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1. *Nat Genet*. 2010;42(11):985-990. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3749730/)
 
-9. El-Boghdady NA et al. The genetic susceptibility to psoriasis and the relationship of linked genes to our treatment options. *Cureus*. 2023;15(7):e42415. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10418823/)
+9. Patel HA, Revankar RR, Pedroza ST, Graham S, Feldman SR. Psoriasis gene expression and the role of those genes in treatment response. *Int J Mol Sci*. 2023;24(16):12564. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10418823/)
 
 10. Li M, et al. Genetics of psoriasis: a basis for precision medicine. *Precis Clin Med*. 2019;2(2):120-130. doi:10.1093/pcmedi/pbz010. [Oxford Academic](https://academic.oup.com/pcm/article/2/2/120/5522496)
 
