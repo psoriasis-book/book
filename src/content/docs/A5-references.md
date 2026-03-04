@@ -409,7 +409,7 @@ sidebar:
 
 202. Langley RG, Feldman SR, Han C, et al. Ustekinumab significantly improves symptoms of anxiety, depression, and skin-related quality of life in patients with moderate-to-severe psoriasis: results from a randomized, double-blind, placebo-controlled phase III trial. *J Am Acad Dermatol*. 2010;63(3):457-465. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10389140/)
 
-203. Lopes S, Gameiro A, Paixão S, et al. Physical activity and psoriasis: a systematic review and meta-analysis. *Skin Health Dis*. 2024;4(5):e426. doi:10.1002/ski2.426. [Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/ski2.426)
+203. Sheppard R, Gan L, Onambele-Pearson G, Young H. Increased physical activity promotes skin clearance, improves cardiovascular and psychological health, and increases functional capacity in patients with psoriasis. *Skin Health Dis*. 2024;4(5):e426. doi:10.1002/ski2.426. [Wiley](https://onlinelibrary.wiley.com/doi/full/10.1002/ski2.426)
 
 204. Naldi L, Addis A, Chimenti S, et al. Exercise intervention in psoriasis: a prospective cohort study. *Dermatol Ther (Heidelb)*. 2024;14(12):3245-3256. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589643/)
 
