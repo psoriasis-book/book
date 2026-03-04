@@ -421,7 +421,7 @@ sidebar:
 
 208. Lwin SM, et al. Mesenchymal stromal cells as rescue therapy in biologic-refractory psoriasis: insights from a case series. *Front Immunol*. 2025;16:1656724. doi:10.3389/fimmu.2025.1656724. [Frontiers](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1656724/full)
 
-209. Wang H, Li C, Zhang Y, et al. Expert consensus on mesenchymal stem cell application in psoriasis clinical trials. *Aging Dis*. 2024;15(4):1456-1470. doi:10.14336/AD.2024.0012. [Aging and Disease](https://www.aginganddisease.org/EN/10.14336/AD.2024.0012)
+209. Kuang YH, et al. Expert consensus on the application of stem cells in psoriasis research and clinical trials. *Aging Dis*. 2025. doi:10.14336/AD.2024.0012. [Aging and Disease](https://www.aginganddisease.org/EN/10.14336/AD.2024.0012)
 
 210. Gelfand JM, Armstrong AW, Garg A, et al. National Psoriasis Foundation consensus statements on vaccination for psoriasis patients. *J Am Acad Dermatol*. 2024;91(5):978-989. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11998957/)
 
