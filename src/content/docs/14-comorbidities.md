@@ -43,13 +43,13 @@ A unifying hypothesis known as the **"psoriatic march"** proposes that chronic s
 
 The relationship between psoriasis and cancer has been investigated through multiple large population-based cohort studies and meta-analyses. The key findings are:
 
-**Lymphoma.** Psoriasis patients have a relative risk (RR) of approximately 1.56 for lymphoma overall, with **cutaneous T-cell lymphoma (CTCL)** showing the strongest association (HR 6.22). This likely reflects chronic immune stimulation and T-cell proliferation, the same processes that drive psoriasis itself [(Vaengebjerg et al., 2024)](https://www.mdpi.com/2072-6694/16/24/4224). The diagnostic challenge is real: early CTCL can mimic psoriasis clinically, and a biopsy is essential when psoriasis presents atypically or fails to respond to standard therapy.
+**Lymphoma.** Psoriasis patients have a relative risk (RR) of approximately 1.56 for lymphoma overall, with **cutaneous T-cell lymphoma (CTCL)** showing the strongest association (HR 6.22). This likely reflects chronic immune stimulation and T-cell proliferation, the same processes that drive psoriasis itself [(Mateescu et al., 2024)](https://www.mdpi.com/2072-6694/16/24/4224). The diagnostic challenge is real: early CTCL can mimic psoriasis clinically, and a biopsy is essential when psoriasis presents atypically or fails to respond to standard therapy.
 
 **Keratinocyte cancers** (basal cell carcinoma and squamous cell carcinoma) show an RR of approximately 2.28. This is at least partly attributable to phototherapy exposure (PUVA in particular, see Section 24) and immunosuppressive treatments, rather than psoriasis itself [(Li et al., 2024)](https://www.nature.com/articles/s41467-024-51824-6).
 
 **Solid organ cancers.** Modest increases have been reported for lung cancer (RR 1.26) and bladder cancer (RR 1.12), though confounders such as smoking prevalence (higher in psoriasis, see Section 8.4) complicate interpretation.
 
-**Biologic therapy does not increase cancer risk.** Large registry studies including BADBIR and PSOLAR have consistently shown that biologic-treated patients don't have significantly elevated malignancy rates compared with conventionally treated patients or the general population [(Vaengebjerg et al., 2024)](https://www.mdpi.com/2072-6694/16/24/4224). That's important clinical reassurance for both patients and prescribers.
+**Biologic therapy does not increase cancer risk.** Large registry studies including BADBIR and PSOLAR have consistently shown that biologic-treated patients don't have significantly elevated malignancy rates compared with conventionally treated patients or the general population [(Mateescu et al., 2024)](https://www.mdpi.com/2072-6694/16/24/4224). That's important clinical reassurance for both patients and prescribers.
 
 **Screening recommendations.** Current guidelines don't mandate universal cancer screening specifically for psoriasis patients, but clinicians should ensure age-appropriate cancer screening is up to date and should maintain a low threshold for biopsy of atypical or treatment-resistant lesions, particularly in patients with extensive phototherapy histories.
 

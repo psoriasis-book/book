@@ -355,7 +355,7 @@ sidebar:
 
 175. Zhang PW, Dong Q, Wang H, et al. Identification of plasma metabolites and dipeptides as diagnostic biomarkers for psoriasis vulgaris through LC-HRMS-based metabolomics. *J Proteome Res*. 2025;24(1):46-54. doi:10.1021/acs.jproteome.4c00173. [ACS](https://pubs.acs.org/doi/10.1021/acs.jproteome.4c00173)
 
-176. Vaengebjerg S, Skov L, Egeberg A, Loft ND. Psoriasis and cancer risk: a comprehensive review. *Cancers*. 2024;16(24):4224. doi:10.3390/cancers16244224. [MDPI](https://www.mdpi.com/2072-6694/16/24/4224)
+176. Mateescu LA, et al. The intersection of psoriasis and neoplasia: risk factors, therapeutic approaches, and management strategies. *Cancers*. 2024;16(24):4224. doi:10.3390/cancers16244224. [MDPI](https://www.mdpi.com/2072-6694/16/24/4224)
 
 177. Li R, Luo W, Chen X, et al. An observational and genetic investigation into the association between psoriasis and risk of malignancy. *Nat Commun*. 2024;15:7952. doi:10.1038/s41467-024-51824-6. [Nature](https://www.nature.com/articles/s41467-024-51824-6)
 
