@@ -65,7 +65,7 @@ sidebar:
 
 30. Childs B, Romanelli S, Merola JF, Gottlieb AB. From the Masterclasses in Dermatology 2024 Meeting: Updates in Psoriasis Treatments. *J Clin Aesthet Dermatol*. 2025;18(2):16-22. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11896623/)
 
-31. Dey AK, et al. Emerging oral therapies for the treatment of psoriasis: a review of pipeline agents. *Pharmaceuticals (Basel)*. 2024;17(1):137. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10819460/)
+31. Drakos A, et al. Emerging oral therapies for the treatment of psoriasis: a review of pipeline agents. *Pharmaceuticals (Basel)*. 2024;17(1):137. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10819460/)
 
 32. Gopika M, et al. Advances in psoriasis research: from pathogenesis to therapeutics. *Life Sci*. 2024;355:122935. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0024320524005812)
 
