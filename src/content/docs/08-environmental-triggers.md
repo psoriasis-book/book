@@ -74,7 +74,7 @@ Climate change is anticipated to affect psoriasis through several interconnected
 - **Heat stress**: Rising temperatures trigger psoriasis flares through vasodilation, increased sweating (which can irritate intertriginous psoriasis), and upregulation of heat shock proteins that activate innate immune pathways.
 - **Humidity changes**: Low humidity worsens skin barrier dysfunction and promotes scale formation; conversely, high humidity in tropical zones may foster microbial growth (particularly Malassezia, Section 6.6) and maceration in skin folds.
 - **UV radiation changes**: Ozone depletion increases UV exposure, which in moderate doses improves psoriasis but in excessive doses causes sunburn and Koebner phenomenon (Section 8.9).
-- **Seasonal variation in treatment outcomes**: A 2025 multicentre longitudinal study is examining how temperature-trend-defined seasonality affects biologic treatment outcomes across European centres [(Song et al., 2025)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1641225/full).
+- **Seasonal variation in treatment outcomes**: A 2025 multicentre longitudinal study is examining how temperature-trend-defined seasonality affects biologic treatment outcomes across Shanghai dermatology centres [(Song et al., 2025)](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1641225/full).
 
 The net effect of climate change on psoriasis is likely to be regionally variable, with worsening in areas experiencing extreme heat and low humidity, and potentially modest improvement in currently cold, dark climates that see increased UV exposure.
 
