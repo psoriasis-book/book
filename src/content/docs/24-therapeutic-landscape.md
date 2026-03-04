@@ -97,7 +97,7 @@ As of early 2026, biosimilars are available or approved for the following psoria
 
 **Adalimumab (Humira)** — After Humira's patent exclusivity ended, numerous biosimilars launched in the US beginning in 2023. These have driven significant cost savings and formulary changes. Multiple biosimilars are now available, including Hadlima, Hyrimoz, Cyltezo (the first FDA-designated *interchangeable* adalimumab biosimilar), Amjevita, Yusimry, and others. Formularies that have excluded Humira in favour of its biosimilars have seen substantial savings, with net prices declining approximately 43% in the first year of biosimilar competition [(Rome et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39671204/).
 
-**Ustekinumab (Stelara)** — Began facing biosimilar competition in January 2025. Several Stelara biosimilars have been approved by the FDA, including Wezlana (ustekinumab-auub), the first with interchangeability designation [(FDA, 2023)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-interchangeable-biosimilar-stelara-ustekinumab).
+**Ustekinumab (Stelara)** — Began facing biosimilar competition in January 2025. Several Stelara biosimilars have been approved by the FDA, including Wezlana (ustekinumab-auub), the first with interchangeability designation [(FDA, 2023)](https://www.drugs.com/history/wezlana.html).
 
 **Etanercept (Enbrel)** — Biosimilars have been approved in some markets, though US availability has been complicated by patent litigation.
 
