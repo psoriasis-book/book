@@ -9,7 +9,7 @@ The convergence of telemedicine platforms, smartphone applications, and artifici
 
 ## 29.1 Teledermatology for Psoriasis
 
-The **International Psoriasis Council (IPC)** has endorsed remote monitoring as a feasible alternative to in-person visits for established psoriasis patients, and the **National Psoriasis Foundation (NPF)** published 22 consensus statements on telemedicine in psoriasis management [(JMIR, 2025)](https://www.jmir.org/2025/1/e73664).
+The **International Psoriasis Council (IPC)** has endorsed remote monitoring as a feasible alternative to in-person visits for established psoriasis patients, and the **National Psoriasis Foundation (NPF)** published 22 consensus statements on telemedicine in psoriasis management [(Goulding et al., 2025)](https://www.jmir.org/2025/1/e73664).
 
 Two models of teledermatology are in use:
 
