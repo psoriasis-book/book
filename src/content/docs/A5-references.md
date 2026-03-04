@@ -349,7 +349,7 @@ sidebar:
 
 172. Nam KH, et al. Emerging therapies for palmoplantar pustulosis with a focus on IL-23 inhibitors. *J Clin Med*. 2025;14(10):3273. doi:10.3390/jcm14103273. [MDPI](https://www.mdpi.com/2077-0383/14/10/3273)
 
-173. Terui T, Kato T, Tagami H, et al. Apremilast for palmoplantar pustulosis: a randomised, double-blind, placebo-controlled Phase 3 trial in Japan. *J Dermatolog Treat*. 2024;35(1):2414048. doi:10.1080/09546634.2024.2414048. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09546634.2024.2414048)
+173. Terui T, et al. Apremilast for palmoplantar pustulosis: a Phase 3 trial in Japan. *J Eur Acad Dermatol Venereol*. 2024. doi:10.1111/jdv.70166. [Wiley](https://onlinelibrary.wiley.com/doi/abs/10.1111/jdv.70166)
 
 174. Sorokin AV, Patel N, Engel LC, et al. Plasma proteomics-based risk scoring for psoriasis diagnosis. *J Invest Dermatol*. 2025;145(7):1589-1598. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12303817/)
 
