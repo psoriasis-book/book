@@ -377,7 +377,7 @@ sidebar:
 
 186. Supajarupan T, et al. The prevalence of high risk of obstructive sleep apnea in patients with psoriasis. *Sleep Breath*. 2025;29(1):148. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/)
 
-187. Hirotsu C, Rydlewski M, Araújo MS, et al. Sleep disturbance in psoriasis: bidirectional relationships with inflammation. *Dermatol Ther (Heidelb)*. 2024;14(7):1789-1802. doi:10.1007/s13555-024-01211-2. [Springer](https://link.springer.com/article/10.1007/s13555-024-01211-2)
+187. Smith P, Jin JQ, Spencer RK, et al. Psoriasis and sleep disturbance: a US population-based study using the NHANES database. *Dermatol Ther (Heidelb)*. 2024;14(8):2277-2283. doi:10.1007/s13555-024-01211-2. [Springer](https://link.springer.com/article/10.1007/s13555-024-01211-2)
 
 188. Zhang Y, Li P, Chen S, et al. Sexual dysfunction in psoriasis: a systematic review and meta-analysis. *Front Public Health*. 2024;12:1339196. doi:10.3389/fpubh.2024.1339196. [Frontiers](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full)
 

@@ -20,7 +20,7 @@ The relationship between psoriasis and sleep disturbance is **bidirectional**:
 - **Medication effects**: Corticosteroids can cause insomnia; methotrexate-related fatigue may disrupt sleep architecture.
 
 **Poor sleep worsens psoriasis** through:
-- **Immune dysregulation**: Sleep deprivation elevates IL-6, TNF-α, and CRP, the same inflammatory mediators that drive psoriasis. Even partial sleep restriction (6 hours vs 8 hours) measurably increases systemic inflammation [(Hirotsu et al., 2024)](https://link.springer.com/article/10.1007/s13555-024-01211-2).
+- **Immune dysregulation**: Sleep deprivation elevates IL-6, TNF-α, and CRP, the same inflammatory mediators that drive psoriasis. Even partial sleep restriction (6 hours vs 8 hours) measurably increases systemic inflammation [(Smith et al., 2024)](https://link.springer.com/article/10.1007/s13555-024-01211-2).
 - **Impaired skin barrier function**: Sleep deprivation reduces transepidermal water loss recovery after barrier disruption.
 - **Microbiome disruption**: Circadian disruption alters gut microbiome composition, potentially exacerbating the gut-skin axis (Section 6.5).
 - **Reduced melatonin**: Melatonin has anti-inflammatory and antioxidant properties; its disruption may remove a protective brake on inflammation.
