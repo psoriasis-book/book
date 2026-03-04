@@ -35,7 +35,7 @@ Prior to this trial, evidence came mainly from observational studies, including 
 
 ## 19.3 Omega-3 Fatty Acids (Fish Oil) — Mixed Evidence
 
-Fish oil supplementation has been studied multiple times with contradictory results. An 8-week double-blind study of 28 patients found significant improvement in itching, redness, and scaling, but not in the size of patches [(Bittiner et al., 1988)](https://pubmed.ncbi.nlm.nih.gov/2893189/). A larger double-blind study of 145 patients over 4 months found no benefit compared to placebo [(Soyland et al., 1993)](https://pubmed.ncbi.nlm.nih.gov/8502270/). A 2025 systematic review concluded that omega-3 fatty acid supplementation "may be associated with improved psoriasis outcomes" but that evidence quality remains low [(Li et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X).
+Fish oil supplementation has been studied multiple times with contradictory results. An 8-week double-blind study of 28 patients found significant improvement in itching, redness, and scaling, but not in the size of patches [(Bittiner et al., 1988)](https://pubmed.ncbi.nlm.nih.gov/2893189/). A larger double-blind study of 145 patients over 4 months found no benefit compared to placebo [(Soyland et al., 1993)](https://pubmed.ncbi.nlm.nih.gov/8502270/). A 2025 systematic review concluded that omega-3 fatty acid supplementation "may be associated with improved psoriasis outcomes" but that evidence quality remains low [(Wang et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X).
 
 **Evidence grade: Low to moderate. Conflicting trial results. May have modest benefit as adjunct therapy but is not a standalone treatment.**
 
@@ -49,7 +49,7 @@ For psoriasis patients without gluten sensitivity, the available evidence shows 
 
 ## 19.5 Probiotics and the Gut Microbiome — Emerging but Early
 
-Given the emerging research on the gut-skin axis (discussed in Section 6.5), probiotics and prebiotics are attracting interest. A 2025 systematic review found that probiotic and prebiotic supplementation "may be associated with improved psoriasis outcomes," but the number of clinical trials is small and their methodologies are heterogeneous [(Li et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X). This area is biologically plausible but needs substantially more clinical data before anyone can make firm recommendations.
+Given the emerging research on the gut-skin axis (discussed in Section 6.5), probiotics and prebiotics are attracting interest. A 2025 systematic review found that probiotic and prebiotic supplementation "may be associated with improved psoriasis outcomes," but the number of clinical trials is small and their methodologies are heterogeneous [(Wang et al., 2025)](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X). This area is biologically plausible but needs substantially more clinical data before anyone can make firm recommendations.
 
 **Evidence grade: Very low. Biologically plausible but insufficient clinical trial data.**
 

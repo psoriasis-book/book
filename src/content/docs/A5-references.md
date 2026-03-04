@@ -243,7 +243,7 @@ sidebar:
 
 119. Anheyer D, et al. Herbal medicines for psoriasis: a systematic review. *Complement Ther Med*. 2025;89:103134. [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0965229925000482)
 
-120. Li Y, et al. Omega-3 fatty acids and probiotics for psoriasis: a systematic review. *Complement Ther Med*. 2025;89:103098. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X)
+120. Wang Q, Wang J, Sun X, et al. Evidence-based dietary recommendations for patients with psoriasis: a systematic review. *Clin Nutr*. 2025;47:68-82. doi:10.1016/j.clnu.2025.02.005. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S026156142500041X)
 
 121. Michaëlsson G, Gerdén B, Hagforsen E, et al. Psoriasis patients with antibodies to gliadin can be improved by a gluten-free diet. *Br J Dermatol*. 2000;142(1):44-51. doi:10.1046/j.1365-2133.2000.03240.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10651693/)
 
