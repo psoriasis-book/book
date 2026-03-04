@@ -397,7 +397,7 @@ sidebar:
 
 196. Zhu Y, Wang H, Li C, et al. The gut-skin axis in psoriasis: microbiome-immune interactions. *Front Microbiol*. 2025;16:1711288. doi:10.3389/fmicb.2025.1711288. [Frontiers](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1711288/full)
 
-197. Liu X, Zhang J, Wang Y, et al. Indole-producing gut bacteria remodel epigenetic state of skin Th17 cells via AhR activation. *Gut Microbes*. 2025;17(1):2473524. doi:10.1080/19490976.2025.2473524. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2473524)
+197. Jimenez-Sanchez M, et al. The gut-skin axis: a bi-directional, microbiota-driven relationship with therapeutic potential. *Gut Microbes*. 2025;17(1):2473524. doi:10.1080/19490976.2025.2473524. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/19490976.2025.2473524)
 
 198. Koike Y, Kuwatsuka S, Motooka D, Murota H. Dysbiosis of the human skin mycobiome in patients receiving systemic IL-23 inhibitors. *Allergol Int*. 2025;74(1):72-77. doi:10.1016/j.alit.2024.06.003. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39307589/)
 
