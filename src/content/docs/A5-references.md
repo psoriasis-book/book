@@ -419,7 +419,7 @@ sidebar:
 
 207. Li X, Zhang Y, Wang C, et al. CRISPR-based gene therapy and nanomedicine for psoriasis. *Front Bioeng Biotechnol*. 2025;13:1639869. doi:10.3389/fbioe.2025.1639869. [Frontiers](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2025.1639869/full)
 
-208. Li J, Zhang H, Wang Y, et al. Mesenchymal stem cells as immunomodulatory therapy for psoriasis. *Front Immunol*. 2025;16:1656724. doi:10.3389/fimmu.2025.1656724. [Frontiers](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1656724/full)
+208. Lwin SM, et al. Mesenchymal stromal cells as rescue therapy in biologic-refractory psoriasis: insights from a case series. *Front Immunol*. 2025;16:1656724. doi:10.3389/fimmu.2025.1656724. [Frontiers](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1656724/full)
 
 209. Wang H, Li C, Zhang Y, et al. Expert consensus on mesenchymal stem cell application in psoriasis clinical trials. *Aging Dis*. 2024;15(4):1456-1470. doi:10.14336/AD.2024.0012. [Aging and Disease](https://www.aginganddisease.org/EN/10.14336/AD.2024.0012)
 
