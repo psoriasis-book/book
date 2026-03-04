@@ -363,7 +363,7 @@ sidebar:
 
 179. Almutairi AG, et al. Ocular manifestations of psoriasis: a systematic review. *Ocul Immunol Inflamm*. 2025;33(5). doi:10.1080/09273948.2025.2459710. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/09273948.2025.2459710)
 
-180. Kim J, Lee S, Park H, et al. Biologic therapy reduces ocular inflammatory disease in psoriasis. *Eye*. 2026;40(3):512-520. doi:10.1038/s41433-026-04274-x. [Nature Eye](https://www.nature.com/articles/s41433-026-04274-x)
+180. Kubovsky S, et al. Biologic therapy is associated with reduced ocular disease in psoriasis: a real-world study. *Eye*. 2026. doi:10.1038/s41433-026-04274-x. [Nature Eye](https://www.nature.com/articles/s41433-026-04274-x)
 
 181. Aljasser MI, Almohanna HM, Tosti A, et al. Hearing impairment in patients with psoriasis: a systematic review and meta-analysis. *J Am Acad Dermatol*. 2023;89(4):789-797. doi:10.1016/j.jaad.2023.05.010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37231542/)
 

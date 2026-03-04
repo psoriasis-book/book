@@ -81,7 +81,7 @@ Ocular manifestations are surprisingly common in psoriasis, with prevalence esti
 - **Conjunctivitis**: Non-infectious conjunctival inflammation.
 - **Uveitis**: Intraocular inflammation affecting the uveal tract (iris, ciliary body, choroid). Uveitis incidence in psoriasis is estimated at 7–20%, with patients who have psoriatic arthritis at substantially higher risk than those with skin-limited disease.
 
-A 2026 study in *Eye* confirmed that biologic therapy is associated with reduced ocular disease, particularly uveitis, suggesting that systemic inflammation control benefits the eyes as well as the skin and joints [(Kim et al., 2026)](https://www.nature.com/articles/s41433-026-04274-x).
+A 2026 study in *Eye* confirmed that biologic therapy is associated with reduced ocular disease, particularly uveitis, suggesting that systemic inflammation control benefits the eyes as well as the skin and joints [(Kubovsky et al., 2026)](https://www.nature.com/articles/s41433-026-04274-x).
 
 If you have psoriasis, particularly with PsA, watch for ocular symptoms: redness, pain, photophobia, blurred vision. Get a prompt ophthalmological assessment when uveitis is suspected.
 
