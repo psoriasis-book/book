@@ -140,7 +140,7 @@ This has practical implications. Clinicians should consider VTE risk when prescr
 
 ## 14.15 Neurodegeneration: Alzheimer's and Parkinson's Disease
 
-An unresolved question is whether psoriasis increases the risk of neurodegenerative diseases. Population-based studies have reported modestly elevated risks of both **Alzheimer's disease (AD)** and **Parkinson's disease (PD)** in psoriasis patients [(Fu & Chi, 2022)](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full).
+An unresolved question is whether psoriasis increases the risk of neurodegenerative diseases. Population-based studies have reported modestly elevated risks of both **Alzheimer's disease (AD)** and **Parkinson's disease (PD)** in psoriasis patients [(Nowowiejska et al., 2022)](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full).
 
 The biological rationale is plausible:
 - TNF-α and IL-17 have been detected at elevated levels in the brains of AD and PD patients.

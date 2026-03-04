@@ -373,7 +373,7 @@ sidebar:
 
 184. Passos JSG, Villani AC, Machado PRL, et al. Osteoporosis and bone health in psoriasis: a narrative review. *J Clin Med*. 2022;11(19):5800. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543251/)
 
-185. Fu Y, Chi C. Psoriasis and risk of neurodegenerative diseases: Alzheimer's and Parkinson's. *Front Mol Neurosci*. 2022;15:917751. doi:10.3389/fnmol.2022.917751. [Frontiers](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full)
+185. Nowowiejska J, et al. Psoriasis and neurodegenerative diseases — a review. *Front Mol Neurosci*. 2022;15:917751. doi:10.3389/fnmol.2022.917751. [Frontiers](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full)
 
 186. Ghannam M, Al-Khami A, Jaber M, et al. Obstructive sleep apnoea in psoriasis: prevalence and shared inflammatory pathways. *Dermatol Ther (Heidelb)*. 2025;15(4):1023-1035. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/)
 
