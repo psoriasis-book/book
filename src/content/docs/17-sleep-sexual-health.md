@@ -73,7 +73,7 @@ Emerging evidence indicates that untreated psoriasis impairs **male fertility** 
 - **Sexual accessory gland inflammation**: Seminal vesicles and prostate may be affected by systemic inflammation, altering seminal fluid composition.
 - **Hormonal disruption**: Reduced testosterone impairs spermatogenesis (see above).
 
-A 2024 study demonstrated that treatment with **adalimumab** produced significant improvements not only in erectile function but also in sperm motility, vitality, and serum testosterone levels, suggesting that inflammation control directly benefits male fertility [(Hahn et al., 2024)](https://link.springer.com/article/10.1007/s00403-024-03520-0).
+A 2024 study demonstrated that treatment with **adalimumab** produced significant improvements not only in erectile function but also in sperm motility, vitality, and serum testosterone levels, suggesting that inflammation control directly benefits male fertility [(Yüksek et al., 2024)](https://link.springer.com/article/10.1007/s00403-024-03520-0).
 
 **Medication effects on fertility** must also be considered:
 - **Methotrexate**: A folate antagonist that can impair spermatogenesis at high doses. The 2024 EULAR update on antirheumatic drugs in reproduction now considers methotrexate at standard therapeutic doses (up to 25 mg/week) compatible with paternal conception without a mandatory washout period, based on evidence showing no adverse effects on sperm DNA or birth outcomes. Some national guidelines (including BAD) have not yet updated their recommendations, so discuss this with your prescriber.

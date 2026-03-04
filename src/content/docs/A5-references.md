@@ -381,7 +381,7 @@ sidebar:
 
 188. Zhang Y, Li P, Chen S, et al. Sexual dysfunction in psoriasis: a systematic review and meta-analysis. *Front Public Health*. 2024;12:1339196. doi:10.3389/fpubh.2024.1339196. [Frontiers](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1339196/full)
 
-189. Hahn M, Krause K, Schön MP, et al. Adalimumab improves erectile function, spermatogenesis, and testosterone levels in psoriasis patients. *Arch Dermatol Res*. 2024;316(8):512. doi:10.1007/s00403-024-03520-0. [Springer](https://link.springer.com/article/10.1007/s00403-024-03520-0)
+189. Yüksek T, et al. Impact of adalimumab on erectile dysfunction, sperm parameters and hormonal profile in male psoriasis patients. *Arch Dermatol Res*. 2024;316(8):512. doi:10.1007/s00403-024-03520-0. [Springer](https://link.springer.com/article/10.1007/s00403-024-03520-0)
 
 190. Jaworecka K, Rzepko M, Murer C, et al. The neuro-immune itch axis in psoriasis: TRPV1, IL-31, and NGF pathways. *Inflammation*. 2025;48(2):567-582. doi:10.1007/s10753-025-02385-3. [Springer](https://link.springer.com/article/10.1007/s10753-025-02385-3)
 
