@@ -327,7 +327,7 @@ sidebar:
 
 161. Naik S, Fuchs E. Inflammatory memory and tissue adaptation in sickness and in health. *Nature*. 2022;607:249-255. doi:10.1038/s41586-022-04919-3. [Nature](https://www.nature.com/articles/s41586-022-04919-3)
 
-162. Tankov S, Rørvig S. Trained immunity in psoriasis: LL-37/DNA complexes induce metabolic and epigenetic reprogramming of monocytes. *Immunol Invest*. 2025;54(4):1-18. doi:10.1080/08820139.2025.2519666. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/08820139.2025.2519666)
+162. Wadhavane S, Rithvik A, Rasool M. Psoriasis relapse: exploring the role of epigenetics, metabolic reprogramming, and inflammatory memory. *Immunol Invest*. 2025;54(7):2519666. doi:10.1080/08820139.2025.2519666. [Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/08820139.2025.2519666)
 
 163. Akiyama M. Updated genetic background of generalized pustular psoriasis as an autoinflammatory keratinization disease. *J Dermatol*. 2025;52(3):400-407. doi:10.1111/1346-8138.17585. [Wiley](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.17585)
 
