@@ -15,7 +15,7 @@ Given the role of tissue-resident memory T cells (TRM cells) in psoriasis relaps
 
 ## 28.3 The Microbiome as a Therapeutic Target
 
-Research into the gut-skin axis may yield new therapeutic approaches. Prebiotics, probiotics, and faecal microbiota transplantation are all being investigated for their potential to modulate systemic inflammation in psoriasis. Dietary interventions, particularly Mediterranean, low-calorie, and omega-3-enriched diets, have shown some benefit as adjunctive strategies [(Caso et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/). The MEDIPSO trial (Section 19.2) provided the first RCT evidence that a structured Mediterranean diet improves psoriasis independently of weight loss, and further trials investigating specific probiotic strains and dietary fibre supplementation are underway.
+Research into the gut-skin axis may yield new therapeutic approaches. Prebiotics, probiotics, and faecal microbiota transplantation are all being investigated for their potential to modulate systemic inflammation in psoriasis. Dietary interventions, particularly Mediterranean, low-calorie, and omega-3-enriched diets, have shown some benefit as adjunctive strategies [(Musumeci et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/). The MEDIPSO trial (Section 19.2) provided the first RCT evidence that a structured Mediterranean diet improves psoriasis independently of weight loss, and further trials investigating specific probiotic strains and dietary fibre supplementation are underway.
 
 ## 28.4 Personalised/Precision Medicine
 

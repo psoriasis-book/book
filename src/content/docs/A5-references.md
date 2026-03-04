@@ -45,7 +45,7 @@ sidebar:
 
 20. Zhou W, et al. Tobacco smoking negatively influences the achievement of greater than three-quarters reduction in PASI after eight weeks of treatment. *Tob Induc Dis*. 2024;22:60. [Full text](https://www.tobaccoinduceddiseases.org/Tobacco-smoking-negatively-influences-the-achievement-of-greater-than-three-quarters,184143,0,2.html)
 
-21. Caso F, et al. The role of lifestyle and nutrition in psoriasis: current status of knowledge and interventions. *Dermatol Ther*. 2022;35(11):e15811. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/)
+21. Musumeci ML, et al. The role of lifestyle and nutrition in psoriasis: current status of knowledge and interventions. *Dermatol Ther*. 2022;35(9):e15685. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/)
 
 22. Takahashi H, Iizuka H. Psoriasis and metabolic syndrome. *J Dermatol*. 2012;39(3):212-218. doi:10.1111/j.1346-8138.2011.01408.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22035413/)
 
