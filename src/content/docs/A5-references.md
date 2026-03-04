@@ -333,7 +333,7 @@ sidebar:
 
 164. Bachelez H, Choon SE, Marber M, et al. Spesolimab mitigates residual inflammation and prevents flares in generalised pustular psoriasis. *J Clin Invest*. 2024;134(4):e188530. doi:10.1172/JCI188530. [JCI](https://www.jci.org/articles/view/188530)
 
-165. Mahil SK, Twelves S, Mostowy S, et al. AP1S3 mutations cause autophagy deficiency and IL-36 pathway activation in pustular psoriasis. *J Invest Dermatol*. 2024;144(7):1567-1576. doi:10.1016/j.jid.2024.02.017. [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S156757692400763X)
+165. Mahil SK, Twelves S, Mostowy S, et al. AP1S3 mutations cause skin autoinflammation by disrupting keratinocyte autophagy and up-regulating IL-36 production. *J Invest Dermatol*. 2016;136(11):2064-2073. doi:10.1016/j.jid.2016.06.616. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27388993/)
 
 166. Zhang Y, Wang C, Li L, et al. IL-17A impairs autophagy in psoriatic keratinocytes via mTOR pathway activation. *Front Immunol*. 2025;16:1489235. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12027842/)
 
