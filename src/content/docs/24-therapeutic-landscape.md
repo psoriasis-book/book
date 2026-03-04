@@ -80,7 +80,7 @@ The study found that US biologic prices were not well aligned with clinical bene
 
 In the UK, biologics for psoriasis are available on the NHS but are subject to cost-effectiveness appraisal by NICE (the National Institute for Health and Care Excellence). Patients typically must have failed conventional systemic therapies (such as methotrexate) before biologics are approved, and NICE has negotiated confidential patient access schemes with manufacturers to reduce costs. UK list prices differ significantly from US list prices but are typically in the range of several thousand pounds per dose for the newer IL-23 inhibitors.
 
-By 2021, IL-23 inhibitors, particularly risankizumab (Skyrizi), had become the most commonly initiated biologics for psoriasis, with 42% of newly treated patients starting on Skyrizi and 21% starting on IL-17 inhibitors such as Taltz (ixekizumab) or Cosentyx (secukinumab) [(Rome et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40238112/).
+By 2021, IL-23 inhibitors, particularly risankizumab (Skyrizi), had become the most commonly initiated biologics for psoriasis, with 42% of newly treated patients starting on IL-23 inhibitors (such as Skyrizi) and 21% starting on IL-17 inhibitors such as Taltz (ixekizumab) or Cosentyx (secukinumab) [(Rome et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/40238112/).
 
 ## 24.4 Biosimilars
 
