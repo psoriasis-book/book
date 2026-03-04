@@ -375,7 +375,7 @@ sidebar:
 
 185. Nowowiejska J, et al. Psoriasis and neurodegenerative diseases — a review. *Front Mol Neurosci*. 2022;15:917751. doi:10.3389/fnmol.2022.917751. [Frontiers](https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2022.917751/full)
 
-186. Ghannam M, Al-Khami A, Jaber M, et al. Obstructive sleep apnoea in psoriasis: prevalence and shared inflammatory pathways. *Dermatol Ther (Heidelb)*. 2025;15(4):1023-1035. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/)
+186. Supajarupan T, et al. The prevalence of high risk of obstructive sleep apnea in patients with psoriasis. *Sleep Breath*. 2025;29(1):148. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000173/)
 
 187. Hirotsu C, Rydlewski M, Araújo MS, et al. Sleep disturbance in psoriasis: bidirectional relationships with inflammation. *Dermatol Ther (Heidelb)*. 2024;14(7):1789-1802. doi:10.1007/s13555-024-01211-2. [Springer](https://link.springer.com/article/10.1007/s13555-024-01211-2)
 
