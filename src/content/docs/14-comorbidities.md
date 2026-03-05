@@ -91,7 +91,7 @@ If you have psoriasis, particularly with PsA, watch for ocular symptoms: redness
 
 An association between psoriasis and hearing impairment has emerged from a meta-analysis of 15 studies encompassing 202,683 subjects. Key findings include:
 
-- **Sensorineural hearing loss**: OR 3.85 (95% CI: 1.07–13.9). The hearing impairment is predominantly subclinical and most pronounced at high frequencies, with the greatest threshold difference at **4000 Hz** [(Ger et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37231542/).
+- **Sensorineural hearing loss**: OR 3.85 (95% CI: 1.07–13.9). The hearing impairment is predominantly subclinical and most pronounced at high frequencies, with the greatest threshold difference at **6000 Hz** [(Ger et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/37231542/).
 - **Sudden sensorineural hearing loss**: HR 1.45 (95% CI: 1.17–1.80).
 - **Auditory function changes**: Psoriasis patients show significantly elevated hearing thresholds across multiple frequencies and lower middle ear resonance frequencies compared with matched controls [(Polat & Erbek, 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10447668/).
 
