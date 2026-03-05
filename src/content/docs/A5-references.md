@@ -341,7 +341,7 @@ sidebar:
 
 168. Tang B, et al. The role of extracellular vesicles in the development and treatment of psoriasis: narrative review. *Int J Mol Sci*. 2024;25(24):13677. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11677080/)
 
-169. Sorokin AV, et al. LC-MS metabolomics of psoriasis patients reveals disease severity-dependent increases in circulating amino acids that are ameliorated by anti-TNFα treatment. *J Proteome Res*. 2015;14(1):557-566. doi:10.1021/pr500782g. [ACS](https://pubs.acs.org/doi/10.1021/pr500782g)
+169. Kamleh MA, Snowden SG, Grapov D, et al. LC-MS metabolomics of psoriasis patients reveals disease severity-dependent increases in circulating amino acids that are ameliorated by anti-TNFα treatment. *J Proteome Res*. 2015;14(1):557-566. doi:10.1021/pr500782g. [ACS](https://pubs.acs.org/doi/10.1021/pr500782g)
 
 170. Kim GK, Del Rosso JQ. Drug-provoked psoriasis: is it drug induced or drug aggravated? Understanding pathophysiology and clinical relevance. *J Clin Aesthet Dermatol*. 2010;3(1):32-38. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20684038/)
 
