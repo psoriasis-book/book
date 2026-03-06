@@ -108,7 +108,7 @@ Meta-analyses demonstrate significant associations between periodontitis and pso
 Key evidence includes:
 - Psoriasis patients have significantly higher rates of periodontal disease, deeper probing depths, and greater clinical attachment loss compared with matched controls.
 - Patients with both conditions report worse oral health-related quality of life.
-- **Interventional evidence**: Preliminary studies suggest that non-surgical periodontal therapy (scaling and root planing) may positively influence psoriasis severity, possibly by reducing the systemic inflammatory burden [(Kalakonda et al., 2025)](https://www.mdpi.com/1648-9144/61/10/1825).
+- **Interventional evidence**: Preliminary studies suggest that non-surgical periodontal therapy (scaling and root planing) may positively influence psoriasis severity, possibly by reducing the systemic inflammatory burden [(Marruganti et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/38899599/).
 
 Clinicians managing psoriasis should ask about dental health and encourage regular dental review, particularly in patients with metabolic syndrome or smoking history.
 

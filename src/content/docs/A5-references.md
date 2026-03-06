@@ -369,7 +369,7 @@ sidebar:
 
 182. Keller JJ, Lin HC. The association between psoriasis and periodontal disease: a systematic review and meta-analysis. *J Clin Periodontol*. 2022;49(Suppl 24):S115-S128. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9516998/)
 
-183. Kalakonda B, Koppolu P, Alqerban A, et al. Periodontitis and psoriasis: a shared pathogenesis and bidirectional relationship. *Medicina (Kaunas)*. 2025;61(10):1825. doi:10.3390/medicina61101825. [MDPI](https://www.mdpi.com/1648-9144/61/10/1825)
+183. Marruganti C, Pacifici A, Gatto R, et al. Treatment of periodontitis ameliorates the severity and extent of psoriasis: a randomized clinical trial. *J Clin Periodontol*. 2025;52(1):53-63. doi:10.1111/jcpe.14040. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38899599/)
 
 184. Passos JSG, Villani AC, Machado PRL, et al. Osteoporosis and bone health in psoriasis: a narrative review. *J Clin Med*. 2022;11(19):5800. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543251/)
 
