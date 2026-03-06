@@ -29,8 +29,8 @@ The GUIDE trial is now investigating a similar approach using guselkumab (an IL-
 
 ## 27.3 The GUIDE Trial — Super-Responders and Treatment Tapering (Eyerich et al., 2024)
 
-**Study:** *Early disease intervention with guselkumab in psoriasis leads to a higher rate of stable complete skin clearance ('clinical super response').* Eyerich K, et al. JAMA Dermatology. 2024;160(8):953–963.
-**Read it:** [JAMA Dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2820951)
+**Study:** *Noninferiority of 16-Week vs 8-Week Guselkumab Dosing in Super Responders for Maintaining Control of Psoriasis: The GUIDE Randomized Clinical Trial.* Eyerich K, et al. JAMA Dermatology. 2024;160(9):953–963.
+**Read it:** [JAMA Dermatology](https://pubmed.ncbi.nlm.nih.gov/39083288/)
 
 **Why it matters:** The GUIDE trial introduced the concept of "clinical super-responders," patients who achieve complete skin clearance that remains stable even when treatment is reduced or withdrawn. This addresses a critical question: can we eventually stop biologic therapy in some patients?
 

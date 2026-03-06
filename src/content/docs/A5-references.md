@@ -257,7 +257,7 @@ sidebar:
 
 126. Iversen L, Conrad C, Eidsmo L, et al. Secukinumab demonstrates superiority over narrow-band ultraviolet B phototherapy in new-onset moderate to severe plaque psoriasis patients: week 52 results from the STEPIn study. *J Eur Acad Dermatol Venereol*. 2023;37(5):1004-1016. doi:10.1111/jdv.18846. [JEADV](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18846)
 
-127. Eyerich K, et al. Early disease intervention with guselkumab in psoriasis leads to a higher rate of stable complete skin clearance ('clinical super response'). *JAMA Dermatol*. 2024;160(8):953-963. [JAMA Dermatology](https://jamanetwork.com/journals/jamadermatology/article-abstract/2820951)
+127. Eyerich K, et al. Noninferiority of 16-Week vs 8-Week Guselkumab Dosing in Super Responders for Maintaining Control of Psoriasis: The GUIDE Randomized Clinical Trial. *JAMA Dermatol*. 2024;160(9):953-963. doi:10.1001/jamadermatol.2024.2463. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39083288/)
 
 128. Warren RB, Blauvelt A, Bagel J, et al. Bimekizumab versus adalimumab in plaque psoriasis. *N Engl J Med*. 2021;385(2):130-141. doi:10.1056/NEJMoa2102388. [NEJM](https://www.nejm.org/doi/full/10.1056/NEJMoa2102388)
 
