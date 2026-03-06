@@ -25,7 +25,7 @@ Smoking is an independent risk factor for psoriasis onset and severity. Tobacco 
 
 ## 8.5 Alcohol
 
-Excessive alcohol consumption increases the expression of TNF-a-converting enzyme (TACE) and plasma levels of TNF-a receptor, upregulates genes promoting lymphocyte and keratinocyte proliferation, and may facilitate skin infections that act as psoriasis triggers. Alcohol misuse affects approximately one-third of people with psoriasis and worsens therapeutic compliance [(Musumeci et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/).
+Excessive alcohol consumption increases the expression of TNF-a-converting enzyme (TACE) and plasma levels of TNF-a receptor, upregulates genes promoting lymphocyte and keratinocyte proliferation, and may facilitate skin infections that act as psoriasis triggers. Alcohol misuse is common among people with psoriasis and worsens therapeutic compliance [(Musumeci et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/).
 
 ## 8.6 Medications
 
