@@ -83,7 +83,7 @@ sidebar:
 
 39. Liu J, et al. Critical role of environmental factors in the pathogenesis of psoriasis. *J Dermatol*. 2017;44(8):863-872. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28349593/)
 
-40. Xie X, et al. Biologics for the treatment of moderate-to-severe plaque psoriasis: a systematic review and network meta-analysis. *Dermatol Ther (Heidelb)*. 2025;15:1497-1527. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12126413/)
+40. Lebwohl MG, et al. Biologics for the treatment of moderate-to-severe plaque psoriasis: a systematic review and network meta-analysis. *Dermatol Ther (Heidelb)*. 2025;15:1497-1527. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12126413/)
 
 41. Chen H, et al. Systemic psoriasis: from molecular mechanisms to global management strategies. *Clin Rev Allergy Immunol*. 2025. doi:10.1007/s12016-025-09089-4. [Springer](https://link.springer.com/article/10.1007/s12016-025-09089-4)
 
