@@ -17,7 +17,7 @@ sidebar:
 
 6. Capon F. Psoriasis and genetics. *Acta Derm Venereol*. 2020;100(3):adv00030. [Full text](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-3384)
 
-7. Gelfand JM et al. A partitioned 88-loci psoriasis genetic risk score reveals HLA and non-HLA contributions to clinical phenotypes in a Newfoundland psoriasis cohort. *Front Genet*. 2023;14:1141010. [Frontiers](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1141010/full)
+7. Bui A, Kumar S, Liu J, et al. A partitioned 88-loci psoriasis genetic risk score reveals HLA and non-HLA contributions to clinical phenotypes in a Newfoundland psoriasis cohort. *Front Genet*. 2023;14:1141010. [Frontiers](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1141010/full)
 
 8. Strange A, Capon F, Spencer CCA, et al. Genome-wide association study identifies new psoriasis susceptibility loci and an interaction between HLA-C and ERAP1. *Nat Genet*. 2010;42(11):985-990. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3749730/)
 
