@@ -365,7 +365,7 @@ sidebar:
 
 180. Kubovsky S, et al. Biologic therapy is associated with reduced ocular disease in psoriasis: a real-world study. *Eye*. 2026. doi:10.1038/s41433-026-04274-x. [Nature Eye](https://www.nature.com/articles/s41433-026-04274-x)
 
-181. Aljasser MI, Almohanna HM, Tosti A, et al. Hearing impairment in patients with psoriasis: a systematic review and meta-analysis. *J Am Acad Dermatol*. 2023;89(4):789-797. doi:10.1016/j.jaad.2023.05.010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37231542/)
+181. Ger TY, Lien KH, Chi CC. Association of psoriasis with hearing loss: a systematic review and meta-analysis. *JAMA Dermatol*. 2023;159(6):625-633. doi:10.1001/jamadermatol.2023.0830. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37231542/)
 
 182. Keller JJ, Lin HC. The association between psoriasis and periodontal disease: a systematic review and meta-analysis. *J Clin Periodontol*. 2022;49(Suppl 24):S115-S128. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9516998/)
 
