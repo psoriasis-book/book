@@ -468,3 +468,5 @@ sidebar:
 231. Menter A, Papp KA, Gooderham M, et al. Drug survival of biologic therapy in a large, disease-based registry of patients with psoriasis: results from the Psoriasis Longitudinal Assessment and Registry (PSOLAR). *J Eur Acad Dermatol Venereol*. 2016;30(7):1148-1158. doi:10.1111/jdv.13611. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27027388/)
 
 232. *(duplicate of ref 149, removed)*
+
+233. Popa LG, Giurcaneanu C, Portelli MG, et al. Perspectives on psoriasiform adverse events from immune checkpoint inhibitors: lessons learned from our practice. *Medicina (Kaunas)*. 2024;60(3):373. doi:10.3390/medicina60030373. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10972058/)
