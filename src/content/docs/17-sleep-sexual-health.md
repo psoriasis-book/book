@@ -33,7 +33,7 @@ Now, OSA isn't the only sleep problem. Psoriasis patients also show elevated rat
 
 ## 17.2 Fatigue
 
-Fatigue is one of the most common yet least addressed symptoms in psoriasis. Surveys consistently find that 50-70% of psoriasis patients report clinically significant fatigue, and they rate it among their most burdensome symptoms [(Skoie et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28182255/). This isn't ordinary tiredness. Patients describe a pervasive, disproportionate exhaustion that isn't relieved by rest.
+Fatigue is one of the most common yet least addressed symptoms in psoriasis. Surveys consistently find that approximately 50% of psoriasis patients report clinically significant fatigue, and they rate it among their most burdensome symptoms [(Skoie et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28182255/). This isn't ordinary tiredness. Patients describe a pervasive, disproportionate exhaustion that isn't relieved by rest.
 
 The causes are multifactorial and overlapping:
 
