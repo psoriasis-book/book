@@ -470,3 +470,5 @@ sidebar:
 232. *(duplicate of ref 149, removed)*
 
 233. Popa LG, Giurcaneanu C, Portelli MG, et al. Perspectives on psoriasiform adverse events from immune checkpoint inhibitors: lessons learned from our practice. *Medicina (Kaunas)*. 2024;60(3):373. doi:10.3390/medicina60030373. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10972058/)
+
+234. Reich K, Sullivan J, Arenberger P, et al. Secukinumab shows high and sustained efficacy in nail psoriasis: 2.5-year results from the randomized placebo-controlled TRANSFIGURE study. *Br J Dermatol*. 2021;184(3):425-436. doi:10.1111/bjd.19262. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32479641/)
