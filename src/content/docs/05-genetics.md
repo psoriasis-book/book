@@ -17,7 +17,7 @@ The strongest genetic risk factor for psoriasis is the **HLA-C*06:02** allele (a
 
 Carrying one copy of HLA-C*06:02 increases psoriasis risk by approximately 206%, and the allele accounts for the single largest genetic effect in the disease [(Chen et al., 2011)](https://doi.org/10.1371/journal.pone.0019454). That said, HLA-C*06:02 only explains approximately 6.7% of the total genetic heritability of psoriasis, indicating that many other genes contribute to disease risk [(Chen et al., 2011)](https://doi.org/10.1371/journal.pone.0019454).
 
-The PSORS1 locus has the largest effect size and accounts for 35–50% of disease heritability explained by known loci [(Dand et al., 2020)](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-3384). HLA-C*06:02 is strongly associated with Type 1 (early-onset) psoriasis and is validated as the primary susceptibility allele in both European and East Asian populations, though it has a very low allele frequency in Japanese populations, where other HLA alleles such as HLA-A*02:07 predominate [(Li et al., 2019)](https://academic.oup.com/pcm/article/2/2/120/5522496).
+The PSORS1 locus has the largest effect size and accounts for 35–50% of disease heritability explained by known loci [(Dand et al., 2020)](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-3384). HLA-C*06:02 is strongly associated with Type 1 (early-onset) psoriasis and is validated as the primary susceptibility allele in both European and East Asian populations, though it has a very low allele frequency in some East Asian populations, where other HLA alleles such as HLA-A*02:07 predominate [(Li et al., 2019)](https://academic.oup.com/pcm/article/2/2/120/5522496).
 
 ## 5.3 Beyond PSORS1: The Broader Genetic Landscape
 
