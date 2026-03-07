@@ -151,7 +151,7 @@ sidebar:
 
 73. National Institute for Health and Care Excellence. Psoriasis: assessment and management (CG153). Updated September 2017. [NICE](https://www.nice.org.uk/guidance/cg153)
 
-74. Meeuwis KAP, de Hullu JA, van de Nieuwenhof HP, Evers AWM, Massuger LFAG, van de Kerkhof PCM, van Rossum MM. Quality of life and sexual health in patients with genital psoriasis. *Br J Dermatol*. 2011;164(6):1247-1255. doi:10.1111/j.1365-2133.2011.10249.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21569104/)
+74. Meeuwis KAP, de Hullu JA, van de Nieuwenhof HP, Evers AWM, Massuger LFAG, van de Kerkhof PCM, van Rossum MM. Quality of life and sexual health in patients with genital psoriasis. *Br J Dermatol*. 2011;164(6):1247-1255. doi:10.1111/j.1365-2133.2011.10249.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21332459/)
 
 75. Mahil SK, Dand N, Mason KJ, et al.; PsoProtect study group. Factors associated with adverse COVID-19 outcomes in patients with psoriasis — insights from a global registry-based study. *J Allergy Clin Immunol*. 2021;147(1):60-71. doi:10.1016/j.jaci.2020.10.007. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33075408/)
 
