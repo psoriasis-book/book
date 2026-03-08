@@ -13,7 +13,7 @@ Psoriasis develops when environmental factors interact with genetic susceptibili
 
 ## 8.2 Obesity
 
-Obesity is both a risk factor for developing psoriasis and a factor that worsens existing disease. Adipose tissue (body fat) is metabolically active and produces pro-inflammatory cytokines called adipokines, including TNF-a and IL-6, which contribute to systemic inflammation. Obesity also reduces the efficacy of many psoriasis treatments, and weight loss improves disease severity and treatment response [(Sai Chakith et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12047224/).
+Obesity is both a risk factor for developing psoriasis and a factor that worsens existing disease. Adipose tissue (body fat) is metabolically active and produces pro-inflammatory cytokines called adipokines, including TNF-alpha and IL-6, which contribute to systemic inflammation. Obesity also reduces the efficacy of many psoriasis treatments, and weight loss improves disease severity and treatment response [(Al-Kufi et al., 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12047224/).
 
 ## 8.3 Psychological Stress
 
@@ -21,11 +21,11 @@ Stress is one of the most commonly cited triggers for psoriasis flares, reported
 
 ## 8.4 Smoking
 
-Smoking is an independent risk factor for psoriasis onset and severity. Tobacco smoke causes oxidative stress and free radical production, interfering with signalling pathways relevant to psoriasis including NF-kB, MAPK, and JAK-STAT [(Naldi, 2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5683129/). Smokers with psoriasis also show reduced treatment response. One study found that patients with longer smoking duration and higher smoking intensity had lower rates of achieving PASI 75 after eight weeks of treatment [(Qiang et al., 2024)](https://www.tobaccoinduceddiseases.org/Tobacco-smoking-negatively-influences-the-achievement-of-greater-than-three-quarters,184143,0,2.html). Smoking also alters the gut microbiota in ways that may promote psoriatic inflammation [(Laguardia et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11110215/).
+Smoking is an independent risk factor for psoriasis onset and severity. Tobacco smoke causes oxidative stress and free radical production, interfering with signalling pathways relevant to psoriasis including NF-kB, MAPK, and JAK-STAT [(Naldi, 2016)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5683129/). Smokers with psoriasis also show reduced treatment response. One study found that patients with longer smoking duration and higher smoking intensity had lower rates of achieving PASI 75 after eight weeks of treatment [(Zhou et al., 2024)](https://www.tobaccoinduceddiseases.org/Tobacco-smoking-negatively-influences-the-achievement-of-greater-than-three-quarters,184143,0,2.html). Smoking also alters the gut microbiota in ways that may promote psoriatic inflammation [(Luca et al., 2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11110215/).
 
 ## 8.5 Alcohol
 
-Excessive alcohol consumption increases the expression of TNF-a-converting enzyme (TACE) and plasma levels of TNF-a receptor, upregulates genes promoting lymphocyte and keratinocyte proliferation, and may facilitate skin infections that act as psoriasis triggers. Alcohol misuse is common among people with psoriasis and worsens therapeutic compliance [(Musumeci et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/).
+Excessive alcohol consumption increases the expression of TNF-alpha-converting enzyme (TACE) and plasma levels of TNF-alpha receptor, upregulates genes promoting lymphocyte and keratinocyte proliferation, and may facilitate skin infections that act as psoriasis triggers. Alcohol misuse is common among people with psoriasis and worsens therapeutic compliance [(Musumeci et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9541512/).
 
 ## 8.6 Medications
 
@@ -55,7 +55,7 @@ Cold, dry climates tend to worsen psoriasis, while moderate sunlight exposure (p
 
 ## 8.11 Air Pollution
 
-Ambient air pollution is an increasingly recognised environmental trigger for psoriasis. A 2024 meta-analysis found significant short-term associations between air pollution and psoriasis flares: an excess risk of **3.0% per 10 µg/m³ increase in NO2**, 1.2% for PM10, and 0.2% for PM2.5 [(Yang et al., 2024)](https://aaqr.org/articles/aaqr-24-02-oa-0062). A separate UK Biobank prospective cohort study of 474,055 participants confirmed long-term associations, with hazard ratios of 1.41 for PM2.5, 1.47 for PM10, and 1.28 for NO2 [(Wu et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39012635/). Effects were more pronounced in cold seasons and in females.
+Ambient air pollution is an increasingly recognised environmental trigger for psoriasis. A 2024 meta-analysis found significant short-term associations between air pollution and psoriasis flares: an excess risk of **3.0% per 10 µg/m³ increase in NO2**, 1.2% for PM10, and 0.2% for PM2.5 [(Yang et al., 2024)](https://aaqr.org/articles/aaqr-24-02-oa-0062). A separate UK Biobank prospective cohort study of 474,055 participants confirmed long-term associations, with hazard ratios of 1.41 for PM2.5, 1.47 for PM10, and 1.28 for NO2 [(Chen et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/39012635/). Effects were more pronounced in cold seasons and in females.
 
 How does air pollution actually get from your lungs (or skin) to your immune system? Several pathways:
 

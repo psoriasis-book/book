@@ -57,7 +57,7 @@ Before initiating immunosuppressive or biologic treatment, clinicians typically 
 
 ### 12.4.2 Tuberculosis (TB) Screening
 
-Because biologic therapies, particularly TNF-a inhibitors, can reactivate latent tuberculosis, TB screening is mandatory before starting any biologic. Two tests are used:
+Because biologic therapies, particularly TNF-alpha inhibitors, can reactivate latent tuberculosis, TB screening is mandatory before starting any biologic. Two tests are used:
 
 - **Mantoux tuberculin skin test (TST)**: A small amount of tuberculin protein is injected under the forearm skin. After 48-72 hours, the injection site is examined. A raised, firm swelling above a threshold size (typically 5mm or more in immunosuppressed patients) indicates prior TB exposure.
 - **Interferon-gamma release assay (IGRA)**: A blood test (e.g. QuantiFERON-TB Gold) that measures immune cell response to TB-specific antigens. More specific than the Mantoux test and doesn't require a follow-up visit.
@@ -70,7 +70,7 @@ These aren't diagnostic, but several inflammatory blood markers are typically el
 
 - **C-reactive protein (CRP)**: An acute-phase protein produced by the liver in response to inflammation. Elevated in moderate-to-severe psoriasis and useful for monitoring systemic inflammation.
 - **Erythrocyte sedimentation rate (ESR)**: Another non-specific marker of inflammation, often elevated in psoriatic arthritis.
-- **IL-6, TNF-a, E-selectin, ICAM-1**: Research shows these are elevated in psoriasis patients compared to controls, but the overlap between healthy and affected individuals is too large for diagnostic use. These remain research tools rather than clinical diagnostics.
+- **IL-6, TNF-alpha, E-selectin, ICAM-1**: Research shows these are elevated in psoriasis patients compared to controls, but the overlap between healthy and affected individuals is too large for diagnostic use. These remain research tools rather than clinical diagnostics.
 
 ### 12.4.4 Metabolic and Cardiovascular Screening
 
@@ -135,13 +135,13 @@ Dermoscopy is particularly valuable for nail psoriasis, where it can detect pitt
 
 This isn't yet routine clinical practice, but genetic testing for the **HLA-C*06:02 allele** is the most studied pharmacogenomic biomarker in psoriasis and predicts differential response to biologic therapies. The largest study to date (1,326 patients, from the British PSORT Consortium) found that [(Dand et al., 2019)](https://www.jacionline.org/article/S0091-6749(18)32780-5/fulltext):
 
-- **HLA-C*06:02-negative patients** were significantly more likely to respond to adalimumab (anti-TNF-a) than to ustekinumab (anti-IL-12/23), with an odds ratio of 2.95 at 6 months.
+- **HLA-C*06:02-negative patients** were significantly more likely to respond to adalimumab (anti-TNF-alpha) than to ustekinumab (anti-IL-12/23), with an odds ratio of 2.95 at 6 months.
 - **HLA-C*06:02-positive patients** showed no significant difference in response between the two drugs.
 - Among biologic-naive, PsA-negative patients, being HLA-C*06:02-positive was associated with significantly poorer response to adalimumab at 12 months.
 
 The clinical implication: knowing a patient's HLA-C*06:02 status could help guide the choice between anti-TNF and anti-IL-12/23 therapies, potentially avoiding months of trial-and-error. Current clinical guidelines don't yet recommend routine HLA-C*06:02 testing because the evidence, while suggestive, requires further validation in prospective trials, and because the newest IL-23 and IL-17 inhibitors (which are increasingly used as first-line biologics) haven't been as extensively studied for this genetic association [(Ran et al., 2019)](https://academic.oup.com/pcm/article/2/2/120/5522496).
 
-Other pharmacogenomic markers under investigation include polymorphisms in TNF-a, TNFAIP3, IL-17F, IL-23R, and ERAP1 genes, as well as genome-wide approaches to predict methotrexate response, but none are ready for clinical implementation.
+Other pharmacogenomic markers under investigation include polymorphisms in TNF-alpha, TNFAIP3, IL-17F, IL-23R, and ERAP1 genes, as well as genome-wide approaches to predict methotrexate response, but none are ready for clinical implementation.
 
 ## 12.8 Investigations to Rule Out Triggers
 

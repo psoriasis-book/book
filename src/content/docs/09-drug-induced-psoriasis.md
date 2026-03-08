@@ -17,7 +17,7 @@ The following medications have well-established associations with psoriasis onse
 
 **Antimalarials** (chloroquine, hydroxychloroquine) can exacerbate psoriasis, though the exact frequency is not well established. The mechanism is thought to involve inhibition of transglutaminase activity, which is essential for normal epidermal differentiation, and disruption of intracellular antigen processing [(Balak & Hajdarbegovic, 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774610/). This matters because hydroxychloroquine is widely prescribed for rheumatologic conditions that may co-exist with psoriasis.
 
-**Interferons** (IFN-a, IFN-b) directly activate the psoriatic cascade by stimulating plasmacytoid dendritic cells and promoting Th1/Th17 differentiation, essentially amplifying the same initiation pathway described in Section 6.2 [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract).
+**Interferons** (IFN-alpha, IFN-beta) directly activate the psoriatic cascade by stimulating plasmacytoid dendritic cells and promoting Th1/Th17 differentiation, essentially amplifying the same initiation pathway described in Section 6.2 [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract).
 
 **Terbinafine**, an antifungal agent, has been associated with new-onset and exacerbated psoriasis, including generalised pustular forms. The mechanism is poorly understood but may involve modulation of cytokine profiles.
 
@@ -35,11 +35,11 @@ Management requires careful balancing of dermatological and oncological needs. M
 
 ## 9.3 Biologic Paradoxical Reactions
 
-One of the more counterintuitive phenomena in dermatology is **paradoxical psoriasis**: the development of new psoriatic lesions, or a morphological switch (e.g., plaque to pustular), in patients receiving biologic therapy for psoriasis or other inflammatory conditions. This occurs most frequently with TNF-a inhibitors (infliximab, adalimumab, etanercept) at rates of approximately 2-5%, but has also been reported with vedolizumab (anti-integrin, used for IBD) and rituximab (anti-CD20, used for lymphoma and rheumatoid arthritis) [(Balak & Hajdarbegovic, 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774610/).
+One of the more counterintuitive phenomena in dermatology is **paradoxical psoriasis**: the development of new psoriatic lesions, or a morphological switch (e.g., plaque to pustular), in patients receiving biologic therapy for psoriasis or other inflammatory conditions. This occurs most frequently with TNF-alpha inhibitors (infliximab, adalimumab, etanercept) at rates of approximately 2-5%, but has also been reported with vedolizumab (anti-integrin, used for IBD) and rituximab (anti-CD20, used for lymphoma and rheumatoid arthritis) [(Balak & Hajdarbegovic, 2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5774610/).
 
-The proposed mechanism involves a cytokine imbalance: TNF-a blockade upregulates IFN-a production by plasmacytoid dendritic cells (the same type I interferon pathway implicated in psoriasis initiation, Section 6.2), which can paradoxically trigger a psoriatic cascade in genetically predisposed individuals.
+The proposed mechanism involves a cytokine imbalance: TNF-alpha blockade upregulates IFN-alpha production by plasmacytoid dendritic cells (the same type I interferon pathway implicated in psoriasis initiation, Section 6.2), which can paradoxically trigger a psoriatic cascade in genetically predisposed individuals.
 
-Management typically involves switching to a biologic with a different mechanism of action, for example, from a TNF-a inhibitor to an IL-17 or IL-23 inhibitor. In mild cases, topical therapy may be sufficient without discontinuing the offending biologic.
+Management typically involves switching to a biologic with a different mechanism of action, for example, from a TNF-alpha inhibitor to an IL-17 or IL-23 inhibitor. In mild cases, topical therapy may be sufficient without discontinuing the offending biologic.
 
 **Research stage: Established.** **Evidence strength: Moderate.** Registry data (BADBIR, PSOLAR), systematic reviews, and case series.
 
@@ -53,7 +53,7 @@ Several additional medication classes have been associated with psoriasis exacer
 - **NSAIDs (particularly indomethacin)**: May disrupt the balance between pro-inflammatory and anti-inflammatory prostaglandins.
 - **VEGF/tyrosine kinase inhibitors** (sorafenib, sunitinib): Used in oncology; may trigger psoriasis through paradoxical immune activation.
 - **Antibiotics** (tetracyclines, penicillins): Sporadic reports, mechanism unclear; may relate to microbiome disruption.
-- **Imiquimod**: A TLR7 agonist used for actinic keratoses and basal cell carcinoma; directly activates the same innate immune pathway (TLR7 to IFN-a) that initiates psoriasis (Section 6.2).
+- **Imiquimod**: A TLR7 agonist used for actinic keratoses and basal cell carcinoma; directly activates the same innate immune pathway (TLR7 to IFN-alpha) that initiates psoriasis (Section 6.2).
 
 **Research stage: Established.** **Evidence strength: Low-Moderate.** Primarily case reports and small case series; mechanisms plausible but not definitively proven.
 

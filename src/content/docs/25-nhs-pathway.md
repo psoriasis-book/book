@@ -48,7 +48,7 @@ Once eligible, the choice of biologic follows both clinical and cost-effectivene
 
 ## 25.5 Ongoing Monitoring
 
-All patients on biologic therapy are enrolled in BADBIR (British Association of Dermatologists Biologics and Immunomodulators Register), a national prospective registry that tracks long-term safety outcomes [(Burden et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/22356636/). You'll typically be reviewed every 3 months in the first year and every 6 months thereafter if stable, with blood monitoring as required by the specific drug.
+Many patients receiving biologic therapy in UK specialist services are captured in BADBIR (British Association of Dermatologists Biologics and Immunomodulators Register), a national prospective registry that tracks long-term safety outcomes [(Burden et al., 2012)](https://pubmed.ncbi.nlm.nih.gov/22356636/). Follow-up frequency varies by service and therapy, but patients are commonly reviewed every 3 months in the first year and every 6 months thereafter if stable, with blood monitoring as required by the specific drug.
 
 ## 25.6 Devolved Nations: Scotland, Wales, and Northern Ireland
 

@@ -111,7 +111,7 @@ sidebar:
 
 53. Holubar K. Psoriasis and parapsoriasis: since 200 and 100 years, respectively. *J Eur Acad Dermatol Venereol*. 2003;17(2):126-127. doi:10.1046/j.1468-3083.2003.00622.x. [JEADV](https://doi.org/10.1046/j.1468-3083.2003.00622.x)
 
-54. Willan R. *On Cutaneous Diseases*. Vol. 1. London: J. Johnson; 1808. [Internet Archive](https://archive.org/details/2577014R.nlm.nih.gov)
+54. Willan R. *On Cutaneous Diseases*. Vol. 1. London: J. Johnson; 1808. [Internet Archive](https://archive.org/details/cutaneusdisease00will)
 
 55. Auspitz H. Ueber das Verhaltniss der Oberhaut zur Papillarschicht. *Archiv fur Dermatologie und Syphilis*. 1870;2:24-58. doi:10.1007/BF01822714. [Springer](https://doi.org/10.1007/BF01822714)
 
@@ -459,18 +459,168 @@ sidebar:
 
 227. Reich K, Sullivan J, Arenberger P, et al. Effect of secukinumab on the clinical activity and disease burden of nail psoriasis: 32-week results from the randomized placebo-controlled TRANSFIGURE trial. *Br J Dermatol*. 2019;181(5):954-966. doi:10.1111/bjd.17351. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30367462/)
 
-228. *(duplicate of ref 108, removed)*
+228. Warren RB, Smith CH, Yiu ZZN, et al. Differential drug survival of biologic therapies for the treatment of psoriasis: a prospective observational cohort study from the British Association of Dermatologists Biologic Interventions Register (BADBIR). *J Invest Dermatol*. 2015;135(11):2632-2640. doi:10.1038/jid.2015.208. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26053050/)
 
-229. Warren RB, Smith CH, Yiu ZZN, et al. Differential drug survival of biologic therapies for the treatment of psoriasis: a prospective observational cohort study from the British Association of Dermatologists Biologic Interventions Register (BADBIR). *J Invest Dermatol*. 2015;135(11):2632-2640. doi:10.1038/jid.2015.208. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26053050/)
+229. Yiu ZZN, Mason KJ, Hampton PJ, et al. Drug survival of adalimumab, ustekinumab and secukinumab in patients with psoriasis: a prospective cohort study from the British Association of Dermatologists Biologics and Immunomodulators Register (BADBIR). *Br J Dermatol*. 2020;183(2):294-302. doi:10.1111/bjd.18981. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32124442/)
 
-230. Yiu ZZN, Mason KJ, Hampton PJ, et al. Drug survival of adalimumab, ustekinumab and secukinumab in patients with psoriasis: a prospective cohort study from the British Association of Dermatologists Biologics and Immunomodulators Register (BADBIR). *Br J Dermatol*. 2020;183(2):294-302. doi:10.1111/bjd.18981. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32124442/)
+230. Menter A, Papp KA, Gooderham M, et al. Drug survival of biologic therapy in a large, disease-based registry of patients with psoriasis: results from the Psoriasis Longitudinal Assessment and Registry (PSOLAR). *J Eur Acad Dermatol Venereol*. 2016;30(7):1148-1158. doi:10.1111/jdv.13611. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27027388/)
 
-231. Menter A, Papp KA, Gooderham M, et al. Drug survival of biologic therapy in a large, disease-based registry of patients with psoriasis: results from the Psoriasis Longitudinal Assessment and Registry (PSOLAR). *J Eur Acad Dermatol Venereol*. 2016;30(7):1148-1158. doi:10.1111/jdv.13611. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27027388/)
+231. Popa LG, Giurcaneanu C, Portelli MG, et al. Perspectives on psoriasiform adverse events from immune checkpoint inhibitors: lessons learned from our practice. *Medicina (Kaunas)*. 2024;60(3):373. doi:10.3390/medicina60030373. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10972058/)
 
-232. *(duplicate of ref 149, removed)*
+232. Reich K, Sullivan J, Arenberger P, et al. Secukinumab shows high and sustained efficacy in nail psoriasis: 2.5-year results from the randomized placebo-controlled TRANSFIGURE study. *Br J Dermatol*. 2021;184(3):425-436. doi:10.1111/bjd.19262. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32479641/)
 
-233. Popa LG, Giurcaneanu C, Portelli MG, et al. Perspectives on psoriasiform adverse events from immune checkpoint inhibitors: lessons learned from our practice. *Medicina (Kaunas)*. 2024;60(3):373. doi:10.3390/medicina60030373. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10972058/)
+233. Wu M, Fischer G. Adult genital psoriasis: An updated review for clinicians. *Australas J Dermatol*. 2024;65(3):e1-e12. doi:10.1111/ajd.14227. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38419192/)
 
-234. Reich K, Sullivan J, Arenberger P, et al. Secukinumab shows high and sustained efficacy in nail psoriasis: 2.5-year results from the randomized placebo-controlled TRANSFIGURE study. *Br J Dermatol*. 2021;184(3):425-436. doi:10.1111/bjd.19262. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32479641/)
+234. Atalay et al.. Source cited in text. 2020. [Link](https://pubmed.ncbi.nlm.nih.gov/32049319)
 
-235. Wu M, Fischer G. Adult genital psoriasis: An updated review for clinicians. *Australas J Dermatol*. 2024;65(3):e1-e12. doi:10.1111/ajd.14227. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38419192/)
+235. Michielsens et al.. Source cited in text. 2021. [Link](https://pubmed.ncbi.nlm.nih.gov/33453052)
+
+236. Gordon et al.. Source cited in text. 2018. [Link](https://pubmed.ncbi.nlm.nih.gov/30097359)
+
+237. Murase et al.. Source cited in text. 2005. [Link](https://pubmed.ncbi.nlm.nih.gov/15897382)
+
+238. Burden-Teh et al.. Source cited in text. 2016. [Link](https://pubmed.ncbi.nlm.nih.gov/26928555)
+
+239. Jung et al.. Source cited in text. 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/35347761)
+
+240. Cho et al.. Source cited in text. 2021. [Link](https://pubmed.ncbi.nlm.nih.gov/34079179)
+
+241. Brunello et al.. Source cited in text. 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/35722498)
+
+242. Armstrong et al.. Source cited in text. 2021. [Link](https://doi.org/10.1001/jamadermatol.2021.2007)
+
+243. Takeshita et al.. Source cited in text. 2015. [Link](https://doi.org/10.1038/jid.2015.296)
+
+244. Takeshita et al.. Source cited in text. 2022. [Link](https://doi.org/10.1016/j.jid.2022.02.013)
+
+245. Morar et al.. Source cited in text. 2010. [Link](https://pubmed.ncbi.nlm.nih.gov/20610329)
+
+246. Xu et al.. Source cited in text. 2023. [Link](https://pubmed.ncbi.nlm.nih.gov/36897246)
+
+247. Smith et al.. Source cited in text. 2020. [Link](https://pubmed.ncbi.nlm.nih.gov/32189327)
+
+248. Smith et al.. Source cited in text. 2024. [Link](https://pubmed.ncbi.nlm.nih.gov/37740557)
+
+249. Burden et al.. Source cited in text. 2012. [Link](https://pubmed.ncbi.nlm.nih.gov/22356636)
+
+250. Liang et al.. Source cited in text. 2017. [Link](https://doi.org/10.1016/j.coi.2017.07.007)
+
+251. Springate et al.. Source cited in text. 2017. [Link](https://pubmed.ncbi.nlm.nih.gov/27579733)
+
+252. Dand et al.. Source cited in text. 2020. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9128944)
+
+253. Polat & Erbek. Source cited in text. 2023. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10447668)
+
+254. Ungprasert et al.. Source cited in text. 2014. [Link](https://pubmed.ncbi.nlm.nih.gov/24713224)
+
+255. Kar et al.. Source cited in text. 2024. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305507)
+
+256. Chat et al.. Source cited in text. 2024. [Link](https://pubmed.ncbi.nlm.nih.gov/38331098)
+
+257. Bass et al.. Source cited in text. 2023. [Link](https://pubmed.ncbi.nlm.nih.gov/36597813)
+
+258. Arsenjeva et al.. Source cited in text. 2025. [Link](https://www.jmir.org/2025/1/e73664)
+
+259. Yang et al.. Source cited in text. 2021. [Link](https://pubmed.ncbi.nlm.nih.gov/34688173)
+
+260. Skoie et al.. Source cited in text. 2017. [Link](https://pubmed.ncbi.nlm.nih.gov/28182255)
+
+261. Skoie et al.. Source cited in text. 2019. [Link](https://pubmed.ncbi.nlm.nih.gov/30941636)
+
+262. Sikora et al.. Source cited in text. 2020. [Link](https://pubmed.ncbi.nlm.nih.gov/32545459)
+
+263. Heim et al.. Source cited in text. 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/36054319)
+
+264. Danby et al.. Source cited in text. 2011. [Link](https://pubmed.ncbi.nlm.nih.gov/21564067)
+
+265. Jacobi et al.. Source cited in text. 2015. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4374065)
+
+266. Hall et al.. Source cited in text. 2012. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3437281)
+
+267. Gananandan et al.. Source cited in text. 2020. [Link](https://pubmed.ncbi.nlm.nih.gov/32784237)
+
+268. Wu et al.. Source cited in text. 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/36048409)
+
+269. Ceovic et al.. Source cited in text. 2013. [Link](https://pubmed.ncbi.nlm.nih.gov/24459670)
+
+270. Yang et al.. Source cited in text. 2024. [Link](https://aaqr.org/articles/aaqr-24-02-oa-0062)
+
+271. Zieneldien et al.. Source cited in text. 2025. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12732634)
+
+272. Song et al.. Source cited in text. 2025. [Link](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1641225/full)
+
+273. Parrish et al.. Source cited in text. 1974. [Link](https://pubmed.ncbi.nlm.nih.gov/4422691)
+
+274. Egeberg et al.. Source cited in text. 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/36121210)
+
+275. Wasel et al.. Source cited in text. 2020. [Link](https://pubmed.ncbi.nlm.nih.gov/32415575)
+
+276. Merola et al.. Source cited in text. 2025. [Link](https://pubmed.ncbi.nlm.nih.gov/40886218)
+
+277. Kaur et al.. Source cited in text. 2025. [Link](https://pubmed.ncbi.nlm.nih.gov/40401874)
+
+278. Ceravalls et al.. Source cited in text. 2025. [Link](https://pubmed.ncbi.nlm.nih.gov/39269142)
+
+279. Stein Gold et al.. Source cited in text. 2025. [Link](https://pubmed.ncbi.nlm.nih.gov/40232594)
+
+280. Ljosaa et al.. Source cited in text. 2010. [Link](https://pubmed.ncbi.nlm.nih.gov/20107724)
+
+281. Harari et al.. Source cited in text. 2007. [Link](https://pubmed.ncbi.nlm.nih.gov/17910722)
+
+282. Léauté-Labrèze et al.. Source cited in text. 2001. [Link](https://pubmed.ncbi.nlm.nih.gov/11493096)
+
+283. Lowes et al.. Source cited in text. 2014. [Link](https://pubmed.ncbi.nlm.nih.gov/24655295)
+
+284. Olbrich et al.. Source cited in text. 2026. [Link](https://pubmed.ncbi.nlm.nih.gov/40897378)
+
+285. Mehdi et al.. Source cited in text. 2023. [Link](https://pubmed.ncbi.nlm.nih.gov/37266425)
+
+286. Phan et al.. Source cited in text. 2018. [Link](https://doi.org/10.1001/jamadermatol.2018.2127)
+
+287. Choonhakarn et al.. Source cited in text. 2010. [Link](https://doi.org/10.1111/j.1468-3083.2009.03377.x)
+
+288. Kabat-Zinn et al.. Source cited in text. 1998. [Link](https://pubmed.ncbi.nlm.nih.gov/9773769)
+
+289. Bartholomew et al.. Source cited in text. 2022. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9515248)
+
+290. FDA. Source cited in text. 2023. [Link](https://www.drugs.com/history/wezlana.html)
+
+291. Ytterberg et al.. Source cited in text. 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/35081280)
+
+292. Mrowietz et al.. Source cited in text. 2018. [Link](https://pubmed.ncbi.nlm.nih.gov/30238510)
+
+293. Sun et al.. Source cited in text. 2024. [Link](https://pubmed.ncbi.nlm.nih.gov/38499168)
+
+294. Warren et al.. Source cited in text. 2015. [Link](https://doi.org/10.1038/jid.2015.208)
+
+295. Yiu et al.. Source cited in text. 2020. [Link](https://doi.org/10.1111/bjd.18981)
+
+296. Menter et al.. Source cited in text. 2016. [Link](https://doi.org/10.1111/jdv.13611)
+
+297. Coates et al.. Source cited in text. 2022. [Link](https://doi.org/10.1038/s41584-022-00798-0)
+
+298. Fleming et al.. Source cited in text. 2017. [Link](https://pubmed.ncbi.nlm.nih.gov/27620704)
+
+299. Lebwohl et al.. Source cited in text. 2021. [Link](https://pubmed.ncbi.nlm.nih.gov/33337520)
+
+300. Natarelli et al.. Source cited in text. 2023. [Link](https://doi.org/10.3390/ijms24032695)
+
+301. Cantini et al.. Source cited in text. 2014. [Link](https://pubmed.ncbi.nlm.nih.gov/25114684)
+
+302. Zhang et al.. Source cited in text. 2022. [Link](https://pubmed.ncbi.nlm.nih.gov/32852860)
+
+303. Rachakonda et al.. Source cited in text. 2015. [Link](https://pubmed.ncbi.nlm.nih.gov/25455609)
+
+304. Morita et al.. Source cited in text. 2023. [Link](https://pubmed.ncbi.nlm.nih.gov/37738999)
+
+305. Kim GK, Del Rosso JQ. Source cited in text. 2010. [Link](https://pubmed.ncbi.nlm.nih.gov/20725536)
+
+306. Su & Zeng. Source cited in text. 2023. [Link](https://pubmed.ncbi.nlm.nih.gov/37100035)
+
+307. Bożek A, Reich A. Source cited in text. 2017. [Link](https://pubmed.ncbi.nlm.nih.gov/29068583)
+
+308. Halprin. Source cited in text. 1972. [Link](https://pubmed.ncbi.nlm.nih.gov/4551262)
+
+309. Ibrahim et al.. Source cited in text. 2009. [Link](https://pubmed.ncbi.nlm.nih.gov/19604440)
+
+310. Coates et al.. Source cited in text. 2015. [Link](https://pubmed.ncbi.nlm.nih.gov/26433318)

@@ -57,7 +57,7 @@ The relationship between psoriasis and cancer has been investigated through mult
 
 ## 14.9 Chronic Kidney Disease
 
-Patients with severe psoriasis have a significantly increased risk of developing **chronic kidney disease (CKD)** and progressing to **end-stage renal disease (ESRD)**, with a pooled hazard ratio of approximately 1.65 for CKD (95% CI 1.29-2.12) after adjustment for confounders including diabetes, hypertension, and obesity [(Xu et al., 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full).
+Patients with severe psoriasis have a significantly increased risk of developing **chronic kidney disease (CKD)** and progressing to **end-stage renal disease (ESRD)**, with a pooled hazard ratio of approximately 1.65 for CKD (95% CI 1.29-2.12) after adjustment for confounders including diabetes, hypertension, and obesity [(Wan et al., 2023)](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1175477/full).
 
 The mechanisms linking psoriasis to kidney disease are multifactorial:
 
@@ -103,7 +103,7 @@ The clinical takeaway: unexplained hearing difficulty or tinnitus in psoriasis p
 
 ## 14.12 Periodontal Disease
 
-Meta-analyses demonstrate significant associations between periodontitis and psoriasis, with shared risk factors (smoking, diabetes, stress, obesity) and overlapping inflammatory pathways (TNF-α, IL-17, NF-κB) [(Nijakowski et al., 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9516998/).
+Meta-analyses demonstrate significant associations between periodontitis and psoriasis, with shared risk factors (smoking, diabetes, stress, obesity) and overlapping inflammatory pathways (TNF-α, IL-17, NF-κB) [(Keller & Lin, 2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9516998/).
 
 Key evidence includes:
 - Psoriasis patients have significantly higher rates of periodontal disease, deeper probing depths, and greater clinical attachment loss compared with matched controls.
@@ -116,7 +116,7 @@ Clinicians managing psoriasis should ask about dental health and encourage regul
 
 ## 14.13 Osteoporosis and Bone Health
 
-An estimated 3–18% of psoriasis patients develop osteoporosis, and psoriasis patients have higher fracture odds even after adjusting for traditional risk factors. Here's what makes this puzzling: the increased fracture risk persists in studies where bone mineral density (BMD) differences aren't statistically significant, suggesting mechanisms beyond simple bone density reduction [(Wi et al., 2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543251/).
+An estimated 3–18% of psoriasis patients develop osteoporosis, and psoriasis patients have higher fracture odds even after adjusting for traditional risk factors. Here's what makes this puzzling: the increased fracture risk persists in studies where bone mineral density (BMD) differences aren't statistically significant, suggesting mechanisms beyond simple bone density reduction [(Passos et al., 2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9543251/).
 
 Proposed mechanisms include:
 - **Chronic inflammation**: TNF-α and IL-17 promote osteoclast differentiation and bone resorption through the RANKL pathway.
