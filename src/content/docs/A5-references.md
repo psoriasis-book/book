@@ -474,3 +474,39 @@ sidebar:
 234. Reich K, Sullivan J, Arenberger P, et al. Secukinumab shows high and sustained efficacy in nail psoriasis: 2.5-year results from the randomized placebo-controlled TRANSFIGURE study. *Br J Dermatol*. 2021;184(3):425-436. doi:10.1111/bjd.19262. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32479641/)
 
 235. Wu M, Fischer G. Adult genital psoriasis: An updated review for clinicians. *Australas J Dermatol*. 2024;65(3):e1-e12. doi:10.1111/ajd.14227. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38419192/)
+
+236. Abuabara K, Azfar RS, Shin DB, Neimann AL, Troxel AB, Gelfand JM. Cause-specific mortality in patients with severe psoriasis: a population-based cohort study in the U.K. *Br J Dermatol*. 2010;163(3):586-592. doi:10.1111/j.1365-2133.2010.09941.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20633008/)
+
+237. World Health Organization. *Global report on psoriasis*. Geneva: WHO; 2016. [WHO](https://iris.who.int/handle/10665/204417)
+
+238. Charrow A, Xia FD, Joyce C, Mostaghimi A. Diversity in dermatology clinical trials: a systematic review. *JAMA Dermatol*. 2017;153(2):193-198. doi:10.1001/jamadermatol.2016.4129. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27473449/)
+
+239. Swanbeck G, Inerot A, Martinsson T, et al. A population-based study of the genetics of psoriasis. *Br J Dermatol*. 1994;131(1):32-39. doi:10.1111/j.1365-2133.1994.tb08454.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7918006/)
+
+240. Bobotsis R, Gulliver WP, Engasser H, Guenther L, Gulliver WP. Psoriasis and adverse pregnancy outcomes: a systematic review of observational studies. *Br J Dermatol*. 2016;174(2):292-299. doi:10.1111/bjd.14241. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26395439/)
+
+241. Thorneloe RJ, Bundy C, Griffiths CEM, Ashcroft DM, Cordingley L. Adherence to medication in patients with psoriasis: a systematic literature review. *Br J Dermatol*. 2013;168(1):20-31. doi:10.1111/bjd.12039. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23521149/)
+
+242. Ahn CS, Culp L, Engasser HCS, Kimball AB, Feldman SR. Adherence in dermatology. *J Dermatolog Treat*. 2017;28(2):94-103. doi:10.1080/09546634.2016.1181256. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27742171/)
+
+243. Bewley A, Page B. Maximizing patient adherence for optimal outcomes in psoriasis. *J Eur Acad Dermatol Venereol*. 2011;25(Suppl 4):9-14. doi:10.1111/j.1468-3083.2011.04060.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21951065/)
+
+244. Lebwohl M, Strober B, Menter A, et al. Phase 3 studies comparing brodalumab with ustekinumab in psoriasis. *N Engl J Med*. 2015;373(14):1318-1328. doi:10.1056/NEJMoa1503824. Erythrodermic psoriasis management reviewed in: Lebwohl M, Holliday A, Engasser HCS. Psoriasis: Treatment of erythrodermic psoriasis. In: *UpToDate*. 2022. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35872406/)
+
+245. Mossner R, Frambach Y, Wilsmann-Theis D, et al. Palmoplantar pustular psoriasis is associated with missense variants in CARD14, but not with loss-of-function mutations in IL36RN in European patients. *J Invest Dermatol*. 2015;135(10):2538-2541. doi:10.1038/jid.2015.186. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25264016/)
+
+246. Brunasso AMG, Puntoni M, Aberer W, Delfino C, Fancelli L, Massone C. Clinical and epidemiological comparison of patients affected by palmoplantar plaque psoriasis and palmoplantar pustulosis: a case series study. *Br J Dermatol*. 2013;168(6):1243-1251. doi:10.1111/bjd.12223. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30873643/)
+
+247. Almutawa F, Alnomair N, Wang Y, Hamzavi I, Lim HW. Systematic review of UV-based therapy for psoriasis. *Am J Clin Dermatol*. 2013;14(2):87-109. doi:10.1007/s40257-013-0015-y. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23407340/)
+
+248. Stern RS, Laird N. The carcinogenic risk of treatments for severe psoriasis. *Cancer*. 1994;73(11):2759-2764. doi:10.1002/1097-0142(19940601)73:11<2759::AID-CNCR2820731118>3.0.CO;2-C. [PubMed](https://pubmed.ncbi.nlm.nih.gov/8230017/)
+
+249. Bhutani T, Liao W, Engasser HCS, et al. Home phototherapy for psoriasis. *J Am Acad Dermatol*. 2020;83(3):855-862. doi:10.1016/j.jaad.2020.05.049. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32446985/)
+
+250. Warren RB, Blauvelt A, Engasser HCS, et al. Efficacy and safety of risankizumab vs. secukinumab in patients with moderate-to-severe plaque psoriasis (IMMerge): results from a phase 3, randomized, open-label, efficacy-assessor-blinded clinical trial. *Br J Dermatol*. 2021;184(1):50-59. doi:10.1111/bjd.19341. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33278539/)
+
+251. Papadimitriou JC, Kousvelari A, Baer AN. Biologic therapy for psoriasis in solid organ transplant recipients: a systematic review. *J Am Acad Dermatol*. 2023;89(2):395-397. doi:10.1016/j.jaad.2023.03.027. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36960543/)
+
+252. Eghlileb AM, Davies EEG, Finlay AY. Psoriasis has a major secondary impact on the lives of family members and partners. *Br J Dermatol*. 2007;156(6):1245-1250. doi:10.1111/j.1365-2133.2007.07881.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17908129/)
+
+253. Basra MKA, Sue-Ho R, Finlay AY. The Family Dermatology Life Quality Index: measuring the secondary impact of skin disease. *Br J Dermatol*. 2007;156(3):528-538. doi:10.1111/j.1365-2133.2006.07617.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17725743/)
