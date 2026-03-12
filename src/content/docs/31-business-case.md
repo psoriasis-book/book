@@ -125,7 +125,46 @@ Finally, **patient advocacy partnerships** with organisations like the National 
 
 UCB's story with **bimekizumab** is different. The company invested heavily in a novel dual IL-17A/F inhibitor from first-in-human studies in 2012 through a massive Phase 3 programme (six trials across psoriasis, PsA, and axial spondyloarthritis). Nine years and hundreds of millions of euros later, they had a blockbuster: EUR 2.2 billion in 2025 revenue, growing over 200% year-on-year, with patent protection through 2037. That's the big-bet model. It requires deep pockets and patience, but the payoff can be transformational.
 
-## 31.8 How AI Can Accelerate Psoriasis Research
+## 31.8 What's Regulated and What Isn't
+
+If you've read this far and you're thinking "can I actually do any of this?", the answer is: more than you'd expect. The regulatory landscape for drug development has a reputation for being impenetrable, but the boundaries between what requires authorisation and what doesn't are surprisingly clear.
+
+**Anyone can do these things without regulatory approval:**
+
+- **Computational research.** Bioinformatics, AI/ML modelling, target identification, molecular docking, literature mining. No regulatory body in any jurisdiction regulates what you do on a computer with publicly available data. Open-source datasets like GEO (Gene Expression Omnibus) and the UK Biobank contain thousands of psoriasis-relevant samples. You can build a drug repurposing model on a laptop.
+- **Analysis of existing de-identified data.** Secondary analysis of registry data, electronic health records, or published trial data doesn't require clinical trial authorisation. You'll need a data use agreement and often ethics committee approval (or an exemption determination), but not an IND or equivalent.
+- **Observational studies.** If you're observing what happens in routine clinical practice without assigning an intervention, you don't need clinical trial authorisation in any of the major jurisdictions. Ethics approval, yes. Trial authorisation, no.
+- **Protocol development.** You can write a full clinical trial protocol, statistical analysis plan, and investigator brochure before you've formed a company, let alone filed with a regulator.
+
+**You need trial authorisation (IND, CTA, or equivalent) when you:**
+
+- Assign patients to a specific intervention as part of a research protocol
+- Test an unapproved drug in humans
+- Study an approved drug outside its licensed indications in a formal trial setting
+
+Note the nuance: a physician prescribing an approved drug off-label in clinical practice is not conducting a clinical trial. That's legal everywhere. But if you're systematically collecting data according to a protocol with the intent to generate generalisable knowledge, you've crossed into regulated territory.
+
+**Who can sponsor a clinical trial?** In every major jurisdiction, the answer is: almost anyone. The FDA, EMA, MHRA, HSA (Singapore), and Israeli Ministry of Health all allow individuals, limited companies, academic institutions, and corporations to act as trial sponsors. You don't need to be a pharmaceutical company. In the US, a single physician can serve as both sponsor and investigator under the "sponsor-investigator" designation (21 CFR 312.3). In the EU, you need to be established in the EU or appoint a legal representative there. Same principle in the UK, Singapore, and Israel for foreign sponsors.
+
+**What does the regulatory pathway actually look like?**
+
+| | US (FDA) | EU (EMA/CTIS) | UK (MHRA) | Singapore (HSA) | Israel (MoH) |
+|---|---|---|---|---|---|
+| **Application** | IND | CTA via CTIS | CTA | CTC or CTN | MoH application |
+| **Review time** | 30 days | ~60 days | 30-60 days | 30-45 days | 30-45 days |
+| **Ethics** | IRB (separate) | Integrated in CTA | REC via IRAS | IRB (separate) | Helsinki Committee |
+| **Insurance required** | Practically yes | Legally yes | Legally yes | Yes | Yes |
+| **Time to first patient** | 2-4 months | 3-6 months | 3-5 months | 2-4 months | 3-5 months |
+
+Two to six months from application to dosing your first patient. That's faster than most people assume.
+
+**Do you need your own GMP manufacturing?** No. If you're repurposing an already-approved drug, you can use the commercially available product directly. Buy it from a pharmacy or wholesaler. The drug is already manufactured to GMP standards. This is one of the biggest cost advantages of repurposing: you skip the entire manufacturing infrastructure. The only exception is if you need to modify the product (repackaging for blinding, creating matched placebos), in which case the repackaging operation needs to be GMP-compliant, but clinical packaging companies handle this cheaply.
+
+**Data protection.** You'll need to comply with GDPR (EU/UK), HIPAA (US), or equivalent local laws. This sounds daunting for a small company, but in practice you use established HIPAA/GDPR-compliant cloud infrastructure and an off-the-shelf electronic data capture system like REDCap (free for academic use) or Castor (commercial). In the EU, you'll likely need a Data Protection Officer, but this can be outsourced. The startup itself doesn't need a special certification.
+
+**What can you do before forming a company?** Quite a lot. All the computational research, literature analysis, protocol development, dataset analysis, and academic collaboration discussions can happen pre-incorporation. You can even request a pre-IND meeting with the FDA or scientific advice from the EMA as a prospective sponsor. The company becomes necessary when you start entering contracts with clinical sites, obtaining trial insurance, and submitting regulatory applications. For the lean startup path described in Section 31.7, that means you can do months of foundational work as an individual researcher or academic affiliate, incorporate only when you're ready to pull the trigger on the actual trial, and keep your burn rate at zero until then.
+
+## 31.9 How AI Can Accelerate Psoriasis Research
 
 AI won't replace the wet lab, but it can make every stage of drug development faster and cheaper.
 
@@ -139,7 +178,7 @@ AI won't replace the wet lab, but it can make every stage of drug development fa
 
 **Personalised treatment selection.** Can you predict which biologic will work best for a specific patient? The answer is: probably, but nobody has built the model yet. Baseline clinical features (PASI, age, weight, previous treatments), genetic markers (HLA-C*06:02 status, IL-23R variants), serum biomarkers (IL-17A, IL-22, beta-defensin levels), and microbiome profiles all carry predictive signal. Integrating these into a decision-support tool would reduce the current trial-and-error approach to biologic selection, which costs both time and money.
 
-## 31.9 Where to Start: Countries and Regions
+## 31.10 Where to Start: Countries and Regions
 
 Location matters. The regulatory environment, market size, talent pool, and funding ecosystem vary enormously across countries. Here's how the major options compare.
 
