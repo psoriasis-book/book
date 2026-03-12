@@ -203,6 +203,26 @@ Despite the efficacy of modern biologics, not all patients respond to their firs
 
 **Guideline recommendations.** The AAD-NPF guidelines recommend reassessing efficacy and adverse events regularly, with switching indicated for inadequate response, loss of response, or intolerable side effects [(Menter et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30772098/). The GRAPPA 2021 recommendations use a domain-based approach for PsA, recommending that treatment efficacy be re-evaluated periodically and adjusted as appropriate, with TNF inhibitors and IL-17 inhibitors strongly recommended across all six PsA domains for both first-line and switch scenarios [(Coates et al., 2022)](https://doi.org/10.1038/s41584-022-00798-0).
 
+### Comparing the IL-23 Inhibitors
+
+Patients and clinicians increasingly ask: which IL-23 inhibitor is best? There are now three selective IL-23p19 inhibitors approved for psoriasis — risankizumab, guselkumab, and tildrakizumab — and they're not identical.
+
+No three-way head-to-head trial exists, so comparisons rely on network meta-analyses (NMAs) and the one direct head-to-head study available: **IMMerge**, which compared risankizumab with secukinumab (an IL-17 inhibitor, not another IL-23 inhibitor) and showed risankizumab's superiority at week 52 [(Warren et al., 2021)](https://pubmed.ncbi.nlm.nih.gov/33278539/).
+
+From NMA data and pivotal trial results, the general picture is:
+
+| | Risankizumab (Skyrizi) | Guselkumab (Tremfya) | Tildrakizumab (Ilumya) |
+|---|---|---|---|
+| PASI 90 (wk 16) | ~71–75% | ~69–73% | ~55–59% |
+| PASI 100 (wk 16) | ~36–51% | ~34–44% | ~24–31% |
+| Dosing (maintenance) | Every 12 weeks | Every 8 weeks | Every 12 weeks |
+| PsA indication | Yes | Yes | No |
+| Speed of onset | Fast | Fast | Slower (efficacy builds to wk 28) |
+
+Risankizumab and guselkumab are broadly comparable in efficacy, with risankizumab showing a slight numerical advantage in some NMAs. Tildrakizumab has lower peak efficacy rates but a very favourable safety profile, with the lowest adverse event rates of the three in network comparisons [(Sbidian et al., 2023)](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011535.pub6/full). All three have excellent long-term drug survival, significantly better than TNF inhibitors and comparable to or better than IL-17 inhibitors in registry data.
+
+In practice, the choice often comes down to dosing convenience (12-weekly vs 8-weekly), whether PsA is present (tildrakizumab lacks this indication), cost and formulary availability (which varies by country and payer), and individual response. If one IL-23 inhibitor fails, switching within the class to another can still work, since ADA profiles and pharmacokinetics differ between agents.
+
 ## 24.10 Global Access and Health Equity
 
 The therapeutic revolution in psoriasis has been unevenly distributed. Patients in high-income countries increasingly have access to biologic therapies achieving PASI 90–100. For most of the world's psoriasis patients, the reality is very different.
