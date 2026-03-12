@@ -510,3 +510,19 @@ sidebar:
 252. Eghlileb AM, Davies EEG, Finlay AY. Psoriasis has a major secondary impact on the lives of family members and partners. *Br J Dermatol*. 2007;156(6):1245-1250. doi:10.1111/j.1365-2133.2007.07881.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17908129/)
 
 253. Basra MKA, Sue-Ho R, Finlay AY. The Family Dermatology Life Quality Index: measuring the secondary impact of skin disease. *Br J Dermatol*. 2007;156(3):528-538. doi:10.1111/j.1365-2133.2006.07617.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17725743/)
+
+254. Grand View Research. Psoriasis drugs market size, share & trends analysis report. 2025. [Grand View Research](https://www.grandviewresearch.com/industry-analysis/psoriasis-drugs-market)
+
+255. Brezinski EA, Dhillon JS, Armstrong AW. Economic burden of psoriasis in the United States: a systematic review. *JAMA Dermatol*. 2015;151(6):651-658. doi:10.1001/jamadermatol.2014.3593. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25007049/)
+
+256. Nast A, Mrowietz U, Kragballe K, et al. Barriers to the prescription of systemic therapies for moderate-to-severe psoriasis — a multinational cross-sectional study. *Arch Dermatol Res*. 2015;307(5):391-399. doi:10.1007/s00403-015-1557-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26370506/)
+
+257. Wouters OJ, McKee M, Luyten J. Estimated research and development investment needed to bring a new medicine to market, 2009-2018. *JAMA*. 2020;323(9):844-853. doi:10.1001/jama.2020.1166. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32125404/)
+
+258. Wong CH, Siah KW, Lo AW. Estimation of clinical trial success rates and related parameters. *Biostatistics*. 2019;20(2):273-286. doi:10.1093/biostatistics/kxx069. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30445513/)
+
+259. Langley RG, Papp KA, Gott lieb AB, et al. Safety results from a pooled analysis of randomized, controlled trials of briakinumab in the treatment of moderate to severe chronic plaque psoriasis. *J Eur Acad Dermatol Venereol*. 2013;27(10):1252-1262. doi:10.1111/j.1468-3083.2012.04705.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23157612/)
+
+260. Biosimilars Review & Report. 18 months of US adalimumab biosimilar competition yields $11 billion in savings. August 2024. [Biosimilars R&R](https://biosimilarsrr.com/2024/08/12/18-months-of-us-adalimumab-biosimilar-competition-yields-11-billion-in-savings/)
+
+261. JMIR Dermatology. Cross-sectional analysis of psoriasis funding relative to disease burden. *JMIR Dermatol*. 2026;9(1):e71468. [JMIR](https://derma.jmir.org/2026/1/e71468)
