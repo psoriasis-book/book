@@ -107,7 +107,48 @@ So you want to build a psoriasis company. What does that actually look like?
 
 Start with what's free. Decades of real-world outcomes data already exist in registries like BADBIR (over 20,000 biologic-treated patients), Corrona, and PsoBest. Academic collaborations can access these. Published clinical trial data, including patient-level summaries in supplementary materials and FDA review documents, are public. Open-source genomic and transcriptomic datasets (GEO, UK Biobank) contain thousands of psoriasis samples. You can identify a drug target, validate it against existing data, and generate a repurposing hypothesis without spending a penny on wet-lab work.
 
-Next, look for free hypotheses. Scattered across the medical literature are case reports where drugs approved for unrelated conditions unexpectedly improved someone's psoriasis. A statin, an antihypertensive, an antidepressant. Each one is a testable signal. Mining these systematically (a job AI is good at, see Section 31.8) can surface repurposing candidates that already have decades of safety data.
+Next, look for free hypotheses. Scattered across the medical literature are case reports where drugs approved for unrelated conditions unexpectedly improved someone's psoriasis. A statin, an antihypertensive, an antidepressant. Each one is a testable signal. Mining these systematically can surface repurposing candidates that already have decades of safety data. Here's how to actually do it.
+
+**Where to look.** The primary source is [PubMed](https://pubmed.ncbi.nlm.nih.gov/), the US National Library of Medicine's index of over 37 million biomedical citations. It's free, it's searchable, and it covers virtually every peer-reviewed medical journal in the world. A search like `psoriasis AND ("case report" OR "case series") AND ("unexpected improvement" OR "incidental finding" OR "off-label")` will return hundreds of results. [PubMed Central](https://pmc.ncbi.nlm.nih.gov/) (PMC) is the subset where full-text articles are freely available, not just abstracts. Roughly 8 million articles are on PMC, and that number grows daily as funders increasingly mandate open access.
+
+Beyond PubMed, there are preprint servers: [medRxiv](https://www.medrxiv.org/) and [bioRxiv](https://www.biorxiv.org/) host papers before peer review. The quality is variable, but they're free and often contain findings 6-12 months before the journal version appears. [Google Scholar](https://scholar.google.com/) casts a wider net, indexing conference abstracts, theses, and book chapters that PubMed misses. [ClinicalTrials.gov](https://clinicaltrials.gov/) lists every registered clinical trial, including results of completed trials, some of which never make it into a journal publication.
+
+**How to get access to paywalled papers.** Here's the reality. Most medical journals charge $30-50 per article, and a serious literature review might need 200-500 papers. That's $6,000-25,000 if you pay retail, which nobody does. Your options:
+
+- **PMC and open access.** Check PMC first. Many papers are freely available there even if the journal's own website shows a paywall. Append `site:pmc.ncbi.nlm.nih.gov` to a Google search, or use the "Free full text" filter on PubMed.
+- **Institutional access.** If you have any university affiliation (visiting researcher, adjunct, alumni), you likely have access to the library's journal subscriptions. Some universities offer community borrower cards for a small annual fee.
+- **Author copies.** Email the corresponding author and ask for a PDF. This works more often than you'd expect. Researchers want their work read. Many also post preprints or accepted manuscripts on their personal websites or institutional repositories.
+- **Interlibrary loan.** Most public libraries can request papers from university libraries for free. It takes a few days.
+- **Unpaywall** (unpaywall.org) is a browser extension that automatically finds free legal versions of paywalled papers. It checks PMC, institutional repositories, and author websites.
+
+Let's not pretend Sci-Hub doesn't exist. It does, it hosts virtually every paywalled paper ever published, and researchers worldwide use it daily. It's also illegal in most jurisdictions. Make your own decision.
+
+**What does a medical paper actually look like?** If you've never read one, the format can feel alien, but it's highly standardised. A typical research paper follows the IMRAD structure:
+
+- **Abstract.** A 250-word summary. Read this first. If it's not relevant, move on.
+- **Introduction.** Why the study was done. Background, knowledge gap, hypothesis.
+- **Methods.** How the study was designed. Patient population, interventions, outcome measures, statistical analysis. This is where you assess quality: how many patients? Was there a control group? Was it randomised? Blinded?
+- **Results.** What they found. Tables and figures. The numbers.
+- **Discussion.** What the authors think the results mean. Limitations. Comparison to other studies.
+
+**Case reports** are shorter and simpler. They describe something unusual that happened to one or a few patients. A typical structure: patient background, what happened, what was done, what the outcome was, why the authors think it's noteworthy. A case report titled "Resolution of chronic plaque psoriasis during treatment with venlafaxine for depression" is exactly the kind of signal you're looking for. One case proves nothing, but five independent case reports of the same drug improving psoriasis in different patients is a pattern worth investigating.
+
+**What signals matter for repurposing?** You're looking for:
+
+- Case reports or small case series where a drug approved for condition X unexpectedly improved psoriasis
+- Post-hoc analyses of large trials where psoriasis outcomes were measured as secondary endpoints
+- Epidemiological studies showing lower psoriasis rates in patients taking a specific medication for another condition (e.g., "metformin users have lower psoriasis incidence")
+- Mechanistic papers showing a drug affects pathways relevant to psoriasis (IL-23, IL-17, TNF-alpha, Th17 differentiation) even if it was never tested in psoriasis
+
+**How to feed this to AI.** You've got the papers. Now you want to process hundreds of them systematically. A few approaches:
+
+- **Copy and paste.** The simplest. Paste an abstract or full text into Claude or ChatGPT and ask it to extract the drug name, the observed effect on psoriasis, the number of patients, and the proposed mechanism. Slow for hundreds of papers, but fine for an initial pass.
+- **PubMed API (E-utilities).** The NCBI provides a free API that lets you programmatically search PubMed, retrieve abstracts in XML or JSON, and download full texts from PMC. A simple Python script can pull 10,000 abstracts in minutes. Feed those to an LLM in batch, ask it to flag any mention of psoriasis improvement, and you've got a shortlist in hours instead of weeks. The API documentation is at [ncbi.nlm.nih.gov/books/NBK25501/](https://www.ncbi.nlm.nih.gov/books/NBK25501/).
+- **Bulk PMC download.** PMC offers bulk download of its entire open-access subset in XML format. It's several terabytes, but if you're serious about comprehensive mining, this is the dataset. Parse the XML, extract the text, run it through an LLM or a simpler NLP pipeline for entity extraction (drug names, disease names, outcome descriptors).
+- **Semantic Scholar API.** [Semantic Scholar](https://www.semanticscholar.org/) (by the Allen Institute for AI) provides a free API with abstracts, citation graphs, and extracted entities. Useful for finding papers that cite a key reference, which helps you trace a finding forward through the literature.
+- **Claude with tool use.** If you're using Claude's API, you can set up a pipeline that takes a list of PMIDs, fetches each abstract via the PubMed API, passes it to Claude with a structured extraction prompt, and collects the results in a spreadsheet. Cost: a few dollars for thousands of abstracts. Time: an afternoon of coding, then overnight to run.
+
+The point isn't that AI replaces reading. You still need to read the key papers carefully. But AI turns a six-month literature review into a two-week sprint, and it doesn't miss things because it got tired on page 300.
 
 For the actual trial, consider an **investigator-initiated trial (IIT)** at an academic medical centre. In this model, a university dermatology department runs the trial. They provide the investigators, the ethics approval, the clinical infrastructure, and the overhead. You provide the drug (which, if it's a repurposed generic, might cost a few thousand dollars) and a modest research grant. Total cost to the startup: $500,000-1 million, sometimes less. The academic partner gets a publication. You get clinical data.
 
