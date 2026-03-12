@@ -33,7 +33,22 @@ Psoriasis affecting the palms and soles is recognised as a distinct clinical ent
 
 **Treatment.** First-line options include potent topical corticosteroids (often under occlusion to enhance penetration through the thick palmoplantar stratum corneum), topical vitamin D analogues, and acitretin. Phototherapy with localised NB-UVB or PUVA hand/foot units is effective. Among biologics, **guselkumab** (an IL-23 inhibitor) has been approved specifically for palmoplantar pustulosis in Japan. **JAK inhibitors** show particular promise: tofacitinib achieved near-complete clearance in all 16 patients in one open-label study, and larger studies report 40-53% achieving complete resolution [(Nam et al., 2025)](https://www.mdpi.com/2077-0383/14/10/3273). **Apremilast** demonstrated efficacy in a Phase 3 trial in Japan for palmoplantar pustulosis [(Terui et al., 2024)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jdv.70166).
 
-**Research stage: Established entity, emerging treatments.** **Evidence strength: Moderate-High.** Phase 3 RCT data for multiple agents; distinct pathophysiology well-characterised.
+### Is Palmoplantar Pustulosis (PPP) a Separate Disease?
+
+This is one of the more interesting debates in psoriasis classification. PPP shares clinical territory with palmoplantar psoriasis, and the two often appear in the same chapter (as they do here), but mounting evidence suggests PPP may be a genuinely distinct condition rather than a subtype of psoriasis [(Mossner et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25264016/).
+
+The case for separation:
+
+- **Different genetics.** PPP has a much weaker association with HLA-C*06:02 (the major psoriasis risk allele) and shows different susceptibility loci. The genetic overlap with plaque psoriasis is surprisingly limited.
+- **Different immune pathway.** PPP is driven more by IL-36 and innate immune activation than by the IL-23/Th17 axis that dominates plaque psoriasis. This matters for treatment: drugs that work brilliantly for plaque psoriasis (IL-17 inhibitors, IL-23 inhibitors) often have disappointing results in PPP.
+- **Different treatment response.** Spesolimab, the IL-36 receptor antagonist approved for generalised pustular psoriasis (GPP), does not work for PPP, despite both conditions featuring pustules. Conversely, acitretin and PUVA phototherapy tend to work better for PPP than for plaque psoriasis.
+- **Smoking association.** PPP has a far stronger link to smoking than plaque psoriasis: over 90% of PPP patients are current or former smokers, and smoking cessation can improve disease [(Brunasso et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/30873643/). The mechanism may involve nicotine's effects on eccrine sweat gland biology in the palms and soles.
+
+The case against separation: about 10–25% of PPP patients also have plaque psoriasis elsewhere, some PPP patients carry psoriasis susceptibility genes, and there's histological overlap. The current consensus, reflected in the European Rare and Severe Psoriasis Expert Network (ERASPEN) classification, treats PPP as a distinct entity within the broader pustular psoriasis spectrum, separate from both plaque psoriasis and GPP.
+
+Why does this matter to you? If you have PPP, your treatment expectations and options differ from plaque psoriasis. Your doctor should know the distinction. If an IL-17 or IL-23 inhibitor isn't helping your palmoplantar pustules, that's not necessarily a treatment failure — it may be the wrong target for your disease.
+
+**Research stage: Established (as distinct entity).** **Evidence strength: Moderate.** Genetic and immunological evidence supports separation; ERASPEN consensus classification published; dedicated treatment trials remain limited.
 
 ## 11.3 Scalp Psoriasis
 
