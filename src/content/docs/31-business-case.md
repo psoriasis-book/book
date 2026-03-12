@@ -202,6 +202,45 @@ Many of these steps run in parallel. You can write the protocol while waiting fo
 
 Bimekizumab took nine years from first-in-human to EU approval. Arcutis took about four years from founding to IPO, six years to meaningful revenue. These are real benchmarks, not theoretical estimates. The lean path can deliver a proof-of-concept result in under two years. Whether that result leads to a product depends on what the data show. But for under a million dollars, you'll know if the idea has legs.
 
+**Building a team.** You need fewer people than you think. The lean startup model works with four roles, none of which need to be full-time employees at the start:
+
+- **A clinical dermatologist.** Not as an employee. As an advisor on your scientific advisory board, paid in equity and a small retainer. They provide clinical credibility, help design the trial protocol, and connect you to the investigator network. Most academic dermatologists are happy to advise startups for 0.25-1% equity and a few hours a month.
+- **A regulatory consultant.** Don't hire one full-time. Contract a specialist for the IND/CTA filing and any pre-submission meetings. This is project work, not ongoing. Budget $30,000-80,000 for the regulatory package for a repurposed drug.
+- **A biostatistician.** Your academic collaborator's department almost certainly has one. If not, a contract biostatistician can design the trial's statistical analysis plan and write the sample size justification. This is a few weeks of work, not a permanent role.
+- **Someone who can code.** Data pipelines, API integrations, literature mining scripts, AI model prototyping. If you're reading this chapter and you're a software engineer with psoriasis, you're looking at your founding team.
+
+What you don't need: a lab (you're repurposing, not synthesising), a manufacturing facility (you're buying commercial drug product), a large headcount (every additional employee is burn rate), office space (work remotely). The virtual company model isn't just cheaper. It's faster, because you're not spending six months hiring before you can start working.
+
+**IP strategy.** "But the drug is off-patent. What's the point?" This is the most common misconception about repurposing. The compound itself may be off-patent, but a **new therapeutic use** can absolutely be patented. Method-of-use patents cover the application of a known substance to a new indication, a new patient population, a new dosing regimen, or a new combination. If you discover that Drug X at a specific dose treats palmoplantar psoriasis, that method of use is patentable even if Drug X has been generic for twenty years.
+
+Start with a **provisional patent application**. In the US, this costs $320 (small entity) at the USPTO. In the UK, it's about £50 at the IPO. A provisional gives you 12 months of "patent pending" status, establishing your priority date, while you gather more data before filing the full application. File before you publish, present at a conference, or tell anyone outside your team. Public disclosure before filing destroys your patent rights in most jurisdictions.
+
+Beyond patents, there's **data exclusivity**. The FDA grants 3 years of market exclusivity for a new indication of an already-approved drug (submitted via 505(b)(2)). The EMA grants up to 1 year. This isn't as long as a patent, but it's automatic: you get it just by generating new clinical data. Combined with a method-of-use patent and orphan drug exclusivity (7 years US, 10 years EU), you can build a layered IP position that protects your market for a decade or more.
+
+One more thing: do a **freedom-to-operate search** early. Make sure nobody else has already patented the use you're planning to study. Patent databases (Google Patents, Espacenet, USPTO PAIR) are free to search. A patent attorney can do a formal FTO analysis for $5,000-15,000. Cheaper than finding out after you've run the trial.
+
+**Competitive moats.** Ideas aren't moats. Anyone can read the same case reports you did. What stops a larger company from simply copying your approach once you've shown it works? Here's what actually creates defensible advantages:
+
+- **Orphan drug designation.** Seven years of market exclusivity in the US, ten in the EU. During that period, no other company can market the same drug for the same orphan indication, even if they run their own trial. This is the single most powerful moat available to a small company, and it's free to apply for.
+- **Published clinical data.** Once you've run a trial and published positive results, replicating that data costs someone else the same time and money it cost you. Your data is a fait accompli. A competitor would need 2-4 years and millions of dollars to generate their own dataset, by which time you've moved to Phase 3 or been acquired.
+- **Proprietary datasets.** Exclusive access agreements with registries, hospitals, or biobanks. If you've negotiated sole commercial rights to mine a specific dataset for drug repurposing candidates, that's a moat. The data existed before you, but the agreement is yours.
+- **Validated AI models.** A model trained on real-world psoriasis outcomes data that predicts treatment response is valuable, but only if it's been validated prospectively. Anyone can train a model. Validation requires clinical data, which takes time and money. The validated model is the moat, not the architecture.
+- **Regulatory relationships and know-how.** Having been through a pre-IND meeting, knowing the specific reviewer's concerns, understanding exactly what data package the agency expects for your indication. This tacit knowledge is hard to transfer and expensive to replicate.
+
+What's NOT a moat: a business plan, a pitch deck, a literature review, an untested hypothesis, or an idea you haven't acted on. Execution is the moat.
+
+**Exit strategies.** How does this end? For most successful dermatology startups, one of four ways:
+
+**Acquisition by pharma.** This is the most common outcome and often the most lucrative. Large pharmaceutical companies have massive commercial infrastructure (sales forces, payer relationships, global distribution) but chronically depleted pipelines. They buy clinical-stage assets to fill gaps. In dermatology, acquisition multiples of 5-15x trailing revenue are typical for commercial-stage companies. For pre-revenue companies with strong Phase 2 or Phase 3 data, pharma pays large upfront premiums plus milestone payments. AbbVie acquired Allergan for $63 billion partly for its dermatology portfolio. UCB built bimekizumab internally, but many companies at their stage would have been acquired.
+
+**Licensing deals.** You don't have to sell the whole company. Out-license your clinical data and IP to a pharma partner for an upfront payment, development milestones, and royalties on sales. This lets you retain ownership while accessing pharma's development and commercial muscle. Typical structures: $5-50 million upfront, $100-500 million in milestones, 5-15% royalties. You can license for specific geographies (e.g., give a partner Asia-Pacific rights, keep US/EU) or specific indications.
+
+**IPO.** Arcutis went public at $782 million. This is viable but requires scale, a commercial product (or late-stage pipeline), and favourable market conditions. The biotech IPO window opens and closes unpredictably. Not a strategy you can control, but one you should be positioned for if the window opens.
+
+**Stay private and grow.** If your product is a digital therapeutic, a SaaS clinical decision tool, or a direct-to-patient service, you may not need pharma at all. Build revenue, stay lean, and grow. Not every company needs an exit. Some are just businesses.
+
+What do acquirers look for? Clean IP (no freedom-to-operate issues), reproducible clinical data (peer-reviewed publications), a clear regulatory pathway (ideally with some regulatory interaction already completed), and a differentiated mechanism (something they can't easily replicate internally). If you've followed the playbook in this chapter, you'll have all four.
+
 ## 31.8 What's Regulated and What Isn't
 
 If you've read this far and you're thinking "can I actually do any of this?", the answer is: more than you'd expect. The regulatory landscape for drug development has a reputation for being impenetrable, but the boundaries between what requires authorisation and what doesn't are surprisingly clear.
