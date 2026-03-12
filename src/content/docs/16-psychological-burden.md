@@ -51,6 +51,18 @@ Psoriasis significantly affects working life. Studies using the Work Productivit
 
 **Employer communication.** Patients often struggle with whether and how to disclose their condition to employers. Advocacy organisations (Appendix A2) provide template letters and guidance for workplace conversations. Where possible, involving the occupational health department can facilitate appropriate adjustments without requiring the patient to disclose details to managers or colleagues directly.
 
-## 16.6 Psychological Interventions
+## 16.6 Impact on Partners, Families, and Caregivers
+
+Psoriasis doesn't affect just the person who has it. Partners, parents, and family members carry a burden that's rarely measured and almost never addressed in clinical consultations.
+
+Partners of people with psoriasis report elevated anxiety, relationship strain, and reduced sexual satisfaction, often independent of the patient's actual disease severity [(Eghlileb et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17908129/). The daily routines of emollient application, scale management, and laundry (emollients stain sheets and clothing) affect the entire household. Partners may take on a caregiving role, helping apply treatments to hard-to-reach areas like the back or scalp, while simultaneously navigating the emotional distance that shame and self-consciousness can create.
+
+Parents of children with psoriasis face particular challenges. Managing a child's treatment regimen, dealing with school bullying, explaining the condition to other parents, and coping with the distress of watching a child in pain or embarrassment all take a toll. Maternal anxiety is common, especially in mothers who also have psoriasis and feel responsible for passing it on.
+
+The **Family Dermatology Life Quality Index (FDLQI)** was developed to measure this impact, covering emotional distress, daily activities, relationships, and the time and financial burden of supporting someone with a skin condition [(Basra et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17725743/). Studies using the FDLQI consistently find that family members' quality of life correlates with the patient's DLQI score but isn't fully explained by it. In other words, family burden exists even when patients themselves report manageable disease.
+
+What helps? Including partners in consultations (with the patient's consent), explaining the treatment plan so the whole household understands it, and acknowledging that living with someone who has psoriasis is genuinely difficult. Patient organisations (Appendix A2) often run partner and family support groups. For parents of children with psoriasis, connecting with other families through organisations like the Psoriasis Association can reduce the isolation.
+
+## 16.7 Psychological Interventions
 
 Growing evidence supports incorporating psychological support into psoriasis care. Cognitive behavioural therapy (CBT), mindfulness-based stress reduction (MBSR), and habit reversal training (for itch-scratch cycles) have all shown benefit in small trials. One landmark early study found that psoriasis patients who listened to mindfulness meditation tapes during phototherapy sessions achieved skin clearing significantly faster than those receiving phototherapy alone [(Kabat-Zinn et al., 1998)](https://pubmed.ncbi.nlm.nih.gov/9773769/). Current guidelines increasingly advocate routine mental health screening, using validated tools such as the PHQ-2 or PHQ-9 for depression and asking about suicidal ideation, at every dermatology appointment, particularly when starting, changing, or reviewing systemic treatment.
