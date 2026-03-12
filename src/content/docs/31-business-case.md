@@ -89,6 +89,20 @@ Where are the biggest gaps between scientific promise and actual investment?
 
 **Predictive biomarkers.** We can sequence a patient's genome, profile their cytokines, and image their skin at cellular resolution. We still can't reliably predict which biologic will work best for a given individual before prescribing it (Section 13). The data exist in registries like BADBIR and Corrona. Someone needs to build the models.
 
+**Repurposing candidates hiding in plain sight.** We talked about mining the literature for free hypotheses. Here are some that already have published data:
+
+*Metformin* (approved for type 2 diabetes) has the strongest signal. A 2023 meta-analysis of three small RCTs (148 patients total) found that metformin significantly increased the likelihood of achieving PASI 75 compared to placebo (OR 22.02, though with wide confidence intervals reflecting the small sample sizes) [(Xu & Yin, 2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10646712/). The benefit appears strongest in patients with coexisting metabolic syndrome. Metformin is dirt cheap, off-patent, and has 60 years of safety data. A properly powered trial in psoriasis patients with metabolic comorbidities is the obvious next step. Nobody has run one.
+
+*Pioglitazone* (another diabetes drug, a PPAR-gamma agonist) has even more trial data. Multiple small RCTs and a meta-analysis show significant PASI improvement versus placebo [(Hafez et al., 2019)](https://pubmed.ncbi.nlm.nih.gov/31116619/). It works by promoting keratinocyte differentiation and reducing inflammation through a completely different pathway to existing biologics.
+
+*GLP-1 receptor agonists* (semaglutide, liraglutide) are the most interesting emerging signal. A 2025 open-label RCT of semaglutide in obese type 2 diabetes patients with psoriasis found that median PASI dropped from 21 to 10 after 12 weeks, with significant reductions in IL-6 and CRP [(Medic et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/39858442/). But here's the catch: a placebo-controlled trial of liraglutide in glucose-tolerant obese patients showed no benefit [(Faurschou et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25139195/). The drug appears to help psoriasis only when metabolic dysfunction is present. With tens of millions of people now taking GLP-1 agonists for obesity, the epidemiological data to confirm or refute this signal is accumulating fast.
+
+*Simvastatin* (a statin) showed significant PASI improvement in a meta-analysis, but the effect appears specific to simvastatin and not atorvastatin [(Chua et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32051699/). Small trials, plausible mechanism (pleiotropic anti-inflammatory effects beyond lipid lowering), but needs replication.
+
+*SSRIs* (antidepressants) have a population-level signal: a Swedish cohort study of nearly 70,000 psoriasis patients found that SSRI users had significantly lower odds of escalating to systemic psoriasis therapy [(Thorslund et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23711088/). Is this the drug, or is it that treating depression reduces stress, which reduces flares? No RCT has tried to answer that question.
+
+Each of these is a testable hypothesis with published supporting data, an off-patent drug, and a clear trial design. The total cost of running a properly powered proof-of-concept for any one of them, using the lean approach described in Section 31.7, would be $2-4 million. The fact that none of these trials has been run tells you everything about where the funding priorities lie.
+
 ## 31.7 The Startup Scenario
 
 So you want to build a psoriasis company. What does that actually look like?
@@ -240,6 +254,48 @@ What's NOT a moat: a business plan, a pitch deck, a literature review, an untest
 **Stay private and grow.** If your product is a digital therapeutic, a SaaS clinical decision tool, or a direct-to-patient service, you may not need pharma at all. Build revenue, stay lean, and grow. Not every company needs an exit. Some are just businesses.
 
 What do acquirers look for? Clean IP (no freedom-to-operate issues), reproducible clinical data (peer-reviewed publications), a clear regulatory pathway (ideally with some regulatory interaction already completed), and a differentiated mechanism (something they can't easily replicate internally). If you've followed the playbook in this chapter, you'll have all four.
+
+**The reimbursement problem.** Getting a drug approved is only half the battle. Getting it paid for is the other half, and it kills more products than failed trials do. Approval means a regulator says your drug is safe and effective. Reimbursement means a payer agrees to cover it. These are different decisions made by different people using different criteria.
+
+In the UK, NICE evaluates cost-effectiveness using a threshold of roughly £20,000-30,000 per quality-adjusted life year (QALY). If your drug costs more per QALY gained, NICE won't recommend it, and the NHS won't fund it. In the US, there's no single cost-effectiveness threshold, but CMS (Medicare/Medicaid), private insurers, and pharmacy benefit managers all make independent formulary decisions. A drug can be FDA-approved and still sit on a shelf because no payer will cover it at the manufacturer's price.
+
+What does this mean for a startup? You need to think about health technology assessment (HTA) from day one, not after approval. Design your trial to capture the outcomes that payers care about: not just PASI improvement, but quality-of-life gains (DLQI), work productivity, reduced hospitalisations, and comorbidity prevention. If your drug costs $5,000 per year and prevents $15,000 per year in cardiovascular events and lost productivity, that's the value story. Build the health economics model while you're running the trial, not after.
+
+For a repurposed generic, this problem is actually easier. If metformin improves psoriasis, the drug costs pennies. The cost-effectiveness argument writes itself. The challenge is different: how do you make money selling a $0.10 pill? The answer is usually not the drug itself but the indication, the data, and the method-of-use patent.
+
+**Common mistakes that kill dermatology startups.** Having watched the space, here are the patterns that recur:
+
+- **Spending on infrastructure before proof-of-concept.** Hiring 20 people, leasing lab space, and buying equipment before you know if your idea works. The lean path exists for a reason. Prove the concept first, scale second.
+- **Targeting too broad an indication.** "We're developing a treatment for psoriasis" is a $500 million trial programme. "We're testing simvastatin as adjunctive therapy for psoriasis patients with metabolic syndrome" is a $3 million proof-of-concept. Start narrow, expand later.
+- **Ignoring reimbursement until after approval.** See above. If NICE won't pay for it, the NHS won't use it. If no US payer covers it, patients can't access it. Reimbursement strategy is not a post-approval activity.
+- **Not involving patients early enough.** Patient-focused drug development isn't just an FDA buzzword. Patients tell you what outcomes matter (itch reduction? hand clearance? being able to wear short sleeves?), what trial design they'll actually complete (monthly hospital visits vs home monitoring), and what price they'd consider reasonable. The FDA now has formal Patient-Focused Drug Development guidance, and patient input in trial design can accelerate recruitment and strengthen regulatory submissions.
+- **Underestimating the time between approval and first revenue.** Even after approval, you need to negotiate payer contracts, build distribution, train prescribers, and generate real-world evidence. For Arcutis, it took two years after FDA approval to reach meaningful revenue. Budget for this gap.
+- **Falling in love with the science and ignoring the business.** A beautiful mechanism of action means nothing if you can't manufacture the drug affordably, get it reimbursed, and deliver it to patients. The best drug in the world is the one patients can actually get.
+
+**Your first 90 days: a checklist.** If you've read this far and you're ready to start, here's what to do.
+
+*Week 1-2: Orientation*
+
+- [ ] Pick your therapeutic hypothesis. One drug, one psoriasis subtype, one patient population. Be specific.
+- [ ] Run a PubMed search. Is there existing evidence? Case reports, epidemiological signals, mechanistic data? If yes, you have something to build on. If no, you're doing basic research, which is a different (harder, more expensive) game.
+- [ ] Check the patent landscape. Is the drug off-patent? Has anyone patented the method of use you're considering? Google Patents, Espacenet, USPTO PAIR. Free to search.
+- [ ] Identify 2-3 academic dermatology departments that might collaborate. Look for investigators who have published on your target subtype.
+
+*Month 1-2: Foundation*
+
+- [ ] Write a one-page concept document: the hypothesis, the existing evidence, the proposed trial design, the target patient population, the expected outcome. This is your pitch to academic partners, grant bodies, and advisors.
+- [ ] Recruit a clinical advisor. Email a dermatologist who's published on your subtype. Offer advisory board membership. Most will take a call.
+- [ ] Request a pre-IND meeting with the FDA (or scientific advice from the EMA/MHRA). This is free, and the agency's feedback tells you exactly what data they'll need. It's also a signal of seriousness to future partners and investors.
+- [ ] File a provisional patent application if your hypothesis is novel. $320 (US). Do this before talking to anyone outside your team.
+
+*Month 2-3: Funding and partnerships*
+
+- [ ] Apply for an SBIR/STTR grant (US), Innovate UK grant (UK), or equivalent. Write the application around your concept document and the regulatory feedback.
+- [ ] Approach your target academic partner formally. Propose an investigator-initiated trial. Bring the protocol outline and the funding plan.
+- [ ] Incorporate the company. You need the legal entity for the grant application and the partnership agreement. A standard limited company or LLC is fine. Don't over-engineer the corporate structure.
+- [ ] Engage a regulatory consultant (contract, not hire) to prepare the IND/CTA package.
+
+By the end of 90 days, you should have: a testable hypothesis with supporting data, a provisional patent filing, a clinical advisor, a regulatory strategy informed by agency feedback, a grant application in process, and an academic partner in discussion. Total spend: under $5,000 (patent filing, incorporation fees, and coffee). Everything else is your time.
 
 ## 31.8 What's Regulated and What Isn't
 
