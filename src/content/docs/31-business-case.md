@@ -125,6 +125,42 @@ Finally, **patient advocacy partnerships** with organisations like the National 
 
 UCB's story with **bimekizumab** is different. The company invested heavily in a novel dual IL-17A/F inhibitor from first-in-human studies in 2012 through a massive Phase 3 programme (six trials across psoriasis, PsA, and axial spondyloarthritis). Nine years and hundreds of millions of euros later, they had a blockbuster: EUR 2.2 billion in 2025 revenue, growing over 200% year-on-year, with patent protection through 2037. That's the big-bet model. It requires deep pockets and patience, but the payoff can be transformational.
 
+**How long does all this actually take?** Here are two timelines. The first is the lean path: a small team repurposing an existing drug for a rare psoriasis subtype. The second is the well-funded path: a novel mechanism from scratch.
+
+**Scenario 1: Lean repurposing startup (optimistic / realistic)**
+
+| Phase | Optimistic | Realistic |
+|---|---|---|
+| Literature mining, target identification, dataset analysis | 2-3 months | 4-6 months |
+| Protocol development, academic partner agreements | 2-3 months | 4-8 months |
+| Orphan drug designation application and decision | 3-4 months | 6-10 months |
+| SBIR/grant application and award | 4-6 months | 6-12 months |
+| Company incorporation, insurance, regulatory filing (IND/CTA) | 1-2 months | 2-4 months |
+| Ethics approval, site setup | 1-2 months | 2-4 months |
+| Patient recruitment and 16-week treatment period | 4-6 months | 8-14 months |
+| Data analysis, publication, regulatory strategy for next phase | 2-3 months | 3-6 months |
+| **Total: first proof-of-concept result** | **~18-24 months** | **~30-48 months** |
+| **Cumulative spend** | **$300-500K** | **$500K-1.5M** |
+
+Many of these steps run in parallel. You can write the protocol while waiting for the grant decision, and file for orphan designation while negotiating with academic partners. The bottleneck is almost always patient recruitment, especially for rare subtypes.
+
+**Scenario 2: Novel mechanism, well-funded ($50M+)**
+
+| Phase | Optimistic | Realistic |
+|---|---|---|
+| Target discovery and validation | 6-12 months | 12-24 months |
+| Lead compound identification and optimisation | 12-18 months | 18-30 months |
+| Preclinical studies (toxicology, pharmacokinetics) | 12-18 months | 18-24 months |
+| IND/CTA filing and approval | 2-4 months | 3-6 months |
+| Phase 1 (safety, healthy volunteers or patients) | 6-12 months | 12-18 months |
+| Phase 2 (proof-of-concept, dose-finding) | 12-18 months | 18-24 months |
+| Phase 3 (pivotal efficacy trials) | 18-24 months | 24-36 months |
+| Regulatory review (NDA/BLA/MAA) | 10-15 months | 12-18 months |
+| **Total: from concept to market** | **~6-8 years** | **~9-13 years** |
+| **Cumulative spend** | **$50-150M** | **$150-500M+** |
+
+Bimekizumab took nine years from first-in-human to EU approval. Arcutis took about four years from founding to IPO, six years to meaningful revenue. These are real benchmarks, not theoretical estimates. The lean path can deliver a proof-of-concept result in under two years. Whether that result leads to a product depends on what the data show. But for under a million dollars, you'll know if the idea has legs.
+
 ## 31.8 What's Regulated and What Isn't
 
 If you've read this far and you're thinking "can I actually do any of this?", the answer is: more than you'd expect. The regulatory landscape for drug development has a reputation for being impenetrable, but the boundaries between what requires authorisation and what doesn't are surprisingly clear.
