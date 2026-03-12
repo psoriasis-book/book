@@ -144,6 +144,20 @@ Conventional systemic agents for psoriasis have clinically significant drug inte
 
 Biologic therapies generally have fewer drug-drug interactions than conventional systemics, as they aren't metabolised by cytochrome P450 enzymes. Concurrent use of multiple immunosuppressive agents does increase infection risk, though, and live vaccines should be avoided during biologic therapy.
 
+### Over-the-Counter and Supplement Interactions
+
+The table above covers prescription drugs, but some of the most common interactions involve things you can buy without a prescription. If you're on a systemic psoriasis treatment, be aware of:
+
+- **Ibuprofen and other NSAIDs** (Nurofen, Advil): Reduce methotrexate clearance through the kidneys. The combination is listed in the table above, but many patients don't realise that over-the-counter painkillers count. Occasional use of low-dose ibuprofen may be acceptable with careful monitoring, but regular use should be discussed with your prescriber. Paracetamol is generally safe with methotrexate.
+- **St John's Wort**: A potent inducer of CYP3A4 and P-glycoprotein. It can dramatically reduce blood levels of ciclosporin (risking graft rejection in transplant patients and loss of psoriasis control), apremilast, and deucravacitinib. Avoid completely if you're on any of these drugs.
+- **Grapefruit juice**: Inhibits intestinal CYP3A4, increasing ciclosporin absorption by 50–62% (in the prescription table above). This applies to whole grapefruit and Seville oranges too, not just juice.
+- **High-dose fish oil supplements**: At doses above 3g/day, fish oil has antiplatelet effects that could theoretically increase bleeding risk alongside methotrexate. Standard dietary intake or low-dose supplements are unlikely to cause problems.
+- **Turmeric/curcumin supplements**: Inhibit several CYP enzymes in vitro and may interact with methotrexate and ciclosporin. Clinical significance at typical supplement doses is uncertain, but high-dose curcumin extracts warrant caution.
+- **Alcohol**: Already in the table for acitretin (converts it to etretinate, extending teratogenic risk to 3 years) and methotrexate (additive hepatotoxicity). The practical message: if you're on methotrexate, moderate alcohol may be acceptable with close LFT monitoring, but heavy drinking is contraindicated. If you're on acitretin, even modest alcohol should be avoided.
+- **Folic acid**: Not a risk — the opposite. If you're on methotrexate, you should be taking folic acid 5 mg on a non-methotrexate day to reduce side effects. This is sometimes forgotten.
+
+When in doubt, check with your pharmacist before starting any new supplement or OTC medication while on systemic psoriasis therapy. Pharmacists are specifically trained in drug interactions and are often more accessible than your dermatologist for quick questions.
+
 ## 24.7 Phototherapy
 
 **Narrowband UV-B (NB-UVB)** phototherapy is the most commonly prescribed light therapy for psoriasis. UV-B radiation induces apoptosis (programmed cell death, a controlled self-destruct mechanism that cells use to die without causing inflammation) in activated T cells in the skin and suppresses local immune responses. **PUVA** (psoralen + UV-A) is also used but carries a higher long-term risk of skin cancer.
