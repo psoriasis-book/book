@@ -23,7 +23,7 @@ Psoriasis is significantly associated with metabolic syndrome: obesity, type 2 d
 
 ## 14.4 Mental Health
 
-Psoriasis significantly affects mental health. Patients have elevated rates of depression, anxiety, social stigma, and reduced quality of life. The visible nature of the disease contributes to shame, social withdrawal, and in severe cases, suicidal ideation [(Kurd et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20713823/).
+Psoriasis significantly affects mental health. Patients have elevated rates of depression, anxiety, social stigma, and reduced quality of life. A meta-analysis estimated that 28% of psoriasis patients have depressive symptoms and 12–19% meet diagnostic criteria for clinical depression [(Dowlatshahi et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/24284419/). The visible nature of the disease contributes to shame, social withdrawal, and in severe cases, suicidal ideation [(Kurd et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20713823/).
 
 ## 14.5 Inflammatory Bowel Disease (IBD)
 

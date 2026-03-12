@@ -9,7 +9,7 @@ sidebar:
 
 ## 5.1 Heritability
 
-Psoriasis has a strong genetic component. More than 20% of patients report a family history of the disease, and concordance (the likelihood that both twins have the disease) is significantly higher in monozygotic (identical) twins than dizygotic (fraternal) twins. Overall heritability is estimated at approximately 66% [(Dand et al., 2025)](https://www.nature.com/articles/s41467-025-56719-8). But psoriasis is a polygenic disease: no single gene is sufficient to cause it. Instead, it arises from the cumulative effects of many genetic variants, each contributing a small increase in risk, interacting with environmental factors.
+Psoriasis has a strong genetic component. More than 20% of patients report a family history of the disease [(Swanbeck et al., 1994)](https://pubmed.ncbi.nlm.nih.gov/7918006/), and concordance (the likelihood that both twins have the disease) is significantly higher in monozygotic (identical) twins than dizygotic (fraternal) twins. Overall heritability is estimated at approximately 66% [(Dand et al., 2025)](https://www.nature.com/articles/s41467-025-56719-8). But psoriasis is a polygenic disease: no single gene is sufficient to cause it. Instead, it arises from the cumulative effects of many genetic variants, each contributing a small increase in risk, interacting with environmental factors.
 
 ## 5.2 The PSORS1 Locus and HLA-C*06:02
 
