@@ -85,3 +85,30 @@ The pathway described above applies to England. Scotland, Wales, and Northern Ir
 **Northern Ireland.** Northern Ireland generally follows NICE guidance, but implementation timelines can differ. Prescriptions are free in Northern Ireland.
 
 The practical consequence: patients in different UK nations may have slightly different access to specific biologics or face different waiting times for treatment. The BAD guidelines apply across the UK, but commissioning decisions are made locally. If you're unsure about access in your region, your dermatologist or specialist pharmacist can advise on what's available through your local formulary.
+
+## 25.8 Getting the Most from Your Appointments
+
+Dermatology consultations are often short — 10 to 15 minutes in many NHS settings. Making that time count requires preparation. Here are questions worth asking at key decision points:
+
+**When starting a new treatment:**
+
+- What improvement should I expect, and how long before I see it?
+- What are the most common side effects, and which ones should prompt me to call?
+- Is this a short-term or long-term treatment? What happens when I stop?
+- How does this interact with anything else I'm taking (including over-the-counter products)?
+
+**When a treatment isn't working:**
+
+- How do we define "not working" — are we using PASI, DLQI, or something else?
+- Is the issue efficacy, side effects, or adherence? (Be honest about the last one — Section 20.8.)
+- Should we escalate the dose, switch drugs, or add something alongside?
+- Am I eligible for a biologic, and if not, what would change that?
+
+**When choosing between biologics:**
+
+- What are the differences between the options in terms of how well they work, how often I inject, and side effects?
+- Does one option cover both my skin and my joints (if PsA is present)?
+- What happens if this one stops working — what's the next step?
+- How quickly will I get the first dose once we decide?
+
+You don't need to memorise these. Bring a written list. Your dermatologist would rather you asked too many questions than too few. The Patient Benefit Index (Section 10.3) can help you articulate what matters most to you — whether that's itch reduction, hand clearance, or being able to wear short sleeves — so the treatment plan reflects your priorities, not just your PASI score.
