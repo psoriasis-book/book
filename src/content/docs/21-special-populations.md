@@ -114,4 +114,17 @@ Psoriasis in HIV-positive patients presents a clinical paradox. Psoriasis is dri
 - **Methotrexate and cyclosporine** are generally avoided due to additive immunosuppression, though methotrexate may be used cautiously in patients with well-controlled HIV on ART.
 - **Biologics** have been used successfully in HIV-positive patients with severe, refractory psoriasis, particularly TNF inhibitors and IL-17 inhibitors. Case series report good efficacy without increased opportunistic infections, provided the patient is on stable ART with a CD4+ count above 200 cells/μL [(Xu et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36897246/). However, data are limited to case series and reports; no randomised trials exist in this population.
 
-**Other immunocompromised states.** Solid organ transplant recipients on chronic immunosuppression (calcineurin inhibitors, mycophenolate) may develop or experience worsening of psoriasis. Patients on cancer chemotherapy may have psoriasis flares during immune reconstitution after treatment cycles. In all cases, close collaboration between dermatology and the relevant specialist team is essential.
+## 21.6 Organ Transplant Recipients
+
+Psoriasis in solid organ transplant recipients creates an unusual clinical situation: patients are already on immunosuppressive drugs (ciclosporin, tacrolimus, mycophenolate, azathioprine) to prevent graft rejection, and some of these drugs also suppress psoriasis. Ciclosporin, in particular, is a well-established psoriasis treatment. So you might expect transplant recipients with psoriasis to do well. The reality is more complicated.
+
+**Psoriasis can persist or worsen despite transplant immunosuppression.** The drugs used to prevent rejection don't always suppress the specific immune pathways (IL-23/Th17) that drive psoriasis. Patients on tacrolimus-based regimens may have less psoriasis control than those on ciclosporin, since ciclosporin has broader calcineurin inhibition. Some patients develop new-onset psoriasis after transplantation, possibly triggered by the shift in immune balance or by medications used in the transplant setting.
+
+**Treatment is constrained.** The standard psoriasis toolkit shrinks considerably:
+
+- **Topical therapies and phototherapy** remain safe and are first-line. NB-UVB requires caution given the already elevated skin cancer risk in transplant recipients on long-term immunosuppression.
+- **Methotrexate** is generally avoided due to additive immunosuppression, myelotoxicity, and hepatotoxicity risk on top of transplant medications.
+- **Acitretin** is a useful option because it's not immunosuppressive, and it may have a protective effect against squamous cell carcinoma, a significant concern in transplant recipients.
+- **Biologics** present the biggest dilemma. Adding a biologic to an existing immunosuppressive regimen raises theoretical concerns about infection and malignancy risk, and there are essentially no randomised trial data in this population. Case reports describe successful use of TNF inhibitors and IL-17 inhibitors in transplant recipients with severe psoriasis, but each case requires careful risk-benefit discussion between dermatology and the transplant team [(Papadimitriou et al., 2023)](https://pubmed.ncbi.nlm.nih.gov/36960543/).
+
+**Cancer chemotherapy and immune reconstitution.** Patients on cancer chemotherapy may experience psoriasis flares during immune reconstitution after treatment cycles. Immune checkpoint inhibitor therapy for cancer can trigger or worsen psoriasis (Section 9.4). In all cases, close collaboration between dermatology and the relevant specialist team is essential.
