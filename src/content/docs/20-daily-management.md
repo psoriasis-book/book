@@ -65,3 +65,25 @@ Genital psoriasis affects up to 63% of patients at some point and is frequently 
 - **Newer non-steroidal topicals** (roflumilast cream, tapinarof) may have a role in genital psoriasis given their lack of atrophy risk, though specific genital data are limited.
 
 **Communication and referral.** Patients rarely volunteer information about genital involvement; clinicians should routinely ask about it. Partners may benefit from reassurance that psoriasis is not contagious and not a sexually transmitted infection. Where sexual dysfunction is persistent, referral to psychosexual services may be appropriate.
+
+## 20.8 Treatment Adherence
+
+Here's an uncomfortable truth: the most effective treatment in the world doesn't work if you don't use it. And most people don't use their topical treatments as prescribed. Studies consistently find that 40–70% of patients with psoriasis are non-adherent to topical therapy [(Thorneloe et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23521149/). That makes non-adherence the single biggest real-world barrier to good outcomes, bigger than drug efficacy or disease severity.
+
+Why does this happen? The reasons are practical, not mysterious:
+
+- **Treatment burden.** Applying greasy ointments to large areas of the body twice a day is time-consuming, messy, and socially inconvenient. Many patients simplify their regimen on their own, applying less often or skipping sites they can't easily reach.
+- **Slow results.** Topical treatments take weeks to show improvement. If nothing visible has changed after a few days, it's tempting to stop.
+- **Steroid phobia.** Fear of topical corticosteroid side effects (thinning skin, stretch marks) leads many patients to under-apply or stop prematurely (Section 23). This fear is often disproportionate to the actual risk when used as directed.
+- **Complex regimens.** Different products for different body sites, different frequencies, different durations. The more complicated the regimen, the lower the adherence [(Ahn et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/27742171/).
+- **Feeling better.** When plaques improve, many patients stop treatment, assuming they're "cured." The inflammation is still there, just suppressed. Stopping too early invites a flare.
+
+What actually helps? A few evidence-based strategies:
+
+- **Simplify.** Fewer products, fewer application times. Once-daily regimens have better adherence than twice-daily. Fixed combination products (e.g. calcipotriol/betamethasone) reduce the number of tubes you're juggling.
+- **Choose the right vehicle.** If you hate ointments, say so. Foams, gels, sprays, and creams are all available and may work nearly as well with much better adherence. A treatment you actually use beats a theoretically superior one that stays in the drawer.
+- **Set a routine.** Tying application to an existing habit (after brushing teeth, before bed) helps make it automatic.
+- **Understand the plan.** Know why you're using each product, how long to use it, and what to expect. If your prescriber hasn't explained the timeline, ask.
+- **Don't stop silently.** If a treatment isn't working or you've stopped using it, tell your doctor. They can't adjust what they don't know about. Many treatment "failures" that lead to escalation to systemic therapy are actually adherence failures that could be solved with a simpler regimen.
+
+Adherence to systemic therapies (biologics, methotrexate) tends to be better than for topicals, partly because the regimens are simpler (a single injection every few weeks) and partly because patients on systemics generally have more severe disease and stronger motivation. But even biologic adherence isn't perfect: missed doses and delayed refills are common and can lead to loss of efficacy and anti-drug antibody formation [(Bewley & Page, 2011)](https://pubmed.ncbi.nlm.nih.gov/21951065/).
