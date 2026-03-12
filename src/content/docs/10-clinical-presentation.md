@@ -54,3 +54,29 @@ PASI remains the gold standard in clinical trials, but it has well-recognised li
 - **DLQI as a treatment target** -- although a quality-of-life instrument rather than a severity score, DLQI is increasingly used as a co-primary treatment target in clinical guidelines. A DLQI of 0 or 1 (no impact on quality of life) is now considered the aspirational treatment goal alongside PASI 90/100 in many guideline frameworks.
 
 **Research stage: Established.** **Evidence strength: High.** These instruments are widely used in clinical trials and endorsed by international consensus guidelines.
+
+## 10.4 When to Seek Emergency Care
+
+Most psoriasis is managed as an outpatient condition. Two forms, however, are genuine medical emergencies that can be life-threatening if not treated promptly.
+
+### Erythrodermic Psoriasis
+
+Erythrodermic psoriasis involves generalised inflammation covering more than 90% of the body surface. The skin becomes intensely red, hot, and painful, often with fine peeling rather than the thick scale of plaque psoriasis. It can develop gradually from poorly controlled plaque disease or be triggered suddenly by abrupt withdrawal of systemic corticosteroids, severe sunburn, infection, or medication changes.
+
+The danger is systemic. The skin's barrier function collapses, leading to massive fluid and protein loss through the damaged surface. The consequences can include [(Griffiths et al., 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32549-6/abstract):
+
+- **Hypothermia**: Loss of thermoregulation as the skin can no longer retain heat.
+- **Dehydration and electrolyte imbalance**: Fluid loss through damaged skin can cause hypovolaemia and renal impairment.
+- **High-output cardiac failure**: The heart works harder to perfuse the massively vasodilated skin, which can overwhelm a compromised cardiovascular system, particularly in elderly patients.
+- **Sepsis**: The broken skin barrier allows bacterial entry. Secondary infection is a leading cause of mortality.
+- **Venous thromboembolism**: Immobility and systemic inflammation increase clotting risk.
+
+If your psoriasis is spreading rapidly across your body, your skin feels hot and painful rather than just itchy, you're shivering or feeling unwell, or your skin looks like a generalised sunburn, go to A&E. This isn't a flare you can manage at home with emollients. Hospital management typically involves IV fluids, temperature regulation, wound care principles, infection monitoring, and initiation or adjustment of systemic therapy under specialist supervision [(Lebwohl et al., 2022)](https://pubmed.ncbi.nlm.nih.gov/35872406/).
+
+### Generalised Pustular Psoriasis (GPP)
+
+GPP presents as sudden widespread eruption of sterile pustules on a background of fiery red skin, accompanied by fever, malaise, and often leucocytosis (elevated white blood cell count). Unlike plaque psoriasis, GPP is driven primarily by the IL-36 pathway rather than IL-23/IL-17 (Section 7.3). It can be triggered by infection, pregnancy, or rapid corticosteroid withdrawal.
+
+GPP is a medical emergency requiring inpatient management. Spesolimab, an IL-36 receptor antagonist, was approved specifically for GPP flares and demonstrated pustule clearance in 54% of patients within one week in the Effisayil 1 trial (Section 27.12). Before spesolimab became available, GPP carried significant mortality, particularly in elderly patients and those with comorbidities.
+
+**The key message**: if your psoriasis suddenly changes character, spreading rapidly with pustules, fever, or systemic unwellness, seek urgent medical attention. Don't wait for your next dermatology appointment.
