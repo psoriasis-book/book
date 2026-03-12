@@ -77,9 +77,10 @@ export default defineConfig({
             { slug: '28-emerging-research' },
             { slug: '29-digital-health' },
             { slug: '30-vaccination-and-covid19' },
+            { slug: '31-business-case' },
           ],
         },
-        { slug: '31-conclusion' },
+        { slug: '32-conclusion' },
         {
           label: 'Appendices',
           items: [
