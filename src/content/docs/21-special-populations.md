@@ -68,6 +68,14 @@ Psoriatic arthritis isn't just an adult disease. Juvenile psoriatic arthritis (J
 
 JPsA differs from adult PsA in several ways. Dactylitis is more common in children, small joint involvement of the hands is typical, and the pattern is more often oligoarticular (fewer than 5 joints) at onset. Enthesitis, particularly at the Achilles insertion and patellar tendon, is a prominent feature in older children and adolescents. Children with JPsA should be managed jointly by paediatric rheumatology and dermatology. Screening for joint symptoms should be part of every paediatric psoriasis assessment, and conversely, children presenting with unexplained arthritis should be examined for subtle nail pitting or scalp psoriasis that might provide the diagnostic clue.
 
+### Transition from Paediatric to Adult Services
+
+The handover from paediatric to adult dermatology, typically between ages 16 and 18 in the UK, is a high-risk period. Adolescents lose the care team they've known since childhood, face clinicians unfamiliar with their history, and are expected to self-manage a condition their parents previously handled. The timing couldn't be worse: it coincides with exam stress, social upheaval, and the developmental stage where appearance matters most.
+
+Evidence from other chronic diseases (type 1 diabetes, IBD, cystic fibrosis) consistently shows that unstructured transitions lead to treatment dropout, missed appointments, and disease flare. Psoriasis-specific transition data are limited, but the principles are the same. Young adults with psoriasis are at particular risk of stopping biologic therapy, missing monitoring bloods, and losing contact with specialist services altogether.
+
+What does good transition look like? Ideally, a structured programme starting 1–2 years before the move: joint clinics where paediatric and adult teams overlap, a named key worker or nurse specialist who bridges the gap, a written transition plan covering medications, monitoring, and who to contact in a flare, and gradual transfer of responsibility from parent to patient. In practice, few NHS trusts have psoriasis-specific transition pathways, though the situation is improving. If you're a parent of a teenager with psoriasis approaching transition, ask your dermatology team what the plan is. If there isn't one, push for a structured handover rather than an abrupt switch.
+
 ## 21.3 Psoriasis in Skin of Colour
 
 Psoriasis affects all racial and ethnic groups, but there are significant differences in prevalence, clinical presentation, diagnostic accuracy, treatment access, and outcomes. These disparities represent one of the most important equity issues in dermatology today.
