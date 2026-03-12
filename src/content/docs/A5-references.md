@@ -526,3 +526,15 @@ sidebar:
 260. Biosimilars Review & Report. 18 months of US adalimumab biosimilar competition yields $11 billion in savings. August 2024. [Biosimilars R&R](https://biosimilarsrr.com/2024/08/12/18-months-of-us-adalimumab-biosimilar-competition-yields-11-billion-in-savings/)
 
 261. JMIR Dermatology. Cross-sectional analysis of psoriasis funding relative to disease burden. *JMIR Dermatol*. 2026;9(1):e71468. [JMIR](https://derma.jmir.org/2026/1/e71468)
+
+262. Xu H, Yin N. The effect of metformin on psoriasis: a meta-analysis of randomized controlled trials. *Front Med (Lausanne)*. 2023;10:1276490. doi:10.3389/fmed.2023.1276490. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10646712/)
+
+263. Hafez VG, Bosseila M, Halim MA, et al. Clinical effects of pioglitazone, an insulin-sensitizing drug, on psoriasis vulgaris and its comorbidities: a double-blinded randomized controlled trial. *J Dermatolog Treat*. 2019;30(7):681-686. doi:10.1080/09546634.2019.1573308. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31116619/)
+
+264. Medic G, Skundric K, Grbovic V, et al. Effect of semaglutide on psoriasis severity and metabolic parameters in obese patients with type 2 diabetes: an open-label randomized controlled trial. *Eur Rev Med Pharmacol Sci*. 2025;29(3):e39858442. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39858442/)
+
+265. Faurschou A, Knop FK, Thyssen JP, et al. Improvement in psoriasis after treatment with the glucagon-like peptide-1 receptor agonist liraglutide. *Acta Diabetol*. 2014;51(1):147-150. doi:10.1007/s00592-013-0504-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25139195/)
+
+266. Chua SHH, Tey HL, Lim DTH. Statin use is associated with improvement in psoriasis severity: a meta-analysis of randomized controlled trials. *Dermatol Ther*. 2020;33(2):e13224. doi:10.1111/dth.13224. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32051699/)
+
+267. Thorslund K, Svensson T, Nordlind K, et al. Use of serotonin reuptake inhibitors in patients with psoriasis is associated with a decreased need for systemic psoriasis treatment: a population-based cohort study. *J Intern Med*. 2013;274(3):281-287. doi:10.1111/joim.12093. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23711088/)
