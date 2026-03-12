@@ -148,6 +148,30 @@ Biologic therapies generally have fewer drug-drug interactions than conventional
 
 **Narrowband UV-B (NB-UVB)** phototherapy is the most commonly prescribed light therapy for psoriasis. UV-B radiation induces apoptosis (programmed cell death, a controlled self-destruct mechanism that cells use to die without causing inflammation) in activated T cells in the skin and suppresses local immune responses. **PUVA** (psoralen + UV-A) is also used but carries a higher long-term risk of skin cancer.
 
+### What to Expect from Phototherapy
+
+If you're referred for NB-UVB phototherapy, here's what the process typically looks like:
+
+- **Setting**: Hospital outpatient phototherapy units, typically 3 times per week. Each session takes only a few minutes of actual UV exposure, but you'll need to account for travel and waiting time.
+- **Starting dose**: Determined by your skin type (Fitzpatrick classification) or by a minimal erythema dose (MED) test, where small patches of skin are exposed to increasing UV doses to find your threshold. Treatment starts below your MED and increases incrementally.
+- **Course duration**: A typical course runs 20–30 sessions over 6–10 weeks. Most patients begin to see improvement after 10–15 sessions. Clearance rates are good: approximately 60–75% of patients achieve PASI 75 with a full NB-UVB course [(Almutawa et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/23407340/).
+- **Maintenance**: Phototherapy doesn't produce lasting remission on its own. After clearance, relapse is typical within a few months. Some centres offer maintenance schedules (once or twice weekly), though evidence for long-term maintenance is limited.
+- **Side effects**: Short-term erythema (sunburn) is the main risk and is managed by dose adjustment. Long-term cumulative UV exposure increases skin cancer risk, particularly with PUVA. Most guidelines limit lifetime NB-UVB exposure, though the cancer risk with NB-UVB is substantially lower than with PUVA.
+
+### PUVA
+
+Psoralen + UV-A (PUVA) combines an oral or topical photosensitising drug (psoralen) with longer-wavelength UV-A radiation. PUVA is more effective than NB-UVB for thick plaques and palmoplantar disease, but the long-term skin cancer risk is higher. The landmark Stern & Laird study found that patients receiving more than 200 PUVA treatments had a significantly elevated risk of squamous cell carcinoma [(Stern & Laird, 1994)](https://pubmed.ncbi.nlm.nih.gov/8230017/). PUVA is now used less frequently than NB-UVB and is generally reserved for patients who fail NB-UVB or have thick palmoplantar disease.
+
+### Targeted Phototherapy
+
+**Excimer laser** (308 nm) delivers focused NB-UVB to individual plaques without exposing surrounding healthy skin. It's particularly useful for localised, stubborn plaques (elbows, knees, scalp margins) and achieves faster clearance than whole-body phototherapy because higher doses can be used on a small area. Typical treatment: twice weekly, 10–15 sessions. The main limitation is availability and cost.
+
+### Home Phototherapy
+
+The COVID-19 pandemic accelerated interest in home NB-UVB units, and several guidelines now support home phototherapy for selected patients [(Bhutani et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32446985/). Home units range from handheld devices for localised treatment to full-body panels. The advantages are obvious: no hospital travel, flexibility, and better adherence. The risks are unsupervised dose escalation and burns. Most programmes require initial hospital-based dose calibration and provide a written protocol with specific exposure times that the patient follows at home, with periodic review. In the UK, some NHS trusts now loan home phototherapy units, though availability varies by region.
+
+**Research stage: Established.** **Evidence strength: High.** Decades of clinical use; RCTs comparing modalities; Cochrane reviews available.
+
 ## 24.8 Combination and Adjunctive Therapy
 
 Biologic monotherapy achieves excellent results for many patients, but combination strategies play an important practical role in real-world psoriasis management.
