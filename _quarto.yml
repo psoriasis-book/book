@@ -58,7 +58,8 @@ book:
         - src/content/docs/28-emerging-research.md
         - src/content/docs/29-digital-health.md
         - src/content/docs/30-vaccination-and-covid19.md
-    - src/content/docs/31-conclusion.md
+        - src/content/docs/31-business-case.md
+    - src/content/docs/32-conclusion.md
   appendices:
     - src/content/docs/A1-registries.md
     - src/content/docs/A2-patient-resources.md
