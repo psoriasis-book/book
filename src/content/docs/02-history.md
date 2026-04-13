@@ -7,7 +7,7 @@ sidebar:
 
 ![Key milestones in psoriasis history](./images/history-timeline.svg)
 
-## 2.1 Ancient and Biblical Origins
+## 2.1 Ancient and Biblical Origins 
 
 Psoriasis is one of the oldest recognised skin diseases, but for most of recorded history nobody distinguished it from other scaly or disfiguring conditions, most notably leprosy (Hansen's disease). The Hebrew Bible describes a condition called *tzaraat* (צָרַעַת), which caused people to be declared ritually unclean and banished from their communities (Leviticus 13–14). Scholars now believe that many cases of *tzaraat* were likely psoriasis rather than true leprosy, meaning people with psoriasis may have been among the first patients subjected to medical exile. The stigma was profound: affected individuals were forced to live outside the camp, wear torn clothes, and cry "unclean, unclean" to warn others.
 
